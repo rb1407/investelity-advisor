@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/app.db
+data/cache/prices.csv
+data/cache/meta.txt
+.streamlit/secrets.toml

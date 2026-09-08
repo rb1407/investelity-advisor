@@ -1,0 +1,9 @@
+streamlit>=1.60
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+PyPortfolioOpt>=1.5
+SQLAlchemy>=2.0
+plotly>=5.20
+yfinance>=0.2.40
+bcrypt>=4.1
