@@ -1,6 +1,6 @@
 import streamlit as st
 
-from core.app_common import disclaimer, page_setup, sample_data_banner
+from core.app_common import page_setup
 from core.db import crud
 from core.db.session import get_session
 from core.market_data import load_prices
@@ -10,7 +10,6 @@ consultant = page_setup("Home")
 
 st.title("Investelity Organizer")
 st.caption("Portfolio recommendations, holdings tracking, and rebalancing for investment consultants")
-sample_data_banner()
 
 db = get_session()
 try:
@@ -74,6 +73,3 @@ with right:
     )
     prices, as_of = load_prices()
     st.caption(f"Model universe: {prices.shape[1]} assets · {as_of}")
-
-st.divider()
-disclaimer()
