@@ -1,71 +1,11 @@
-Adjust Portfolio Builder + Rebalancing to run on investelity data
-====================================================================
+Remove the synthetic-data banner from Portfolio Builder
+===========================================================
 
-What's in this zip (all paths relative to your rb1407/investelity-advisor repo root):
-
-  pages/2_Portfolio_Builder.py          - UPDATED (new "Investelity Top Picks" universe option)
-  pages/3_Holdings.py                   - UPDATED (adds "Individual Equity" asset class)
-  core/optimization/engine.py           - UPDATED (real bug fix, see below)
-  core/data_providers/investelity_universe.py   - NEW FILE
-  data/investelity/top_prices/          - NEW DATA (1y/ and 3y/ subfolders, ~1.1MB, 100 CSVs)
-
-pages/4_Rebalancing.py needs NO changes -- it already compares by asset-class
-string, so it works with the new "Individual Equity" positions automatically.
+pages/2_Portfolio_Builder.py -- UPDATED. Removes the "This workspace is
+running on sample/synthetic market data..." banner that showed on the
+Model ETFs view (same banner already removed from Home.py earlier). The
+standard compliance disclaimer at the bottom of the page is unchanged.
 
 How to apply:
-  1. Copy all the files/folders above into your local clone of
-     rb1407/investelity-advisor, overwriting the two UPDATED files and
-     adding the NEW ones (don't delete anything else already there).
-  2. git add -A && git commit -m "Run Portfolio Builder/Rebalancing on investelity data" && git push
-
-What this adds
----------------
-Portfolio Builder now has a "Universe" choice at the top: "Model ETFs" (the
-existing 17-fund universe, unchanged) or "Investelity Top Picks" (build a
-portfolio from investelity's own top-ranked individual stocks/funds, per
-country and trailing period). Rebalancing then compares against whichever
-universe a client's saved target used, same as always.
-
-Important bug fix in core/optimization/engine.py
---------------------------------------------------
-While wiring this up, portfolios built from investelity data were coming out
-with nonsense numbers -- Sharpe ratios in the thousands to quadrillions, and
-an empty efficient-frontier chart for small countries. The cause: the
-optimizer (PyPortfolioOpt) annualizes returns/risk assuming DAILY prices by
-default (252 trading days/year), which is correct for the existing ETF
-universe (daily yfinance data) but was silently wrong for investelity's
-data, which is priced MONTHLY. A real 5% monthly return was getting
-compounded as if it were a 5% *daily* return happening 252 times a year.
-
-The fix makes the optimizer infer the correct annualization frequency from
-the actual spacing between price dates, so it's automatically right for
-daily data (252), monthly data (12), or anything else -- no per-caller
-guesswork. Verified this doesn't change any ETF-universe numbers at all
-(confirmed frequency still infers to 252 there) and fixes every previously-
-broken investelity case tested (US, Venezuela, a US-funds bucket, Germany).
-
-Even after that fix, Sharpe ratios for the Investelity Top Picks universe
-still run unusually high (think ~5-30, not the old quadrillions) -- that's
-a real, expected side effect of building a portfolio out of tickers that
-were *already* selected by investelity's own trailing-Sharpe ranking
-(selection bias), not a bug. The page now shows a prominent warning banner
-explaining this whenever that universe is selected, plus an inline
-"unusually high -- treat as an unstable estimate" flag on any individual
-metric above 5.0, so a consultant looking at these numbers isn't misled
-into treating them as normal, trustworthy forecasts.
-
-Testing done
-------------
-- python3 -m py_compile on all changed/new files.
-- Direct PortfolioOptimizer runs against the previously-broken cases
-  (3y/us, 3y/ve, 1y/usf, 3y/de) -- all now return sane, finite numbers and
-  non-empty efficient-frontier curves.
-- Confirmed the ETF-universe path is unaffected (same frequency, same
-  numbers as before this change).
-- Full Streamlit AppTest run of Portfolio Builder across 3 country/period
-  combinations with "Investelity Top Picks" selected: no exceptions,
-  warning banner renders, inline unstable-estimate flag renders correctly.
-- Saved an Investelity-sourced target end-to-end (crud.save_portfolio) and
-  confirmed the stored holdings carry the "Individual Equity" asset class.
-- Recorded a matching Holdings snapshot and ran Rebalancing against it:
-  no exceptions, correct asset-class-level drift comparison.
+  1. Replace pages/2_Portfolio_Builder.py in your repo with this one.
+  2. git add pages/2_Portfolio_Builder.py && git commit -m "Remove synthetic-data banner from Portfolio Builder" && git push

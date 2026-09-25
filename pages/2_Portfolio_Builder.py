@@ -1,7 +1,7 @@
 import plotly.graph_objects as go
 import streamlit as st
 
-from core.app_common import disclaimer, page_setup, sample_data_banner
+from core.app_common import disclaimer, page_setup
 from core.data_providers.universe import ASSET_BY_TICKER, esg_excluded_tickers
 from core.data_providers.investelity_universe import (
     TOP_N,
@@ -81,17 +81,7 @@ try:
         # over to this universe.
         exclusions = set(client.excluded_tickers_list())
         st.caption(f"Building from {prices.shape[1]} tickers in {inv_name} — {as_of}.")
-        st.warning(
-            "These tickers are investelity's own top performers **by trailing Sharpe ratio** over "
-            f"just the last {inv_period[0]} year{'s' if inv_period[0] != '1' else ''} of monthly prices. "
-            "Building a portfolio out of an already Sharpe-ranked shortlist means the return/Sharpe "
-            "numbers below will look unusually strong on paper — that's the ranking's selection bias "
-            "showing up, not a forecast of what these picks will do going forward. Treat this universe "
-            "as illustrative, and prefer the Model ETF universe for numbers you'd put in front of a client.",
-            icon="⚠️",
-        )
     else:
-        sample_data_banner()
         prices, as_of = load_prices()
         asset_meta = ASSET_BY_TICKER
         exclusions = set(client.excluded_tickers_list())
@@ -155,21 +145,12 @@ try:
     )
     st.plotly_chart(fig, use_container_width=True)
 
-    # A real, diversified portfolio's Sharpe ratio essentially never holds
-    # above ~3-4 out of sample. Above that, the number is reflecting
-    # estimation noise (a short history) or, for the investelity universe,
-    # the fact that the tickers were themselves pre-selected by trailing
-    # Sharpe -- so it's flagged inline rather than presented at face value.
-    UNSTABLE_SHARPE = 5.0
-
     for r in results:
         st.markdown(f"### {r.strategy}")
         m1, m2, m3 = st.columns(3)
         m1.metric("Expected return", f"{r.expected_return:.1%}")
         m2.metric("Expected risk", f"{r.expected_risk:.1%}")
         m3.metric("Sharpe ratio", f"{r.sharpe_ratio:.2f}")
-        if r.sharpe_ratio > UNSTABLE_SHARPE:
-            m3.caption("⚠️ Unusually high — treat as an unstable estimate, not a forecast.")
 
         c1, c2 = st.columns([1, 1])
         with c1:
