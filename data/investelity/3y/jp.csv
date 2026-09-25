@@ -1,0 +1,2180 @@
+Rank,Name,Ticker,Return (%),Risk
+1,"The 77 Bank, Ltd.",8341.T,66.32,0.218
+2,"The Kiyo Bank, Ltd.",8370.T,61.02,0.213
+3,Okinawa Cellular Telephone Company,9436.T,43.44,0.162
+4,"Sompo Holdings, Inc.",8630.T,55.91,0.21
+5,Yasuda Logistics Corporation,9324.T,39.04,0.168
+6,"Senshu Ikeda Holdings, Inc.",8714.T,61.46,0.25
+7,Pro-Ship Incorporated,3763.T,65.31,0.272
+8,"Mizuho Financial Group, Inc.",8411.T,61.43,0.26
+9,Hochiki Corporation,6745.T,64.09,0.269
+10,"Taiyo Holdings Co., Ltd.",4626.T,66.06,0.281
+11,"NIKKON Holdings Co.,Ltd.",9072.T,61.81,0.267
+12,"Inaba Denki Sangyo Co.,Ltd.",9934.T,29.96,0.145
+13,"Hachijuni Nagano Bank, Ltd.",8359.T,60.02,0.263
+14,"Mitsubishi UFJ Financial Group, Inc.",8306.T,52.04,0.235
+15,Canon Marketing Japan Inc.,8060.T,30.25,0.147
+16,"Sumitomo Mitsui Financial Group, Inc.",8316.T,51.54,0.243
+17,"Japan Process Development Co., Ltd.",9651.T,35.49,0.177
+18,"Okinawa Financial Group, Inc.",7350.T,56.95,0.267
+19,Japan Tobacco Inc.,2914.T,35.51,0.179
+20,"HORAI Co., Ltd.",9679.T,32.91,0.168
+21,"Kyoto Financial Group,Inc.",5844.T,40.59,0.202
+22,"Nippon Beet Sugar Manufacturing Co.,Ltd.",2108.T,51.88,0.249
+23,Aucnet Inc.,3964.T,59.63,0.283
+24,"Max Co., Ltd.",6454.T,48.29,0.24
+25,"Chugin Financial Group,Inc.",5832.T,59.93,0.288
+26,"Tokyo Kiraboshi Financial Group, Inc.",7173.T,55.74,0.271
+27,"Nasu Denki-Tekko Co., Ltd.",5922.T,40.25,0.208
+28,"The Sumitomo Warehouse Co., Ltd.",9303.T,26.47,0.144
+29,"Shizuoka Financial Group,Inc.",5831.T,56.15,0.276
+30,"SENKO Group Holdings Co., Ltd.",9069.T,35.32,0.187
+31,"Akatsuki Eazima Co., Ltd.",1997.T,52.46,0.263
+32,Happinet Corporation,7552.T,56.86,0.283
+33,"Chuokeizai-Sha Holdings, Inc.",9476.T,34.44,0.185
+34,Tomoe Corporation,1921.T,63.14,0.31
+35,"Yodoko, Ltd.",5451.T,36.37,0.196
+36,"Systems Design Co., Ltd.",3766.T,30.12,0.168
+37,"Nomura Holdings, Inc.",8604.T,52.7,0.281
+38,Otec Corporation,1736.T,43.41,0.239
+39,Kinden Corporation,1944.T,59.55,0.311
+40,"Dainichiseika Color & Chemicals Mfg. Co., Ltd.",4116.T,46.38,0.254
+41,"Ichiken Co., Ltd.",1847.T,65.81,0.339
+42,"Daido Signal Co., Ltd.",6743.T,46.42,0.254
+43,Masaru Corporation,1795.T,20.99,0.126
+44,"The Tochigi Bank, Ltd.",8550.T,64.17,0.335
+45,"Ichinen Holdings Co., Ltd.",9619.T,30.74,0.18
+46,"Maruzen Co., Ltd.",5982.T,33.42,0.194
+47,Kanematsu Corporation,8020.T,37.73,0.216
+48,"F.C.C. Co., Ltd.",7296.T,42.06,0.238
+49,"Marufuji Sheet Piling Co.,Ltd.",8046.T,37.86,0.217
+50,Chudenko Corporation,1941.T,35.26,0.205
+51,Kuriyama Holdings Corporation,3355.T,37.5,0.217
+52,"FALCO HOLDINGS Co., Ltd.",4671.T,21.27,0.131
+53,"Forval Telecom,Inc.",9445.T,18.88,0.117
+54,Yellow Hat Ltd.,9882.T,29.8,0.178
+55,Tekken Corporation,1815.T,38.33,0.223
+56,"Nippon Air conditioning Services Co., Ltd.",4658.T,34.37,0.203
+57,"Mitani Sangyo Co., Ltd.",8285.T,43.81,0.251
+58,"Star Mica Holdings Co., Ltd.",2975.T,46.07,0.262
+59,"TBS Holdings,Inc.",9401.T,40.03,0.232
+60,"Fuji Media Holdings, Inc.",4676.T,47.02,0.267
+61,"Fuso Dentsu Co., Ltd.",7505.T,53.73,0.3
+62,"Suzuki Co.,Ltd.",6785.T,50.52,0.286
+63,Agratio urban design Inc.,3467.T,33.41,0.201
+64,"Osaka Gas Co., Ltd.",9532.T,40.5,0.238
+65,Hokkan Holdings Limited,5902.T,30.41,0.186
+66,Sumitomo Corporation,8053.T,43.1,0.252
+67,"Okura Industrial Co., Ltd.",4221.T,42.59,0.25
+68,"Sata Construction Co., Ltd.",1826.T,37.59,0.226
+69,Tokyo Century Corporation,8439.T,28.52,0.177
+70,Fujii Sangyo Corporation,9906.T,34.95,0.214
+71,"Kyodo Printing Co., Ltd.",7914.T,40.53,0.244
+72,Vitabrid Japan Inc.,542A.T,34.84,0.214
+73,Sakata INX Corporation,4633.T,37.35,0.228
+74,OUG Holdings Inc.,8041.T,32.35,0.202
+75,NEC Corporation,6701.T,53.04,0.308
+76,Mansei Corporation,7565.T,47.13,0.279
+77,"ENEOS Holdings, Inc.",5020.T,39.68,0.242
+78,"Maruzen Showa Unyu Co., Ltd.",9068.T,31.05,0.196
+79,Yurtec Corporation,1934.T,50.27,0.296
+80,"Daiei Kankyo Co., Ltd.",9336.T,27.01,0.173
+81,Tsubakimoto Chain Co.,6371.T,36.52,0.226
+82,"Hamakyorex Co., Ltd.",9037.T,27.89,0.179
+83,"ZERO Co., Ltd.",9028.T,42.95,0.261
+84,"TOMONY Holdings, Inc.",8600.T,44.62,0.27
+85,"Otsuka Holdings Co., Ltd.",4578.T,39.4,0.243
+86,"Togami Electric Mfg. Co., Ltd.",6643.T,50.72,0.301
+87,"The Torigoe Co., Ltd.",2009.T,24.83,0.162
+88,TV Asahi Holdings Corporation,9409.T,28.39,0.183
+89,EDION Corporation,2730.T,24.68,0.162
+90,ALCONIX Corporation,3036.T,47.24,0.288
+91,EXEDY Corporation,7278.T,45.96,0.281
+92,"Kanda Tsushinki Co., Ltd.",1992.T,24.77,0.164
+93,Hazama Ando Corporation,1719.T,25.44,0.168
+94,"Space Co.,Ltd.",9622.T,24.8,0.164
+95,Aichi Steel Corporation,5482.T,66.88,0.385
+96,"IDEA Consultants,Inc.",9768.T,41.36,0.259
+97,Mitsubishi Electric Corporation,6503.T,55.81,0.333
+98,"Seibu Electric & Machinery Co., Ltd.",6144.T,36.79,0.234
+99,"Ricoh Leasing Company, Ltd.",8566.T,20.91,0.142
+100,"Kato Sangyo Co., Ltd.",9869.T,23.62,0.159
+101,"Fujita Engineering Co., Ltd.",1770.T,31.88,0.208
+102,"Daisue Construction Co., Ltd.",1814.T,50.21,0.308
+103,Iceco Inc.,7698.T,52.99,0.322
+104,"FORLIFE Co., Ltd.",3477.T,19.07,0.131
+105,"Noritake Co., Limited",5331.T,43.27,0.273
+106,Nojima Corporation,7419.T,54.19,0.33
+107,"Nicca Chemical Co.,Ltd.",4463.T,42.96,0.272
+108,"Nippon Felt Co., Ltd.",3512.T,44.48,0.28
+109,TOLI Corporation,7971.T,35.25,0.231
+110,Toenec Corporation,1946.T,50.98,0.317
+111,"Riken Vitamin Co., Ltd.",4526.T,20.97,0.145
+112,"Kojima Co.,Ltd.",7513.T,36.31,0.237
+113,MIRAIT ONE Corporation,1417.T,28.97,0.195
+114,NPR-Riken Corporation,6209.T,46.6,0.294
+115,"Nagase & Co., Ltd.",8012.T,32.71,0.218
+116,"PS Construction Co., Ltd.",1871.T,56.03,0.345
+117,"Nihon Parkerizing Co., Ltd.",4095.T,22.24,0.154
+118,ITOCHU Corporation,8001.T,31.03,0.209
+119,"Applied Co.,Ltd.",3020.T,29.91,0.203
+120,"Chugoku Marine Paints, Ltd.",4617.T,52.39,0.329
+121,"World Co., Ltd.",3612.T,34.37,0.23
+122,"Nihon Tokushu Toryo Co., Ltd.",4619.T,38.16,0.252
+123,Token Corporation,1766.T,25.65,0.178
+124,"Japan Securities Finance Co., Ltd.",8511.T,27.6,0.19
+125,FUJIKURA COMPOSITES Inc.,5121.T,43.51,0.283
+126,UACJ Corporation,5741.T,58.3,0.362
+127,UEKI Corporation,1867.T,31.3,0.214
+128,"Nakanishi Mfg. Co., Ltd.",5941.T,26.53,0.187
+129,"Toyo Securities Co., Ltd.",8614.T,48.99,0.319
+130,"Hitachi, Ltd.",6501.T,54.09,0.346
+131,Fujitsu Limited,6702.T,36.2,0.247
+132,"Yamato Kogyo Co., Ltd.",5444.T,28.44,0.199
+133,"Hayashikane Sangyo Co.,Ltd.",2286.T,26.89,0.19
+134,"The Towa Bank, Ltd.",8558.T,45.85,0.303
+135,Toyota Tsusho Corporation,8015.T,48.21,0.316
+136,"NHK Spring Co., Ltd.",5991.T,60.25,0.382
+137,"Takasago Thermal Engineering Co., Ltd.",1969.T,59.01,0.376
+138,"CELSYS, Inc.",3663.T,49.71,0.327
+139,"Tokai Soft Co., Ltd.",4430.T,23.82,0.172
+140,"Tokyo Radiator Mfg.Co.,Ltd.",7235.T,49.57,0.328
+141,SoftBank Corp.,9434.T,17.21,0.128
+142,"SK Japan Co.,Ltd.",7608.T,45.64,0.307
+143,"Foster Electric Company, Limited",6794.T,61.76,0.395
+144,"Tokyo Theatres Company, Incorporated",9633.T,24.0,0.176
+145,"Kamigumi Co., Ltd.",9364.T,22.59,0.166
+146,"MITSUI-SOKO HOLDINGS Co., Ltd.",9302.T,40.85,0.282
+147,Toda Corporation,1860.T,31.36,0.224
+148,"SAXA, Inc.",6675.T,57.83,0.379
+149,Harima B.Stem Corporation,9780.T,35.6,0.251
+150,Nohmi Bosai Ltd.,6744.T,44.32,0.304
+151,Noritz Corporation,5943.T,21.48,0.16
+152,"Sato Foods Industries Co., Ltd.",2814.T,36.34,0.256
+153,"Computer Management Co., Ltd.",4491.T,37.87,0.266
+154,"Yuasa Funashoku Co., Ltd.",8006.T,34.3,0.244
+155,ASICS Corporation,7936.T,66.83,0.428
+156,"Raito Kogyo Co., Ltd.",1926.T,31.77,0.228
+157,"Koryojyuhan Co., Ltd.",3495.T,20.9,0.157
+158,Tosei Corporation,8923.T,32.06,0.231
+159,"Denyo Co., Ltd.",6517.T,32.5,0.234
+160,Toyo Denki Seizo K.K.,6505.T,49.94,0.338
+161,Nakano Corporation,1827.T,65.94,0.424
+162,"Nihon Kagaku Sangyo Co., Ltd.",4094.T,38.35,0.27
+163,Meiwa Corporation,8103.T,23.14,0.173
+164,Asia Pile Holdings Corporation,5288.T,42.86,0.298
+165,"NANSO Transport Co.,Ltd.",9034.T,34.0,0.244
+166,Ocean System Corporation,3096.T,19.87,0.151
+167,Sanyo Shokai Ltd.,8011.T,51.25,0.348
+168,JBCC Holdings Inc.,9889.T,47.74,0.328
+169,"Interlife Holdings Co., Ltd.",1418.T,64.87,0.423
+170,"Daiichi Jitsugyo Co., Ltd.",8059.T,36.51,0.261
+171,"Yashima Denki Co., Ltd.",3153.T,41.87,0.294
+172,"Hanwa Co., Ltd.",8078.T,34.67,0.25
+173,Komori Corporation,6349.T,34.9,0.251
+174,"EXEO Group, Inc.",1951.T,26.29,0.196
+175,"Hibiya Engineering, Ltd.",1982.T,47.65,0.329
+176,Konami Group Corporation,9766.T,51.89,0.355
+177,"Toyo Logistics Co., Ltd.",9306.T,16.06,0.125
+178,"Komatsu Wall Industry Co., Ltd.",7949.T,34.15,0.249
+179,"Shobunsha Holdings, Inc.",9475.T,19.81,0.153
+180,Wesco Holdings Inc.,6091.T,26.78,0.201
+181,Seiko Corporation,6286.T,38.79,0.279
+182,Yamatane Corporation,9305.T,33.59,0.246
+183,Kanaden Corporation,8081.T,34.33,0.252
+184,Takasago International Corporation,4914.T,41.33,0.296
+185,"Eagle Industry Co.,Ltd.",6486.T,30.6,0.228
+186,"Human Holdings Co., Ltd.",2415.T,25.16,0.192
+187,"SBI Leasing Services Co., Ltd.",5834.T,47.23,0.333
+188,"Toho Chemical Industry Company, Limited",4409.T,21.76,0.168
+189,Nitcho Corporation,2961.T,39.1,0.284
+190,Starts Corporation Inc.,8850.T,22.93,0.177
+191,Organo Corporation,6368.T,62.08,0.42
+192,Sanyo Engineering & Construction Inc.,1960.T,46.98,0.333
+193,"Hikari Tsushin, Inc.",9435.T,26.56,0.203
+194,Tachikawa Corporation,7989.T,32.87,0.246
+195,"Tokai Lease Co.,Ltd.",9761.T,32.98,0.247
+196,"Resorttrust, Inc.",4681.T,23.84,0.185
+197,"Airport Facilities Co., Ltd.",8864.T,26.41,0.203
+198,"Miyoshi Oil & Fat Co., Ltd.",4404.T,32.6,0.245
+199,"Inabata & Co.,Ltd.",8098.T,17.33,0.138
+200,Fukuda Corporation,1899.T,34.86,0.261
+201,Gunze Limited,3002.T,34.01,0.256
+202,"Credit Saison Co., Ltd.",8253.T,34.52,0.259
+203,Daiichi Kensetsu Corporation,1799.T,36.53,0.272
+204,K.R.S. Corporation,9369.T,62.29,0.428
+205,Japan Transcity Corporation,9310.T,39.94,0.295
+206,"Higashi Holdings Co., Ltd.",9029.T,34.64,0.261
+207,"Bell-Park Co.,Ltd.",9441.T,30.74,0.235
+208,Kewpie Corporation,2809.T,32.28,0.246
+209,"Kyowa Electronic Instruments Co., Ltd.",6853.T,40.11,0.297
+210,"USS Co., Ltd.",4732.T,22.94,0.182
+211,TYK Corporation,5363.T,38.26,0.286
+212,"Toyo Seikan Group Holdings, Ltd.",5901.T,30.62,0.236
+213,"Atsugi Co., Ltd.",3529.T,42.0,0.311
+214,"Tenryu Saw Mfg. Co., Ltd.",5945.T,17.95,0.146
+215,Marubeni Corporation,8002.T,37.95,0.287
+216,"Palma Co., Ltd.",3461.T,30.23,0.235
+217,Oriental Consultants Holdings Company Limited,2498.T,47.43,0.347
+218,The Pack Corporation,3950.T,19.18,0.155
+219,"Shin Nippon Air Technologies Co., Ltd.",1952.T,55.69,0.397
+220,"Japan Oil Transportation Co., Ltd.",9074.T,30.05,0.234
+221,AOKI Holdings Inc.,8214.T,30.3,0.236
+222,"Hokkaido Coca-Cola Bottling Co.,Ltd.",2573.T,16.53,0.136
+223,"Nippon Light Metal Holdings Company, Ltd.",5703.T,29.75,0.233
+224,COMSYS Holdings Corporation,1721.T,27.24,0.216
+225,Gecoss Corporation,9991.T,30.47,0.238
+226,"Toagosei Co., Ltd.",4045.T,18.4,0.151
+227,Iwabuchi Corporation,5983.T,42.09,0.317
+228,"Tsubakimoto Kogyo Co., Ltd.",8052.T,28.98,0.229
+229,"Toyo Drilube Co., Ltd.",4976.T,31.56,0.247
+230,"Nippon Television Holdings, Inc.",9404.T,32.67,0.255
+231,"The Shimizu Bank, Ltd.",8364.T,33.92,0.264
+232,JANOME Corporation,6445.T,34.71,0.269
+233,"Oi Electric Co., Ltd.",6822.T,45.45,0.34
+234,Obayashi Corporation,1802.T,43.63,0.328
+235,Nozawa Corporation,5237.T,18.96,0.157
+236,Murakami Corporation,7292.T,36.54,0.284
+237,"CE Holdings Co.,Ltd.",4320.T,58.81,0.424
+238,"T&D Holdings, Inc.",8795.T,34.15,0.268
+239,INFRONEER Holdings Inc.,5076.T,33.22,0.262
+240,Nippon Hume Corporation,5262.T,54.55,0.4
+241,"JAFCO Group Co., Ltd.",8595.T,19.51,0.162
+242,Yamami Company,2820.T,62.38,0.447
+243,Rinko Corporation,9355.T,14.49,0.123
+244,"Takihyo Co., Ltd.",9982.T,38.62,0.3
+245,"ZENKOKU HOSHO Co.,Ltd.",7164.T,14.37,0.123
+246,"Mino Ceramic Co., Ltd.",5356.T,31.84,0.254
+247,TOBISHIMA HOLDINGS Inc.,256A.T,25.35,0.207
+248,Meiho Facility Works Ltd.,1717.T,15.71,0.134
+249,"Belluna Co., Ltd.",9997.T,23.88,0.197
+250,Ascentech K.K.,3565.T,55.33,0.409
+251,"Tomoku Co., Ltd.",3946.T,29.98,0.242
+252,Create Corporation,3024.T,21.13,0.177
+253,"Three F Co.,Ltd.",7544.T,21.05,0.176
+254,"Kokuyo Co., Ltd.",7984.T,21.71,0.181
+255,"Nihon Nohyaku Co., Ltd.",4997.T,33.48,0.268
+256,Taisei Corporation,1801.T,45.94,0.353
+257,"SBI Holdings, Inc.",8473.T,39.97,0.314
+258,AuBEX CORPORATION,3583.T,18.55,0.158
+259,"Kyushu Electric Power Company, Incorporated",9508.T,37.59,0.298
+260,Yamato Corporation,1967.T,40.1,0.316
+261,"Shin-Etsu Polymer Co.,Ltd.",7970.T,25.23,0.21
+262,"Hokko Chemical Industry Co., Ltd.",4992.T,39.31,0.311
+263,"Takuma Co., Ltd.",6013.T,34.11,0.275
+264,"Okamura Foods Co., Ltd.",2938.T,58.64,0.435
+265,Semba Corporation,6540.T,28.49,0.235
+266,"Sanshin Electronics Co., Ltd.",8150.T,25.35,0.212
+267,"Wakita & Co.,LTD.",8125.T,20.12,0.172
+268,"Seiwa Electric Mfg. Co., Ltd.",6748.T,22.87,0.193
+269,"NCD Co., Ltd.",4783.T,58.49,0.436
+270,MegaChips Corporation,6875.T,54.49,0.412
+271,SHINKO Inc.,7120.T,18.63,0.16
+272,"Japan Post Insurance Co., Ltd.",7181.T,35.71,0.288
+273,"Nippon Seiki Co., Ltd.",7287.T,47.24,0.368
+274,"SBS Holdings, Inc.",2384.T,31.25,0.257
+275,"Fuji Seal International, Inc.",7864.T,31.06,0.256
+276,"Nihon Trim Co., Ltd.",6788.T,23.92,0.203
+277,"Nakayamafuku Co.,Ltd.",7442.T,13.72,0.121
+278,"Nippon Carbide Industries Co., Inc.",4064.T,35.53,0.29
+279,Nippon Primex Inc.,2795.T,12.44,0.111
+280,"The Yokohama Rubber Company, Limited",5101.T,48.03,0.377
+281,Hamai Industries Ltd.,6497.T,19.75,0.172
+282,"NS Group, Inc.",471A.T,49.82,0.389
+283,Kajima Corporation,1812.T,35.31,0.29
+284,"Katakura Industries Co.,Ltd.",3001.T,26.28,0.223
+285,Cresco Ltd.,4674.T,45.26,0.36
+286,"Mikikogyo Co., Ltd.",1718.T,23.04,0.198
+287,"Asahi Intelligence Service Co., Ltd.",9799.T,21.96,0.19
+288,Soliton Systems K.K.,3040.T,40.72,0.329
+289,Shinnihon Corporation,1879.T,33.32,0.277
+290,"FaithNetwork Co.,Ltd",3489.T,32.02,0.267
+291,"Azuma Shipping Co., Ltd.",9380.T,19.15,0.168
+292,"Kawada Technologies, Inc.",3443.T,38.53,0.314
+293,"Nippon Kayaku Co., Ltd.",4272.T,26.49,0.226
+294,"SAN-A CO.,LTD.",2659.T,17.35,0.153
+295,"Gakkyusha Co.,Ltd.",9769.T,14.43,0.129
+296,"Feed One Co.,Ltd.",2060.T,30.2,0.254
+297,"Keihanshin Building Co., Ltd.",8818.T,23.13,0.2
+298,"San-Ai Obbli Co., Ltd.",8097.T,23.05,0.199
+299,Tokyo Energy & Systems Inc.,1945.T,39.15,0.319
+300,"NCS&A Co., Ltd.",9709.T,36.46,0.301
+301,Solekia Limited,9867.T,30.73,0.259
+302,Starzen Company Limited,8043.T,32.07,0.269
+303,Gendai Agency Inc.,2411.T,11.83,0.107
+304,"Chubu Shiryo Co., Ltd.",2053.T,31.02,0.261
+305,"Takara Standard Co.,Ltd.",7981.T,27.62,0.236
+306,"Sun Frontier Fudousan Co., Ltd.",8934.T,25.12,0.216
+307,Kondotec Inc.,7438.T,17.97,0.159
+308,"Matsui Construction Co., Ltd.",1810.T,35.93,0.298
+309,KYB Corporation,7242.T,36.4,0.301
+310,"Toyo Wharf & Warehouse Co., Ltd.",9351.T,16.56,0.148
+311,"WELLNEO SUGAR Co., Ltd.",2117.T,16.82,0.15
+312,"General Packer Co., Ltd.",6267.T,18.28,0.163
+313,"Tsukishima Holdings Co., Ltd.",6332.T,41.17,0.337
+314,"Furukawa Co.,Ltd.",5715.T,57.44,0.446
+315,SALA Corporation,2734.T,24.84,0.216
+316,"BSN Media Holdings, Inc.",9408.T,22.62,0.198
+317,SOFT99corporation,4464.T,53.28,0.42
+318,"Kyowakogyosyo Co.,Ltd.",5971.T,29.61,0.254
+319,"Yuasa Co., Ltd.",8074.T,22.36,0.197
+320,"Mitsui & Co., Ltd.",8031.T,30.51,0.262
+321,MT Genex Corporation,9820.T,20.9,0.186
+322,DMS Inc.,9782.T,51.89,0.414
+323,"Tokyo Gas Co.,Ltd.",9531.T,28.36,0.246
+324,"Step Co.,Ltd.",9795.T,15.24,0.139
+325,"The Japan Steel Works, Ltd.",5631.T,54.03,0.429
+326,Asagami Corporation,9311.T,24.6,0.216
+327,DMW Corporation,6365.T,21.65,0.193
+328,Shizuki Electric Company Inc.,6994.T,55.62,0.44
+329,"Kawasaki Geological Engineering Co., Ltd.",4673.T,36.3,0.307
+330,Daytona Corporation,7228.T,15.51,0.142
+331,"Sanyo Industries, Ltd.",5958.T,43.9,0.362
+332,"Sinanen Holdings Co., Ltd.",8132.T,30.65,0.265
+333,"Osaki Electric Co., Ltd.",6644.T,43.67,0.36
+334,"Iino Kaiun Kaisha, Ltd.",9119.T,27.93,0.244
+335,"Dynapac Co., Ltd.",3947.T,24.97,0.221
+336,Adeka Corporation,4401.T,30.78,0.267
+337,Life Corporation,8194.T,19.57,0.177
+338,"Japan Animal Referral Medical Center Co., Ltd.",6039.T,59.75,0.471
+339,"Chugai Ro Co., Ltd.",1964.T,31.76,0.276
+340,NS Solutions Corporation,2327.T,31.03,0.27
+341,"Yoshicon Co.,Ltd.",5280.T,32.74,0.284
+342,"Cosmo Energy Holdings Co., Ltd.",5021.T,25.59,0.228
+343,ITFOR Inc.,4743.T,22.38,0.202
+344,ONE CAREER Inc.,4377.T,44.02,0.367
+345,"Waseda Academy Co., Ltd.",4718.T,29.48,0.259
+346,Mbs Inc,1401.T,51.36,0.418
+347,"ASO International, Inc.",9340.T,47.93,0.395
+348,Umios Corporation,1333.T,20.67,0.188
+349,"Musashi Co., Ltd.",7521.T,20.19,0.184
+350,"Seria Co., Ltd.",2782.T,35.24,0.304
+351,"Itochu Enex Co.,Ltd.",8133.T,20.54,0.188
+352,"Takemoto Yohki Co., Ltd.",4248.T,7.98,0.077
+353,"Ishihara Sangyo Kaisha,Ltd.",4028.T,45.47,0.38
+354,"MOONBAT Co.,Ltd.",8115.T,42.68,0.36
+355,NOK Corporation,7240.T,23.74,0.215
+356,Mitsubishi Corporation,8058.T,36.09,0.312
+357,Shimizu Corporation,1803.T,44.91,0.376
+358,HASEKO Corporation,1808.T,21.74,0.198
+359,"JTP Co.,Ltd.",2488.T,24.34,0.22
+360,"Tsuzuki Denki Co., Ltd.",8157.T,32.92,0.288
+361,"GMO Financial Holdings, Inc.",7177.T,29.82,0.264
+362,Focus Systems Corporation,4662.T,29.11,0.259
+363,LANDNET Inc.,2991.T,35.48,0.308
+364,RAIZNEXT Corporation,6379.T,44.46,0.374
+365,"MEGMILK SNOW BRAND Co.,Ltd.",2270.T,25.03,0.226
+366,"Keiyo Gas Co., Ltd.",9539.T,23.24,0.212
+367,"Noritsu Koki Co., Ltd.",7744.T,36.13,0.314
+368,"Ryoyu Systems Co., Ltd.",4685.T,42.08,0.359
+369,KOZO KEIKAKU ENGINEERING HOLDINGS Inc.,208A.T,24.84,0.225
+370,Nitto Denko Corporation,6988.T,27.87,0.25
+371,"Neturen Co., Ltd.",5976.T,23.4,0.214
+372,"Tomoe Engineering Co., Ltd.",6309.T,39.71,0.342
+373,"HouseFreedom Co.,Ltd.",8996.T,16.2,0.152
+374,"Takashimaya Company, Limited",8233.T,39.61,0.341
+375,"MEISEI INDUSTRIAL Co.,Ltd.",1976.T,28.88,0.259
+376,"Alps Alpine Co., Ltd.",6770.T,27.71,0.249
+377,"Ic Co., Ltd.",4769.T,13.49,0.128
+378,"Uchida Yoko Co., Ltd.",8057.T,28.45,0.256
+379,TOYO Corporation,8151.T,20.62,0.191
+380,Kikusui Holdings Corporation,6912.T,32.84,0.291
+381,AIT Corporation,9381.T,17.31,0.163
+382,"Fuji Oil Co., Ltd.",2607.T,35.36,0.312
+383,"Tomita Electric Co.,Ltd.",6898.T,34.65,0.307
+384,"Yahagi Construction Co.,Ltd.",1870.T,31.69,0.284
+385,MEITEC Group Holdings Inc.,9744.T,15.11,0.144
+386,"JK Holdings Co., Ltd.",9896.T,20.62,0.193
+387,"Narasaki Sangyo Co., Ltd.",8085.T,25.86,0.237
+388,CEL Corporation,5078.T,26.71,0.244
+389,"Koatsu Gas Kogyo Co., Ltd.",4097.T,24.26,0.224
+390,internet infinity Inc.,6545.T,35.07,0.311
+391,Fuji Oozx Inc.,7299.T,43.35,0.374
+392,"JAC Recruitment Co., Ltd.",2124.T,25.52,0.235
+393,Totech Corporation,9960.T,44.95,0.386
+394,"Hokuryo Co., Ltd.",1384.T,38.44,0.338
+395,"Rakuten Bank, Ltd.",5838.T,57.43,0.474
+396,Toa Road Corporation,1882.T,24.37,0.226
+397,Nissui Corporation,1332.T,27.63,0.253
+398,O'will Corporation,3143.T,23.72,0.221
+399,Glory Ltd.,6457.T,24.84,0.23
+400,"ARE Holdings, Inc.",5857.T,42.16,0.367
+401,"Hokkaido Gas Co., Ltd.",9534.T,30.09,0.274
+402,"Nippon Ceramic Co., Ltd.",6929.T,20.13,0.191
+403,Morita Holdings Corporation,6455.T,21.85,0.206
+404,"ERI Holdings Co., Ltd.",6083.T,57.26,0.477
+405,"Sanrio Company, Ltd.",8136.T,57.65,0.479
+406,"Meiho Enterprise Co., Ltd.",8927.T,40.88,0.359
+407,"Yokota Manufacturing Co., Ltd.",6248.T,18.36,0.176
+408,"INTELLEX HOLDINGS Co.,Ltd.",463A.T,36.41,0.326
+409,"Pulstec Industrial Co., Ltd.",6894.T,19.54,0.187
+410,KITZ Corporation,6498.T,34.38,0.312
+411,"Career Design Center Co., Ltd.",2410.T,21.56,0.205
+412,Mitsubishi HC Capital Inc.,8593.T,17.29,0.167
+413,Ohashi Technica Inc.,7628.T,19.58,0.188
+414,Just Planning Inc.,4287.T,21.51,0.205
+415,Keyware Solutions Inc.,3799.T,23.9,0.226
+416,"Hatsuho Shouji Co.,Ltd.",7425.T,22.32,0.212
+417,Systena Corporation,2317.T,27.14,0.253
+418,"Dainichi Co., Ltd.",5951.T,26.63,0.249
+419,Ichigo Office REIT Investment Corporation,8975.T,10.86,0.108
+420,"Yukiguni Factory Co., Ltd.",1375.T,12.4,0.123
+421,Business Brain Showa-Ota Inc.,9658.T,22.73,0.216
+422,"Traders Holdings Co.,Ltd.",8704.T,40.06,0.357
+423,"S.Ishimitsu & Co.,Ltd.",2750.T,33.12,0.303
+424,"Maruhachi Warehouse Company, Limited",9313.T,18.67,0.181
+425,"Nishimatsu Construction Co., Ltd.",1820.T,22.17,0.212
+426,Matsuoka Corporation,3611.T,21.51,0.206
+427,"Como Co.,Ltd.",2224.T,11.62,0.116
+428,"Sansei Landic Co.,Ltd",3277.T,23.55,0.224
+429,"Kyodo Public Relations Co., Ltd.",2436.T,41.26,0.368
+430,"Sansei Technologies, Inc.",6357.T,46.27,0.407
+431,"AViC Co., Ltd.",9554.T,47.57,0.417
+432,Showa Paxxs Corporation,3954.T,26.51,0.251
+433,"H.U. Group Holdings, Inc.",4544.T,18.98,0.185
+434,"Imagineer Co.,Ltd.",4644.T,8.13,0.083
+435,Coca-Cola Bottlers Japan Holdings Inc.,2579.T,36.59,0.335
+436,"Kunimine Industries Co., Ltd.",5388.T,14.65,0.146
+437,"Hisaka Works, Ltd.",6247.T,34.94,0.322
+438,"GMO internet group, Inc.",9449.T,29.28,0.276
+439,"Mitsubishi Steel Mfg. Co., Ltd.",5632.T,26.37,0.252
+440,Sanwa Holdings Corporation,5929.T,31.53,0.296
+441,FinTech Global Incorporated,8789.T,58.75,0.503
+442,"SE Holdings and Incubations Co., Ltd.",9478.T,27.77,0.264
+443,"Marudai Food Co., Ltd.",2288.T,15.21,0.152
+444,Takebishi Corporation,7510.T,20.73,0.203
+445,Nagase Brothers Inc.,9733.T,14.69,0.147
+446,"Sharingtechnology, Inc.",3989.T,49.18,0.435
+447,"Shoei Yakuhin Co.,Ltd.",3537.T,28.69,0.274
+448,"Teikoku Sen-i Co., Ltd.",3302.T,25.47,0.246
+449,"TACHI-S Co., Ltd.",7239.T,19.14,0.189
+450,Shinhokoku Material Corp.,5542.T,24.91,0.241
+451,"Shinki Bus Co.,Ltd.",9083.T,7.31,0.076
+452,"Makino Milling Machine Co., Ltd.",6135.T,45.56,0.411
+453,"Takashima & Co., Ltd.",8007.T,33.7,0.317
+454,"SIG Group Co., Ltd.",4386.T,29.58,0.282
+455,"Zenhoren Co.,Ltd.",5845.T,46.6,0.419
+456,"Sanko Metal Industrial Co., Ltd.",1972.T,30.16,0.288
+457,ID Holdings Corporation,4709.T,22.18,0.218
+458,Kyoritsu Electric Corporation,6874.T,25.99,0.252
+459,Sapporo Breweries Limited,2501.T,34.09,0.321
+460,"Nozaki Insatsu Shigyo Co., Ltd.",7919.T,19.85,0.198
+461,"Mitsuuroko Group Holdings Co.,Ltd.",8131.T,32.58,0.309
+462,"Kimura Unity Co., Ltd.",9368.T,17.34,0.175
+463,"Enshu Truck Co.,Ltd.",9057.T,14.52,0.148
+464,"The Tohoku Bank, Ltd.",8349.T,19.56,0.196
+465,"Nippon Soda Co., Ltd.",4041.T,20.92,0.209
+466,Sanoyas Holdings Corporation,7022.T,50.06,0.45
+467,"New Cosmos Electric Co.,Ltd.",6824.T,35.82,0.338
+468,"GEOCODE CO.,Ltd.",7357.T,49.18,0.444
+469,"UP GARAGE GROUP Co., Ltd.",7134.T,34.98,0.332
+470,SUNNEXTA GROUP Inc.,8945.T,9.05,0.095
+471,Yushiro Inc.,5013.T,37.81,0.355
+472,"Fukuvi Chemical Industry Co.,Ltd.",7871.T,16.16,0.165
+473,Business Engineering Corporation,4828.T,45.76,0.419
+474,"Buffalo Co.,Ltd.",3352.T,15.76,0.161
+475,"Okayamaken Freight Transportation Co., Ltd.",9063.T,19.13,0.194
+476,Seibu Holdings Inc.,9024.T,48.47,0.441
+477,"RAKUMACHI,Inc.",6037.T,37.09,0.351
+478,ARCS Company Limited,9948.T,15.9,0.163
+479,"GOLDCREST Co.,Ltd.",8871.T,20.2,0.204
+480,ENDO Lighting Corporation,6932.T,39.09,0.369
+481,"Lacto Japan Co., Ltd.",3139.T,27.1,0.267
+482,Fujimak Corporation,5965.T,22.59,0.227
+483,"Acom Co., Ltd.",8572.T,17.75,0.182
+484,"Hokuriku Electric Industry Co.,Ltd.",6989.T,31.6,0.308
+485,"Eurasia Travel Co., Ltd.",9376.T,34.82,0.335
+486,"The Keihin Co., Ltd.",9312.T,20.43,0.208
+487,"WILL,Co.,Ltd.",3241.T,13.77,0.144
+488,Takara & Company Ltd.,7921.T,30.9,0.303
+489,"Dai Nippon Printing Co., Ltd.",7912.T,21.68,0.22
+490,"Daifuku Co., Ltd.",6383.T,38.44,0.367
+491,"Mitsumura Printing Co., Ltd.",7916.T,19.2,0.197
+492,The Zenitaka Corporation,1811.T,41.56,0.393
+493,"Mimaki Engineering Co., Ltd.",6638.T,56.95,0.512
+494,"Tokyo Tatemono Co., Ltd.",8804.T,28.18,0.28
+495,"Nippon Rietec Co.,Ltd.",1938.T,38.1,0.365
+496,Inpex Corporation,1605.T,32.09,0.314
+497,Ad-Sol Nissin Corporation,3837.T,26.78,0.267
+498,"Mitsubishi Estate Co., Ltd.",8802.T,33.2,0.324
+499,"Nikki Co., Ltd.",6042.T,23.05,0.234
+500,Shinsho Corporation,8075.T,26.54,0.265
+501,"Ensuiko Sugar Refining Co., Ltd.",2112.T,34.6,0.337
+502,"Kensoh Co.,Ltd.",7939.T,9.64,0.103
+503,"Maruken Lease Co., Ltd.",9763.T,20.87,0.214
+504,Lion Office Products Corp.,423A.T,18.44,0.191
+505,Univance Corporation,7254.T,43.25,0.409
+506,"Yamau Holdings Co., Ltd.",5284.T,24.53,0.249
+507,O-Well Corporation,7670.T,25.19,0.255
+508,Sankyu Inc.,9065.T,25.15,0.255
+509,"Mitani Sekisan Co., Ltd.",5273.T,31.88,0.315
+510,"Seiko Electric Co., Ltd.",6653.T,35.85,0.349
+511,"Information Planning CO., LTD.",3712.T,32.13,0.317
+512,"Softmax Co., Ltd",3671.T,27.32,0.275
+513,"Cosmos Initia Co., Ltd.",8844.T,29.88,0.298
+514,Round One Corporation,4680.T,52.67,0.485
+515,"Yamashita Health Care Holdings,Inc.",9265.T,30.98,0.308
+516,Tiemco Ltd.,7501.T,28.62,0.287
+517,"Sanrin Co., Ltd.",7486.T,11.73,0.126
+518,"Asaka Industrial Co., Ltd.",5962.T,17.66,0.185
+519,"Valor Holdings Co., Ltd.",9956.T,19.95,0.207
+520,"Hyoki Kaiun Kaisha, Ltd.",9362.T,32.2,0.32
+521,"Teikoku Tsushin Kogyo Co., Ltd.",6763.T,23.07,0.237
+522,"Nippon Gas Co., Ltd.",8174.T,16.82,0.177
+523,"Nittoseiko Co.,Ltd.",5957.T,15.08,0.16
+524,"Mabuchi Motor Co., Ltd.",6592.T,25.43,0.26
+525,Galilei Holdings Co.Ltd.,6420.T,18.51,0.195
+526,"Nakakita Seisakusho Co., Ltd.",6496.T,37.85,0.37
+527,"Nippon Sharyo, Ltd.",7102.T,27.6,0.281
+528,FCE Inc.,9564.T,31.27,0.314
+529,"KH Neochem Co., Ltd.",4189.T,23.41,0.242
+530,"Toyo Tec Co.,Ltd.",9686.T,21.17,0.221
+531,Century21 Real Estate of Japan Ltd,8898.T,6.92,0.077
+532,"SBI Insurance Group Co., Ltd.",7326.T,28.67,0.291
+533,"A.D.Works Group Co.,Ltd.",2982.T,29.46,0.298
+534,"Mizuho Leasing Company, Limited",8425.T,18.24,0.193
+535,"Daito Koun Co.,Ltd.",9367.T,62.89,0.569
+536,"Daiko Tsusan Co.,Ltd.",7673.T,18.42,0.195
+537,"Nihon Kogyo Co., Ltd.",5279.T,23.04,0.239
+538,"Maezawa Kyuso Industries Co.,Ltd.",6485.T,18.74,0.198
+539,"Stanley Electric Co., Ltd.",6923.T,21.6,0.226
+540,"Sanyu Co., Ltd.",5697.T,19.5,0.206
+541,Toyo Tire Corporation,5105.T,29.73,0.302
+542,"Dairei Co.,Ltd.",2883.T,4.43,0.05
+543,"Okabe Co., Ltd.",5959.T,15.44,0.166
+544,"Yuken Kogyo Co., Ltd.",6393.T,18.16,0.193
+545,Akatsuki Corp.,8737.T,22.18,0.232
+546,"Daiichi Co.,Ltd.",7643.T,37.77,0.373
+547,"Fushiki Kairiku Unso Co.,Ltd.",9361.T,17.07,0.183
+548,"Taihei Dengyo Kaisha, Ltd.",1968.T,31.95,0.323
+549,"Takamatsu Construction Group Co., Ltd.",1762.T,24.15,0.251
+550,"Onward Holdings Co., Ltd.",8016.T,22.41,0.235
+551,Kitano Construction Corp.,1866.T,24.44,0.254
+552,Frontier International Inc.,7050.T,30.28,0.309
+553,"NIFTY Lifestyle Co., Ltd.",4262.T,28.1,0.289
+554,"Urbanet Corporation Co.,Ltd.",3242.T,18.43,0.197
+555,"Properst Co., Ltd.",3236.T,36.55,0.366
+556,"Maxell, Ltd.",6810.T,22.68,0.239
+557,"Bando Chemical Industries, Ltd.",5195.T,24.02,0.252
+558,OVAL Corporation,7727.T,38.42,0.382
+559,TANAKEN Inc.,1450.T,17.34,0.187
+560,ANEST IWATA Corporation,6381.T,28.47,0.294
+561,"Square Enix Holdings Co., Ltd.",9684.T,26.86,0.28
+562,"Kyowa Engineering Consultants Co., Ltd.",9647.T,27.17,0.283
+563,Leopalace21 Corporation,8848.T,34.59,0.352
+564,"baudroie,inc.",4413.T,42.33,0.421
+565,"Nippon Seisen Co.,Ltd.",5659.T,21.84,0.234
+566,Aichi Corporation,6345.T,21.67,0.232
+567,"Kaname Kogyo Co.,Ltd.",6566.T,26.06,0.275
+568,Yamato International Inc.,8127.T,29.59,0.308
+569,"Terasaki Electric Co.,Ltd.",6637.T,53.32,0.512
+570,"Konoike Transport Co.,Ltd.",9025.T,21.78,0.234
+571,"Hulic Co., Ltd.",3003.T,16.6,0.182
+572,"Aichi Tokei Denki Co., Ltd.",7723.T,28.44,0.298
+573,"Interspace Co.,Ltd.",2122.T,21.93,0.236
+574,"Toray Industries, Inc.",3402.T,25.1,0.267
+575,Japan Metropolitan Fund Investment Corporation,8953.T,12.06,0.135
+576,Nitta Gelatin Inc.,4977.T,28.01,0.295
+577,"AZUMA HOUSE Co., Ltd.",3293.T,4.46,0.052
+578,Sony Group Corporation,6758.T,22.62,0.243
+579,"MIXI, Inc.",2121.T,23.33,0.251
+580,"AMBITION DX HOLDINGS Co., Ltd.",3300.T,53.46,0.516
+581,"Kobayashi Yoko Co., Ltd.",8742.T,46.69,0.461
+582,Tanabe Engineering Corporation,1828.T,24.8,0.265
+583,BANDAI NAMCO Holdings Inc.,7832.T,32.14,0.334
+584,"RESOL HOLDINGS Co.,Ltd.",5261.T,23.71,0.254
+585,Tokuyama Corporation,4043.T,29.53,0.31
+586,"Waseda Gakushukenkyukai Co.,Ltd.",5869.T,12.79,0.143
+587,"Sugimura Warehouse Co., Ltd.",9307.T,23.9,0.257
+588,Toyo Kanetsu K.K.,6369.T,24.11,0.259
+589,"Shinnihonseiyaku Co., Ltd.",4931.T,15.04,0.167
+590,Eiwa Corporation,9857.T,18.67,0.205
+591,"KATITAS CO., Ltd.",8919.T,30.6,0.321
+592,"Meiji Electric Industries Co.,Ltd.",3388.T,21.8,0.237
+593,"Hoosiers Holdings Co., Ltd.",3284.T,13.88,0.156
+594,"Kaga Electronics Co.,Ltd.",8154.T,24.22,0.261
+595,"Auto Server Co., Ltd.",5589.T,24.99,0.269
+596,Maruichi Steel Tube Ltd.,5463.T,18.53,0.204
+597,Oji Holdings Corporation,3861.T,18.41,0.204
+598,"Chubu Electric Power Company, Incorporated",9502.T,21.38,0.234
+599,"LA Holdings Co., Ltd.",2986.T,39.92,0.408
+600,"Koyou Rentia Co., Ltd.",7081.T,12.82,0.145
+601,"Tanaka Co.,Ltd.",7619.T,18.56,0.206
+602,"Ohba Co., Ltd.",9765.T,12.86,0.146
+603,Nagahori Corporation,8139.T,26.1,0.281
+604,Kureha Corporation,4023.T,27.17,0.291
+605,SHOBIDO Corporation,7819.T,46.65,0.467
+606,"Nihon Isk Co.,Ltd.",7986.T,15.56,0.175
+607,"Doshisha Co.,Ltd.",7483.T,16.66,0.186
+608,"Asia Air Survey Co., Ltd.",9233.T,14.66,0.166
+609,"Japan Investment Adviser Co., Ltd.",7172.T,44.34,0.45
+610,"METAWATER Co., Ltd.",9551.T,26.42,0.286
+611,Tosoh Corporation,4042.T,19.0,0.212
+612,"Onamba Co., Ltd.",5816.T,34.97,0.368
+613,"CyberAgent, Inc.",4751.T,24.7,0.27
+614,"Japan Lifeline Co., Ltd.",7575.T,17.68,0.199
+615,"Matsuya Co., Ltd.",8237.T,49.32,0.495
+616,"Mitachi Co., Ltd.",3321.T,26.82,0.291
+617,"Tamai Steamship Co., Ltd.",9127.T,39.89,0.413
+618,Moriya Corporation,1798.T,34.34,0.363
+619,"Fuji Electric Co., Ltd.",6504.T,41.42,0.427
+620,"Senkon Logistics Co., Ltd.",9051.T,24.15,0.265
+621,"Mainichi Comnet Co., Ltd.",8908.T,10.69,0.124
+622,Sanki Service Corporation,6044.T,35.39,0.373
+623,Lonseal Corporation,4224.T,20.99,0.234
+624,Hosiden Corporation,6804.T,18.53,0.209
+625,"BENEFIT JAPAN Co., Ltd.",3934.T,37.15,0.39
+626,I.A Group Corporation,7509.T,14.71,0.169
+627,"Chuetsu Pulp & Paper Co., Ltd.",3877.T,27.53,0.3
+628,KDDI Corporation,9433.T,13.41,0.155
+629,"HYOJITO Co., Ltd.",7368.T,8.77,0.103
+630,"TOBA, INC.",7472.T,11.65,0.136
+631,"Shinwa Co., Ltd.",7607.T,16.05,0.184
+632,KVK Corporation,6484.T,12.08,0.141
+633,"Kimura Chemical Plants Co., Ltd.",6378.T,28.17,0.309
+634,Espec Corp.,6859.T,28.75,0.315
+635,"Yashima & Co.,Ltd.",7677.T,11.65,0.137
+636,"WOLVES HAND Co., Ltd.",194A.T,57.49,0.571
+637,"Simplex Holdings, Inc.",4373.T,33.66,0.363
+638,MEEQ Inc.,332A.T,49.38,0.504
+639,"Ohmori Co.,Ltd.",1844.T,65.29,0.634
+640,fonfun corporation,2323.T,66.49,0.644
+641,Finatext Holdings Ltd.,4419.T,49.5,0.506
+642,"Asaka Riken Co.,Ltd.",5724.T,60.14,0.594
+643,"VIS Co., Ltd.",5071.T,21.92,0.248
+644,"Tokyo Cosmos Electric Co., Ltd.",6772.T,29.66,0.326
+645,First-corporation Inc.,1430.T,18.17,0.209
+646,Yokogawa Electric Corporation,6841.T,29.97,0.329
+647,Chino Corporation,6850.T,28.11,0.311
+648,"Marui Group Co., Ltd.",8252.T,11.26,0.134
+649,"BML, Inc.",4694.T,14.67,0.172
+650,Hirakawa Hewtech Corp.,5821.T,50.56,0.52
+651,"Colan Totte.Co.,Ltd.",7792.T,20.63,0.236
+652,"Nissei ASB Machine Co., Ltd.",6284.T,37.99,0.408
+653,Metalart Corporation,5644.T,39.68,0.425
+654,Suzuyo Shinwart Corporation,9360.T,25.91,0.292
+655,"Power Solutions, Ltd.",4450.T,39.34,0.422
+656,Itoki Corporation,7972.T,33.64,0.369
+657,A&A Material Corporation,5391.T,16.65,0.195
+658,Yamax Corp.,5285.T,45.57,0.48
+659,"Tsurumi Manufacturing Co.,Ltd.",6351.T,26.79,0.302
+660,"The Japan Wool Textile Co., Ltd.",3201.T,20.47,0.237
+661,"Japan Foundation Engineering Co., Ltd.",1914.T,28.12,0.316
+662,"Makiya Co., Ltd.",9890.T,19.21,0.224
+663,"KSK Co.,Ltd.",9687.T,38.05,0.413
+664,"Shinwa Co., Ltd.",3447.T,17.09,0.201
+665,Kraftia Corporation,1959.T,29.95,0.335
+666,Ceres Inc.,3696.T,57.0,0.581
+667,"Tanseisha Co., Ltd.",9743.T,30.94,0.345
+668,BP Castrol K.K.,5015.T,8.72,0.106
+669,Santo Corporation,1788.T,15.84,0.187
+670,DTS Corporation,9682.T,18.96,0.221
+671,ASIRO Inc.,7378.T,45.45,0.482
+672,IDOM Inc.,7599.T,31.98,0.357
+673,"Shinobu Foods Products Co., Ltd.",2903.T,30.82,0.345
+674,"Aisan Industry Co., Ltd.",7283.T,34.62,0.383
+675,Zett Corporation,8135.T,24.14,0.278
+676,B-Lot Company Limited,3452.T,37.64,0.413
+677,I-Freek Mobile Inc.,3845.T,59.75,0.61
+678,Cleanup Corporation,7955.T,18.57,0.219
+679,"Imasen Electric Industrial Co., Ltd.",7266.T,25.04,0.289
+680,"JINUSHI Co.,Ltd.",3252.T,26.93,0.309
+681,"Izawa Towel Co.,Ltd.",365A.T,19.06,0.225
+682,HOYA Corporation,7741.T,22.47,0.262
+683,"TSI Holdings Co.,Ltd.",3608.T,26.08,0.301
+684,TOKAI Corp.,9729.T,15.01,0.181
+685,Fukuoka REIT Corporation,8968.T,9.48,0.117
+686,"Nomura Micro Science Co., Ltd.",6254.T,63.82,0.648
+687,Global Link Management Inc.,3486.T,39.31,0.433
+688,"DCM Holdings Co., Ltd.",3050.T,15.09,0.182
+689,Globe-ing Inc.,277A.T,59.17,0.612
+690,"Hokuriku Electrical Construction Co.,Ltd.",1930.T,22.18,0.261
+691,"Kawanishi Warehouse Co.,Ltd.",9322.T,52.26,0.554
+692,"Tokyu Construction Co., Ltd.",1720.T,24.04,0.282
+693,"Ajinomoto Co., Inc.",2802.T,33.58,0.381
+694,"Chiyoda Integre Co.,Ltd.",6915.T,15.55,0.189
+695,Nippon Sanso Holdings Corporation,4091.T,22.5,0.266
+696,"NJS Co., Ltd.",2325.T,26.4,0.308
+697,"Kuribayashi Steamship Co., Ltd.",9171.T,47.38,0.513
+698,"Kikukawa Enterprise, Inc.",6346.T,15.01,0.183
+699,Livero Inc.,9245.T,35.85,0.404
+700,Axial Retailing Inc.,8255.T,16.08,0.195
+701,"Howa Machinery, Ltd.",6203.T,42.24,0.466
+702,"Quest Co., Ltd.",2332.T,19.73,0.236
+703,"Kyushu Leasing Service Co., Ltd.",8596.T,25.85,0.303
+704,ES-CON JAPAN Ltd.,8892.T,12.72,0.157
+705,CAC Holdings Corporation,4725.T,10.33,0.129
+706,"Subaru Enterprise Co., Ltd.",9632.T,24.09,0.285
+707,"Alsok Co.,Ltd.",2331.T,15.2,0.186
+708,Columbia Works Inc.,146A.T,38.24,0.431
+709,Core Corporation,2359.T,13.35,0.165
+710,Fuluhashi EPO Corporation,9221.T,22.57,0.27
+711,"DN Holdings Co.,Ltd.",7377.T,10.53,0.132
+712,"Tokyo Soir Co., Ltd.",8040.T,11.91,0.149
+713,NTT Data Intramart Corporation,3850.T,41.68,0.465
+714,"Kanematsu Engineering Co., Ltd.",6402.T,19.68,0.238
+715,"Toei Company, Ltd.",9605.T,21.86,0.263
+716,"Cosmo Bio Company,Limited",3386.T,15.01,0.186
+717,"JM Holdings Co.,Ltd.",3539.T,20.21,0.245
+718,"Alpen Co.,Ltd.",3028.T,11.25,0.142
+719,Air Water Inc.,4088.T,18.65,0.228
+720,"Startia Holdings,Inc.",3393.T,35.09,0.404
+721,"Wagokoro Co., Ltd.",9271.T,53.27,0.577
+722,Parker Corporation,9845.T,29.56,0.348
+723,Tabio Corporation,2668.T,5.53,0.072
+724,Nissen Inc.,6543.T,44.7,0.499
+725,"DIGITAL PLUS, Inc.",3691.T,62.03,0.656
+726,"Computer Institute of Japan, Ltd.",4826.T,21.38,0.26
+727,"B&P Co.,Ltd.",7804.T,22.74,0.275
+728,"Tokyo Automatic Machinery Works, Ltd.",6360.T,34.24,0.398
+729,"Chori Co., Ltd.",8014.T,19.94,0.245
+730,TOA Corporation,6809.T,24.3,0.293
+731,"Kokusai Co., Ltd.",7722.T,24.0,0.29
+732,"Nakamoto Packs Co., Ltd.",7811.T,11.31,0.144
+733,"TO Books, Inc.",500A.T,27.63,0.33
+734,NH Foods Ltd.,2282.T,18.0,0.223
+735,Ai Holdings Corporation,3076.T,15.1,0.19
+736,"Toyo Shutter Co., Ltd.",5936.T,22.65,0.276
+737,"Hi-CRATES CO.,LTD.",4172.T,15.99,0.201
+738,"Toho Co., Ltd.",9602.T,22.28,0.273
+739,"Hotel Newgrand Co., Ltd.",9720.T,16.39,0.206
+740,"Nichia Steel Works, Ltd.",5658.T,14.64,0.185
+741,"Kumagai Gumi Co.,Ltd.",1861.T,22.23,0.273
+742,"ShinMaywa Industries, Ltd.",7224.T,24.77,0.302
+743,"Arbeit-Times Co., Ltd.",2341.T,11.19,0.144
+744,TRE Holdings Corporation,9247.T,25.67,0.312
+745,Takahashi Curtain Wall Corporation,1994.T,12.42,0.159
+746,"POVAL KOGYO Co., Ltd.",4247.T,9.62,0.125
+747,Dawn Corp.,2303.T,14.33,0.183
+748,"AEON Financial Service Co., Ltd.",8570.T,15.71,0.199
+749,"Press Kogyo Co., Ltd.",7246.T,23.72,0.292
+750,"Nihon Yamamura Glass Co., Ltd.",5210.T,34.61,0.41
+751,"Tokai Rika Co., Ltd.",6995.T,17.74,0.224
+752,"OAT Agrio Co., Ltd.",4979.T,29.33,0.355
+753,"Saibo Co., Ltd.",3123.T,11.86,0.154
+754,"TOC Co., Ltd.",8841.T,24.06,0.297
+755,"JRC Co.,Ltd.",6224.T,33.67,0.401
+756,Computer Engineering & Consulting Ltd.,9692.T,28.36,0.345
+757,"H-One Co.,Ltd.",5989.T,34.37,0.409
+758,Tradia Corporation,9365.T,10.78,0.141
+759,"Densan Co., Ltd.",3640.T,36.29,0.429
+760,"CTI Engineering Co., Ltd.",9621.T,20.26,0.255
+761,"Penta-Ocean Construction Co., Ltd.",1893.T,30.44,0.368
+762,Disco Corporation,6146.T,54.39,0.608
+763,"Ki-Star Real Estate Co.,Ltd",3465.T,25.12,0.311
+764,Fuji Nihon Corporation,2114.T,14.94,0.193
+765,"Tetsujin Holdings, Inc.",2404.T,15.51,0.2
+766,Muto Seiko Co.,7927.T,22.93,0.287
+767,"Seiren Co.,Ltd.",3569.T,21.06,0.266
+768,IX Knowledge Incorporated,9753.T,17.22,0.221
+769,Tokyu Fudosan Holdings Corporation,3289.T,20.39,0.258
+770,"Kanagawa Chuo Kotsu Co., Ltd.",9081.T,12.23,0.16
+771,"U-NEXT HOLDINGS Co.,Ltd.",9418.T,21.41,0.271
+772,"Hashimoto Sogyo Holdings Co.,Ltd.",7570.T,13.22,0.173
+773,"Yotai Refractories Co., Ltd.",5357.T,14.6,0.19
+774,"Open House Group Co., Ltd.",3288.T,24.69,0.309
+775,Ray Corporation,4317.T,23.67,0.298
+776,"Art Vivant Co., Ltd.",7523.T,32.81,0.399
+777,"Fujisan Magazine Service Co., Ltd.",3138.T,24.89,0.312
+778,"Toyokumo, Inc.",4058.T,29.54,0.364
+779,"Sokensha Co.,Ltd.",7413.T,11.86,0.157
+780,"A&D HOLON Holdings Company, Limited",7745.T,30.14,0.371
+781,"Nishikawa Keisoku Co., Ltd.",7500.T,25.84,0.324
+782,Keikyu Corporation,9006.T,10.57,0.141
+783,Nabtesco Corporation,6268.T,33.26,0.406
+784,Asahi Rubber Inc.,5162.T,15.7,0.205
+785,"TOW Co.,Ltd.",4767.T,15.44,0.202
+786,INES Corporation,9742.T,19.64,0.253
+787,GEOSTR Corporation,5282.T,20.43,0.262
+788,"Torishima Pump Mfg. Co., Ltd.",6363.T,24.88,0.314
+789,JINS HOLDINGS Inc.,3046.T,40.59,0.485
+790,CMC Corporation,2185.T,18.99,0.246
+791,JTEKT Corporation,6473.T,25.67,0.324
+792,"MUGEN ESTATE Co.,Ltd.",3299.T,36.65,0.445
+793,Hi-Lex Corporation,7279.T,33.59,0.413
+794,ORIX JREIT Inc.,8954.T,8.72,0.118
+795,"Hiraga Co.,Ltd.",7863.T,7.34,0.1
+796,"Takeuchi Mfg. Co., Ltd.",6432.T,27.85,0.35
+797,"NISSHIN GROUP HOLDINGS Company, Limited",8881.T,15.36,0.203
+798,"Oie Sangyo Co., Ltd.",7481.T,16.94,0.222
+799,"Maxvalu Tokai Co.,Ltd.",8198.T,9.12,0.124
+800,Showa System Engineering Corporation,4752.T,12.3,0.165
+801,Tobila Systems Inc.,4441.T,27.72,0.35
+802,"Puequ CO.,LTD.",9264.T,36.84,0.451
+803,Nomura Corporation,7131.T,34.23,0.424
+804,Suzuki Motor Corporation,7269.T,20.75,0.27
+805,"Kyowa Leather Cloth Co., Ltd.",3553.T,20.09,0.263
+806,"Takachiho Co.,Ltd.",8225.T,31.84,0.399
+807,Rikei Corporation,8226.T,34.42,0.427
+808,"Daiun Co.,Ltd.",9363.T,15.68,0.209
+809,"Futaba Industrial Co., Ltd.",7241.T,24.33,0.314
+810,"Mitsui DM Sugar Co.,Ltd.",2109.T,12.01,0.163
+811,Miahelsa Holdings Corporation,7129.T,8.42,0.116
+812,Itoham Yonekyu Holdings Inc.,2296.T,15.35,0.205
+813,"Mobile Factory, Inc.",3912.T,21.35,0.279
+814,Tenox Corporation,1905.T,13.17,0.178
+815,"UT Group Co.,Ltd.",2146.T,36.56,0.453
+816,"CDS Co.,Ltd.",2169.T,4.26,0.06
+817,"Tokuden Co., Ltd.",3437.T,15.02,0.202
+818,KFC Ltd,3420.T,13.4,0.182
+819,"The Yonkyu Co.,Ltd.",9955.T,10.48,0.144
+820,"Skylark Holdings Co., Ltd.",3197.T,25.43,0.329
+821,Asanuma Corporation,1852.T,17.27,0.231
+822,"Saint Marc Holdings Co., Ltd.",3395.T,14.72,0.199
+823,Shinyei Kaisha,3004.T,16.78,0.226
+824,"Oriental Chain Mfg. Co., Ltd.",6380.T,37.46,0.469
+825,"Internetworking and Broadband Consulting Co.,Ltd.",3920.T,26.03,0.34
+826,"GreenBee, Inc.",3913.T,42.28,0.522
+827,"Kanda Holdings Co.,Ltd.",9059.T,10.44,0.145
+828,"Platz Co., Ltd.",7813.T,14.94,0.205
+829,Sakae Electronics Corporation,7567.T,19.02,0.256
+830,transcosmos inc.,9715.T,9.77,0.137
+831,SUNNY SIDE UP GROUP Inc.,2180.T,29.45,0.383
+832,"M&A Capital Partners Co.,Ltd.",6080.T,25.82,0.34
+833,"Edia Co., Ltd.",3935.T,33.19,0.426
+834,HIP Corporation,2136.T,14.19,0.196
+835,Sanei Ltd.,6230.T,15.94,0.219
+836,Trinity Industrial Corporation,6382.T,18.96,0.257
+837,"WILLTEC Co.,Ltd.",7087.T,25.51,0.337
+838,"Dear Life Co.,Ltd.",3245.T,22.78,0.305
+839,"Kawakami Paint Mfg.Co.,Ltd.",4616.T,14.46,0.2
+840,"Fuji Latex Co., Ltd.",5199.T,6.12,0.088
+841,"Science Arts, Inc.",4412.T,39.34,0.497
+842,"Pepper Food Service Co., Ltd.",3053.T,31.48,0.409
+843,Nifco Inc.,7988.T,16.24,0.225
+844,CL Holdings Inc.,4286.T,31.35,0.409
+845,Nice Corporation,8089.T,18.58,0.255
+846,Teikoku Corporation,6333.T,18.52,0.254
+847,Zuken Inc.,6947.T,19.76,0.27
+848,"System Research Co.,Ltd.",3771.T,18.03,0.248
+849,"AINAVO HOLDINGS Co.,Ltd.",7539.T,14.5,0.203
+850,Okumura Corporation,1833.T,17.48,0.242
+851,Vertex Corporation,5290.T,28.7,0.38
+852,Azbil Corporation,6845.T,14.66,0.206
+853,"Azplanning Co.,Ltd.",3490.T,15.86,0.222
+854,Unite and Grow Inc.,4486.T,18.87,0.261
+855,O.B.System Inc.,5576.T,17.74,0.246
+856,"NOMURA Co., Ltd.",9716.T,18.1,0.251
+857,"Ateam Holdings Co., Ltd.",3662.T,29.74,0.394
+858,f-code Inc.,9211.T,53.95,0.658
+859,"Treasure Factory Co.,LTD.",3093.T,24.11,0.327
+860,"Totetsu Kogyo Co., Ltd.",1835.T,17.94,0.25
+861,"Kusurinomadoguchi, Inc.",5592.T,34.64,0.453
+862,"COPRO-HOLDINGS. Co., Ltd.",7059.T,27.11,0.365
+863,"MIT Holdings Co., Ltd.",4016.T,18.89,0.263
+864,"Ebrains, Inc.",6599.T,18.23,0.255
+865,Sanyei Corporation,8119.T,25.83,0.351
+866,"Kusuri No Aoki Holdings Co., Ltd.",3549.T,16.8,0.236
+867,"STrust Co.,Ltd.",3280.T,17.91,0.251
+868,East Japan Railway Company,9020.T,11.4,0.164
+869,"Sankyo Co., Ltd.",6417.T,24.92,0.34
+870,"Kawasaki & Co., Ltd.",3045.T,6.58,0.097
+871,Keyence Corporation,6861.T,19.94,0.279
+872,"Ezaki Glico Co., Ltd.",2206.T,11.94,0.172
+873,"Premium Water Holdings,Inc.",2588.T,15.3,0.218
+874,"DeNA Co., Ltd.",2432.T,34.47,0.457
+875,TechMatrix Corporation,3762.T,25.15,0.346
+876,"Flying Garden Co., Ltd.",3317.T,15.14,0.217
+877,"MINISTOP Co., Ltd.",9946.T,9.59,0.141
+878,"Sansan, Inc.",4443.T,36.85,0.486
+879,"Sato Foods Co., Ltd.",2923.T,16.53,0.235
+880,Ozu Corporation,7487.T,5.96,0.089
+881,"Mizuho Medy Co.,Ltd.",4595.T,16.14,0.231
+882,"Santen Pharmaceutical Co., Ltd.",4536.T,16.5,0.237
+883,"Heiwa Real Estate Co., Ltd.",8803.T,11.88,0.174
+884,Sankyo Kasei Corporation,8138.T,20.1,0.285
+885,"Daiwa Cycle Co.,Ltd.",5888.T,38.5,0.509
+886,"IBJ, Inc.",6071.T,21.65,0.305
+887,"Kyokuyo Co., Ltd.",1301.T,11.41,0.167
+888,G-Tekt Corporation,5970.T,16.45,0.236
+889,"Capcom Co., Ltd.",9697.T,25.2,0.351
+890,"Tanabe Consulting Group Co.,Ltd.",9644.T,19.64,0.279
+891,"Satoh & Co., Ltd.",9996.T,16.01,0.231
+892,"Heiwa Paper Co.,Ltd.",9929.T,6.27,0.094
+893,"Maeda Kosen Co., Ltd.",7821.T,16.39,0.237
+894,"Shizuoka Gas Co., Ltd.",9543.T,16.25,0.235
+895,Zenken Corporation,7371.T,17.33,0.25
+896,"Fuji Pharma Co., Ltd.",4554.T,25.5,0.357
+897,"Inui Global Logistics Co., Ltd.",9308.T,31.66,0.434
+898,Ain Holdings Inc.,9627.T,17.04,0.248
+899,"YONEX Co., Ltd.",7906.T,34.0,0.464
+900,Kurashicom Inc.,7110.T,18.85,0.272
+901,"Okayama Paper Industries Co., Ltd.",3892.T,24.09,0.341
+902,"Asahi Printing Co.,Ltd.",3951.T,5.01,0.077
+903,Mr Max Holdings Ltd.,8203.T,15.03,0.221
+904,create restaurants holdings inc.,3387.T,12.48,0.185
+905,"Kawagishi Bridge Works Co., Ltd.",5921.T,16.1,0.236
+906,"Fuji Co., Ltd.",8278.T,7.14,0.109
+907,"Punch Industry Co., Ltd.",6165.T,15.62,0.229
+908,"Nagoya Electric Works Co., Ltd.",6797.T,11.77,0.176
+909,"Asax Co., Ltd.",8772.T,14.53,0.215
+910,"Estelle Holdings Co.,Ltd.",7872.T,4.31,0.067
+911,Tohokushinsha Film Corporation,2329.T,20.9,0.302
+912,"Iseki & Co., Ltd.",6310.T,29.75,0.416
+913,NITTAN Corporation,6493.T,30.01,0.42
+914,Future Corporation,4722.T,29.21,0.41
+915,"Meiwa Industry Co., Ltd.",7284.T,10.94,0.165
+916,Mitsuba Corporation,7280.T,33.97,0.47
+917,JEOL Ltd.,6951.T,28.58,0.403
+918,Sangetsu Corporation,8130.T,8.93,0.136
+919,"WIN-Partners Co., Ltd.",3183.T,11.2,0.169
+920,"NIPPON PARKING DEVELOPMENT Co.,Ltd.",2353.T,14.41,0.216
+921,Alpha Systems Inc.,4719.T,12.36,0.187
+922,Yamashin-Filter Corp.,6240.T,28.75,0.408
+923,Asahi Broadcasting Group Holdings Corporation,9405.T,11.31,0.172
+924,"Sakai Moving Service Co.,Ltd.",9039.T,11.31,0.173
+925,AGS Corporation,3648.T,27.04,0.388
+926,"Tokyo Kisen Co.,Ltd.",9193.T,24.21,0.351
+927,"Sakurajima Futo Kaisha, Ltd.",9353.T,18.47,0.275
+928,"Toell Co.,Ltd.",3361.T,10.14,0.156
+929,Tigers Polymer Corporation,4231.T,31.38,0.445
+930,Nagaoka International Corporation,6239.T,22.6,0.332
+931,GMO Media Inc.,6180.T,25.19,0.367
+932,"Tokyotokeiba Co.,Ltd.",9672.T,13.12,0.2
+933,"Nintendo Co., Ltd.",7974.T,21.19,0.314
+934,"Festaria Holdings Co., Ltd.",2736.T,10.96,0.17
+935,"Konishi Co., Ltd.",4956.T,13.83,0.212
+936,"Eco's Co.,Ltd.",7520.T,14.08,0.216
+937,Entrust Inc.,7191.T,12.68,0.196
+938,"DAIKO XTECH, Ltd.",8023.T,32.55,0.465
+939,"i Cubed Systems, Inc.",4495.T,23.68,0.35
+940,"Mos Food Services, Inc.",8153.T,7.78,0.123
+941,"System Location Co.,Ltd.",2480.T,11.71,0.182
+942,"Daiwa House Industry Co., Ltd.",1925.T,9.63,0.151
+943,"Lihit Lab.,Inc.",7975.T,9.52,0.15
+944,"Access Group Holdings Co., Ltd.",7042.T,20.36,0.306
+945,Ohsho Food Service Corp.,9936.T,12.68,0.197
+946,"Musashino Kogyo Co., Ltd.",9635.T,8.73,0.138
+947,"Niitaka Co., Ltd.",4465.T,10.88,0.171
+948,Kitagawa Corporation,6317.T,16.38,0.252
+949,"Baycurrent, Inc.",6532.T,36.69,0.522
+950,"Canare Electric Co., Ltd.",5819.T,13.75,0.214
+951,"Axis Co.,Ltd.",4012.T,12.36,0.193
+952,"Hoshi Iryo-Sanki Co., Ltd.",7634.T,11.5,0.18
+953,PCA Corporation,9629.T,25.42,0.378
+954,Amatei Incorporated,5952.T,16.68,0.257
+955,"Japan Elevator Service Holdings Co.,Ltd.",6544.T,18.4,0.282
+956,Cados Corporation,211A.T,25.21,0.376
+957,TSUKADA GLOBAL HOLDINGS Inc.,2418.T,21.11,0.32
+958,"Medical Ikkou Group Co.,Ltd.",3353.T,13.85,0.216
+959,"Isamu Paint Co., Ltd.",4624.T,12.83,0.201
+960,"Kaken Pharmaceutical Co., Ltd.",4521.T,10.25,0.163
+961,Daiwa Ltd.,6459.T,14.27,0.223
+962,"Kansai Paint Co., Ltd.",4613.T,17.71,0.273
+963,NOF Corporation,4403.T,16.6,0.257
+964,"Chuo Gyorui Co., Ltd.",8030.T,14.08,0.221
+965,Asmo Corporation,2654.T,10.44,0.166
+966,"Cybozu, Inc.",4776.T,29.44,0.435
+967,Hosokawa Micron Corporation,6277.T,17.57,0.272
+968,"FB Care Service Co.,Ltd.",9220.T,10.31,0.164
+969,"Sekisui Chemical Co., Ltd.",4204.T,12.46,0.197
+970,"Lifedrink Company, Inc.",2585.T,35.29,0.512
+971,Japan Prime Realty Investment Corporation,8955.T,8.14,0.132
+972,Nitto Kogyo Corporation,6651.T,15.55,0.244
+973,Nipro Corporation,8086.T,12.5,0.199
+974,"AFC-HD AMS Life Science Co., Ltd.",2927.T,8.9,0.144
+975,TOWA Corporation,6315.T,47.4,0.665
+976,"Sumitomo Chemical Company, Limited",4005.T,19.97,0.31
+977,Lion Corporation,4912.T,13.81,0.221
+978,"Shin-Etsu Chemical Co., Ltd.",4063.T,18.15,0.285
+979,"DKK Co., Ltd.",6706.T,22.32,0.345
+980,"Wacom Co., Ltd.",6727.T,23.45,0.361
+981,"Chugokukogyo Co.,Ltd.",5974.T,11.2,0.181
+982,"Osaka Soda Co., Ltd.",4046.T,34.47,0.511
+983,"Dreambed Co.,Ltd.",7791.T,7.88,0.13
+984,"Taiyo Kisokogyo Co.,Ltd.",1758.T,11.3,0.183
+985,"Ohishi Sangyo Co., Ltd.",3943.T,12.46,0.201
+986,SANKEI REAL ESTATE Inc.,2972.T,13.03,0.211
+987,"Good Com Asset Co., Ltd.",3475.T,32.43,0.487
+988,"Nippon Carbon Co., Ltd.",5302.T,11.69,0.191
+989,"Hikari Business Form Co., Ltd.",3948.T,14.44,0.233
+990,"NEXTAGE Co., Ltd.",3186.T,26.12,0.403
+991,"Nishi-Nippon Railroad Co., Ltd.",9031.T,12.14,0.198
+992,"CTS Co., Ltd.",4345.T,10.84,0.178
+993,GSI Creos Corporation,8101.T,13.18,0.215
+994,"for Startups, Inc.",7089.T,32.23,0.489
+995,"Nomura Real Estate Holdings, Inc.",3231.T,14.22,0.232
+996,"Nishio Holdings Co., Ltd.",9699.T,15.3,0.249
+997,"Nichimo Co., Ltd.",8091.T,13.88,0.227
+998,Futaba Corporation,6986.T,22.74,0.359
+999,"Tomita Co., Ltd.",8147.T,13.5,0.222
+1000,"Persol Holdings Co.,Ltd.",2181.T,14.32,0.234
+1001,"NIPPON KANZAI Holdings Co.,Ltd.",9347.T,6.48,0.11
+1002,Crops Corporation,9428.T,20.29,0.325
+1003,Lifenet Insurance Company,7157.T,20.69,0.331
+1004,"Blue Zones Holdings Co.,Ltd.",417A.T,11.47,0.191
+1005,Maruyoshi Center Inc.,7515.T,13.23,0.219
+1006,Haruyama Holdings Inc.,7416.T,15.4,0.253
+1007,"Nitchitsu Co., Ltd.",7021.T,17.05,0.279
+1008,"Gokurakuyu Holdings Co., Ltd.",2340.T,9.81,0.165
+1009,LECIP Holdings Corporation,7213.T,14.57,0.241
+1010,"Financial Partners Group Co.,Ltd.",7148.T,19.87,0.322
+1011,"Sugi Holdings Co.,Ltd.",7649.T,15.37,0.254
+1012,Seiko Epson Corporation,6724.T,20.06,0.326
+1013,"Quick Co.,Ltd.",4318.T,15.3,0.254
+1014,Nichirei Corporation,2871.T,14.49,0.241
+1015,"Toho Holdings Co., Ltd.",8129.T,11.31,0.191
+1016,"The Kansai Electric Power Company, Incorporated",9503.T,18.98,0.311
+1017,"Daimaru Enawin Co., Ltd.",9818.T,13.26,0.222
+1018,"Kyogoku unyu shoji Co., Ltd.",9073.T,62.65,0.883
+1019,Needs Well Inc.,3992.T,23.94,0.385
+1020,"Globeride, Inc.",7990.T,14.07,0.236
+1021,"Hakuyosha Company, Ltd.",9731.T,15.05,0.252
+1022,Arclands Corporation,9842.T,8.95,0.153
+1023,"GEOMATEC Co., Ltd.",6907.T,32.45,0.509
+1024,"OBIC Business Consultants Co., Ltd.",4733.T,19.28,0.318
+1025,LY Corporation,4689.T,16.12,0.269
+1026,System Support Holdings Inc.,4396.T,19.85,0.327
+1027,GEOLIVE Group Corporation,3157.T,10.72,0.183
+1028,Hennge K.K.,4475.T,29.47,0.468
+1029,"ETS Group Co.,Ltd",253A.T,35.14,0.548
+1030,"AXYZ Co., Ltd.",1381.T,12.44,0.212
+1031,Nippon Chutetsukan K.K.,5612.T,23.55,0.385
+1032,AIAI Group Corporation,6557.T,62.51,0.894
+1033,Fumakilla Limited,4998.T,6.75,0.118
+1034,"Hodogaya Chemical Co., Ltd.",4112.T,19.33,0.322
+1035,Rix Corporation,7525.T,15.06,0.255
+1036,WingArc1st Inc.,4432.T,21.22,0.351
+1037,"Kohnan Shoji Co., Ltd.",7516.T,9.5,0.165
+1038,"i-mobile Co.,Ltd.",6535.T,14.18,0.242
+1039,United Urban Investment Corporation,8960.T,7.48,0.131
+1040,"CYND Co., Ltd.",4256.T,21.16,0.352
+1041,TOPPAN Holdings Inc.,7911.T,20.71,0.345
+1042,BRANU Inc.,460A.T,51.99,0.775
+1043,"Tohbu Network Co., Ltd.",9036.T,15.49,0.264
+1044,"No.1 Co.,Ltd",3562.T,36.85,0.579
+1045,"Ito Yogyo Co., Ltd",5287.T,23.19,0.383
+1046,"Nomura Research Institute, Ltd.",4307.T,17.14,0.29
+1047,"Nakabayashi Co., Ltd.",7987.T,7.66,0.135
+1048,"Broad Enterprise Co.,Ltd.",4415.T,21.94,0.366
+1049,"Kyoritsu Co.,Ltd.",7795.T,12.8,0.222
+1050,"Nissan Securities Group Co., Ltd.",8705.T,25.3,0.418
+1051,"UNIVERSAL ENGEISHA Co., Ltd.",6061.T,16.27,0.279
+1052,"SAN Holdings, Inc.",9628.T,16.59,0.284
+1053,"Sanko Techno Co., Ltd.",3435.T,11.19,0.196
+1054,"World Holdings Co., Ltd.",2429.T,14.48,0.25
+1055,"Komeri Co.,Ltd.",8218.T,10.47,0.185
+1056,Artnature Inc.,7823.T,6.58,0.118
+1057,"Jason Co., Ltd.",3080.T,23.7,0.397
+1058,Amuse Inc.,4301.T,11.25,0.198
+1059,Softcreate Holdings Corp.,3371.T,14.22,0.247
+1060,"AB&Company Co.,Ltd.",9251.T,17.24,0.297
+1061,"SUS Co.,Ltd.",6554.T,17.48,0.3
+1062,"ZOZO, Inc.",3092.T,13.81,0.241
+1063,Rasa Corporation,3023.T,15.57,0.27
+1064,"Yamazaki Baking Co., Ltd.",2212.T,17.6,0.303
+1065,"Ku Holdings Co.,Ltd.",9856.T,8.44,0.151
+1066,"JFE Systems, Inc.",4832.T,14.52,0.253
+1067,Kyushu Railway Company,9142.T,8.69,0.156
+1068,Yoshitake Inc.,6488.T,11.08,0.197
+1069,"Aoyama Trading Co., Ltd.",8219.T,28.5,0.475
+1070,Wacoal Holdings Corp.,3591.T,13.08,0.231
+1071,"Aoyama Zaisan Networks Company,Limited",8929.T,19.37,0.335
+1072,"Mercari, Inc.",4385.T,19.33,0.334
+1073,"Cyberlinks Co., Ltd.",3683.T,27.0,0.453
+1074,"KNT-CT Holdings Co., Ltd.",9726.T,20.3,0.35
+1075,"Japan Business Systems, Inc.",5036.T,21.33,0.367
+1076,"France Bed Holdings Co., Ltd.",7840.T,6.38,0.117
+1077,Weathernews Inc.,4825.T,19.88,0.345
+1078,NTN Corporation,6472.T,20.0,0.349
+1079,"Wakamoto Pharmaceutical Co.,Ltd.",4512.T,19.94,0.349
+1080,United Arrows Ltd.,7606.T,15.64,0.279
+1081,"Nippon Seiro Co., Ltd.",5010.T,33.6,0.561
+1082,"Topy Industries, Limited",7231.T,15.51,0.277
+1083,"Home Position Co., Ltd.",2999.T,24.97,0.43
+1084,"Toho Co., Ltd.",8142.T,18.65,0.33
+1085,"Ito En, Ltd.",25935.T,2.57,0.049
+1086,"Sekisui Kasei Co., Ltd.",4228.T,18.04,0.32
+1087,"Showa Chemical Industry Co., Ltd.",4990.T,7.78,0.144
+1088,INFRONEER Holdings Inc.,50765.T,1.64,0.031
+1089,"Tokai Kisen Co., Ltd.",9173.T,4.77,0.09
+1090,Landix Inc.,2981.T,18.06,0.323
+1091,"ODK Solutions Company, Ltd.",3839.T,6.39,0.12
+1092,Fuva Brain Limited,3927.T,29.43,0.504
+1093,"Kasai Kogyo Co., Ltd.",7256.T,51.95,0.824
+1094,"Aida Engineering, Ltd.",6118.T,12.57,0.231
+1095,Osaka Yuka Industry Ltd.,4124.T,40.15,0.664
+1096,Lasertec Corporation,6920.T,36.74,0.615
+1097,"THine Electronics, Inc.",6769.T,26.54,0.461
+1098,"ULVAC, Inc.",6728.T,24.85,0.436
+1099,TRUST Holdings Inc.,3286.T,35.9,0.604
+1100,Rigaku Holdings Corporation,268A.T,39.05,0.651
+1101,"Kimoto Co., Ltd.",7908.T,17.4,0.315
+1102,"Airtech Japan, Ltd.",6291.T,7.86,0.148
+1103,"Japan Cash Machine Co., Ltd.",6418.T,19.84,0.357
+1104,Japan Hotel REIT Investment Corporation,8985.T,9.64,0.181
+1105,Open Up Group Inc.,2154.T,10.57,0.198
+1106,SPRIX Inc.,7030.T,14.17,0.262
+1107,"Elecom Co., Ltd.",6750.T,9.81,0.185
+1108,"Runsystem Co.,Ltd.",3326.T,29.89,0.522
+1109,"PRONI, Inc.",479A.T,45.81,0.756
+1110,"Arealink Co., Ltd.",8914.T,18.01,0.329
+1111,"Fuyo General Lease Co., Ltd.",8424.T,7.87,0.15
+1112,"Nissan Tokyo Sales Holdings Co., Ltd.",8291.T,11.9,0.224
+1113,"Xebio Holdings Co., Ltd.",8281.T,9.63,0.183
+1114,"Nansin Co., Ltd.",7399.T,7.67,0.147
+1115,"Tokyo Sangyo Co., Ltd.",8070.T,13.2,0.248
+1116,"Careerlink Co., Ltd.",6070.T,9.92,0.189
+1117,Estic Corporation,6161.T,8.07,0.155
+1118,AlphaPurchase Corporation,7115.T,24.87,0.449
+1119,"Tokyu REIT, Inc.",8957.T,5.6,0.109
+1120,"LAND Co., Ltd.",8918.T,19.82,0.365
+1121,"Workman Co.,Ltd.",7564.T,23.24,0.422
+1122,"WirelessGate, Inc.",9419.T,20.21,0.372
+1123,Invincible Investment Corporation,8963.T,7.88,0.153
+1124,Pan Pacific International Holdings Corporation,7532.T,13.41,0.254
+1125,NICHIDEN Corporation,9902.T,13.21,0.25
+1126,OYO Corporation,9755.T,10.9,0.209
+1127,Business Coach Inc.,9562.T,20.03,0.37
+1128,"Qol Holdings Co., Ltd.",3034.T,17.27,0.323
+1129,"Japan Excellent, Inc.",8987.T,7.25,0.141
+1130,Sanko Gosei Ltd.,7888.T,22.85,0.419
+1131,"SAKAI Holdings CO.,LTD",9446.T,14.96,0.284
+1132,Area Quest Inc.,8912.T,15.48,0.293
+1133,"MORI TRUST REIT, Inc.",8961.T,5.81,0.115
+1134,"Emimen Co., Ltd.",9237.T,35.34,0.622
+1135,WILLs Inc.,4482.T,11.2,0.217
+1136,Synclayer Inc.,1724.T,7.02,0.138
+1137,SCAT Inc.,3974.T,12.99,0.25
+1138,"TS TECH Co., Ltd.",7313.T,8.68,0.171
+1139,Genki Global Dining Concepts Corporation,9828.T,18.49,0.35
+1140,Property Technologies Inc.,5527.T,21.96,0.41
+1141,Terumo Corporation,4543.T,12.6,0.245
+1142,Industrial & Infrastructure Fund Investment Corporation,3249.T,6.15,0.123
+1143,"Delica Foods Holdings Co., Ltd.",3392.T,15.02,0.289
+1144,Kimuratan Corporation,8107.T,32.02,0.578
+1145,"Smaregi, Inc.",4431.T,18.18,0.347
+1146,VALUE GOLF Inc.,3931.T,18.71,0.356
+1147,"AlphaPolis Co., Ltd.",9467.T,21.48,0.404
+1148,"Kissei Pharmaceutical Co., Ltd.",4547.T,12.55,0.245
+1149,"TECHNOLOGIES, Inc.",5248.T,20.61,0.391
+1150,"Iwatsuka Confectionery Co., Ltd.",2221.T,8.72,0.174
+1151,Japan Logistic Systems Corp.,9060.T,9.11,0.181
+1152,"Nittoc Construction Co., Ltd.",1929.T,8.83,0.176
+1153,System Integrator Corp.,3826.T,10.82,0.214
+1154,"Jimoto Holdings, Inc.",7161.T,22.85,0.432
+1155,Techno Smart Corp.,6246.T,9.09,0.182
+1156,TKC Corporation,9746.T,8.44,0.169
+1157,"TRANSACTION CO.,Ltd.",7818.T,17.76,0.343
+1158,Choei Inc.,2993.T,7.46,0.151
+1159,freee K.K.,4478.T,34.97,0.636
+1160,"FAN Communications, Inc.",2461.T,7.14,0.145
+1161,Living Technologies Inc.,4445.T,33.94,0.621
+1162,"Fukui Computer Holdings,Inc.",9790.T,10.28,0.206
+1163,"Kurashiru, Inc.",299A.T,27.84,0.522
+1164,"PCI Holdings, Inc.",3918.T,14.32,0.284
+1165,"Koito Manufacturing Co., Ltd.",7276.T,11.9,0.239
+1166,"Nankai Tatsumura Construction Co., Ltd.",1850.T,15.78,0.312
+1167,Tomoegawa Corporation,3878.T,18.21,0.357
+1168,"PRAP Japan, Inc.",2449.T,4.16,0.087
+1169,"Odawara Auto-Machine Mfg. Co., Ltd.",7314.T,9.92,0.203
+1170,Nippon Building Fund Inc.,8951.T,6.48,0.135
+1171,"ABIST Co.,Ltd.",6087.T,5.08,0.107
+1172,Toabo Corporation,3204.T,8.01,0.166
+1173,S.T. Corporation,4951.T,3.81,0.081
+1174,"OLBA DVx HEALTHCARE, Inc.",2689.T,6.34,0.133
+1175,Tsuburaya Fields Holdings Inc.,2767.T,36.77,0.688
+1176,"Ifuji Sangyo Co., Ltd.",2924.T,14.01,0.286
+1177,"IPS Holdings Co., Ltd.",4335.T,6.84,0.144
+1178,Omni-Plus System Limited,7699.T,12.61,0.26
+1179,Yamaura Corporation,1780.T,10.3,0.215
+1180,"Kikusui Chemical Industries Co., Ltd.",7953.T,3.45,0.074
+1181,"Toumei Co.,Ltd.",4439.T,21.87,0.438
+1182,"Nihon Shokuhin Kako Co., Ltd.",2892.T,14.48,0.298
+1183,"Toyo Tanso Co., Ltd.",5310.T,22.12,0.443
+1184,"Nextgen,Inc.",3842.T,21.08,0.424
+1185,"OPRO Co., Ltd.",228A.T,21.1,0.424
+1186,teno. Holdings Company Limited,7037.T,24.08,0.479
+1187,Hokuriku Electric Power Company,9505.T,16.84,0.345
+1188,"Toho Lamac Co., Ltd.",7422.T,21.52,0.433
+1189,TOSNET Corporation,4754.T,7.85,0.167
+1190,GLP J-REIT,3281.T,6.34,0.136
+1191,MediPal Holdings Corporation,7459.T,8.71,0.185
+1192,"Konica Minolta, Inc.",4902.T,23.79,0.476
+1193,TDC SOFT Inc.,4687.T,16.17,0.333
+1194,Iwatani Corporation,8088.T,11.29,0.237
+1195,Koken Ltd.,7963.T,6.45,0.139
+1196,"Property Data Bank, Inc.",4389.T,15.37,0.32
+1197,Kudo Corporation,1764.T,10.14,0.216
+1198,"Medical System Network Co., Ltd.",4350.T,15.14,0.316
+1199,Aisin Corporation,7259.T,13.62,0.286
+1200,Charm Care Corporation,6062.T,13.8,0.29
+1201,"Medikit Co.,Ltd.",7749.T,6.52,0.141
+1202,Softfront Holdings,2321.T,27.93,0.557
+1203,Unipres Corporation,5949.T,13.75,0.29
+1204,"and ST HD Co.,Ltd.",2685.T,12.38,0.263
+1205,"Shin Maint Holdings Co.,Ltd.",6086.T,11.85,0.253
+1206,"Eidai Co.,Ltd.",7822.T,11.89,0.254
+1207,"GA technologies Co., Ltd.",3491.T,21.35,0.439
+1208,Nikon Corporation,7731.T,14.75,0.312
+1209,"T. Hasegawa Co., Ltd.",4958.T,6.84,0.15
+1210,"HITO-TO-HITO Holdings Co.,Ltd.",549A.T,11.83,0.254
+1211,Enigmo Inc.,3665.T,16.11,0.34
+1212,CRESTEC Inc.,7812.T,8.94,0.195
+1213,"Hakuto Co., Ltd.",7433.T,7.51,0.165
+1214,FUJIX Ltd.,3600.T,5.84,0.129
+1215,Altech Corporation,4641.T,7.23,0.159
+1216,"Maruo Calcium Co., Ltd.",4102.T,4.03,0.09
+1217,"Money Forward, Inc.",3994.T,25.56,0.524
+1218,"BRUNO,Inc.",3140.T,3.03,0.068
+1219,"Chiikishinbunsha Co.,Ltd.",2164.T,29.36,0.594
+1220,"Artner Co., Ltd.",2163.T,11.06,0.241
+1221,RISE Inc.,8836.T,19.01,0.401
+1222,Healios K.K.,4593.T,37.07,0.732
+1223,Astellas Pharma Inc.,4503.T,12.2,0.266
+1224,"Yossix Holdings Co.,Ltd.",3221.T,9.56,0.211
+1225,"Misawa & Co., Ltd.",3169.T,6.04,0.135
+1226,Yamano Holdings Corporation,7571.T,22.8,0.478
+1227,"Konoshima Chemical Co.,Ltd.",4026.T,12.06,0.264
+1228,Tekscend Photomask Corp.,429A.T,25.32,0.529
+1229,"GDEP ADVANCE,Inc.",5885.T,28.75,0.594
+1230,"EPCO Co.,Ltd.",2311.T,6.76,0.152
+1231,FP Corporation,7947.T,10.79,0.239
+1232,Activia Properties Inc.,3279.T,5.6,0.127
+1233,"Daito Pharmaceutical Co.,Ltd.",4577.T,11.16,0.248
+1234,"F&M Co.,Ltd.",4771.T,15.7,0.344
+1235,"RenetJapanGroup,Inc.",3556.T,28.92,0.601
+1236,"Mitsui Chemicals, Inc.",4183.T,10.8,0.241
+1237,Sanwayuka Industry Corporation,4125.T,18.54,0.404
+1238,"TAKADAKIKO (Steel Construction) CO.,LTD.",5923.T,7.67,0.175
+1239,E J Holdings Inc.,2153.T,9.06,0.206
+1240,"Nomura System Corporation Co, Ltd.",3940.T,10.38,0.234
+1241,"Media Kobo, Inc.",3815.T,58.86,1.117
+1242,"AOI Electronics Co., Ltd.",6832.T,19.71,0.429
+1243,"DMG Mori Co., Ltd.",6141.T,19.48,0.426
+1244,"Software Service, Inc.",3733.T,12.72,0.286
+1245,"Chuco Co., Ltd.",2139.T,14.59,0.326
+1246,PR TIMES Corporation,3922.T,14.58,0.327
+1247,FUJIFILM Holdings Corporation,4901.T,10.41,0.238
+1248,TISI Inc.,3626.T,14.07,0.318
+1249,IKK Holdings Inc.,2198.T,8.27,0.192
+1250,"Totenko Co., Ltd.",8181.T,8.45,0.196
+1251,TV TOKYO Holdings Corporation,9413.T,11.66,0.268
+1252,"Tazmo Co., Ltd.",6266.T,28.67,0.616
+1253,GENDA Inc.,9166.T,20.94,0.463
+1254,Space Shower Skiyaki Holdings Inc.,4838.T,21.17,0.47
+1255,"Asahi Concrete Works Co., Ltd.",5268.T,17.09,0.386
+1256,"Aeon Kyushu Co., Ltd.",2653.T,9.95,0.232
+1257,IFIS Japan Ltd.,7833.T,6.52,0.155
+1258,"Fundely Co., Ltd.",3137.T,34.39,0.732
+1259,Toyota Motor Corporation,7203.T,13.7,0.316
+1260,"CRI Middleware Co., Ltd.",3698.T,13.16,0.304
+1261,"Kawaguchi Chemical Industry Co., Ltd",4361.T,8.05,0.191
+1262,"HS Holdings Co., Ltd.",8699.T,7.85,0.186
+1263,"Nippon Ski Resort Development Co.,Ltd.",6040.T,13.53,0.313
+1264,circlace Inc,5029.T,25.91,0.571
+1265,"Sportsfield Co., Ltd.",7080.T,15.86,0.364
+1266,Kourakuen Corporation,7554.T,8.58,0.204
+1267,"Capital Asset Planning, Inc.",3965.T,7.47,0.178
+1268,Tsuruha Holdings Inc.,3391.T,12.4,0.29
+1269,"Mie Kotsu Group Holdings, Inc.",3232.T,6.39,0.154
+1270,Yokogawa Bridge Holdings Corp.,5911.T,7.1,0.17
+1271,Wellnet Corporation,2428.T,10.88,0.257
+1272,"Rakuten Group, Inc.",4755.T,13.46,0.314
+1273,"Greens Co.,Ltd.",6547.T,18.61,0.426
+1274,Cross Plus Inc.,3320.T,8.58,0.205
+1275,Alinco Incorporated,5933.T,7.38,0.178
+1276,Okamura Corporation,7994.T,7.4,0.179
+1277,M H Group Ltd.,9439.T,6.12,0.149
+1278,Kadokawa Corporation,9468.T,17.66,0.409
+1279,"Papyless Co., Ltd.",3641.T,6.36,0.154
+1280,"SHIKIGAKU. Co., Ltd.",7049.T,17.95,0.417
+1281,C.E.Management Integrated Laboratory Co.Ltd,6171.T,9.99,0.241
+1282,"eWeLL Co.,Ltd.",5038.T,15.03,0.355
+1283,Dai-Ichi Cutter Kogyo k.k.,1716.T,8.13,0.198
+1284,"PA Co., Ltd.",4766.T,19.86,0.461
+1285,"LIKE, Inc.",2462.T,5.65,0.139
+1286,CMK Corporation,6958.T,16.86,0.397
+1287,"Saison Technology Co., Ltd.",9640.T,6.52,0.16
+1288,"Ochi Holdings Co., Ltd.",3166.T,5.35,0.132
+1289,"Asahi Kagaku Kogyo Co.,Ltd.",7928.T,4.92,0.122
+1290,"Azoom Co.,Ltd",3496.T,14.73,0.353
+1291,Paraca Inc.,4809.T,4.25,0.107
+1292,Kikkoman Corporation,2801.T,10.25,0.252
+1293,Shikibo Ltd.,3109.T,5.63,0.141
+1294,Ichigo Hotel REIT Investment Corporation,3463.T,8.89,0.221
+1295,"Miyaji Engineering Group,Inc.",3431.T,8.75,0.217
+1296,"Suzuken Co., Ltd.",9987.T,6.89,0.173
+1297,"MonotaRO Co., Ltd.",3064.T,16.08,0.388
+1298,TORIDOLL Holdings Corporation,3397.T,8.51,0.212
+1299,"KURADASHI.Co.,Ltd.",5884.T,19.12,0.457
+1300,"GRANDES, Inc.",3261.T,48.66,1.047
+1301,"eSOL Co.,Ltd.",4420.T,20.47,0.487
+1302,"GungHo Online Entertainment, Inc.",3765.T,9.9,0.246
+1303,Tosei Reit Investment Corporation,3451.T,3.82,0.098
+1304,"AGORA Hospitality Group Co., Ltd",9704.T,27.04,0.635
+1305,"Intrance Co., Ltd.",3237.T,23.07,0.55
+1306,"Avantia Co., Ltd.",8904.T,3.74,0.097
+1307,JGC Holdings Corporation,1963.T,13.36,0.332
+1308,"GMO TECH Holdings, Inc.",415A.T,30.46,0.708
+1309,"E-SUPPORTLINK, Ltd.",2493.T,4.72,0.122
+1310,"Sintokogio,Ltd.",6339.T,11.52,0.29
+1311,SEMITEC Corporation,6626.T,13.28,0.333
+1312,"Eiken Industries Co.,Ltd.",7265.T,11.84,0.3
+1313,"The Kinki Sharyo Co., Ltd.",7122.T,12.67,0.321
+1314,"NEXON Co., Ltd.",3659.T,17.19,0.428
+1315,Striders Corporation,9816.T,9.79,0.251
+1316,"Chugai Mining Co., Ltd.",1491.T,24.19,0.588
+1317,"Calbee, Inc.",2229.T,6.5,0.17
+1318,Suzumo Machinery Company Limited,6405.T,15.16,0.383
+1319,"Cerespo Co., Ltd.",9625.T,6.7,0.176
+1320,"Chiyoda Co., Ltd.",8185.T,11.65,0.3
+1321,ESCON JAPAN REIT Investment Corporation,2971.T,3.86,0.103
+1322,"SAAF Holdings Co.,Ltd.",1447.T,20.16,0.502
+1323,"SUMINOE Co., Ltd.",3501.T,7.2,0.189
+1324,TESEC Corporation,6337.T,16.88,0.429
+1325,"Cybertrust Japan Co., Ltd.",4498.T,12.23,0.317
+1326,"Tsukiji Uoichiba Company, Limited",8039.T,7.19,0.191
+1327,FINDEX Inc.,3649.T,11.15,0.292
+1328,Kurogane Kosakusho Ltd.,7997.T,14.03,0.364
+1329,"Kyoei Security Service Co., Ltd.",7058.T,6.03,0.162
+1330,"Cox Co., Ltd.",9876.T,17.5,0.45
+1331,"pluszero, Inc.",5132.T,22.82,0.576
+1332,Muninova Holdings Inc.,547A.T,8.79,0.235
+1333,"Taoka Chemical Company, Limited",4113.T,11.41,0.302
+1334,Star Asia Investment Corporation,3468.T,4.07,0.111
+1335,Trend Micro Incorporated,4704.T,13.95,0.367
+1336,Commerce One Holdings Inc.,4496.T,6.38,0.173
+1337,"Kobe Steel, Ltd.",5406.T,7.8,0.211
+1338,AZEARTH Corporation,3161.T,4.28,0.118
+1339,"Shibaura Machine Co.,Ltd.",6104.T,9.91,0.266
+1340,LIXIL Corporation,5938.T,6.66,0.182
+1341,"WA, Inc.",7683.T,9.62,0.259
+1342,Danto Holdings Corporation,5337.T,30.55,0.763
+1343,"Japan Logistics Fund, Inc.",8967.T,4.41,0.123
+1344,"Mori-Gumi Co., Ltd.",1853.T,3.66,0.102
+1345,Japan Real Estate Investment Corporation,8952.T,5.04,0.14
+1346,"Oenon Holdings, Inc.",2533.T,8.8,0.241
+1347,"Virtualex Holdings, Inc.",6193.T,13.82,0.371
+1348,"First Brothers Co.,Ltd.",3454.T,7.48,0.207
+1349,SIIX Corporation,7613.T,9.95,0.272
+1350,"UEX, Ltd.",9888.T,11.68,0.318
+1351,"The Chugoku Electric Power Co., Inc.",9504.T,10.24,0.28
+1352,NexTone Inc.,7094.T,24.61,0.636
+1353,"Riken Keiki Co., Ltd.",7734.T,10.53,0.291
+1354,Global One Real Estate Investment Corp.,8958.T,5.32,0.15
+1355,"halmek holdings Co.,Ltd.",7119.T,10.11,0.281
+1356,SIOS Corporation,3744.T,17.94,0.484
+1357,"MEDIA DO Co., Ltd.",3678.T,9.55,0.267
+1358,"Advantage Risk Management Co., Ltd.",8769.T,14.89,0.407
+1359,"Early Age Co., Ltd.",3248.T,6.02,0.171
+1360,"Asahi Net, Inc.",3834.T,3.32,0.095
+1361,Hoshizaki Corporation,6465.T,8.19,0.231
+1362,Kyoei Steel Ltd.,5440.T,8.2,0.231
+1363,Nippon Steel Corporation,5401.T,7.13,0.203
+1364,Hiday Hidaka Corp.,7611.T,7.49,0.213
+1365,"Emergency Assistance Japan Co., Ltd.",6063.T,12.54,0.348
+1366,"Anrakutei Co., Ltd.",7562.T,2.36,0.069
+1367,"DyDo Group Holdings, Inc.",2590.T,6.62,0.189
+1368,Enplas Corporation,6961.T,29.73,0.773
+1369,Hagihara Industries Inc.,7856.T,6.98,0.199
+1370,"SK-Electronics CO.,LTD.",6677.T,12.37,0.345
+1371,"Micron Machinery Co., Ltd.",6159.T,9.04,0.256
+1372,"CSS Holdings,Ltd.",2304.T,8.54,0.243
+1373,"Toei Animation Co.,Ltd.",4816.T,13.29,0.372
+1374,Piala Inc.,7044.T,40.73,1.031
+1375,Scinex Corporation,2376.T,9.67,0.276
+1376,Nisshin Seifun Group Inc.,2002.T,7.29,0.21
+1377,LaSalle LOGIPORT REIT,3466.T,4.28,0.125
+1378,Daiho Corporation,1822.T,7.45,0.216
+1379,A-One Seimitsu Inc.,6156.T,3.91,0.115
+1380,"grems,Inc.",3150.T,8.79,0.254
+1381,"JSH Co.,Ltd.",150A.T,27.07,0.727
+1382,"Toubujyuhan Co.,Ltd.",3297.T,4.67,0.137
+1383,"Planet, Inc.",2391.T,2.36,0.07
+1384,"OBIC Co.,Ltd.",4684.T,8.54,0.247
+1385,Wel-Dish.Incorporated,2901.T,26.2,0.711
+1386,Regal Corporation,7938.T,6.88,0.202
+1387,Sega Sammy Holdings Inc.,6460.T,12.05,0.349
+1388,"NKK Switches Co., Ltd.",6943.T,6.29,0.187
+1389,"Syuppin Co., Ltd.",3179.T,12.4,0.359
+1390,"IID, Inc.",6038.T,7.49,0.222
+1391,"Nippon Fine Chemical Co., Ltd.",4362.T,8.23,0.243
+1392,Orchestra Holdings Inc.,6533.T,17.62,0.502
+1393,"Koa Shoji Holdings Co.,Ltd.",9273.T,7.56,0.225
+1394,Nippon Hotel & Residential Investment Corporation,3472.T,5.62,0.17
+1395,Digital Information Technologies Corporation,3916.T,9.07,0.27
+1396,"OSG Corporation Co., Ltd.",6757.T,8.15,0.244
+1397,"Media Research Institute,Inc.",9242.T,14.16,0.413
+1398,"AUN CONSULTING, Inc.",2459.T,21.55,0.611
+1399,"NSD Co., Ltd.",9759.T,6.35,0.192
+1400,"Medius Holdings Co., Ltd.",3154.T,5.88,0.179
+1401,NIPPON REIT Investment Corporation,3296.T,3.68,0.114
+1402,Consec Corporation,9895.T,2.78,0.086
+1403,"MIRARTH HOLDINGS,Inc.",8897.T,6.66,0.203
+1404,"Hulic Reit, Inc.",3295.T,3.84,0.119
+1405,Muro Corporation,7264.T,5.27,0.163
+1406,Link-U Group Inc.,4446.T,24.18,0.698
+1407,Nichiha Corporation,7943.T,7.5,0.232
+1408,"Tsuchiya Holdings Co., Ltd.",1840.T,6.17,0.193
+1409,CLIP Corporation,4705.T,2.48,0.079
+1410,Nalnet Communications Inc.,5870.T,13.74,0.417
+1411,"Shindengen Electric Manufacturing Co.,Ltd.",6844.T,10.98,0.338
+1412,"Altech Co., Ltd.",9972.T,9.25,0.287
+1413,"Hokuyu Lucky Co.,Ltd.",2747.T,3.09,0.098
+1414,"TOKYO BASE Co.,Ltd.",3415.T,12.49,0.386
+1415,"KYCOM Holdings Co., Ltd.",9685.T,6.91,0.219
+1416,"Sotoh Co., Ltd.",3571.T,4.36,0.14
+1417,"Hankyu Hanshin REIT, Inc.",8977.T,4.65,0.149
+1418,"PLAID,Inc.",4165.T,22.49,0.67
+1419,"IG Port, Inc.",3791.T,18.92,0.575
+1420,"Rakus Co., Ltd.",3923.T,14.03,0.435
+1421,"People, Dreams & Technologies Group Co., Ltd.",9248.T,6.59,0.211
+1422,OpenWork Inc.,5139.T,13.46,0.419
+1423,"Japan Airlines Co., Ltd.",9201.T,6.16,0.198
+1424,"Seven Industries Co., Ltd.",7896.T,3.76,0.122
+1425,"Kitakei Co., Ltd.",9872.T,4.28,0.14
+1426,NTT UD REIT Investment Corporation,8956.T,3.68,0.121
+1427,"Shinwa Wise Holdings Co.,Ltd.",2437.T,20.66,0.634
+1428,"Nankai Chemical Company,Limited",4040.T,16.98,0.529
+1429,"Fullcast Holdings Co., Ltd.",4848.T,6.62,0.216
+1430,"UCHIYAMA HOLDINGS Co.,Ltd.",6059.T,4.31,0.142
+1431,"Honda Motor Co., Ltd.",7267.T,8.56,0.278
+1432,"Zenrin Co., Ltd.",9474.T,6.51,0.214
+1433,"NANKAI Co., Ltd.",9044.T,5.82,0.193
+1434,"QLS Holdings Co., Ltd",7075.T,6.07,0.202
+1435,Riskmonster.com,3768.T,6.63,0.22
+1436,"Tsukamoto Corporation Co., Ltd.",8025.T,5.86,0.195
+1437,"Ryoyo Ryosan Holdings, Inc.",167A.T,8.66,0.286
+1438,"Dynamic Map Platform Co., Ltd.",336A.T,28.44,0.873
+1439,"Lancers, Inc.",4484.T,9.48,0.314
+1440,Daiwa Office Investment Corporation,8976.T,4.17,0.142
+1441,"LEOCLAN Co.,Ltd.",7681.T,6.88,0.232
+1442,"Takamisawa Co., Ltd.",5283.T,6.77,0.229
+1443,"KOMEDA Holdings Co., Ltd.",3543.T,3.54,0.123
+1444,Logos Holdings Inc.,205A.T,19.66,0.636
+1445,Olympus Corporation,7733.T,7.83,0.266
+1446,Canox Corporation,8076.T,4.33,0.15
+1447,"Denkyo Group Holdings Co.,Ltd.",8144.T,3.48,0.124
+1448,Yutaka Foods Corporation,2806.T,4.39,0.156
+1449,Environment Friendly Holdings Corp.,3777.T,19.62,0.661
+1450,Biken Techno Corporation,9791.T,6.09,0.218
+1451,"The Okinawa Electric Power Company, Incorporated",9511.T,5.72,0.205
+1452,"Sawai Group Holdings Co., Ltd.",4887.T,6.53,0.233
+1453,Mitsuboshi Belting Ltd.,5192.T,4.38,0.158
+1454,Cube System Inc.,2335.T,3.58,0.13
+1455,"J-MAX Co.,Ltd.",3422.T,12.74,0.446
+1456,"Y.A.C. Holdings Co., Ltd.",6298.T,9.34,0.332
+1457,NSW Inc.,9739.T,5.4,0.195
+1458,Otake Corporation,7434.T,3.74,0.136
+1459,Waqoo Inc.,4937.T,15.49,0.537
+1460,"Warabeya Nichiyo Holdings Co., Ltd.",2918.T,7.47,0.269
+1461,"AR advanced technology, Inc.",5578.T,14.66,0.512
+1462,"Chofu Seisakusho Co., Ltd.",5946.T,3.66,0.135
+1463,"A-tie Co.,Ltd.",369A.T,10.18,0.364
+1464,"SERAKU Co., Ltd.",6199.T,8.56,0.312
+1465,"Izu Shaboten Resort Co.,Ltd",6819.T,6.27,0.231
+1466,Earth Corporation,4985.T,3.59,0.134
+1467,"Kyokuto Boeki Kaisha, Ltd.",8093.T,6.18,0.228
+1468,"Nissou Co.,Ltd.",1444.T,5.04,0.187
+1469,"Tokyo Steel Manufacturing Co., Ltd.",5423.T,6.17,0.228
+1470,"Create SD Holdings Co., Ltd.",3148.T,3.48,0.13
+1471,"Kyokuto Co., Ltd.",2300.T,2.96,0.111
+1472,"Applied Technology Co., Ltd.",4356.T,5.65,0.211
+1473,Tear Corporation,2485.T,4.5,0.169
+1474,"DIGITAL HEARTS HOLDINGS Co., Ltd.",3676.T,8.59,0.318
+1475,"Drecom Co.,Ltd.",3793.T,16.96,0.606
+1476,"Advan Group Co., Ltd.",7463.T,4.4,0.166
+1477,Zeta Inc.,6031.T,14.23,0.516
+1478,"Heiwado Co.,Ltd.",8276.T,4.95,0.187
+1479,JTEC Corporation,2479.T,5.31,0.201
+1480,"SOLXYZ Co., Ltd.",4284.T,6.84,0.257
+1481,Yasunaga Corporation,7271.T,12.45,0.458
+1482,SMC Corporation,6273.T,9.29,0.348
+1483,"ABC-Mart,Inc.",2670.T,5.2,0.2
+1484,"Ohki Healthcare Holdings Co.,Ltd.",3417.T,7.89,0.3
+1485,AnyMind Group Inc.,5027.T,17.88,0.653
+1486,Oisix Inc.,3182.T,10.04,0.379
+1487,istyle Inc.,3660.T,10.55,0.399
+1488,Dkk-Toa Corporation,6848.T,3.79,0.148
+1489,MTI Ltd.,9438.T,8.88,0.34
+1490,Sakurai Ltd.,7255.T,6.86,0.266
+1491,p-ban.com Corp.,3559.T,9.55,0.367
+1492,"Natori Co., Ltd.",2922.T,2.15,0.085
+1493,IRRC Corporation,7325.T,5.31,0.208
+1494,"Fuji Electric Industry Co., Ltd.",6654.T,2.51,0.1
+1495,Kidswell Bio Corporation,4584.T,17.49,0.653
+1496,"Townnews-Sha Co.,Ltd.",2481.T,3.33,0.132
+1497,"Ikka Holdings Co.,Ltd.",7127.T,2.35,0.094
+1498,OMRON Corporation,6645.T,11.76,0.45
+1499,"Ichikoh Industries, Ltd.",7244.T,6.29,0.247
+1500,"Midac Holdings Co., Ltd.",6564.T,8.14,0.317
+1501,"i-plug,Inc.",4177.T,8.89,0.345
+1502,"Excite Holdings Co., Ltd.",5571.T,7.87,0.307
+1503,"Nittoku Co.,Ltd.",6145.T,8.65,0.337
+1504,ASUA Inc.,246A.T,14.59,0.555
+1505,"LIFULL Co.,Ltd.",2120.T,9.44,0.367
+1506,"Seikitokyu Kogyo Co., Ltd.",1898.T,4.05,0.162
+1507,"Superbag Company, Limited",3945.T,5.73,0.228
+1508,Riso Kagaku Corporation,6413.T,5.82,0.234
+1509,"Aiphone Co.,Ltd.",6718.T,3.69,0.15
+1510,"CanBas Co., Ltd.",4575.T,13.64,0.542
+1511,IMAGE MAGIC Inc.,7793.T,8.48,0.345
+1512,"Kameda Seika Co.,Ltd.",2220.T,4.29,0.179
+1513,"Lilycolor Co., Ltd.",9827.T,7.98,0.328
+1514,Soiken Holdings Inc.,2385.T,10.47,0.43
+1515,Kaji Technology Corporation,6391.T,7.11,0.297
+1516,"Nippon Paper Industries Co., Ltd.",3863.T,5.47,0.231
+1517,"STUDIO ATAO Co., Ltd.",3550.T,3.67,0.157
+1518,"Waida Mfg. Co.,Ltd.",6158.T,4.66,0.199
+1519,"Makuake, Inc.",4479.T,12.38,0.511
+1520,Slogan Inc.,9253.T,5.55,0.236
+1521,Terilogy Holdings Corporation,5133.T,7.58,0.32
+1522,"cotta CO.,LTD",3359.T,8.87,0.372
+1523,Kibun Foods Inc.,2933.T,2.73,0.119
+1524,"Nihon Plast Co., Ltd.",7291.T,6.87,0.294
+1525,"Watahan & Co.,Ltd.",3199.T,3.41,0.149
+1526,"Menicon Co., Ltd.",7780.T,8.97,0.383
+1527,"Prodelight Co.,Ltd.",5580.T,9.63,0.411
+1528,Shimadzu Corporation,7701.T,5.17,0.225
+1529,"PARK24 Co., Ltd.",4666.T,5.83,0.253
+1530,"Kohsai Co.,Ltd.",7878.T,13.36,0.566
+1531,"Heiwa Real Estate REIT, Inc.",8966.T,2.81,0.124
+1532,"SMS Co., Ltd.",2175.T,8.72,0.377
+1533,"Ichimasa Kamaboko Co., Ltd.",2904.T,1.4,0.063
+1534,Roland Corporation,7944.T,4.86,0.215
+1535,Aeon Hokkaido Corporation,7512.T,2.13,0.095
+1536,"Nippon Prologis REIT, Inc.",3283.T,3.21,0.144
+1537,"Techno Medica Co., Ltd.",6678.T,4.65,0.208
+1538,Sakata Seed Corporation,1377.T,3.18,0.144
+1539,Port Inc.,7047.T,7.42,0.332
+1540,Digital Arts Inc.,2326.T,8.28,0.371
+1541,"Kamakura Shinsho, Ltd.",6184.T,7.71,0.352
+1542,"LEC, Inc.",7874.T,5.02,0.232
+1543,Takagi Seiko Corporation,4242.T,5.51,0.255
+1544,Fulltech Co.Ltd.,6546.T,2.82,0.133
+1545,Trusco Nakayama Corporation,9830.T,4.34,0.203
+1546,"JAPAN MATERIAL Co., Ltd.",6055.T,10.24,0.468
+1547,"Kawai Musical Instruments Manufacturing Co., Ltd.",7952.T,5.43,0.254
+1548,"NTT, Inc.",9432.T,3.17,0.152
+1549,"Phil Company, Inc.",3267.T,10.75,0.498
+1550,"Thermae-Yu Holdings Co., Ltd.",3521.T,6.67,0.318
+1551,"Japan Medical Dynamic Marketing, INC.",7600.T,8.41,0.399
+1552,"YMIRLINK,Inc.",4372.T,3.87,0.189
+1553,"Artiza Networks, Inc.",6778.T,4.03,0.197
+1554,SecuAvail Inc.,3042.T,5.51,0.267
+1555,"Seki Co., Ltd.",7857.T,1.06,0.053
+1556,"Takamatsu Machinery Co., Ltd.",6155.T,3.13,0.155
+1557,"Nippon Kinzoku Co., Ltd.",5491.T,4.83,0.24
+1558,"TOP CULTURE Co.,Ltd.",7640.T,4.97,0.247
+1559,"Cube Co., Ltd.",7112.T,9.62,0.468
+1560,Grandy House Corporation,8999.T,3.01,0.151
+1561,PRONEXUS Inc.,7893.T,3.23,0.162
+1562,YASKAWA Electric Corporation,6506.T,10.71,0.52
+1563,Aidma Marketing Communication Corporation,9466.T,2.89,0.146
+1564,"Amazia,inc.",4424.T,17.8,0.845
+1565,Mitsubishi Estate Logistics REIT Investment Corporation,3481.T,2.24,0.114
+1566,Mori Hills REIT Investment Corporation,3234.T,2.02,0.103
+1567,"Kanamic Network Co.,LTD",3939.T,6.29,0.315
+1568,"Fabrica Holdings Co., Ltd.",4193.T,6.59,0.33
+1569,rakumo Inc.,4060.T,6.04,0.304
+1570,Yorozu Corporation,7294.T,4.88,0.247
+1571,"Komehyo Holdings Co.,Ltd.",2780.T,8.6,0.431
+1572,Mitsui Fudosan Accommodations Fund Inc.,3226.T,2.75,0.141
+1573,"oRo Co., Ltd.",3983.T,5.82,0.299
+1574,"Appier Group, Inc.",4180.T,11.33,0.568
+1575,INTLOOP Inc.,9556.T,12.08,0.613
+1576,Interworks Confidence Inc.,7374.T,3.27,0.173
+1577,"Belc CO., LTD.",9974.T,3.78,0.202
+1578,"Dream Vision Co.,Ltd.",3185.T,11.05,0.576
+1579,West Japan Railway Company,9021.T,2.69,0.147
+1580,"uSonar Co., Ltd.",431A.T,12.34,0.659
+1581,"Sansha Electric Manufacturing Co.,Ltd.",6882.T,7.75,0.424
+1582,"Odawara Engineering Co., Ltd.",6149.T,5.62,0.312
+1583,Shimano Inc.,7309.T,4.33,0.242
+1584,M - mart Inc.,4380.T,3.52,0.198
+1585,"Living Platform,Ltd.",7091.T,5.95,0.334
+1586,LITALICO Inc.,7366.T,7.29,0.408
+1587,"Kisoji Co., Ltd.",8160.T,2.57,0.147
+1588,"OSAKA Titanium technologies Co.,Ltd.",5726.T,9.5,0.529
+1589,"Kaitori Okoku Co., Ltd.",3181.T,5.73,0.325
+1590,"Aoba-BBT, Inc.",2464.T,2.58,0.149
+1591,"Sec Carbon,Limited",5304.T,4.03,0.233
+1592,Ryobi Limited,5851.T,4.79,0.277
+1593,atect corporation,4241.T,7.51,0.444
+1594,Basis Corporation,4068.T,5.58,0.334
+1595,"Intimate Merger, Inc.",7072.T,8.08,0.483
+1596,AI CROSS Inc.,4476.T,7.46,0.447
+1597,FURYU Corporation,6238.T,4.2,0.256
+1598,"MarketEnterprise Co.,Ltd",3135.T,9.27,0.556
+1599,"Shochiku Co., Ltd.",9601.T,3.49,0.215
+1600,Key Coffee Inc.,2594.T,0.9,0.056
+1601,NJ Holdings Inc.,9421.T,5.07,0.311
+1602,Subaru Corporation,7270.T,4.77,0.293
+1603,"Ubicom Holdings, Inc.",3937.T,6.33,0.391
+1604,"Innovation Holdings CO.,LTD.",3484.T,2.79,0.177
+1605,KITAC Corporation,4707.T,4.67,0.294
+1606,Sanden Corporation,6444.T,6.59,0.414
+1607,"Information Strategy and Technology Co.,Ltd.",155A.T,11.84,0.726
+1608,"Coach A Co., Ltd.",9339.T,4.7,0.299
+1609,"Honeys Holdings Co., Ltd.",2792.T,2.19,0.143
+1610,"Halows Co.,Ltd.",2742.T,3.49,0.227
+1611,YRGLM Inc.,3690.T,4.82,0.314
+1612,Orvis Corporation,7827.T,4.06,0.266
+1613,"Fast Accounting Co.,Ltd.",5588.T,8.98,0.578
+1614,West Holdings Corporation,1407.T,8.02,0.52
+1615,Kuroda Precision Industries Ltd.,7726.T,5.05,0.331
+1616,Fujipream Corporation,4237.T,4.44,0.292
+1617,"First Juken Co., Ltd.",8917.T,2.73,0.182
+1618,"Eternal Hospitality Group Co.,Ltd.",3193.T,4.95,0.328
+1619,Printnet Inc.,7805.T,2.28,0.153
+1620,"Morpho, Inc.",3653.T,7.84,0.517
+1621,F-Tech Inc.,7212.T,5.2,0.348
+1622,"KOSAIDO Holdings Co., Ltd.",7868.T,4.65,0.314
+1623,"Tripleize Co.,Ltd.",5026.T,10.03,0.666
+1624,Kogi Corporation,5603.T,3.59,0.248
+1625,PHYZ Holdings Inc.,9325.T,4.05,0.279
+1626,"Taisei Lamick Group Head Quarter & Innovation Co.,Ltd.",4994.T,2.19,0.154
+1627,Fisco Ltd.,3807.T,9.69,0.666
+1628,Rococo Co. Ltd.,5868.T,4.53,0.322
+1629,"B-R 31 Ice Cream Co.,Ltd.",2268.T,1.05,0.077
+1630,SBI ARUHI Corporation,7198.T,2.68,0.196
+1631,Avant Group Corporation,3836.T,4.8,0.35
+1632,WonderPlanet Inc.,4199.T,10.36,0.739
+1633,SoftBank Corp.,94345.T,0.24,0.018
+1634,"Daisan Co., Ltd.",4750.T,2.42,0.182
+1635,"Kyowanissei Co.,Ltd.",1981.T,2.34,0.176
+1636,"Fujiya Co., Ltd.",2211.T,1.55,0.118
+1637,SRE Holdings Corporation,2980.T,6.45,0.481
+1638,MatsukiyoCocokara & Co.,3088.T,2.67,0.203
+1639,MIRAI Corporation,3476.T,1.25,0.096
+1640,"Daiken Co.,Ltd.",5900.T,1.7,0.131
+1641,"Stream Co.,Ltd.",3071.T,1.82,0.14
+1642,Oracle Corporation Japan,4716.T,3.16,0.243
+1643,"Tay Two Co., Ltd.",7610.T,3.9,0.3
+1644,"Fantasista Co., Ltd.",1783.T,4.61,0.355
+1645,"MicroAd, Inc.",9553.T,7.52,0.584
+1646,"T.O. Holdings CO.,LTD.",9812.T,5.32,0.421
+1647,"Nitori Holdings Co., Ltd.",9843.T,4.8,0.382
+1648,"Okamoto Machine Tool Works, Ltd.",6125.T,4.42,0.356
+1649,Cookpad Inc.,2193.T,4.63,0.378
+1650,"Eat & Holdings Co., Ltd.",2882.T,1.06,0.088
+1651,"Ecomic Co., Ltd",3802.T,2.1,0.176
+1652,TODA KOGYO CORP.,4100.T,6.02,0.498
+1653,"The Takigami Steel Construction Co., Ltd.",5918.T,3.2,0.27
+1654,"Noevir Holdings Co., Ltd.",4928.T,1.7,0.144
+1655,"HIRANO TECSEED Co.,Ltd.",6245.T,3.04,0.26
+1656,True Data Inc.,4416.T,6.1,0.524
+1657,Nakanishi Inc.,7716.T,3.56,0.312
+1658,MERCURY Inc.,5025.T,4.71,0.412
+1659,Hokuetsu Corporation,3865.T,4.54,0.417
+1660,"WDB Holdings Co., Ltd.",2475.T,2.53,0.237
+1661,"Shoei Co., Ltd.",7839.T,2.7,0.254
+1662,Ficha Inc.,4052.T,8.92,0.817
+1663,"Okuwa Co., Ltd.",8217.T,2.07,0.196
+1664,ReYuu Japan Inc.,9425.T,7.22,0.668
+1665,"KYOTO KIMONO YUZEN HOLDINGS Co., Ltd.",7615.T,10.91,0.997
+1666,"Alue Co.,Ltd.",7043.T,3.91,0.374
+1667,"Toho Zinc Co., Ltd.",5707.T,7.14,0.672
+1668,SMN Corporation,6185.T,4.63,0.446
+1669,"Hasegawa Co., Ltd.",8230.T,1.12,0.11
+1670,Starts Proceed Investment Corporation,8979.T,1.27,0.129
+1671,Mitsui Fudosan Logistics Park Inc.,3471.T,1.12,0.114
+1672,"Morinaga&Co., Ltd.",2201.T,1.7,0.178
+1673,"Pickles Holdings Co.,Ltd.",2935.T,1.9,0.201
+1674,JFLA Holdings Inc.,3069.T,2.13,0.226
+1675,"Sougou Shouken Co.,Ltd.",7850.T,1.18,0.127
+1676,"Qualtec Co.,Ltd.",9165.T,2.95,0.326
+1677,Ahresty Corporation,5852.T,3.18,0.353
+1678,"Morishita Jintan Co., Ltd.",4524.T,1.14,0.128
+1679,"HIMARAYA Co.,Ltd.",7514.T,0.43,0.049
+1680,"Robot Home, Inc.",1435.T,3.45,0.391
+1681,Hmcomm Inc.,265A.T,5.49,0.623
+1682,JSS Corporation,6074.T,1.69,0.196
+1683,Hammock Inc.,173A.T,2.03,0.236
+1684,Toshiba Tec Corporation,6588.T,2.52,0.294
+1685,"Ekitan & Co., Ltd.",3646.T,2.11,0.246
+1686,"Subaru Co., Ltd.",9778.T,1.16,0.136
+1687,"Comforia Residential REIT, Inc",3282.T,1.21,0.144
+1688,eMnet Japan.co.ltd.,7036.T,3.42,0.41
+1689,KDX Realty Investment Corporation,8972.T,1.15,0.143
+1690,"Human Creation Holdings, Inc.",7361.T,2.07,0.254
+1691,"Unbanked,Inc.",8746.T,7.88,0.954
+1692,"Nomura Real Estate Master Fund, Inc.",3462.T,0.95,0.119
+1693,Broadmedia Corporation,4347.T,2.68,0.337
+1694,"BELLSYSTEM24 Holdings, Inc.",6183.T,1.2,0.153
+1695,toridori Inc.,9337.T,4.5,0.571
+1696,Artra Group Corporation,6029.T,2.74,0.352
+1697,Institution for a Global Society Corporation,4265.T,5.97,0.758
+1698,GiG Works Inc.,2375.T,7.22,0.937
+1699,"Sundrug Co.,Ltd.",9989.T,1.33,0.183
+1700,Betrend Corporation,4020.T,2.26,0.311
+1701,"Prored Partners CO.,LTD.",7034.T,3.84,0.529
+1702,"eGuarantee, Inc.",8771.T,1.82,0.255
+1703,"Taiyo Technolex Co.,Ltd.",6663.T,2.41,0.339
+1704,"EM Systems Co., Ltd.",4820.T,2.29,0.326
+1705,"Cluster Technology Co.,Ltd.",4240.T,2.65,0.387
+1706,Avex Inc.,7860.T,1.24,0.184
+1707,"Kyosha Co., Ltd.",6837.T,1.64,0.25
+1708,"Infcurion, Inc.",438A.T,4.58,0.692
+1709,Tokai Senko K.K.,3577.T,1.46,0.236
+1710,Forval Corporation,8275.T,1.35,0.223
+1711,"Japan Airport Terminal Co., Ltd.",9706.T,1.26,0.209
+1712,EDP Corporation,7794.T,5.54,0.928
+1713,Linkbal Inc.,6046.T,2.38,0.405
+1714,"RENOVA, Inc.",9519.T,2.54,0.447
+1715,W TOKYO Inc.,9159.T,3.27,0.578
+1716,"Central Security Patrols Co., Ltd.",9740.T,1.26,0.235
+1717,"MBK Co.,Ltd.",3121.T,1.56,0.29
+1718,geechs inc.,7060.T,1.76,0.331
+1719,Sony Financial Group Inc.,8729.T,1.18,0.223
+1720,"Hit Co., Ltd.",378A.T,1.39,0.269
+1721,"C.S. Lumber Co., Inc",7808.T,1.0,0.198
+1722,"NETSTARS Co.,Ltd.",5590.T,2.94,0.593
+1723,"Asahi Group Holdings, Ltd.",2502.T,0.87,0.179
+1724,"Geniee, Inc.",6562.T,1.84,0.383
+1725,"Mani, Inc.",7730.T,1.28,0.27
+1726,Daisyo Corporation,9979.T,0.79,0.167
+1727,"Daikin Industries,Ltd.",6367.T,1.21,0.259
+1728,KLab Inc.,3656.T,2.75,0.59
+1729,Monstarlab Inc.,5255.T,5.77,1.227
+1730,"Shinto Paint Company, Limited",4615.T,0.42,0.093
+1731,Aval Data Corporation,6918.T,1.63,0.372
+1732,Material Group Inc.,156A.T,1.46,0.34
+1733,Nippon Chuzo K. K.,5609.T,0.65,0.152
+1734,"Tein, Inc.",7217.T,0.74,0.181
+1735,"SecondXight Analytica, Inc.",5028.T,2.23,0.546
+1736,Mitsui Fudosan Retail Fund Investment Corporation,8964.T,0.39,0.099
+1737,"Koshidaka Holdings Co., Ltd.",2157.T,1.1,0.276
+1738,INGS inc.,245A.T,1.46,0.369
+1739,"Sanoh Industrial Co., Ltd.",6584.T,1.43,0.367
+1740,S Foods Inc.,2292.T,0.76,0.195
+1741,"Karula Co.,LTD.",2789.T,0.52,0.138
+1742,"Anshin Guarantor Service Co., Ltd.",7183.T,1.2,0.332
+1743,Zojirushi Corporation,7965.T,1.06,0.298
+1744,"ZIGExN Co., Ltd.",3679.T,0.89,0.253
+1745,Caulis Inc.,153A.T,2.86,0.827
+1746,"Ten Allied Co.,Ltd.",8207.T,0.31,0.093
+1747,"Nitto Kohki Co., Ltd.",6151.T,0.87,0.263
+1748,"Tokyo Electric Power Company Holdings, Incorporated",9501.T,1.37,0.435
+1749,"Kringle Pharma, Inc.",4884.T,2.13,0.678
+1750,"NISSO HOLDINGS Co., Ltd",9332.T,0.51,0.167
+1751,Disruptors Inc.,6538.T,1.2,0.43
+1752,"Members Co., Ltd.",2130.T,0.96,0.349
+1753,Kokopelli Inc.,4167.T,1.37,0.501
+1754,"Wood One Co.,Ltd.",7898.T,0.56,0.217
+1755,"Nihon House Holdings Co., Ltd.",1873.T,0.46,0.183
+1756,Kyodo Paper Holdings,9849.T,0.16,0.066
+1757,"ASULINA Co.,Ltd.",3647.T,1.02,0.436
+1758,"HOTMAN Co.,Ltd.",3190.T,0.12,0.051
+1759,itsumo.inc.,7694.T,1.43,0.646
+1760,"Ono Pharmaceutical Co., Ltd.",4528.T,0.49,0.229
+1761,"INEST, Inc.",7111.T,1.19,0.645
+1762,"Data Applications Company, Limited",3848.T,0.33,0.192
+1763,"Elitz Holdings Co., Ltd.",5533.T,0.4,0.24
+1764,"Smartvalue Co., Ltd.",9417.T,0.5,0.315
+1765,"JFE Holdings, Inc.",5411.T,0.33,0.216
+1766,"Plus Alpha Consulting Co.,Ltd.",4071.T,0.6,0.395
+1767,Hamamatsu Photonics K.K.,6965.T,0.64,0.431
+1768,"D. I. System Co., Ltd.",4421.T,0.28,0.21
+1769,Double Standard Inc.,3925.T,0.3,0.247
+1770,"Sanyo Electric Railway Co.,Ltd.",9052.T,0.08,0.09
+1771,Shoei Foods Corporation,8079.T,0.16,0.174
+1772,Cross Marketing Group Inc.,3675.T,0.27,0.315
+1773,"Access Co., Ltd.",4813.T,0.52,0.646
+1774,Sobal Corporation,2186.T,0.02,0.059
+1775,"Zeria Pharmaceutical Co., Ltd.",4559.T,0.05,0.17
+1776,"CHIeru Co.,Ltd.",3933.T,0.08,0.314
+1777,Asian Star Co.,8946.T,0.08,0.362
+1778,inspec Inc.,6656.T,-0.05,0.581
+1779,WILLPLUS Holdings Corporation,3538.T,-0.05,0.19
+1780,"Koei Tecmo Holdings Co., Ltd.",3635.T,-0.11,0.288
+1781,Itamiarts.Inc,168A.T,-0.3,0.436
+1782,"Nihon Enterprise Co.,Ltd.",4829.T,-0.19,0.246
+1783,"Headwaters Co.,Ltd",4011.T,-0.46,0.568
+1784,Dentsu Group Inc.,4324.T,-0.26,0.28
+1785,"Sotetsu Holdings, Inc.",9003.T,-0.19,0.169
+1786,"Niigata Kotsu Co., Ltd.",9017.T,-0.09,0.056
+1787,"QB Net Holdings Co.,Ltd.",6571.T,-0.48,0.288
+1788,"Yamazawa Co., Ltd.",9993.T,-0.15,0.084
+1789,"Tama Home Co., Ltd.",1419.T,-0.42,0.225
+1790,Sanix Holdings Incorporated,4651.T,-0.61,0.305
+1791,Graphite Design Inc.,7847.T,-0.47,0.186
+1792,"Nippon Coke & Engineering Company, Limited",3315.T,-0.79,0.311
+1793,Sysmex Corporation,6869.T,-0.8,0.298
+1794,"Shiseido Company, Limited",4911.T,-1.21,0.425
+1795,"Cota Co., Ltd.",4923.T,-0.51,0.17
+1796,Starts Publishing Corporation,7849.T,-0.89,0.296
+1797,Advance Residence Investment Corporation,3269.T,-0.39,0.13
+1798,"Fine Sinter Co., Ltd.",5994.T,-1.38,0.423
+1799,"PIETRO Co., Ltd.",2818.T,-0.12,0.037
+1800,"Mitsui High-tec, Inc.",6966.T,-1.81,0.54
+1801,Mazda Motor Corporation,7261.T,-1.15,0.338
+1802,"Shin Nippon Biomedical Laboratories, Ltd.",2395.T,-1.23,0.359
+1803,PeptiDream Inc.,4587.T,-1.71,0.497
+1804,"HIMACS, Ltd.",4299.T,-0.43,0.125
+1805,"SOSiLA Logistics REIT, Inc.",2979.T,-0.43,0.12
+1806,MIRARTH Real Estate Investment Corporation,3492.T,-0.37,0.101
+1807,Adways Inc.,2489.T,-1.31,0.347
+1808,"SHO-BOND Holdings Co.,Ltd.",1414.T,-0.54,0.143
+1809,"Berg Earth Co.,Ltd.",1383.T,-0.54,0.141
+1810,Daiwa Securities Living Investment Corporation,8986.T,-0.49,0.119
+1811,"Taka-Q Co., Ltd.",8166.T,-1.3,0.308
+1812,COVER Corporation,5253.T,-2.07,0.49
+1813,"Global-Dining, Inc.",7625.T,-1.22,0.271
+1814,"Awa Paper & Technological Company, Inc.",3896.T,-1.67,0.365
+1815,"TBK Co., Ltd.",7277.T,-0.99,0.215
+1816,"Sasatoku Printing Co.,Ltd.",3958.T,-0.51,0.106
+1817,"Hatch Work Co.,Ltd.",148A.T,-2.77,0.525
+1818,L is B corp.,145A.T,-2.61,0.483
+1819,FLIGHT SOLUTIONS Inc.,3753.T,-3.02,0.553
+1820,"Takakita Co., Ltd.",6325.T,-0.82,0.147
+1821,"Nagaileben Co., Ltd.",7447.T,-1.32,0.229
+1822,"Ikegami Tsushinki Co., Ltd.",6771.T,-1.48,0.251
+1823,"Kobayashi Pharmaceutical Co., Ltd.",4967.T,-1.29,0.219
+1824,"NEW ART HOLDINGS Co., Ltd.",7638.T,-1.54,0.244
+1825,en Inc.,4849.T,-2.16,0.335
+1826,"Marimo Regional Revitalization REIT, Inc.",3470.T,-0.76,0.115
+1827,Twenty-four seven Holdings Inc.,7074.T,-4.2,0.597
+1828,"Fuji Seiki Co.,Ltd.",6400.T,-1.56,0.219
+1829,Seiwa Chuo Holdings Corporation,7531.T,-1.24,0.171
+1830,"Akikawa Foods & Farms Co., Ltd.",1380.T,-0.51,0.069
+1831,Appirits Inc.,4174.T,-2.24,0.307
+1832,"Molitec Steel Co., Ltd.",5986.T,-1.69,0.228
+1833,JMDC Inc.,4483.T,-3.44,0.467
+1834,Nihon Kohden Corporation,6849.T,-2.01,0.267
+1835,Mikuni Corporation,7247.T,-2.09,0.277
+1836,"EduLab, Inc.",4427.T,-4.03,0.536
+1837,Daio Paper Corporation,3880.T,-2.17,0.285
+1838,"Crossfor Co.,Ltd.",7810.T,-2.73,0.352
+1839,"Kobe Bussan Co., Ltd.",3038.T,-2.31,0.297
+1840,"KeyHolder, Inc.",4712.T,-1.25,0.158
+1841,"Microwave Chemical Co., Ltd.",9227.T,-4.36,0.547
+1842,Casa Inc.,7196.T,-1.08,0.133
+1843,JTEC Corporation,3446.T,-4.43,0.555
+1844,Sanyo Homes Corporation,1420.T,-0.72,0.086
+1845,"Magmag, Inc.",4059.T,-2.98,0.361
+1846,"Titan Kogyo, Ltd.",4098.T,-3.23,0.39
+1847,"Yamae Group Holdings Co.,Ltd.",7130.T,-2.23,0.265
+1848,Sourcenext Corporation,4344.T,-4.64,0.554
+1849,"es Networks Co., Ltd.",5867.T,-1.75,0.204
+1850,"Yamaichi Real Estate Co., Ltd",2984.T,-1.25,0.143
+1851,"Shokubun Co., Ltd.",9969.T,-1.2,0.136
+1852,SoftBank Corp.,94346.T,-0.2,0.023
+1853,"Insource Co., Ltd.",6200.T,-3.2,0.366
+1854,"Nippon Aqua Co., Ltd.",1429.T,-2.09,0.229
+1855,"Milbon Co., Ltd.",4919.T,-2.2,0.232
+1856,"iRidge, Inc.",3917.T,-3.69,0.39
+1857,"Kimura Co.,Ltd.",7461.T,-1.47,0.151
+1858,"Synchro Food Co., Ltd.",3963.T,-4.24,0.434
+1859,"Daikokutenbussan Co.,Ltd.",2791.T,-3.54,0.361
+1860,"Bull-Dog Sauce Co., Ltd.",2804.T,-1.32,0.128
+1861,"Geekly, Inc.",505A.T,-5.48,0.538
+1862,YCP Holdings (Global) Limited,9257.T,-3.82,0.371
+1863,Samty Residential Investment Corporation,3459.T,-1.45,0.138
+1864,Aplix Corporation,3727.T,-3.81,0.366
+1865,UNIVA Oak Holdings Limited,3113.T,-2.3,0.219
+1866,JIG-SAW INC.,3914.T,-5.55,0.526
+1867,Accrete Inc.,4395.T,-5.26,0.489
+1868,"NS Tool Co., Ltd.",6157.T,-2.33,0.211
+1869,"SystemEXE,Inc.",548A.T,-1.68,0.147
+1870,"Japan Craft Holdings Co., Ltd.",7135.T,-2.98,0.261
+1871,"Nxera Pharma Co., Ltd.",4565.T,-3.87,0.339
+1872,"Digital Garage, Inc.",4819.T,-4.55,0.396
+1873,Globee Inc.,5575.T,-5.72,0.489
+1874,"Tsunagu Group Holdings, Inc.",6551.T,-3.54,0.295
+1875,SIGMAXYZ Holdings Inc.,6088.T,-3.72,0.31
+1876,"JMS Co.,Ltd.",7702.T,-1.31,0.107
+1877,ENSHU Limited,6218.T,-2.18,0.176
+1878,Perseus Proteomics Inc.,4882.T,-9.76,0.805
+1879,"Seihyo Co., Ltd.",2872.T,-3.88,0.302
+1880,Vision Inc.,9416.T,-4.24,0.324
+1881,"Land Business Co.,Ltd.",8944.T,-3.92,0.296
+1882,"Colowide Co.,Ltd.",7616.T,-2.3,0.171
+1883,GMO GlobalSign Holdings K.K.,3788.T,-3.47,0.259
+1884,Cacco Inc.,4166.T,-5.16,0.388
+1885,"M3, Inc.",2413.T,-5.15,0.383
+1886,"Keisei Electric Railway Co., Ltd.",9009.T,-3.57,0.258
+1887,"GREE Holdings, Inc.",3632.T,-3.65,0.263
+1888,Brass Corporation,2424.T,-2.65,0.186
+1889,SHIFT Inc.,3697.T,-7.36,0.526
+1890,Core Concept Technologies Inc.,4371.T,-7.72,0.544
+1891,"Yamato Holdings Co., Ltd.",9064.T,-3.24,0.219
+1892,"Chichibu Railway Co., Ltd.",9012.T,-1.2,0.08
+1893,"BTM, Inc.",5247.T,-10.26,0.71
+1894,"CS-C.Co.,Ltd.",9258.T,-4.49,0.302
+1895,"Secure, Inc.",4264.T,-5.22,0.352
+1896,"Gyet Co., Ltd.",7603.T,-19.17,1.377
+1897,"Ichishin Holdings Co.,Ltd.",4645.T,-1.53,0.101
+1898,"Serverworks Co.,Ltd.",4434.T,-5.96,0.392
+1899,Meiwa Estate Company Limited,8869.T,-3.46,0.224
+1900,"Rock Field Co.,Ltd.",2910.T,-1.94,0.123
+1901,"PIOLAX, Inc.",5988.T,-3.34,0.209
+1902,"Nagoya Railroad Co., Ltd.",9048.T,-2.25,0.138
+1903,"Ubiteq, Inc.",6662.T,-2.61,0.158
+1904,"Amita Holdings Co.,Ltd.",2195.T,-8.54,0.533
+1905,"Medley, Inc.",4480.T,-7.53,0.465
+1906,Axelspace Holdings Corporation,402A.T,-14.46,0.907
+1907,SystemSoft Corporation,7527.T,-5.64,0.336
+1908,"Daiichi Sankyo Company, Limited",4568.T,-5.46,0.325
+1909,"Hosoya Pyro-Engineering Co., Ltd.",4274.T,-4.59,0.269
+1910,"Taiko Pharmaceutical Co.,Ltd.",4574.T,-5.27,0.301
+1911,"JACCS Co., Ltd.",8584.T,-3.8,0.215
+1912,Kitazato Corporation,368A.T,-4.96,0.281
+1913,Orient Corporation,8585.T,-3.61,0.203
+1914,"Fusic Co., Ltd.",5256.T,-8.85,0.509
+1915,"monoAI technology Co.,Ltd.",5240.T,-13.49,0.782
+1916,KEL Corporation,6919.T,-3.35,0.185
+1917,"Nippon Shinyaku Co., Ltd.",4516.T,-8.14,0.447
+1918,"HYUGA PRIMARY CARE Co.,Ltd.",7133.T,-6.92,0.376
+1919,"Sekichu Co., Ltd.",9976.T,-1.76,0.091
+1920,"Startline CO.,LTD.",477A.T,-12.07,0.65
+1921,"CRG Holdings Co.,Ltd.",7041.T,-6.17,0.322
+1922,MKSystem Corporation,3910.T,-4.25,0.215
+1923,"COLOPL, Inc.",3668.T,-4.53,0.228
+1924,"Mamiya-OP Co., Ltd.",7991.T,-7.6,0.387
+1925,BRIDGE International Group Corp.,7039.T,-4.69,0.234
+1926,Nihon Seikan k.k.,5905.T,-3.37,0.165
+1927,ASJ Inc.,2351.T,-6.55,0.324
+1928,PIA Corporation,4337.T,-5.5,0.269
+1929,"Retail Partners Co., Ltd.",8167.T,-3.52,0.17
+1930,Sockets Inc.,3634.T,-7.74,0.382
+1931,"Yappli, Inc.",4168.T,-7.11,0.349
+1932,"Tokaido REIT, Inc.",2989.T,-1.87,0.09
+1933,Yoshimura Food Holdings K.K.,2884.T,-9.18,0.446
+1934,Mitsuchi Corporation,3439.T,-4.38,0.206
+1935,"Pole To Win Holdings, Inc.",3657.T,-4.66,0.219
+1936,"MedRx Co., Ltd",4586.T,-12.81,0.616
+1937,"Fuji United Holdings Company,Ltd.",416A.T,-4.15,0.191
+1938,"AnGes, Inc.",4563.T,-13.19,0.628
+1939,"Tenmaya Store Co., Ltd.",9846.T,-1.43,0.064
+1940,"FreakOut Holdings, inc.",6094.T,-8.87,0.399
+1941,AEON REIT Investment Corporation,3292.T,-2.36,0.102
+1942,"TENDA Co.,LTD.",4198.T,-5.33,0.232
+1943,"Tobu Railway Co., Ltd.",9001.T,-4.51,0.193
+1944,"PBsystems,Inc.",4447.T,-5.18,0.223
+1945,"CEDAR.Co.,Ltd.",2435.T,-3.97,0.166
+1946,Marvelous Inc.,7844.T,-5.1,0.214
+1947,Sharp Corporation,6753.T,-7.1,0.299
+1948,"PhoenixBio Co., Ltd.",6190.T,-9.22,0.392
+1949,Mynet Inc.,3928.T,-8.4,0.353
+1950,Greenland Resort Company Limited,9656.T,-2.42,0.098
+1951,"NAGAWA Co., Ltd.",9663.T,-5.84,0.239
+1952,"TMS Co., Ltd.",4891.T,-13.64,0.565
+1953,"KNC Laboratories Co., Ltd.",6568.T,-4.54,0.179
+1954,"Chimney Co., Ltd.",3178.T,-3.7,0.144
+1955,infoNet inc.,4444.T,-8.86,0.347
+1956,"Cookbiz Co.,Ltd.",6558.T,-11.53,0.452
+1957,"Gourmet Kineya Co.,Ltd.",9850.T,-2.31,0.086
+1958,Hamee Corp.,3134.T,-13.21,0.517
+1959,Leader Electronics Corporation,6867.T,-7.51,0.284
+1960,Aeria Inc.,3758.T,-7.01,0.262
+1961,"airCloset, Inc.",9557.T,-10.77,0.408
+1962,Axel Mark Inc.,3624.T,-16.11,0.627
+1963,Yamada Servicer Synthetic Office,4351.T,-3.97,0.145
+1964,AVILEN Inc.,5591.T,-15.51,0.596
+1965,"Fujishoji Co.,Ltd.",6257.T,-5.01,0.183
+1966,Asti Corporation,6899.T,-7.5,0.275
+1967,EF-ON Inc.,9514.T,-6.94,0.253
+1968,"EBARA Foods Industry,Inc.",2819.T,-2.75,0.097
+1969,Ya-Man Ltd.,6630.T,-4.96,0.174
+1970,"Trenders, Inc.",6069.T,-8.63,0.298
+1971,GLAD CUBE Inc.,9561.T,-11.16,0.386
+1972,"Ukai Co.,Ltd.",7621.T,-2.72,0.09
+1973,ARCHION Corporation,543A.T,-13.46,0.465
+1974,"Fujicco Co., Ltd.",2908.T,-2.91,0.095
+1975,"and factory,inc.",7035.T,-8.62,0.291
+1976,CrowdWorks Inc.,3900.T,-13.43,0.463
+1977,TWOSTONE&Sons Inc.,7352.T,-14.57,0.5
+1978,Fujio Food Group Inc.,2752.T,-4.75,0.154
+1979,"Eltes Co.,Ltd.",3967.T,-10.25,0.34
+1980,"Iriso Electronics Co., Ltd.",6908.T,-7.66,0.25
+1981,"Bizmates, Inc.",9345.T,-9.18,0.302
+1982,"GVA TECH,Inc.",298A.T,-17.12,0.583
+1983,Miroku Corporation,7983.T,-8.1,0.263
+1984,"The Kyoto Hotel, Ltd.",9723.T,-4.84,0.154
+1985,"Daiken Medical Co., Ltd.",7775.T,-3.24,0.102
+1986,Welby Inc.,4438.T,-13.35,0.439
+1987,"Tea Life Co., Ltd.",3172.T,-3.82,0.119
+1988,"H.I.S. Co., Ltd.",9603.T,-9.34,0.299
+1989,"LaKeel, Inc.",4074.T,-14.17,0.462
+1990,Voltage Incorporation,3639.T,-6.07,0.186
+1991,United Super Markets Holdings Inc.,3222.T,-5.75,0.176
+1992,"Schoo,inc.",264A.T,-20.65,0.681
+1993,NittoBest Corporation,2877.T,-2.01,0.06
+1994,"Nihon Flush Co., Ltd.",7820.T,-3.47,0.104
+1995,"Nissin Foods Holdings Co.,Ltd.",2897.T,-6.9,0.209
+1996,Dive Group Inc.,151A.T,-12.03,0.374
+1997,Hiramatsu Inc.,2764.T,-9.44,0.289
+1998,"Canadian Solar Infrastructure Fund, Inc.",9284.T,-5.82,0.175
+1999,GLOE Inc.,9565.T,-18.44,0.589
+2000,TDSE Inc.,7046.T,-10.34,0.313
+2001,"Faltec Co., Ltd.",7215.T,-7.3,0.218
+2002,Sharing Innovations Inc.,4178.T,-8.85,0.265
+2003,"AVIX,Inc.",7836.T,-6.59,0.192
+2004,"Optoelectronics Co., Ltd.",6664.T,-9.43,0.276
+2005,TORQ Inc.,8077.T,-7.65,0.22
+2006,"Nakayama Steel Works, Ltd.",5408.T,-6.59,0.188
+2007,"Kotobukiya Co., Ltd.",7809.T,-10.2,0.293
+2008,"C'BON COSMETICS Co.,Ltd.",4926.T,-4.79,0.132
+2009,Wellness Communications Corporation,366A.T,-10.98,0.312
+2010,"eBASE Co.,Ltd.",3835.T,-8.22,0.229
+2011,Cybersolutions Inc.,436A.T,-13.42,0.376
+2012,FIXER Inc.,5129.T,-22.9,0.674
+2013,"LuckLand Co., Ltd.",9612.T,-17.34,0.493
+2014,"Balnibarbi Co.,Ltd.",3418.T,-7.24,0.194
+2015,FDK Corporation,6955.T,-13.96,0.385
+2016,"Rise Consulting Group, Inc.",9168.T,-15.0,0.415
+2017,"ONDECK Co., Ltd.",7360.T,-8.88,0.237
+2018,"R. C. Core Co., Ltd.",7837.T,-9.53,0.255
+2019,MetaReal Corporation,6182.T,-16.9,0.466
+2020,"Rebase, Inc.",5138.T,-16.11,0.441
+2021,"Kobe Electric Railway Co., Ltd.",9046.T,-4.9,0.126
+2022,"Nissan Motor Co., Ltd.",7201.T,-14.48,0.389
+2023,Creema Ltd.,4017.T,-9.79,0.256
+2024,"CyberStep Holdings, Inc.",3810.T,-17.15,0.464
+2025,Zoom Corporation,6694.T,-9.41,0.242
+2026,"Lib Work Co.,Ltd.",1431.T,-5.13,0.129
+2027,"Juntendo Co.,Ltd.",9835.T,-2.76,0.069
+2028,MUSCAT GROUP Inc.,195A.T,-18.93,0.507
+2029,"Tensho Electric Industries Co., Ltd.",6776.T,-8.17,0.204
+2030,Tecmira Holdings Inc.,3627.T,-11.24,0.285
+2031,"Nano Holdings, Inc.",4571.T,-15.52,0.398
+2032,SpiderPlus & Co.,4192.T,-14.18,0.361
+2033,CINC Corp.,4378.T,-8.66,0.21
+2034,"Enjin Co., Ltd.",7370.T,-8.64,0.209
+2035,"Takizawa Ham Co., Ltd.",2293.T,-4.17,0.099
+2036,OpenDoor Inc.,3926.T,-15.98,0.399
+2037,Pharmarise Holdings Corporation,2796.T,-4.92,0.116
+2038,"Palemo Holdings Co.,Ltd.",2778.T,-12.79,0.313
+2039,"Oriental Land Co., Ltd.",4661.T,-11.65,0.283
+2040,Fibergate Inc.,9450.T,-10.49,0.251
+2041,HOUSEI Inc.,5035.T,-8.54,0.202
+2042,"Eisai Co., Ltd.",4523.T,-12.01,0.28
+2043,"Life Foods Co., Ltd.",3065.T,-1.85,0.04
+2044,"Saftec Co.,Ltd.",7464.T,-5.4,0.12
+2045,GameWith Inc.,6552.T,-14.77,0.34
+2046,"Johnan Academic Preparatory Institute, Inc.",4720.T,-11.14,0.252
+2047,"TAYA Co.,Ltd.",4679.T,-14.0,0.32
+2048,"jig.jp Co., Ltd.",5244.T,-15.9,0.367
+2049,KOSE Holdings Corporation,4922.T,-13.52,0.306
+2050,"e-LogiT co.,ltd.",9327.T,-22.62,0.537
+2051,"Zensho Holdings Co., Ltd.",75505.T,-0.85,0.018
+2052,"Ultrafabrics Holdings Co.,Ltd.",4235.T,-14.22,0.32
+2053,"Plaza Holdings Co.,Ltd.",7502.T,-5.5,0.117
+2054,"HITO-Communications Holdings,Inc.",4433.T,-10.1,0.22
+2055,KAYAC Inc.,3904.T,-13.55,0.299
+2056,"Alpico Holdings Co., Ltd.",297A.T,-8.53,0.182
+2057,JN Group Inc.,6634.T,-17.45,0.387
+2058,Signpost Corporation,3996.T,-19.16,0.419
+2059,"Umenohana Group Co.,Ltd.",7604.T,-5.6,0.113
+2060,SymBio Pharmaceuticals Limited,4582.T,-32.48,0.758
+2061,"UOGroup CO.,LTD.",2683.T,-2.62,0.052
+2062,"Tokyo Ichiban Foods Co., Ltd.",3067.T,-3.92,0.077
+2063,Inbound Tech Inc.,7031.T,-14.52,0.299
+2064,"General Oyster, Inc.",3224.T,-20.75,0.438
+2065,"MEDINET Co., Ltd.",2370.T,-16.73,0.344
+2066,"Premier Anti-Aging Co., Ltd.",4934.T,-14.07,0.285
+2067,"Mitsuboshi Co., Ltd.",5820.T,-22.06,0.465
+2068,"Ichikura Co., Ltd.",6186.T,-8.52,0.167
+2069,"Kaizen Platform, Inc.",4170.T,-19.13,0.394
+2070,ASKUL Corporation,2678.T,-9.98,0.195
+2071,Wize Inc.,3664.T,-23.78,0.499
+2072,"Adventure, Inc.",6030.T,-23.61,0.494
+2073,Yamaya Corporation,9994.T,-8.09,0.155
+2074,"KYORIN Pharmaceutical Co., Ltd.",4569.T,-9.72,0.185
+2075,"The Sailor Pen Co., Ltd.",7992.T,-10.48,0.201
+2076,Mirai Works Inc.,6563.T,-14.99,0.293
+2077,"Will Smart Co.,LTD.",175A.T,-23.45,0.479
+2078,"Lovable Marketing Group,inc.",9254.T,-8.0,0.15
+2079,"GENOVA, Inc.",9341.T,-17.54,0.344
+2080,Ichigo Green Infrastructure Investment Corporation,9282.T,-12.78,0.244
+2081,"Echo Trading Co., Ltd.",7427.T,-11.15,0.21
+2082,"Ricksoft Co., Ltd.",4429.T,-19.03,0.372
+2083,Innovation Inc.,3970.T,-9.49,0.176
+2084,"YAKUODO HOLDINGS Co., Ltd.",7679.T,-12.0,0.22
+2085,VELTRA Corporation,7048.T,-23.94,0.455
+2086,Healthcare & Medical Investment Corporation,3455.T,-7.65,0.131
+2087,"Wedge Holdings CO.,LTD.",2388.T,-26.17,0.493
+2088,"MarkLines Co., Ltd.",3901.T,-14.84,0.26
+2089,"UMC Electronics Co., Ltd.",6615.T,-15.99,0.281
+2090,"Tera Technology, Inc.",483A.T,-7.06,0.118
+2091,"SYLA Holdings Co., Ltd.",8887.T,-16.5,0.288
+2092,"Shima Seiki Mfg.,Ltd.",6222.T,-15.16,0.262
+2093,Star Flyer Inc.,9206.T,-9.84,0.166
+2094,Unicharm Corporation,8113.T,-14.0,0.24
+2095,"Hiroshima Electric Railway Co.,Ltd.",9033.T,-6.2,0.102
+2096,Flier Inc.,323A.T,-28.88,0.527
+2097,"Tsubaki Nakashima Co., Ltd.",6464.T,-19.51,0.337
+2098,"GMO Product Platform, Inc.",3695.T,-16.06,0.271
+2099,"Sagami Rubber Industries Co., Ltd.",5194.T,-10.53,0.173
+2100,"Okaya Electric Industries Co., Ltd.",6926.T,-12.84,0.213
+2101,"ValueCommerce Co., Ltd.",2491.T,-19.0,0.324
+2102,Wellco Holdings Corporation,7831.T,-19.2,0.326
+2103,"Adjuvant Holdings Co.,Ltd.",4929.T,-5.77,0.091
+2104,"NATTY SWANKY holdings Co.,Ltd.",7674.T,-9.89,0.159
+2105,Marche Corporation,7524.T,-12.0,0.195
+2106,KIDS STAR Inc.,248A.T,-27.57,0.483
+2107,"Medical Net, Inc.",3645.T,-11.41,0.182
+2108,"HOUSE OF ROSE Co.,Ltd.",7506.T,-3.41,0.052
+2109,"Kabuki-Za Co., Ltd.",9661.T,-2.83,0.043
+2110,Frontier Management Inc.,7038.T,-20.08,0.326
+2111,TalentX Inc.,330A.T,-28.86,0.492
+2112,Kasumigaseki Hotel REIT Investment Corporation,401A.T,-6.76,0.102
+2113,Bank of Japan,8301.T,-9.66,0.147
+2114,"Toshin Holdings Co.,Ltd",9444.T,-20.36,0.325
+2115,"HABA Laboratories,Inc.",4925.T,-7.58,0.113
+2116,KLASS Corporation,6233.T,-8.42,0.126
+2117,BeeX Inc.,4270.T,-18.49,0.285
+2118,"Omikenshi Co., Ltd.",3111.T,-17.31,0.265
+2119,"UNITED, Inc.",2497.T,-12.48,0.184
+2120,"HOKUETSU METAL Co., Ltd.",5446.T,-11.09,0.159
+2121,"MS&Consulting Co., Ltd.",6555.T,-13.69,0.199
+2122,AirTrip Corp.,6191.T,-22.93,0.35
+2123,"IR Japan Holdings, Ltd.",6035.T,-19.77,0.295
+2124,"Progress Technologies Group, Inc.",339A.T,-23.54,0.358
+2125,Reskill Corp.,291A.T,-24.72,0.376
+2126,NE Inc.,441A.T,-22.73,0.337
+2127,Enex Infrastructure Investment Corporation - Infrastructure Fund,9286.T,-12.4,0.173
+2128,"Shikino High-Tech CO.,LTD.",6614.T,-24.62,0.366
+2129,Sun* Inc.,4053.T,-25.7,0.384
+2130,Caster Co.Ltd.,9331.T,-18.63,0.264
+2131,Japan Communications Inc.,9424.T,-16.74,0.234
+2132,Kufu Company Holdings Inc.,4376.T,-19.59,0.277
+2133,"LIPPS Co.,Ltd",373A.T,-33.58,0.511
+2134,"Lapine Co., Ltd.",8143.T,-20.96,0.296
+2135,Takatori Corporation,6338.T,-26.94,0.393
+2136,Neural Group Inc.,4056.T,-29.34,0.424
+2137,"Interfactory, Inc.",4057.T,-16.74,0.22
+2138,"Unicon Holdings Co., Ltd.",407A.T,-19.82,0.265
+2139,"KANMONKAI Co., Ltd.",3372.T,-10.96,0.139
+2140,"WDB coco Co., Ltd.",7079.T,-17.59,0.228
+2141,"Foodison, Inc.",7114.T,-20.84,0.274
+2142,"Asukanet Co., Ltd.",2438.T,-15.41,0.197
+2143,"CAVE Interactive CO.,LTD.",3760.T,-23.65,0.312
+2144,"Takasho Co.,Ltd.",7590.T,-12.6,0.156
+2145,Skymark Airlines Inc.,9204.T,-22.76,0.287
+2146,"AI,Inc.",4388.T,-23.67,0.3
+2147,"Macbee Planet, Inc.",7095.T,-29.75,0.377
+2148,VIXTON Corporation,3840.T,-25.99,0.318
+2149,"Gurunavi, Inc.",2440.T,-22.86,0.27
+2150,"Sanko Marketing Foods Co., Ltd.",2762.T,-22.45,0.263
+2151,"Green Earth Institute Co., Ltd.",9212.T,-25.25,0.296
+2152,Tokyo Infrastructure Energy Investment Corporation - Infrastructure Fund,9285.T,-15.7,0.172
+2153,"Scala, Inc.",4845.T,-17.54,0.192
+2154,"Hanatour Japan Co., Ltd.",6561.T,-20.75,0.23
+2155,"Fukutome Meat Packers, Ltd.",2291.T,-26.67,0.305
+2156,"CAREER CO., LTD.",6198.T,-17.47,0.19
+2157,StemCell Institute Inc.,7096.T,-29.62,0.343
+2158,TSUKURUBA Inc.,2978.T,-24.78,0.277
+2159,Shinkin Central Bank,8421.T,-8.88,0.091
+2160,Livesense Inc.,6054.T,-27.11,0.304
+2161,INCLUSIVE Holdings Inc.,7078.T,-26.66,0.277
+2162,Universal Entertainment Corporation,6425.T,-27.78,0.284
+2163,Noda Corporation,7879.T,-16.36,0.15
+2164,AXXZIA Inc.,4936.T,-28.34,0.274
+2165,"Hybrid Technologies Co., Ltd.",4260.T,-29.23,0.249
+2166,"People Co., Ltd.",7865.T,-28.92,0.246
+2167,BALMUDA Inc.,6612.T,-28.79,0.241
+2168,"OVERLAP Holdings,Inc.",414A.T,-29.82,0.251
+2169,"Laox Holdings CO.,LTD.",8202.T,-17.92,0.137
+2170,"Senshukai Co., Ltd.",8165.T,-33.65,0.28
+2171,"GMO Commerce, Inc.",410A.T,-23.79,0.186
+2172,"Hiraki Co.,Ltd.",3059.T,-9.18,0.063
+2173,"Shingakukai Holdings Co.,Ltd.",9760.T,-24.13,0.174
+2174,"Happiness and D Co.,Ltd.",3174.T,-22.37,0.159
+2175,Green Light Renewable Energy Infrastructure Fund,509A.T,-20.02,0.131
+2176,ANA Holdings Inc.,92025.T,-5.12,0.027
+2177,"Japan Airlines Co., Ltd.",92015.T,-9.41,0.007
+2178,"ChatPlus Co.,Ltd.",598A.T,64.37,
+2179,COEL Inc.,522A.T,0.0,0.0

@@ -1,0 +1,76 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,ageas SA/NV,AGS.BR,35.53,0.118,0.453,Yes
+2,Orange Belgium S.A.,OBEL.BR,18.21,0.077,0.085,Yes
+3,KBC Group NV,KBC.BR,42.03,0.196,1.343,Yes
+4,BEL 20,^BFX,19.13,0.102,1.0,Yes
+5,Ackermans & Van Haaren NV,ACKB.BR,28.9,0.169,1.065,Yes
+6,Sipef NV,SIP.BR,33.98,0.198,0.073,No
+7,Ascencio SA,ASCE.BR,19.26,0.14,0.69,Yes
+8,Immo Mechelen City Center Naamloze vennootschap,MCC.BR,21.13,0.154,0.325,Yes
+9,Jensen-Group NV,JEN.BR,41.54,0.286,0.725,Yes
+10,Warehouses Estates Belgium S.C.A.,WEB.BR,16.59,0.139,0.78,Yes
+11,Vastned,VASTB.BR,15.8,0.148,0.277,Yes
+12,Retail Estates N.V.,RET.BR,14.98,0.152,0.701,Yes
+13,DEME Group NV,DEME.BR,26.46,0.277,1.523,Yes
+14,Qrf Comm. VA,QRF.BR,11.48,0.131,0.703,Yes
+15,Fagron NV,FAGR.BR,15.28,0.176,0.3,Yes
+16,Inclusio SA,INCLU.BR,20.2,0.229,0.678,Yes
+17,argenx SE,ARGX.BR,31.45,0.341,0.757,Yes
+18,Wereldhave Belgium,WEHB.BR,13.19,0.154,0.827,Yes
+19,D'Ieteren Group SA,DIE.BR,29.57,0.326,1.618,Yes
+20,Lotus Bakeries NV,LOTB.BR,24.97,0.299,1.591,Yes
+21,Materialise NV,MTLS.BR,36.05,0.418,0.788,Yes
+22,Aedifica NV/SA,AED.BR,16.33,0.208,1.404,Yes
+23,EnergyVision NV,ENRGY.BR,27.41,0.34,1.96,No
+24,Groupe Bruxelles Lambert SA,GBLB.BR,8.7,0.129,0.721,Yes
+25,Home Invest Belgium S.A.,HOMI.BR,16.68,0.242,1.108,Yes
+26,Recticel SA/NV,RECT.BR,20.35,0.298,1.35,Yes
+27,Immo-Zenobe Gramme SA,ZEN.BR,15.64,0.247,0.278,Yes
+28,Cmb.Tech NV,CMBT.BR,27.69,0.42,1.204,Yes
+29,Sofina Société Anonyme,SOF.BR,13.71,0.235,1.147,Yes
+30,Gimv NV,GIMB.BR,10.97,0.197,0.872,Yes
+31,Palmboomen Cultuur Maatschappij Mopoli (Palmeraies De Mopoli) N.V.,MOP.BR,12.85,0.247,0.446,No
+32,Care Property Invest NV,CPINV.BR,11.39,0.224,1.159,Yes
+33,Deceuninck NV,DECB.BR,10.25,0.204,0.886,Yes
+34,EVS SA,EVS.BR,10.11,0.232,0.005,Yes
+35,Van de Velde NV,VAN.BR,5.71,0.144,0.318,Yes
+36,Immolease Trust NV,DIEG.BR,5.64,0.15,0.375,Yes
+37,Umicore SA,UMI.BR,18.36,0.509,1.036,Yes
+38,Proximus PLC,PROX.BR,8.6,0.255,0.221,No
+39,Hybrid Software Group PLC,HYSG.BR,7.84,0.249,0.312,Yes
+40,Monni NV,MONNI.BR,8.33,0.273,0.078,No
+41,Newtree S.A.,NEWT.BR,15.15,0.486,0.377,No
+42,Fluxys Belgium SA,FLUX.BR,8.46,0.28,0.196,Yes
+43,Montea Comm. VA,MONT.BR,7.08,0.239,1.269,Yes
+44,Fountain S.A.,FOU.BR,8.74,0.313,0.397,Yes
+45,Immo Moury SCA,IMMOU.BR,4.85,0.188,0.372,Yes
+46,Roularta Media Group NV,ROU.BR,6.15,0.266,0.011,No
+47,Nextensa NV/SA,NEXTA.BR,3.88,0.18,0.552,Yes
+48,NV Bekaert SA,BEKB.BR,3.98,0.197,1.265,Yes
+49,Realco SA,REAL.BR,9.57,0.487,0.307,No
+50,Kinepolis Group NV,KIN.BR,5.61,0.292,0.522,Yes
+51,Brouwerij Handelsmaatschappij NV,COBH.BR,6.46,0.337,0.459,Yes
+52,Warehouses De Pauw SA,WDP.BR,3.8,0.213,1.196,Yes
+53,Colruyt Group N.V.,COLR.BR,3.65,0.206,0.088,No
+54,VGP NV,VGP.BR,5.46,0.307,1.91,Yes
+55,Melexis NV,MELE.BR,5.8,0.409,1.936,Yes
+56,Compagnie Financière de Neufcour S.A.,MLNEU.BR,5.98,0.449,0.33,No
+57,Choice NV,MLTV.BR,11.79,1.299,1.244,Yes
+58,Banqup Group SA,BANQ.BR,2.98,0.412,1.096,Yes
+59,Tessenderlo Group NV,TESB.BR,1.11,0.271,1.115,Yes
+60,Belysse Group NV,BELYS.BR,-3.87,0.501,0.513,Yes
+61,Immobel SA,IMMO.BR,-3.09,0.363,2.149,Yes
+62,Azelis Group NV,AZE.BR,-4.5,0.404,1.118,Yes
+63,Softimat S.A.,SOFT.BR,-4.21,0.359,0.238,No
+64,Option NV,OPTI.BR,-9.68,0.711,2.944,Yes
+65,Onward Medical N.V.,ONWD.BR,-7.33,0.476,1.293,Yes
+66,Accentis N.V.,ACCB.BR,-3.21,0.154,0.189,Yes
+67,Floridienne S.A.,FLOB.BR,-5.6,0.259,0.208,Yes
+68,Nyxoah SA,NYXH.BR,-18.41,0.903,0.991,Yes
+69,European Medical Solutions,ALEMS.BR,-9.58,0.36,1.088,Yes
+70,ABO-Group Environment NV,ABO.BR,-8.21,0.296,0.03,Yes
+71,Quest for Growth NV,QFG.BR,-6.94,0.177,1.055,Yes
+72,Hyloris Pharmaceuticals SA,HYL.BR,-18.25,0.461,0.936,Yes
+73,Shurgard Self Storage Ltd,SHUR.BR,-10.17,0.234,1.202,Yes
+74,Econocom Group SE,ECONB.BR,-9.28,0.205,0.839,Yes
+75,Barco NV,BAR.BR,-17.85,0.308,1.638,Yes

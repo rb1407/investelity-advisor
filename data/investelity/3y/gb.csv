@@ -1,0 +1,2373 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,"Banco Santander, S.A.",BNCL.XC,36.62,0.077,,
+2,ATC Music Group plc,ATC.L,71.13,0.167,0.211,Yes
+3,Danske Bank A/S,0NVC.IL,45.33,0.122,0.405,Yes
+4,BAWAG Group AG,0RVE.IL,77.19,0.214,0.785,Yes
+5,NN Group N.V.,0QVV.IL,48.07,0.149,0.534,Yes
+6,Danske Bank A/S,DANSKC.XC,45.62,0.145,0.568,Yes
+7,DMG MORI AKTIENGESELLSCHAFT,0OP0.IL,6.39,0.024,0.067,Yes
+8,Banca Mediolanum S.p.A.,0RDO.IL,58.98,0.187,0.504,Yes
+9,"CaixaBank, S.A.",CABKE.XC,67.89,0.211,0.626,Yes
+10,ageas SA/NV,0Q99.IL,35.15,0.124,0.519,Yes
+11,"CaixaBank, S.A.",0ILK.IL,67.16,0.213,0.676,Yes
+12,Credito Emiliano S.p.A.,0K93.IL,48.44,0.163,0.733,Yes
+13,Banco BPM S.p.A.,0RLA.IL,73.99,0.239,0.944,Yes
+14,"Banco Comercial Português, S.A.",0RJN.IL,77.25,0.247,0.594,Yes
+15,HOCHTIEF Aktiengesellschaft,0EPW.IL,76.53,0.247,0.537,Yes
+16,KBC Ancora SA,0MFW.IL,47.17,0.169,0.791,Yes
+17,Plazza AG,PLANZ.XC,17.21,0.069,0.005,No
+18,Intesa Sanpaolo S.p.A.,0HBC.IL,56.88,0.199,1.042,Yes
+19,Nova Ljubljanska Banka d.d.,NLB.IL,63.67,0.22,0.964,Yes
+20,Banco BPM S.p.A.,BAMIM.XC,73.88,0.25,0.685,Yes
+21,UniCredit S.p.A.,0RLS.IL,68.9,0.239,0.977,Yes
+22,HOCHTIEF Aktiengesellschaft,HOTD.XC,77.5,0.262,1.007,Yes
+23,UniCredit S.p.A.,UCGM.XC,69.57,0.243,0.944,Yes
+24,Balfour Beatty plc,BBY.L,43.35,0.165,0.671,Yes
+25,Nova Ljubljanska Banka DD,NLBL.XC,63.99,0.229,0.95,Yes
+26,Poste Italiane S.p.A.,0RC2.IL,54.5,0.201,0.896,Yes
+27,Trane Technologies plc,0Y2S.IL,3.68,0.016,0.075,No
+28,Balfour Beatty plc,BBYL.XC,42.8,0.165,0.688,Yes
+29,Assicurazioni Generali S.p.A.,0K78.IL,40.31,0.157,0.758,Yes
+30,"ACS, Actividades de Construcción y Servicios, S.A.",0HAC.IL,56.26,0.209,0.742,Yes
+31,Erste Group Bank AG,0MJK.IL,67.2,0.242,0.489,Yes
+32,Erste Group Bank AG,EBSV.XC,67.92,0.244,0.638,Yes
+33,Intesa Sanpaolo S.p.A.,ISPM.XC,57.75,0.216,1.09,Yes
+34,Gold Bullion Securities,GBSSL.XC,28.77,0.12,0.047,No
+35,"Bankinter, S.A.",0H7O.IL,53.06,0.204,1.009,Yes
+36,Allianz SE,0M6S.IL,34.15,0.14,0.375,Yes
+37,RTX Corporation,0R2N.IL,50.52,0.196,0.813,Yes
+38,Attendo AB (publ),0RCY.IL,72.06,0.262,0.173,Yes
+39,Poste Italiane S.p.A.,PSTM.XC,52.84,0.204,0.808,Yes
+40,Van Lanschot Kempen NV,0O4B.IL,52.49,0.203,0.55,Yes
+41,ASR Nederland N.V.,0RHS.IL,36.44,0.149,0.496,Yes
+42,"Banco Santander, S.A.",0HLE.L,69.5,0.256,1.159,Yes
+43,Swedbank AB (publ),0H6T.IL,36.58,0.15,0.67,Yes
+44,"ACS, Actividades de Construcción y Servicios, S.A.",ACSE.XC,58.2,0.223,0.99,Yes
+45,Storebrand ASA,0NO0.IL,40.99,0.166,0.403,Yes
+46,Deutsche Bank Aktiengesellschaft,0H7D.IL,59.97,0.229,1.136,Yes
+47,"Banco Comercial Português, S.A.",BCPU.XC,72.49,0.266,0.591,Yes
+48,"Banco Santander, S.A.",SANE.XC,63.55,0.241,1.208,Yes
+49,Veidekke ASA,0GF6.IL,39.83,0.165,0.465,Yes
+50,ASR Nederland N.V.,ASRNLA.XC,35.99,0.153,0.44,Yes
+51,Orange Belgium S.A.,0FBS.IL,17.98,0.082,0.385,Yes
+52,"Banco Bilbao Vizcaya Argentaria, S.A.",BVA.L,64.28,0.252,1.074,Yes
+53,Halyk Bank of Kazakhstan Joint Stock Company,HSBKL.XC,67.23,0.262,0.108,Yes
+54,Storebrand ASA,STBO.XC,40.65,0.173,0.321,Yes
+55,Deutsche Bank Aktiengesellschaft,DBKD.XC,59.65,0.239,1.205,Yes
+56,"Unicaja Banco, S.A.",0RR7.IL,69.65,0.272,1.0,Yes
+57,SpareBank 1 Nord-Norge,0J1N.IL,31.27,0.139,0.161,Yes
+58,PORR AG,0J04.IL,59.63,0.244,0.498,Yes
+59,AIB Group plc,AIBGL.XC,48.43,0.207,0.669,Yes
+60,ABN AMRO Bank N.V.,0RDM.IL,62.65,0.256,0.844,Yes
+61,Vaudoise Assurances Holding SA,VAHNZ.XC,27.15,0.126,0.2,No
+62,Halyk Bank of Kazakhstan Joint Stock Company,HSBK.IL,67.7,0.274,0.235,Yes
+63,Assicurazioni Generali S.p.A.,GM.XC,40.0,0.179,0.64,Yes
+64,Anima Holding SpA,0QTI.IL,30.61,0.143,0.197,Yes
+65,"Iberdrola, S.A.",0HIT.IL,31.35,0.147,0.268,Yes
+66,Luzerner Kantonalbank AG,LUKNZ.XC,20.29,0.099,0.345,Yes
+67,Georgia Capital PLC,CGEO.L,75.16,0.305,0.74,Yes
+68,Georgia Capital PLC,CGEOL.XC,76.35,0.31,0.618,Yes
+69,"Banco Bilbao Vizcaya Argentaria, S.A.",BBVAE.XC,64.41,0.271,1.273,Yes
+70,"Banco Santander, S.A.",BNC.L,57.44,0.247,1.483,Yes
+71,ABN AMRO Bank N.V.,ABNA.XC,64.09,0.271,0.865,Yes
+72,flatexDEGIRO SE,0W89.IL,76.5,0.314,0.087,Yes
+73,"Banco de Sabadell, S.A.",0H00.IL,76.27,0.313,1.192,Yes
+74,Aberforth Geared Value & Inc ZDP,AGZI.L,5.59,0.03,0.018,Yes
+75,Euronext N.V.,ENXP.XC,43.03,0.197,0.205,Yes
+76,"Construcciones y Auxiliar de Ferrocarriles, S.A.",0RKF.IL,42.21,0.195,0.656,Yes
+77,Allianz SE,ALVD.XC,33.59,0.16,0.33,Yes
+78,Cloetta AB (publ),0N7X.IL,59.06,0.259,0.875,Yes
+79,KBC Group NV,0EYG.IL,42.53,0.199,0.949,Yes
+80,RTW Biotech Opportunities Ltd,RTWL.XC,49.37,0.227,0.462,Yes
+81,"Sonae, SGPS, S.A.",0ML0.IL,39.31,0.187,0.987,Yes
+82,Swedbank AB (publ),SWEDAS.XC,36.6,0.176,0.847,Yes
+83,Svenska Handelsbanken AB (publ),SHBAS.XC,32.54,0.159,0.107,Yes
+84,ING Groep N.V.,0RIC.IL,48.02,0.223,1.41,Yes
+85,"Mapfre, S.A.",0NQ2.IL,44.04,0.207,0.297,Yes
+86,Swiss Life Holding AG,0QMG.IL,24.41,0.124,0.358,Yes
+87,Orell Füssli AG,OFNZ.XC,34.19,0.167,0.195,Yes
+88,SBM Offshore N.V.,0NIS.IL,51.67,0.238,0.753,Yes
+89,ISS A/S,0QRS.IL,45.12,0.214,0.413,Yes
+90,Citigroup Inc.,0R01.IL,59.33,0.27,1.31,Yes
+91,UNIQA Insurance Group AG,0GDR.IL,44.11,0.212,0.633,Yes
+92,"Endesa, S.A.",0N9G.IL,40.41,0.197,0.451,Yes
+93,Swiss Life Holding AG,SLHNZ.XC,24.45,0.127,0.312,Yes
+94,Svenska Handelsbanken AB (publ),0R7R.IL,32.65,0.165,0.462,Yes
+95,SpareBank 1 Sør-Norge ASA,0Q57.IL,31.46,0.16,0.737,Yes
+96,Scandic Hotels Group AB (publ),0RD7.IL,42.25,0.207,0.379,Yes
+97,CVC Income & Growth Limited,CVCE.L,14.6,0.079,0.146,Yes
+98,The City of London Investment Trust plc,CTYL.XC,20.32,0.108,0.893,Yes
+99,Euronext N.V.,0QVJ.IL,43.03,0.213,0.35,Yes
+100,Investis Holding SA,IRENZ.XC,19.82,0.107,0.15,Yes
+101,AIB Group plc,A5GI.XC,48.81,0.237,0.169,Yes
+102,Skandinaviska Enskilda Banken AB (publ),0HBY.IL,31.24,0.161,0.778,Yes
+103,Xtrackers IE Physical Gold ETC,XGDU.L,38.41,0.195,0.485,Yes
+104,iShares Physical Gold ETC,IGLN.L,38.38,0.195,0.491,Yes
+105,Amundi Physical Gold ETC C,GLDD.L,38.52,0.195,0.49,Yes
+106,Invesco Physical Gold ETC,SGLD.L,38.4,0.195,0.482,Yes
+107,Compagnie Financière Tradition SA,CFTZ.XC,43.12,0.215,0.31,Yes
+108,Fidelity Emerging Markets Limited,FEMLL.XC,45.18,0.224,0.984,Yes
+109,iShares Physical Gold ETC,IGLNL.XC,38.51,0.196,0.487,Yes
+110,WisdomTree Core Physical Gold USD ETC,WGLD.L,38.5,0.196,0.492,Yes
+111,Xtrackers Physical Gold ETC,XGLD.L,38.32,0.196,0.498,Yes
+112,Royal Mint Responsibly Sourced Physical Gold ETC,RMAU.L,38.33,0.196,0.484,Yes
+113,"The Goldman Sachs Group, Inc.",0R3G.L,56.95,0.274,0.484,Yes
+114,"Iberdrola, S.A.",IBEE.XC,31.67,0.167,0.349,Yes
+115,Barclays PLC,BARCL.XC,52.31,0.257,1.649,Yes
+116,Skandinaviska Enskilda Banken AB (publ),SEBAS.XC,30.52,0.162,0.739,Yes
+117,Costain Group PLC,COST.L,69.53,0.324,0.957,Yes
+118,WisdomTree Physical Gold,PHAU.L,38.08,0.196,0.501,Yes
+119,iShares Physical Gold ETC,EGLN.L,33.62,0.177,0.502,Yes
+120,iShares Physical Gold GBP Hedged ETC,IGLG.L,37.31,0.194,0.484,Yes
+121,Tele2 AB (publ),0QE6.IL,38.45,0.2,0.787,Yes
+122,ING Groep N.V.,INGAA.XC,49.26,0.247,1.383,Yes
+123,Telia Company AB (publ),0H6X.IL,35.62,0.187,0.567,Yes
+124,Barclays PLC,BARC.L,52.75,0.261,1.703,Yes
+125,EPIC Suisse AG,EPICZ.XC,16.17,0.091,0.018,No
+126,WisdomTree Physical Gold - GBP Daily Hedged,GBSP.L,37.04,0.194,0.485,Yes
+127,"Banco de Sabadell, S.A.",SABE.XC,78.02,0.36,0.559,Yes
+128,Xtrackers IE Physical Gold GBP Hedged ETC Securities 6,XGDG.L,36.94,0.195,0.484,Yes
+129,Galderma Group AG,GALDZ.XC,53.52,0.267,0.278,Yes
+130,Jyske Bank A/S,0MGD.IL,34.47,0.183,0.899,Yes
+131,Invesco Physical Gold ETC GBP Hedged,SGLS.L,37.07,0.196,0.482,Yes
+132,Protector Forsikring ASA,0JXF.IL,51.96,0.261,0.127,Yes
+133,GEA Group Aktiengesellschaft,0MPJ.IL,29.78,0.162,0.877,Yes
+134,Costain Group PLC,COSTL.XC,68.87,0.331,1.077,Yes
+135,DNB Bank ASA,DNBO.XC,23.1,0.13,0.304,Yes
+136,Vienna Insurance Group AG,0MZX.IL,50.03,0.256,0.668,Yes
+137,Van Lanschot Kempen NV,VLKA.XC,48.14,0.249,0.725,Yes
+138,"Aena S.M.E., S.A.",0R4Y.IL,31.61,0.174,0.324,Yes
+139,WisdomTree Gold,BULL.L,35.99,0.195,0.502,Yes
+140,Polar Capital Global Financials Ord,PCFT.L,23.78,0.135,0.871,Yes
+141,Commerzbank AG,0RLW.IL,70.23,0.341,1.207,Yes
+142,Banca Generali S.p.A.,BGNM.XC,38.26,0.207,0.255,Yes
+143,Clas Ohlson AB (publ),0GQE.IL,72.01,0.35,0.358,Yes
+144,Allwyn AG,0FI1.IL,16.98,0.1,0.147,Yes
+145,HSBC Holdings plc,HSBAL.XC,37.07,0.202,1.483,Yes
+146,AL Sydbank A/S,0MGE.IL,37.81,0.206,0.453,Yes
+147,Temple Bar Ord,TMPL.L,22.97,0.132,1.063,Yes
+148,AL Sydbank A/S,ALSYDC.XC,41.68,0.225,0.773,Yes
+149,Valiant Holding AG,VATNZ.XC,23.24,0.134,0.1,Yes
+150,Leonardo S.p.a.,LDOM.XC,69.15,0.344,0.734,Yes
+151,Mobimo Holding AG,MOBNZ.XC,16.05,0.096,0.37,Yes
+152,HSBC Holdings plc,HSBA.L,37.21,0.205,1.498,Yes
+153,AIB Group plc,AIBG.L,40.18,0.22,0.632,Yes
+154,Banca Generali S.p.A.,0DQZ.IL,35.67,0.199,0.776,Yes
+155,Leonardo S.p.a.,0ONG.IL,72.62,0.36,0.809,Yes
+156,iShares Physical Gold ETC,SGLN.L,33.27,0.187,0.521,Yes
+157,Vicat S.A.,0MGJ.IL,41.35,0.227,0.421,Yes
+158,WisdomTree Physical Swiss Gold,SGBX.L,33.36,0.188,0.528,Yes
+159,Greencoat Renewables PLC,GRPL.XC,12.95,0.079,0.163,No
+160,Royal Mint Responsibly Sourced Physical Gold ETC,RMAP.L,33.21,0.188,0.512,Yes
+161,WisdomTree Core Physical Gold USD ETC,GLDW.L,33.3,0.188,0.527,Yes
+162,Azimut Holding S.p.A.,0MHJ.IL,33.39,0.189,0.832,Yes
+163,SpareBank 1 SMN,0IVM.IL,26.18,0.152,0.404,Yes
+164,WisdomTree Physical Gold,PHGP.L,32.94,0.187,0.525,Yes
+165,Mobimo Holding AG,0QQY.IL,15.92,0.097,0.398,Yes
+166,Beijer Ref AB (publ),0A0H.IL,1.01,0.007,0.005,No
+167,Saab AB (publ),0GWL.IL,80.44,0.394,0.457,Yes
+168,Odfjell Drilling Ltd.,0QHX.IL,50.09,0.27,1.516,Yes
+169,OVS S.p.A.,0R5R.IL,57.6,0.304,1.41,Yes
+170,Gjensidige Forsikring ASA,0OJC.IL,31.17,0.18,0.151,Yes
+171,Sprott Physical Gold and Silver Trust,0N2R.IL,43.65,0.241,0.799,Yes
+172,Enel SpA,0NRE.IL,26.49,0.156,0.785,Yes
+173,Gold Bullion Securities,GBSL.XC,32.9,0.189,0.56,Yes
+174,Nordnet AB (publ),SAVES.XC,43.35,0.241,0.332,Yes
+175,DNB Bank ASA,0O84.IL,23.26,0.14,0.466,Yes
+176,"Sonae, SGPS, S.A.",SONU.XC,35.48,0.205,0.501,Yes
+177,Helvetia Baloise Holding AG,HBANZ.XC,25.9,0.156,0.078,Yes
+178,"Aena S.M.E., S.A.",AENAE.XC,31.81,0.187,0.485,Yes
+179,Bank of America Corporation,0Q16.L,38.39,0.221,0.584,Yes
+180,M.P. Evans Group PLC,MPEL.XC,59.72,0.32,0.875,Yes
+181,Securitas AB (publ),0IAH.IL,27.12,0.163,0.392,Yes
+182,ISS A/S,ISSC.XC,44.36,0.25,0.236,Yes
+183,Credito Emiliano S.p.A.,CEM.XC,55.23,0.304,0.251,Yes
+184,Klépierre SA,0F4I.IL,27.45,0.167,0.906,Yes
+185,HIAG Immobilien Holding AG,HIAGZ.XC,23.86,0.147,0.266,Yes
+186,Konecranes Plc,0MET.IL,57.66,0.317,1.401,Yes
+187,Zurich Insurance Group AG,0QP2.IL,20.01,0.126,0.219,Yes
+188,M.P. Evans Group PLC,MPE.L,38.15,0.224,0.614,Yes
+189,Swiss Prime Site AG,0QOG.IL,20.44,0.128,0.491,Yes
+190,"Neinor Homes, S.A.",0RNU.IL,38.06,0.224,0.003,Yes
+191,Talanx AG,0QA8.IL,35.66,0.212,0.173,Yes
+192,FinecoBank Banca Fineco S.p.A.,0QVF.IL,36.1,0.214,0.761,Yes
+193,WisdomTree Gold,BULP.L,30.71,0.186,0.565,Yes
+194,Glenveagh Properties PLC,GLV.L,39.36,0.232,1.278,Yes
+195,ACEA S.p.A.,0MHD.IL,36.62,0.218,0.659,Yes
+196,IncomeShares Gold + Yield ETP,GLDI.L,31.07,0.189,0.471,Yes
+197,Cembra Money Bank AG,CMBNZ.XC,20.18,0.128,0.0,No
+198,Ackermans & Van Haaren NV,0GYM.IL,29.45,0.181,0.96,Yes
+199,Lloyds Banking Group plc,LLOYL.XC,40.03,0.237,1.404,Yes
+200,UCB SA,UCBB.XC,48.87,0.282,0.483,Yes
+201,Polar Capital Technology Ord,PCT.L,50.56,0.29,0.865,Yes
+202,Bilfinger SE,0NRG.IL,49.37,0.285,0.621,Yes
+203,BioPharma Credit Ord,BPCR.L,18.43,0.119,0.264,Yes
+204,Lloyds Banking Group plc,LLOY.L,40.29,0.24,1.408,Yes
+205,Accelleron Industries AG,ACLNZ.XC,60.13,0.336,0.879,Yes
+206,Gaztransport & Technigaz SA,GTTP.XC,29.58,0.183,0.753,Yes
+207,Sandoz Group AG,SDZZ.XC,50.41,0.291,1.476,Yes
+208,NatWest Group plc,NWG.L,49.75,0.288,1.574,Yes
+209,Enel SpA,ENELM.XC,26.82,0.168,0.786,Yes
+210,NatWest Group plc,NWGL.XC,49.85,0.289,1.598,Yes
+211,Plus500 Ltd.,PLUSL.XC,45.65,0.269,0.329,Yes
+212,Standard Chartered PLC,STANL.XC,49.48,0.288,1.695,Yes
+213,Société Générale Société anonyme,GLEP.XC,61.05,0.344,1.53,Yes
+214,Plus500 Ltd.,PLUS.L,46.43,0.274,0.358,Yes
+215,Standard Chartered PLC,STAN.L,49.44,0.289,1.72,Yes
+216,Hongkong Land Holdings Limited,HKLD.L,2.69,0.019,0.071,No
+217,Société Générale Société anonyme,0J6Y.IL,60.98,0.345,1.644,Yes
+218,General Motors Company,0R0E.L,44.39,0.266,0.85,Yes
+219,Intershop Holding AG,ISNZ.XC,15.01,0.1,0.383,Yes
+220,Maire S.p.A.,0QEP.IL,64.15,0.362,1.672,Yes
+221,Jardine Matheson Holdings Limited,JAR.L,3.05,0.021,0.075,No
+222,Swiss Prime Site AG,SPSNZ.XC,20.22,0.133,0.522,Yes
+223,Aegon Ltd.,0Q0Y.IL,29.54,0.187,0.649,Yes
+224,Platzer Fastigheter Holding AB (publ),0QIA.IL,2.59,0.018,0.062,No
+225,Wärtsilä Oyj Abp,0IKJ.IL,50.5,0.299,1.645,Yes
+226,Chenavari Toro Income Fund Limited,TORO.L,21.69,0.143,0.163,Yes
+227,Accelleron Industries AG,0ACC.IL,60.62,0.348,0.985,Yes
+228,UCB SA,0NZT.IL,49.03,0.292,0.166,Yes
+229,Quilter plc,QLT.L,35.46,0.222,1.283,Yes
+230,Lion Finance Group PLC,BGEOL.XC,68.03,0.384,1.569,Yes
+231,Allreal Holding AG,ALLNZ.XC,16.48,0.111,0.417,Yes
+232,The Magnum Ice Cream Company N.V.,MICC.L,46.78,0.283,0.043,No
+233,Diploma PLC,DPLM.L,39.6,0.245,1.245,Yes
+234,Italgas S.p.A.,0RK1.IL,31.67,0.202,0.718,Yes
+235,Allianz Technology Trust Ord,ATT.L,46.11,0.28,0.549,Yes
+236,Templeton Emerging Mkts Invmt Tr TEMIT,TEM.L,33.84,0.214,1.075,Yes
+237,Safran SA,SAFP.XC,38.86,0.242,1.438,Yes
+238,NEXT plc,NXTL.XC,31.85,0.204,0.654,Yes
+239,The Magnum Ice Cream Company N.V.,MICCL.XC,47.3,0.287,0.113,No
+240,NEXT plc,NXT.L,32.26,0.206,0.64,Yes
+241,Quilter plc,QLTL.XC,35.26,0.223,1.293,Yes
+242,Diploma PLC,DPLML.XC,39.8,0.248,1.274,Yes
+243,VZ Holding AG,VZNZ.XC,28.7,0.186,0.344,No
+244,Lion Finance Group PLC,BGEO.L,67.95,0.388,1.596,Yes
+245,Zurich Insurance Group AG,ZURNZ.XC,20.1,0.135,0.222,Yes
+246,"Altria Group, Inc.",0R31.IL,27.5,0.18,0.432,Yes
+247,Fortum Oyj,0HAH.IL,37.9,0.24,0.444,Yes
+248,Alm. Brand A/S,0DJI.IL,25.79,0.17,0.313,Yes
+249,Protector Forsikring ASA,PROTO.XC,53.21,0.32,0.202,No
+250,Ashoka WhiteOak Emerging Markets Ord,AWEM.L,23.26,0.156,0.73,Yes
+251,Investor AB (publ),0NC6.IL,2.82,0.021,0.017,Yes
+252,AXA SA,0HAR.IL,24.66,0.164,0.492,Yes
+253,Jyske Bank A/S,JYSKC.XC,38.48,0.244,1.191,Yes
+254,SpareBank 1 Sør-Norge ASA,SB1NOO.XC,26.58,0.176,0.671,Yes
+255,Implenia AG,0QNT.IL,38.89,0.247,0.443,Yes
+256,American Express Company,0R3C.IL,36.72,0.235,0.581,Yes
+257,St. Galler Kantonalbank AG,SGKNZ.XC,14.53,0.101,0.097,Yes
+258,Orion Oyj,0M2O.IL,37.18,0.239,0.569,Yes
+259,NKT A/S,0MGC.IL,41.15,0.261,0.377,Yes
+260,Pfeiffer Vacuum Technology AG,0FQR.IL,9.05,0.065,0.206,Yes
+261,City of London Ord,CTY.L,15.31,0.107,0.84,Yes
+262,Safran SA,0IU8.IL,38.68,0.248,1.524,Yes
+263,Fidelity Special Values Ord,FSV.L,22.17,0.152,1.242,Yes
+264,Per Aarsleff Holding A/S,0REQ.IL,37.39,0.243,0.321,Yes
+265,Azimut Holding S.p.A.,AZMM.XC,35.21,0.231,0.521,Yes
+266,FTSE 100,^FTSE,13.34,0.095,1.0,Yes
+267,WisdomTree Physical Precious Metals,PHPM.L,36.39,0.238,0.753,Yes
+268,SOL S.p.A.,SOLM.XC,33.6,0.222,0.927,No
+269,Heidelberg Materials AG,0MG2.IL,41.27,0.266,0.141,Yes
+270,Murray International Ord,MYI.L,17.6,0.124,0.966,Yes
+271,Molten Ventures Plc,GROW.L,55.61,0.343,0.62,Yes
+272,Gold Bullion Securities,OGG9.L,32.89,0.219,0.589,Yes
+273,Greencore Group plc,GNCL.XC,64.1,0.386,0.978,Yes
+274,Basler Kantonalbank,BSKPZ.XC,21.23,0.148,0.774,Yes
+275,UIL Finance Limited,UTLI.L,14.74,0.106,0.031,Yes
+276,Implenia AG,IMPNZ.XC,39.24,0.257,0.433,Yes
+277,Greencore Group plc,GNC.L,64.42,0.389,0.968,Yes
+278,AXA SA,CSP.XC,24.92,0.173,0.555,Yes
+279,Sparebanken Norge,SBNORO.XC,44.92,0.291,0.192,Yes
+280,Invesco Global Equity Income Trust ord,IGET.L,21.31,0.151,0.952,Yes
+281,The Law Debenture Corporation p.l.c.,LWDBL.XC,21.36,0.151,1.011,Yes
+282,Aviva plc,AV.L,26.08,0.182,1.183,Yes
+283,Aviva plc,AVL.XC,25.77,0.18,1.189,Yes
+284,Empire Metals Limited,EEEL.XC,70.82,0.426,1.0,Yes
+285,AcadeMedia AB (publ),0RHN.IL,36.13,0.243,0.345,Yes
+286,Kongsberg Gruppen ASA,0F08.IL,69.24,0.419,0.207,No
+287,FinecoBank Banca Fineco S.p.A.,FBKM.XC,35.26,0.238,1.172,Yes
+288,Terna S.p.A.,TRNM.XC,18.09,0.131,0.499,Yes
+289,The North American Income Trust plc,NAITL.XC,18.48,0.133,0.943,Yes
+290,ForFarmers N.V.,0RHZ.IL,46.28,0.302,0.628,Yes
+291,MTU Aero Engines AG,0FC9.IL,32.89,0.225,0.632,Yes
+292,Schindler Holding AG,SCHNZ.XC,17.5,0.127,0.13,Yes
+293,Newmont Corporation,0R28.IL,71.39,0.433,1.527,Yes
+294,CT Global Managed Portfolio Growth Ord,CMPG.L,14.67,0.108,0.561,Yes
+295,Klépierre SA,LIP.XC,27.65,0.194,1.218,Yes
+296,"Gilead Sciences, Inc.",0QYQ.IL,32.47,0.224,0.581,Yes
+297,JPMorgan Claverhouse Ord,JCH.L,14.54,0.108,0.953,Yes
+298,Nordea Bank Abp,0N4T.IL,20.69,0.15,0.869,Yes
+299,Telecom Italia S.p.A.,0H6I.IL,45.66,0.302,0.755,Yes
+300,COFACE SA,0QVK.IL,20.55,0.149,0.554,Yes
+301,Wells Fargo & Company,0R2F.IL,35.38,0.244,0.942,Yes
+302,JPMorgan Japanese Investment Trust plc,JFJL.XC,26.09,0.186,1.168,Yes
+303,Avon Technologies Plc,AVONL.XC,53.05,0.345,0.175,Yes
+304,Hansa Investment Company Limited,HANA.L,23.48,0.17,0.127,Yes
+305,Cairn Homes plc,CRN.L,37.81,0.26,0.939,Yes
+306,Wärtsilä Oyj Abp,WRT1VH.XC,51.34,0.337,2.061,Yes
+307,Unibail-Rodamco-Westfield SE,0YO9.IL,39.18,0.268,1.77,Yes
+308,Gaztransport & Technigaz SA,0QT5.IL,31.04,0.219,0.545,Yes
+309,Monks Ord,MNKS.L,22.37,0.163,0.896,Yes
+310,JPMorgan European Growth & Income Ord,JEGI.L,19.38,0.143,1.037,Yes
+311,Telekom Austria AG,0NKL.IL,22.0,0.161,0.547,Yes
+312,Engie SA,0LD0.IL,32.61,0.229,1.003,Yes
+313,Concurrent Technologies Plc,CNC.L,68.79,0.429,2.421,Yes
+314,Teva Pharmaceutical Industries Limited,0LER.IL,69.87,0.434,0.482,Yes
+315,Italgas S.p.A.,IGM.XC,32.09,0.226,0.731,Yes
+316,Ferrovial N.V.,0P2N.IL,16.13,0.121,0.181,Yes
+317,InvestAcc Group Limited,INAC.L,22.73,0.167,0.102,Yes
+318,Cairn Homes plc,CRNL.XC,37.67,0.262,0.953,Yes
+319,"REN - Redes Energéticas Nacionais, SGPS, S.A.",0KBT.IL,21.71,0.16,0.477,Yes
+320,Wheaton Precious Metals Corp.,WPM.L,63.67,0.408,1.26,Yes
+321,Avon Technologies Plc,AVON.L,53.75,0.355,0.2,Yes
+322,International Consolidated Airlines Group S.A.,IAGL.XC,53.96,0.356,1.689,Yes
+323,IMI plc,IMI.L,29.19,0.21,1.588,Yes
+324,WisdomTree Coffee,COFF.L,58.54,0.382,0.2,No
+325,AEP Plantations Plc,AEP.L,50.74,0.34,0.098,No
+326,International Consolidated Airlines Group S.A.,IAG.L,54.23,0.36,1.704,Yes
+327,Lisi S.A.,0EKE.IL,52.16,0.348,1.85,Yes
+328,Personal Assets Ord,PNL.L,6.72,0.053,0.344,Yes
+329,Fortum Oyj,FORTMH.XC,35.97,0.255,0.574,Yes
+330,Avanza Bank Holding AB (publ),0NUK.IL,40.21,0.281,0.549,Yes
+331,IMI plc,IMIL.XC,28.88,0.21,1.588,Yes
+332,Orion Oyj,ORNBVH.XC,38.4,0.27,0.678,Yes
+333,Züblin Immobilien Holding AG,ZUBNZ.XC,34.49,0.246,0.316,Yes
+334,Scottish Mortgage Ord,SMT.L,35.57,0.253,1.064,Yes
+335,JPMorgan European Discovery Ord,JEDT.L,22.55,0.168,1.06,Yes
+336,WisdomTree Core Physical Silver USD ETC,WSLV.L,68.68,0.44,1.01,Yes
+337,Baillie Gifford US Growth Ord,USA.L,37.01,0.263,0.404,Yes
+338,WisdomTree Core Physical Silver USD ETC,WSIL.L,64.69,0.42,1.134,Yes
+339,Walmart Inc.,WMTD.XC,32.48,0.235,0.154,Yes
+340,Konami Group Corporation,KNM.L,51.44,0.35,0.863,No
+341,WisdomTree Physical Precious Metals,PHPP.L,31.5,0.23,0.79,Yes
+342,Engie SA,ENGIP.XC,31.86,0.232,1.101,Yes
+343,"Atalaya Mining Copper, S.A.",ATYM.L,62.73,0.414,2.02,Yes
+344,"CTT - Correios De Portugal, S.A.",0QIM.IL,32.52,0.237,0.605,Yes
+345,Schindler Holding AG,0QO1.IL,18.07,0.139,0.222,Yes
+346,Cranswick plc,CWKL.XC,15.94,0.124,0.342,Yes
+347,Siemens Aktiengesellschaft,0P6M.IL,37.39,0.269,1.231,Yes
+348,Konecranes Plc,KCRH.XC,61.23,0.407,1.002,Yes
+349,iShares Physical Silver ETC,ISLN.L,56.96,0.384,0.974,Yes
+350,Marwyn Value Investors Ord,MVI.L,19.46,0.15,0.628,Yes
+351,Cranswick plc,CWK.L,16.28,0.127,0.303,Yes
+352,Kongsberg Gruppen ASA,KOGO.XC,68.28,0.446,0.16,Yes
+353,Alphabet Inc.,0RIH.L,46.38,0.325,0.971,Yes
+354,Invesco Physical Silver ETC,SSLV.L,57.12,0.387,0.984,Yes
+355,Hansa Investment Company Limited,HAN.L,23.47,0.179,0.236,Yes
+356,Lundin Mining Corporation,LUMIS.XC,64.97,0.43,2.285,Yes
+357,Skanska AB (publ),0HBT.IL,22.95,0.175,1.143,Yes
+358,Deutsche Börse AG,0H3T.IL,26.16,0.197,0.27,No
+359,Lisi S.A.,FIIP.XC,41.51,0.297,0.929,Yes
+360,Nordex SE,0MEC.IL,64.05,0.425,1.98,Yes
+361,Hera S.p.A.,0NVV.IL,19.65,0.152,0.421,Yes
+362,Serica Energy plc,SQZL.XC,64.27,0.427,0.048,Yes
+363,SigmaRoc plc,SRC.L,38.73,0.28,1.095,Yes
+364,WisdomTree Physical Silver,PHAG.L,56.6,0.385,0.982,Yes
+365,Schindler Holding AG,SCHPZ.XC,16.99,0.133,0.243,Yes
+366,Heidelberg Materials AG,HEID.XC,41.82,0.299,0.481,Yes
+367,Airtel Africa Plc,AAFL.XC,46.81,0.33,1.61,Yes
+368,AEP Plantations Plc,AEPL.XC,47.94,0.338,0.044,No
+369,F&C Investment Trust Ord,FCIT.L,17.66,0.139,0.862,Yes
+370,Applied Nutrition Plc,APNL.XC,69.92,0.46,1.546,Yes
+371,BioPharma Credit PLC,BPCRL.XC,13.68,0.109,0.47,Yes
+372,Telecom Italia S.p.A.,TITM.XC,46.47,0.329,1.18,Yes
+373,Ferrovial N.V.,FERE.XC,28.98,0.219,1.055,Yes
+374,Antofagasta plc,ANTO.L,51.61,0.36,2.2,Yes
+375,National Bank of Greece S.A.,0RCR.IL,20.42,0.159,0.046,No
+376,JPMorgan Emerging Markets Div Inc,JEMI.L,21.91,0.17,1.08,Yes
+377,Airtel Africa Plc,AAF.L,47.0,0.334,1.636,Yes
+378,Bankers Ord,BNKR.L,17.71,0.14,0.887,Yes
+379,Lundin Mining Corporation,0RQ9.IL,65.0,0.437,2.445,Yes
+380,Mineral & Financial Investments Limited,MAFL.L,77.35,0.502,1.165,Yes
+381,Aberdeen Asia Focus PLC,AAS.L,23.58,0.184,0.944,Yes
+382,WisdomTree Physical Silver,PHAGL.XC,56.68,0.394,1.09,Yes
+383,North American Income Trust Ord,NAIT.L,18.35,0.146,1.069,Yes
+384,MTU Aero Engines AG,MTXD.XC,35.91,0.268,1.097,Yes
+385,Standard Life plc,SDLF.L,28.78,0.221,1.053,Yes
+386,Terna S.p.A.,0LBM.IL,16.97,0.136,0.546,Yes
+387,Applied Nutrition Plc,APN.L,71.2,0.476,1.579,Yes
+388,Sampo Oyj,0HAG.IL,15.66,0.127,0.04,Yes
+389,Antofagasta plc,ANTOL.XC,51.14,0.365,2.17,Yes
+390,ENAV S.p.A.,ENAVM.XC,17.99,0.145,0.138,No
+391,Siemens Aktiengesellschaft,SIED.XC,37.94,0.284,1.193,Yes
+392,Zug Estates Holding AG,ZUGNZ.XC,16.0,0.13,0.316,Yes
+393,GL Events SA,GLOP.XC,21.14,0.168,0.332,No
+394,Galliford Try Holdings plc,GFRD.L,43.04,0.317,0.76,Yes
+395,Sandvik AB (publ),SANDS.XC,31.89,0.244,1.597,Yes
+396,JPMorgan Japanese Ord,JFJ.L,23.91,0.188,1.136,Yes
+397,Galliford Try Holdings plc,GFRDL.XC,42.74,0.315,0.727,Yes
+398,NKT A/S,NKTC.XC,53.9,0.384,0.436,Yes
+399,WisdomTree Silver,SLVR.L,54.32,0.387,1.027,Yes
+400,PSP Swiss Property AG,PSPNZ.XC,14.97,0.123,0.377,Yes
+401,"Prosegur Compañía de Seguridad, S.A.",0Q8P.IL,37.27,0.282,0.407,Yes
+402,InterContinental Hotels Group PLC,IHG.L,31.72,0.245,0.635,Yes
+403,Swiss Re AG,0QL6.IL,27.75,0.218,0.474,Yes
+404,Invesco Asia Dragon Trust Ord,IAD.L,19.53,0.159,0.724,Yes
+405,Koninklijke KPN N.V.,0O8F.IL,16.28,0.134,0.167,Yes
+406,Invesco Physical Silver ETC,SLVP.L,50.65,0.368,1.026,Yes
+407,E.ON SE,0MPP.IL,23.68,0.189,0.694,Yes
+408,RTW Biotech Opportunities Ltd,RTW.L,31.71,0.247,0.978,Yes
+409,Lottomatica Group S.p.A.,LTMCM.XC,52.06,0.378,0.295,Yes
+410,Sandvik AB (publ),0HC0.IL,32.72,0.254,1.738,Yes
+411,Schroder AsiaPacific Ord,SDP.L,22.65,0.183,0.919,Yes
+412,DEUTZ Aktiengesellschaft,0E4K.IL,66.89,0.465,1.594,Yes
+413,M&G plc,MNG.L,24.16,0.194,1.051,Yes
+414,WisdomTree Physical Silver,PHSP.L,50.17,0.368,1.021,Yes
+415,Coca-Cola HBC AG,CCH.L,31.0,0.243,1.109,Yes
+416,"Atresmedia Corporación de Medios de Comunicación, S.A.",0MJT.IL,28.26,0.224,0.735,Yes
+417,Crédit Agricole S.A.,ACAP.XC,28.43,0.226,1.066,Yes
+418,Koninklijke KPN N.V.,KPNA.XC,15.85,0.132,0.02,Yes
+419,Coca-Cola HBC AG,CCHL.XC,30.95,0.244,1.12,Yes
+420,Currys plc,CURYL.XC,60.05,0.43,1.055,Yes
+421,Schroder Asian Total Return Inv. Company,ATR.L,23.13,0.189,1.176,Yes
+422,Snam S.p.A.,SRGM.XC,17.63,0.147,0.494,Yes
+423,Beazley plc,BEZ.L,39.35,0.303,0.629,Yes
+424,Currys plc,CURY.L,61.04,0.438,1.005,Yes
+425,Beazley plc,BEZL.XC,39.61,0.305,0.589,Yes
+426,JPMorgan Emerging Markets Growth & Income plc.,JMGI.L,19.74,0.164,0.913,Yes
+427,Investec Plc,INVR.L,7.44,0.065,0.088,Yes
+428,AbbVie Inc.,0QCV.IL,27.21,0.22,0.371,Yes
+429,Norcros plc,NXRL.XC,36.73,0.287,0.835,Yes
+430,City Natural Resources Grow & Inc PLC,CYN.L,41.82,0.322,1.248,Yes
+431,M&G plc,MNGL.XC,24.22,0.199,1.093,Yes
+432,Baillie Gifford US Growth Trust PLC,USAL.XC,20.51,0.172,0.253,Yes
+433,Commercial International Bank Egypt (CIB) S.A.E.,CBKDL.XC,42.65,0.33,1.711,Yes
+434,Commercial International Bank Egypt (CIB) S.A.E.,CBKD.IL,42.53,0.329,1.628,Yes
+435,Crédit Agricole S.A.,0HAI.IL,28.69,0.234,1.234,Yes
+436,Barings Emerging EMEA Opportunities Ord,BEMO.L,26.52,0.218,1.266,Yes
+437,Hellenic Telecommunications Organization S.A.,OTES.IL,19.97,0.169,0.528,Yes
+438,"Técnicas Reunidas, S.A.",0MKT.IL,56.28,0.418,2.301,Yes
+439,Skanska AB (publ),SKABS.XC,21.16,0.178,1.148,Yes
+440,Griffin Mining Limited,GFM.L,57.01,0.424,1.154,Yes
+441,Helios Towers plc,HTWS.L,51.71,0.391,2.087,Yes
+442,Avanza Bank Holding AB (publ),AZAS.XC,41.97,0.328,0.711,Yes
+443,Helios Towers plc,HTWSL.XC,51.4,0.39,2.08,Yes
+444,Chesnara plc,CSN.L,18.3,0.156,0.702,Yes
+445,Novartis AG,0QLR.IL,17.92,0.153,0.715,Yes
+446,SF Urban Properties AG,SFPNZ.XC,9.78,0.087,0.408,Yes
+447,Tesco PLC,TSCO.L,22.91,0.193,0.905,Yes
+448,Jungfraubahn Holding AG,JFNZ.XC,24.14,0.202,1.235,Yes
+449,Thurgauer Kantonalbank,TKBPZ.XC,13.63,0.119,0.21,Yes
+450,AB Ignitis grupe,IGN.IL,11.71,0.103,0.121,Yes
+451,Aegon Ltd.,AGNA.XC,28.31,0.234,0.964,Yes
+452,Morgan Sindall Group plc,MGNS.L,34.72,0.28,0.434,Yes
+453,Alphabet Inc.,ABEAD.XC,42.95,0.337,0.922,Yes
+454,SoftwareOne Holding AG,SWONO.XC,58.45,0.437,1.428,No
+455,Endeavour Mining plc,EDV.L,58.85,0.44,1.399,Yes
+456,B2 Impact ASA,0RIT.IL,23.74,0.201,0.041,Yes
+457,Endeavour Mining plc,EDVL.XC,58.21,0.437,1.504,Yes
+458,Norcros plc,NXR.L,34.97,0.285,1.031,Yes
+459,Loomis AB (publ),0JYZ.IL,32.25,0.266,0.939,Yes
+460,Morgan Sindall Group plc,MGNSL.XC,34.27,0.281,0.494,Yes
+461,Tesco PLC,TSCOL.XC,22.59,0.194,0.948,Yes
+462,Hargreaves Services Plc,HSP.L,28.89,0.242,0.631,Yes
+463,AJ Bell plc,AJBL.XC,37.18,0.303,0.368,Yes
+464,AJ Bell plc,AJB.L,37.57,0.306,0.361,Yes
+465,"Sacyr, S.A.",0OFU.IL,23.26,0.2,1.301,Yes
+466,NCC AB (publ),0OFP.IL,25.65,0.219,0.703,Yes
+467,Fincantieri S.p.A.,0QWN.IL,71.49,0.524,1.455,Yes
+468,Technogym S.p.A.,0RG1.IL,29.11,0.245,0.974,Yes
+469,AdvancedAdvT Limited,ADVT.L,35.51,0.293,0.453,No
+470,MS INTERNATIONAL plc,MSI.L,40.09,0.326,0.224,Yes
+471,Retail Estates N.V.,0FSO.IL,8.12,0.075,0.056,Yes
+472,Novartis AG,NOVNZ.XC,17.32,0.154,0.727,Yes
+473,Montea Comm. VA,0LBY.IL,4.92,0.046,0.035,Yes
+474,Bilfinger SE,GBFD.XC,52.13,0.409,0.729,Yes
+475,Barco NV,0KDK.IL,2.39,0.023,0.017,Yes
+476,"Grenergy Renovables, S.A.",GREE.XC,79.93,0.577,1.951,Yes
+477,BAE Systems plc,BA.L,32.38,0.272,0.268,Yes
+478,Ringkjøbing Landbobank A/S,0RPR.IL,1.89,0.018,0.093,No
+479,Nordnet AB (publ),0A6V.IL,5.59,0.052,0.003,Yes
+480,Storskogen Group AB (publ),0AA9.IL,0.25,0.002,0.002,Yes
+481,The European Smaller Companies Trust PLC,ESCT.L,20.32,0.179,0.954,Yes
+482,"Grupo Empresarial San José, S.A.",0L91.IL,4.42,0.042,0.033,Yes
+483,"CEZ, a. s.",0NZF.IL,11.26,0.103,0.163,No
+484,Sampo Oyj,SAMPOH.XC,15.18,0.137,0.196,Yes
+485,"Aedas Homes, S.A.",0RV8.IL,27.4,0.235,0.655,Yes
+486,Hellenic Telecommunications Organization S.A.,0FIZ.IL,7.85,0.073,0.205,Yes
+487,Lowland Ord,LWI.L,20.73,0.183,1.566,Yes
+488,Baillie Gifford Japan Ord,BGFD.L,17.66,0.158,1.074,Yes
+489,Cordiant Digital Infrastructure Limited,CORD.L,24.02,0.21,0.244,Yes
+490,Rubis,RUIP.XC,28.54,0.245,1.09,Yes
+491,Rexel S.A.,0KBZ.IL,28.75,0.247,1.085,Yes
+492,Piraeus Bank S.A.,0RTY.IL,49.49,0.396,0.73,Yes
+493,Orange S.A.,0OQV.IL,21.38,0.19,0.712,Yes
+494,ENAV S.p.A.,0RIE.IL,26.22,0.229,0.647,Yes
+495,Iren SpA,0MUN.IL,18.76,0.169,0.452,Yes
+496,Frontier Developments plc,FDEVL.XC,78.87,0.581,0.09,Yes
+497,Gedeon Richter PLC,0QFP.IL,12.9,0.119,0.151,No
+498,"Industria de Diseño Textil, S.A.",ITXE.XC,26.17,0.23,1.007,Yes
+499,Pebble Beach Systems Group plc,PEB.L,76.68,0.571,1.177,Yes
+500,Sea Limited,0A3T.IL,52.36,0.42,1.015,Yes
+501,Aberdeen Equity Income Trust,AEI.L,15.34,0.141,0.974,Yes
+502,Cohort plc,CHRT.L,46.15,0.378,1.059,Yes
+503,BAE Systems plc,BAL.XC,32.1,0.276,0.364,Yes
+504,Snam S.p.A.,0NQP.IL,17.1,0.156,0.682,Yes
+505,Metrovacesa S.A.,0HXI.IL,32.16,0.277,1.301,Yes
+506,WisdomTree Copper,COPAL.XC,22.74,0.203,0.444,Yes
+507,WisdomTree Copper IE ETC,COPR.L,22.8,0.204,0.402,Yes
+508,Babcock International Group PLC,BAB.L,47.49,0.388,0.875,Yes
+509,WisdomTree Copper,COPA.L,22.56,0.202,0.418,Yes
+510,Orange S.A.,ORAP.XC,19.99,0.181,0.807,Yes
+511,Northern Bear PLC,NTBR.L,38.85,0.329,0.089,Yes
+512,F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.,0QIQ.IL,23.75,0.213,0.396,No
+513,Mycronic AB (publ),MYCRS.XC,61.04,0.482,0.316,No
+514,Swiss Re AG,SRENZ.XC,25.0,0.224,0.408,Yes
+515,Babcock International Group PLC,BABL.XC,47.41,0.393,0.886,Yes
+516,Lagercrantz Group AB (publ),0RB7.IL,34.14,0.296,1.247,Yes
+517,Law Debenture Corporation Ord,LWDB.L,17.78,0.164,1.15,Yes
+518,Metro Bank Holdings PLC,MTRO.L,60.67,0.482,0.975,Yes
+519,Financière de Tubize SA,TUBB.XC,63.43,0.5,0.945,Yes
+520,Venture Life Group plc,VLG.L,37.74,0.324,0.399,Yes
+521,OTP Bank Nyrt.,0M69.IL,8.15,0.079,0.055,Yes
+522,HAL Trust,0K9V.IL,17.75,0.166,0.825,Yes
+523,EFG International AG,EFGNZ.XC,24.36,0.222,0.298,Yes
+524,"Hon Hai Precision Industry Co., Ltd.",HHPDL.XC,55.96,0.458,2.026,Yes
+525,Schroder Income Growth Ord,SCF.L,12.43,0.119,0.976,Yes
+526,Admiral Group plc,ADM.L,22.29,0.206,0.135,Yes
+527,Journeo plc,JNEO.L,37.85,0.33,1.343,Yes
+528,"Industria de Diseño Textil, S.A.",0QWI.IL,25.95,0.237,0.952,Yes
+529,Volution Group plc,FAN.L,27.64,0.251,1.229,Yes
+530,Alimak Group AB (publ),0R8W.IL,35.75,0.316,0.827,Yes
+531,Admiral Group plc,ADML.XC,22.29,0.207,0.176,Yes
+532,DNO ASA,0MHP.IL,39.22,0.343,0.38,No
+533,Metro Bank Holdings PLC,MTROL.XC,59.65,0.488,0.901,Yes
+534,International Biotechnology Ord,IBT.L,25.58,0.235,0.692,Yes
+535,Schroder Japan Trust Ord,SJG.L,20.4,0.191,1.186,Yes
+536,Kier Group plc,KIE.L,40.56,0.354,1.22,Yes
+537,Kier Group plc,KIEL.XC,40.66,0.354,1.24,Yes
+538,Volution Group plc,FANL.XC,27.49,0.252,1.272,Yes
+539,Personal Group Holdings Plc,PGH.L,36.36,0.322,0.125,Yes
+540,B.P. Marsh & Partners PLC,BPM.L,25.69,0.237,0.173,No
+541,Cicor Technologies Ltd.,CICNZ.XC,64.54,0.523,1.958,Yes
+542,TP ICAP Group PLC,TCAP.L,32.45,0.293,0.956,Yes
+543,Chemring Group PLC,CHGL.XC,31.93,0.29,1.143,Yes
+544,Ecofin Global Utilities & Infra Ord,EGL.L,18.82,0.18,1.231,Yes
+545,DEUTZ Aktiengesellschaft,DEZD.XC,76.92,0.607,1.266,Yes
+546,"MERLIN Properties SOCIMI, S.A.",0QVM.IL,28.5,0.264,1.9,Yes
+547,River UK Micro Cap Limited,RMMC.L,21.73,0.206,0.907,Yes
+548,Public Power Corporation S.A.,0MC5.IL,26.69,0.249,0.682,Yes
+549,Metso Oyj,0MGI.IL,32.22,0.295,1.902,Yes
+550,Amgen Inc.,0R0T.L,24.36,0.23,1.154,Yes
+551,"Hon Hai Precision Industry Co., Ltd.",HHPD.IL,57.27,0.482,2.119,Yes
+552,MHP SE,MHPCL.XC,37.76,0.339,0.693,Yes
+553,"Faes Farma, S.A.",0K9H.IL,19.09,0.184,0.642,Yes
+554,AB SKF (publ),SKFBS.XC,23.16,0.22,0.969,Yes
+555,IncomeShares Silver+ Yield ETP,SLVI.L,56.7,0.479,1.484,Yes
+556,Chemring Group PLC,CHG.L,31.47,0.29,1.115,Yes
+557,Volvere plc,VLE.L,28.16,0.263,0.66,Yes
+558,Serco Group plc,SRP.L,24.01,0.228,0.645,Yes
+559,TP ICAP Group PLC,TCAPL.XC,32.09,0.297,0.966,Yes
+560,Pantheon Infrastructure Ord,PINT.L,16.25,0.16,0.285,Yes
+561,Invesco Physical Platinum ETC,SPPT.L,34.09,0.314,1.067,Yes
+562,BlackRock Energy and Resources Income,BERI.L,19.6,0.191,1.174,Yes
+563,iShares Physical Platinum ETC,IPLT.L,33.99,0.313,1.057,Yes
+564,Orkla ASA,ORKO.XC,21.18,0.205,0.395,Yes
+565,"Pharma Mar, S.A.",0RC6.IL,55.23,0.475,0.379,Yes
+566,Addtech AB (publ.),ADDTBS.XC,32.13,0.299,1.14,Yes
+567,RWE Aktiengesellschaft,RWED.XC,27.61,0.262,0.467,Yes
+568,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,0KFE.IL,18.76,0.184,0.314,Yes
+569,Sanoma Oyj,0JLQ.IL,19.39,0.19,0.35,No
+570,Tryg A/S,0R78.IL,13.88,0.139,0.177,No
+571,Xtrackers ETC plc - Xtrackers IE Physical Platinum ETC 1,XPPT.L,33.82,0.314,1.053,Yes
+572,Cairo Communication S.p.A.,0N7I.IL,23.18,0.224,0.508,Yes
+573,ASSA ABLOY AB (publ),0R87.IL,19.0,0.187,1.326,Yes
+574,Serco Group plc,SRPL.XC,24.02,0.232,0.621,Yes
+575,Valterra Platinum Limited,VALT.L,60.37,0.514,1.47,Yes
+576,AB SKF (publ),0NWX.IL,21.57,0.21,1.279,Yes
+577,RWE Aktiengesellschaft,0HA0.IL,26.86,0.257,0.756,Yes
+578,Vend Marketplaces ASA,0R9I.IL,29.55,0.28,0.06,Yes
+579,"Semapa - Sociedade de Investimento e Gestão, SGPS, S.A.",0IE9.IL,22.11,0.216,0.838,Yes
+580,Telefonaktiebolaget LM Ericsson (publ),0O87.IL,31.66,0.299,0.533,Yes
+581,JPMorgan American Ord,JAM.L,16.91,0.169,0.733,Yes
+582,Aberdeen Asian Income Fund Limited,AAIF.L,19.73,0.197,1.102,Yes
+583,WisdomTree Cocoa,COCO.L,76.86,0.635,1.182,No
+584,Rubis,0RTS.IL,30.41,0.292,1.406,Yes
+585,Addtech AB (publ.),0QI7.IL,31.59,0.302,1.442,Yes
+586,Wereldhave N.V.,0NMR.IL,19.12,0.192,0.954,Yes
+587,Fincantieri S.p.A.,FCTM.XC,54.33,0.482,0.591,Yes
+588,Talanx AG,TLXD.XC,29.32,0.284,0.066,No
+589,Telefonaktiebolaget LM Ericsson (publ),ERICBS.XC,32.21,0.31,0.607,Yes
+590,Clarkson PLC,CKN.L,28.39,0.277,1.048,Yes
+591,Hera S.p.A.,HERM.XC,20.25,0.204,0.475,Yes
+592,Distribution Finance Capital Holdings plc,DFCH.L,48.74,0.444,1.633,Yes
+593,KSB SE & Co. KGaA,KSB3D.XC,62.97,0.551,1.856,No
+594,Pirelli & C. S.p.A.,PIRCM.XC,18.96,0.193,1.033,Yes
+595,RaySearch Laboratories AB (publ),0GRZ.IL,45.81,0.424,0.232,Yes
+596,Made Tech Group Plc,MTEC.L,75.25,0.636,1.271,Yes
+597,HarbourVest Global Private Equity Ltd.,HVPE.L,15.74,0.163,0.626,Yes
+598,Immobiliare Grande Distribuzione SIIQ S.p.A.,0STP.IL,34.19,0.33,1.344,Yes
+599,Clarkson PLC,CKNL.XC,28.04,0.277,1.06,Yes
+600,Europris ASA,0RAI.IL,22.95,0.231,0.121,Yes
+601,Edinburgh Worldwide Ord,EWI.L,30.28,0.297,0.865,Yes
+602,,BTCXZ.XC,60.71,0.538,0.006,Yes
+603,Optima Health plc,OPT.L,35.89,0.347,0.161,No
+604,Time Finance plc,TIME.L,33.45,0.326,0.044,Yes
+605,The Beauty Tech Group plc,TBTG.L,47.35,0.441,1.31,Yes
+606,CoreShares Copper ETC,CPER.L,18.81,0.195,0.445,Yes
+607,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,MUV2D.XC,18.96,0.197,0.22,Yes
+608,Berkshire Hathaway Inc.,0R37.L,14.24,0.151,0.016,Yes
+609,WisdomTree Copper,COPB.L,17.83,0.186,0.457,Yes
+610,Ukrproduct Group Limited,UKR.L,75.37,0.648,0.003,Yes
+611,MIGO Opportunities Trust Ord,MIGO.L,9.27,0.1,0.428,Yes
+612,"Amazon.com, Inc.",AMZD.XC,28.64,0.288,0.041,Yes
+613,"Ebro Foods, S.A.",0NYH.IL,9.44,0.102,0.311,Yes
+614,Mitie Group plc,MTOL.XC,33.47,0.331,1.154,Yes
+615,Target Healthcare REIT Ord,THRL.L,16.14,0.171,0.364,Yes
+616,Halma plc,HLMA.L,29.03,0.292,1.097,Yes
+617,BELIMO Holding AG,BEANZ.XC,37.02,0.363,1.419,Yes
+618,Anpario plc,ANP.L,34.52,0.342,1.017,Yes
+619,Wynnstay Properties Plc,WSP.L,10.45,0.114,0.274,Yes
+620,MHP SE,MHPC.IL,36.67,0.361,0.91,Yes
+621,Mitie Group plc,MTO.L,33.78,0.336,1.211,Yes
+622,Burkhalter Holding AG,BRKNZ.XC,22.51,0.234,0.921,Yes
+623,Halma plc,HLMAL.XC,28.87,0.293,1.143,Yes
+624,Elopak ASA,0AB3.IL,32.32,0.324,1.875,Yes
+625,Coca-Cola Europacific Partners PLC,CCEPA.XC,22.67,0.236,1.502,Yes
+626,Thales S.A.,0IW5.IL,31.31,0.316,0.324,Yes
+627,Elis SA,ELISP.XC,20.29,0.213,0.696,Yes
+628,"Netflix, Inc.",NFCD.XC,30.59,0.309,0.844,No
+629,TX Group AG,TXGNZ.XC,33.63,0.337,1.245,Yes
+630,Kitron ASA,KITO.XC,45.53,0.439,1.469,Yes
+631,British American Tobacco p.l.c.,BATS.L,20.13,0.213,0.802,Yes
+632,HAL Trust,HALA.XC,15.37,0.166,0.796,Yes
+633,Walmart Inc.,0R1W.L,44.2,0.429,0.044,No
+634,Rexel S.A.,RXLP.XC,28.55,0.293,1.475,Yes
+635,British American Tobacco p.l.c.,BATSL.XC,20.16,0.214,0.836,Yes
+636,Airbus SE,0KVV.IL,22.9,0.24,1.047,Yes
+637,Drax Group plc,DRXL.XC,25.33,0.264,0.731,Yes
+638,"Acciona, S.A.",ANAE.XC,30.95,0.316,1.42,Yes
+639,Drax Group plc,DRX.L,25.36,0.264,0.745,Yes
+640,Publicis Groupe S.A.,PUBP.XC,20.4,0.217,0.152,Yes
+641,Pollen Street Group Limited,POLNL.XC,18.42,0.198,0.011,No
+642,RIT Capital Partners Plc,RCPL.XC,13.41,0.147,0.498,Yes
+643,United Utilities Group PLC,UU.L,17.04,0.184,0.338,Yes
+644,Vodafone Group Public Limited Company,VOD.L,18.18,0.196,0.73,Yes
+645,Byggmax Group AB (publ),0MR4.IL,30.31,0.312,1.639,Yes
+646,Metso Oyj,METSOH.XC,35.43,0.359,1.827,Yes
+647,Invesco Physical Platinum ETC,SPPP.L,28.83,0.299,1.098,Yes
+648,Baillie Gifford UK Growth Trust Ord,BGUK.L,15.16,0.166,1.159,Yes
+649,Ayvens,AYVP.XC,29.01,0.302,1.004,Yes
+650,Thales S.A.,HOP.XC,31.92,0.329,0.343,Yes
+651,Games Workshop Group PLC,GAWL.XC,24.73,0.262,0.192,Yes
+652,Secure Trust Bank PLC,STB.L,52.19,0.503,1.477,Yes
+653,Ayvens,0RSP.IL,28.13,0.295,1.328,Yes
+654,argenx SE,ARGXB.XC,28.89,0.302,0.249,Yes
+655,Roche Holding AG,ROPZ.XC,19.76,0.214,1.058,Yes
+656,UIL Limited,UTL.L,22.59,0.242,0.566,Yes
+657,DNO ASA,DNOO.XC,37.89,0.384,0.821,No
+658,WisdomTree Physical Platinum,PPTX.L,28.45,0.299,1.075,Yes
+659,Games Workshop Group PLC,GAW.L,25.02,0.266,0.174,Yes
+660,Imperial Brands PLC,IMB.L,17.5,0.192,0.304,Yes
+661,Vend Marketplaces ASA,VENDO.XC,37.28,0.38,0.009,Yes
+662,Uniphar plc,UPR.L,28.5,0.3,1.512,Yes
+663,Winvia Entertainment Plc,WVIA.L,38.08,0.387,1.634,Yes
+664,Dassault Aviation société anonyme,AMP.XC,24.09,0.258,0.4,Yes
+665,Permanent TSB Group Holdings plc,PTSBI.XC,60.41,0.572,1.464,Yes
+666,Newmark Security plc,NWT.L,37.5,0.383,1.404,Yes
+667,Futu Holdings Limited,0FUT.L,45.08,0.449,1.241,Yes
+668,Musti Group Oyj,0A3B.IL,0.71,0.008,0.008,No
+669,Adtran Networks SE,0NOL.IL,1.6,0.019,0.013,No
+670,SIG Group AG,0P4G.IL,1.39,0.016,0.006,No
+671,Imperial Brands PLC,IMBL.XC,17.2,0.19,0.298,Yes
+672,argenx SE,0QW0.IL,33.32,0.347,0.107,Yes
+673,MOL Magyar Olaj- és Gázipari Nyilvánosan Muködo Részvénytársaság,0RUK.IL,6.98,0.081,0.027,No
+674,Publicis Groupe S.A.,0FQI.IL,20.06,0.22,0.293,Yes
+675,A2A S.p.A.,0N54.IL,18.52,0.204,0.355,Yes
+676,Kesko Oyj,0BNT.IL,17.36,0.192,0.456,Yes
+677,Vodafone Group Public Limited Company,VODL.XC,18.06,0.2,0.757,Yes
+678,Dassault Aviation société anonyme,0IAX.IL,23.49,0.254,0.501,Yes
+679,Hamburger Hafen und Logistik Aktiengesellschaft,0NBI.IL,10.18,0.116,0.488,Yes
+680,AVI Japan Opportunity Ord,AJOT.L,16.57,0.185,1.043,Yes
+681,United Utilities Group PLC,UUL.XC,16.95,0.189,0.391,Yes
+682,Inwido AB (publ),0QXM.IL,29.68,0.314,0.785,Yes
+683,Bouygues SA,0HAN.IL,18.38,0.204,0.627,Yes
+684,WisdomTree Live Cattle,CATL.L,11.98,0.136,0.159,No
+685,BT Group plc,BT-A.L,25.81,0.279,0.799,Yes
+686,Galenica AG,GALEZ.XC,11.95,0.137,0.215,Yes
+687,DO & CO Aktiengesellschaft,0E64.IL,37.71,0.392,1.597,Yes
+688,BT Group plc,BTL.XC,25.95,0.282,0.79,Yes
+689,BlackRock Income and Growth Ord,BRIG.L,9.58,0.111,0.635,Yes
+690,Voestalpine AG,0MKX.IL,32.0,0.341,2.043,Yes
+691,Nippon Active Value Ord,NAVF.L,15.94,0.181,0.795,Yes
+692,DP Aircraft I Limited,DPA.L,50.57,0.508,0.915,No
+693,KONE Oyj,0II2.IL,15.08,0.172,0.713,Yes
+694,Apple Inc.,0R2V.L,29.53,0.319,0.013,No
+695,PFISTERER Holding SE,PFSED.XC,58.84,0.577,0.86,No
+696,Smiths News plc,SNWS.L,24.01,0.265,0.001,No
+697,Secure Trust Bank PLC,STBL.XC,50.72,0.511,1.45,Yes
+698,Safilo Group S.p.A.,0NJ5.IL,40.82,0.425,1.425,Yes
+699,Nexans S.A.,0IGF.IL,34.2,0.366,0.536,Yes
+700,FLSmidth & Co. A/S,0OJA.IL,33.35,0.358,1.8,Yes
+701,Brave Bison Group plc,BBSN.L,35.97,0.384,0.551,Yes
+702,Fagron NV,0HNZ.IL,15.86,0.183,0.521,Yes
+703,Atlas Copco AB (publ),0XXV.IL,18.13,0.207,1.418,Yes
+704,"Acciona, S.A.",0H4K.IL,32.41,0.351,2.128,Yes
+705,Compagnie Financière Richemont SA,CFRZ.XC,28.42,0.313,1.069,Yes
+706,Buzzi S.p.A.,BZUM.XC,24.52,0.274,0.968,Yes
+707,Edinburgh Investment Ord,EDIN.L,9.8,0.116,0.928,Yes
+708,Legrand SA,0MW7.IL,24.19,0.271,1.751,Yes
+709,Legrand SA,LRP.XC,24.05,0.27,1.705,Yes
+710,Henderson High Income Trust plc,HHIL.XC,10.78,0.128,0.965,Yes
+711,Flow Traders Ltd.,0R96.IL,23.27,0.262,0.036,No
+712,Intercede Group plc,IGP.L,55.49,0.559,0.164,Yes
+713,R.E.A. Holdings plc,RE-B.L,17.19,0.199,0.232,No
+714,Compagnie Financière Richemont SA,0QMU.IL,27.0,0.3,1.046,Yes
+715,Buzzi S.p.A.,0NVQ.IL,22.0,0.25,0.956,Yes
+716,Cham Swiss Properties AG,CHAMZ.XC,12.25,0.145,0.336,Yes
+717,Schroder UK Mid Cap Ord,SCP.L,14.98,0.175,1.19,Yes
+718,L'Air Liquide S.A.,0NWF.IL,12.36,0.146,0.445,Yes
+719,Caledonia Mining Corporation Plc,CMCL.L,54.36,0.553,0.596,Yes
+720,River Global Plc,RVRB.L,17.9,0.208,0.558,Yes
+721,Accor SA,ACP.XC,19.96,0.23,1.026,Yes
+722,WisdomTree Softs,AIGS.L,17.68,0.206,0.776,No
+723,Ceconomy AG,0MPM.IL,43.41,0.462,0.894,Yes
+724,Renew Holdings plc,RNWHL.XC,16.56,0.195,0.661,Yes
+725,Oakley Capital Investments Limited,OCIL.XC,5.52,0.068,0.12,Yes
+726,Science Group plc,SAG.L,14.32,0.171,0.442,Yes
+727,Groupe Bruxelles Lambert SA,GBLBB.XC,11.15,0.135,0.589,Yes
+728,"Meta Platforms, Inc.",0QZI.L,31.93,0.357,0.39,Yes
+729,A2A S.p.A.,A2AM.XC,18.6,0.219,0.298,Yes
+730,Roche Holding AG,ROZ.XC,17.44,0.207,1.02,Yes
+731,ActiveOps Plc,AOM.L,46.64,0.498,1.637,Yes
+732,Fresenius SE & Co. KGaA,FRED.XC,22.12,0.258,1.283,Yes
+733,Compagnie de Saint-Gobain S.A.,SGOP.XC,18.49,0.219,1.113,Yes
+734,IncomeShares Gold + Yield ETP,GLDE.L,15.86,0.19,0.559,Yes
+735,Montanaro European Smaller Ord,MTE.L,17.79,0.211,1.017,Yes
+736,BW Offshore Limited,0RKH.IL,23.45,0.274,0.965,Yes
+737,SSE plc,SSE.L,18.09,0.216,0.737,Yes
+738,COFACE SA,COFAP.XC,22.75,0.267,0.309,Yes
+739,SSE plc,SSEL.XC,17.88,0.214,0.722,Yes
+740,Pollen Street Group Limited,POLN.L,17.08,0.205,0.016,Yes
+741,Pantheon International Ord,PIN.L,11.98,0.147,0.428,Yes
+742,SPIE SA,0R8M.IL,24.44,0.285,1.458,Yes
+743,D'Ieteren Group SA,0ON7.IL,28.56,0.329,0.939,Yes
+744,Helios Underwriting plc,HUW.L,29.34,0.338,0.17,No
+745,Sprott Physical Uranium ETC,SRUF.L,26.13,0.305,0.038,No
+746,XPS Pensions Group plc,XPSL.XC,21.18,0.252,0.105,No
+747,WisdomTree Industrial Metals Enhanced,META.L,11.06,0.137,0.489,Yes
+748,Deutsche Telekom AG,0MPH.IL,19.98,0.239,0.68,Yes
+749,Smiths Group plc,SMIN.L,21.54,0.257,2.069,Yes
+750,State Bank of India,SBID.IL,22.01,0.265,1.076,Yes
+751,Microsoft Corporation,0QYP.L,23.39,0.28,0.116,Yes
+752,Austevoll Seafood ASA,0DNW.IL,16.14,0.199,0.477,Yes
+753,State Bank of India,SBIDL.XC,21.77,0.263,1.092,Yes
+754,Accor SA,0H59.IL,20.78,0.252,0.967,Yes
+755,CT UK High Income B Share Ord,CHIB.L,12.33,0.155,0.669,Yes
+756,Smiths Group plc,SMINL.XC,21.35,0.259,2.073,Yes
+757,Marks and Spencer Group plc,MKS.L,23.98,0.289,1.204,Yes
+758,CT UK High Income Ord,CHI.L,18.23,0.225,0.959,Yes
+759,Aberforth Smaller Companies Ord,ASL.L,15.67,0.196,1.169,Yes
+760,Montana Aerospace AG,AEROZ.XC,46.7,0.521,2.095,Yes
+761,Hannover Rück SE,0M9A.IL,13.38,0.169,0.022,No
+762,Technogym S.p.A.,TGYMM.XC,26.26,0.316,0.442,Yes
+763,Marks and Spencer Group plc,MKSL.XC,24.11,0.293,1.211,Yes
+764,Beeks Financial Cloud Group plc,BKS.L,59.4,0.639,1.018,Yes
+765,Deutsche Telekom AG,DTED.XC,19.84,0.246,0.738,Yes
+766,Gulf Keystone Petroleum Limited,GKPL.XC,33.78,0.398,0.703,Yes
+767,Gulf Keystone Petroleum Limited,GKP.L,34.05,0.401,0.71,Yes
+768,SPIE SA,SPIEP.XC,25.83,0.314,0.912,Yes
+769,Nexans S.A.,NEXP.XC,37.22,0.434,0.82,Yes
+770,Panthera Resources PLC,PAT.L,53.92,0.595,0.947,Yes
+771,Berkshire Hathaway Inc.,0HN0.L,12.09,0.155,0.497,Yes
+772,The Property Franchise Group PLC,TPFG.L,22.2,0.274,0.486,No
+773,SFS Group AG,SFSNZ.XC,14.61,0.186,0.718,Yes
+774,Bloomsbury Publishing Plc,BMY.L,21.43,0.266,0.735,No
+775,Telenor ASA,0G8C.IL,12.92,0.166,0.534,Yes
+776,Bloomsbury Publishing Plc,BMYL.XC,21.3,0.265,0.706,No
+777,Fresenius SE & Co. KGaA,0OO9.IL,23.0,0.285,1.543,Yes
+778,SFS Group AG,0QW8.IL,14.62,0.187,0.714,Yes
+779,Tetragon Financial Group Limited,TFG.L,20.33,0.255,0.064,No
+780,XPS Pensions Group plc,XPS.L,21.86,0.273,0.188,No
+781,Novavest Real Estate AG,NRENZ.XC,7.24,0.096,0.102,Yes
+782,ProCook Group plc,PROC.L,45.79,0.527,0.739,No
+783,Pearson plc,PSON.L,14.81,0.192,0.063,Yes
+784,Aedifica NV/SA,0DKX.IL,16.53,0.213,1.138,Yes
+785,Atlas Copco AB (publ),ATCOAS.XC,19.07,0.243,1.36,Yes
+786,L'Air Liquide S.A.,AIP.XC,11.56,0.152,0.638,Yes
+787,Xtrackers IE Physical Gold ETC,XGDP.L,21.17,0.269,0.793,Yes
+788,Polar Capital Glb Healthcare Ord,PCGH.L,14.48,0.189,0.795,Yes
+789,Orkla ASA,0FIN.IL,16.13,0.21,0.664,Yes
+790,Fnac Darty SA,0QSH.IL,21.57,0.274,0.683,Yes
+791,Henderson High Income Ord,HHI.L,10.32,0.138,1.047,Yes
+792,Telenor ASA,TELO.XC,14.28,0.187,0.427,Yes
+793,ARYZTA AG,0MFY.IL,11.6,0.154,0.389,Yes
+794,Elis SA,0RA8.IL,19.32,0.248,0.925,Yes
+795,Roche Holding AG,0QOK.IL,15.32,0.2,0.865,Yes
+796,Aberdeen Group Plc,ABDN.L,22.97,0.291,1.321,Yes
+797,3i Infrastructure plc,3IN.L,10.43,0.139,0.391,Yes
+798,Cadogan Energy Solutions PLC,CAD.L,62.62,0.695,0.168,No
+799,R.E.A. Holdings plc,RE.L,25.34,0.319,0.407,Yes
+800,Knights Group Holdings plc,KGH.L,29.83,0.37,0.136,No
+801,Atlas Copco AB (publ),0XXT.IL,17.64,0.229,1.463,Yes
+802,Daimler Truck Holding AG,DTGD.XC,23.43,0.298,0.994,Yes
+803,Petards Group plc,PEG.L,50.01,0.581,1.113,No
+804,Gear4music (Holdings) plc,G4M.L,41.49,0.496,0.864,Yes
+805,Aberdeen Group Plc,ABDNL.XC,23.02,0.295,1.356,Yes
+806,RIT Capital Partners Ord,RCP.L,11.54,0.155,0.651,Yes
+807,Pearson plc,PSONL.XC,14.78,0.196,0.181,Yes
+808,Snowflake Inc.,0A93.IL,50.7,0.592,0.802,Yes
+809,Jupiter Fund Management Plc,JUP.L,29.85,0.375,1.817,Yes
+810,EJF Investments Limited,EJFI.L,9.22,0.126,0.006,Yes
+811,Fusion Antibodies plc,FAB.L,70.14,0.775,0.091,No
+812,thyssenkrupp AG,0O1C.IL,55.64,0.643,1.455,Yes
+813,WisdomTree European Natural Gas ETP,EGAS.L,59.78,0.683,1.54,No
+814,Philip Morris International Inc.,0M8V.L,45.19,0.542,0.102,No
+815,Arkle Resources PLC,ARK.L,43.31,0.524,0.192,Yes
+816,Jupiter Fund Management Plc,JUPL.XC,29.54,0.376,1.88,Yes
+817,Harworth Group plc,HWGL.XC,24.51,0.318,0.481,Yes
+818,WisdomTree Natural Gas 1x Daily Short,SNGA.L,38.45,0.474,1.48,Yes
+819,Dar Global PLC,DAR.L,49.82,0.593,1.749,No
+820,RaySearch Laboratories AB (publ),RAYBS.XC,73.02,0.81,1.02,No
+821,Modern Times Group MTG AB,0GXJ.IL,31.59,0.401,0.166,No
+822,Aedifica NV/SA,AEDB.XC,20.29,0.27,0.796,Yes
+823,Harworth Group plc,HWG.L,25.31,0.331,0.497,Yes
+824,Covivio,0J6V.IL,17.23,0.233,1.708,Yes
+825,BlackRock Frontiers Ord,BRFI.L,12.49,0.173,1.086,Yes
+826,Palfinger AG,0MJ1.IL,19.63,0.265,0.547,Yes
+827,Tharisa plc,THS.L,30.8,0.399,1.112,Yes
+828,KWS SAAT SE & Co. KGaA,0F1N.IL,17.71,0.242,0.031,Yes
+829,WisdomTree Livestock,AIGL.L,8.73,0.124,0.136,No
+830,TBC Bank Group PLC,TBCGL.XC,28.22,0.37,1.624,Yes
+831,SAP SE,SAPD.XC,23.28,0.313,0.307,Yes
+832,NewPrinces S.p.A.,NWLM.XC,67.09,0.779,0.523,Yes
+833,TBC Bank Group PLC,TBCG.L,27.97,0.37,1.58,Yes
+834,Swisscom AG,0QKI.IL,11.12,0.157,0.484,Yes
+835,Swisscom AG,SCMNZ.XC,10.74,0.153,0.539,Yes
+836,Mastercard Incorporated,0R2Z.L,24.46,0.331,0.205,No
+837,SAP SE,0NW4.IL,22.53,0.308,0.252,Yes
+838,Weir PLC,WEIR.L,18.75,0.261,2.077,Yes
+839,Deutsche EuroShop AG,0I3Z.IL,15.77,0.222,0.686,Yes
+840,PVA TePla AG,TPED.XC,40.79,0.524,0.693,No
+841,Onward Opportunities Limited,ONWD.L,15.79,0.223,0.535,Yes
+842,AMPEAK ENERGY LIMITED,AMP.L,79.62,0.908,0.236,No
+843,Lotus Bakeries NV,LOTBB.XC,21.65,0.3,0.775,Yes
+844,JOST Werke SE,0RTR.IL,19.83,0.278,0.985,Yes
+845,"Galp Energia, SGPS, S.A.",GALPU.XC,24.52,0.338,0.128,Yes
+846,Canadian General Investments Ord,CGI.L,11.61,0.169,0.913,Yes
+847,"Galp Energia, SGPS, S.A.",0B67.IL,23.41,0.324,0.211,Yes
+848,Vossloh AG,0N2Z.IL,24.37,0.337,0.836,Yes
+849,Bure Equity AB (publ),0N7D.IL,21.32,0.298,0.064,Yes
+850,Baillie Gifford China Growth Trust Ord,BGCG.L,15.69,0.224,0.459,Yes
+851,HORNBACH Holding AG & Co. KGaA,0RC9.IL,17.03,0.242,0.183,Yes
+852,Weir PLC,WEIRL.XC,18.45,0.261,2.076,Yes
+853,L E Lundbergföretagen AB (publ),0GWB.IL,11.48,0.167,1.205,Yes
+854,Partners Group Private Equity Limited,PEYL.XC,8.93,0.132,0.282,Yes
+855,Tata Steel Limited,TTST.IL,15.31,0.221,0.776,Yes
+856,Danone S.A.,BNP.XC,13.64,0.199,0.078,Yes
+857,Frontier Developments plc,FDEV.L,51.34,0.653,0.698,Yes
+858,Groupe Bruxelles Lambert SA,0IN2.IL,8.33,0.124,0.62,Yes
+859,Basilea Pharmaceutica AG,BSLNZ.XC,22.56,0.318,0.878,Yes
+860,Porvair plc,PRV.L,16.27,0.235,0.519,Yes
+861,CTP N.V.,CTPNVA.XC,13.39,0.196,0.56,Yes
+862,Norwegian Air Shuttle ASA,0FGH.IL,30.4,0.417,0.157,Yes
+863,Synectics plc,SNX.L,31.88,0.435,0.267,Yes
+864,Marston's PLC,MARSL.XC,29.69,0.409,1.256,Yes
+865,Visa Inc.,0QZ0.L,28.99,0.401,0.732,Yes
+866,Compass Group PLC,CPG.L,11.44,0.17,0.712,Yes
+867,KEFI Gold and Copper Plc,KEFI.L,54.33,0.69,2.882,Yes
+868,Marston's PLC,MARS.L,29.95,0.414,1.339,Yes
+869,AddLife AB (publ),ALIFBS.XC,64.39,0.794,0.564,No
+870,Utilico Emerging Markets Ord,UEM.L,9.18,0.138,0.726,Yes
+871,thyssenkrupp AG,TKAD.XC,62.29,0.773,0.397,No
+872,RTL Group S.A.,0MNC.IL,13.12,0.195,0.094,No
+873,Bridgepoint Group plc,BPTL.XC,27.64,0.388,1.3,Yes
+874,Warteck Invest AG,WARNZ.XC,6.14,0.094,0.08,Yes
+875,Bridgepoint Group plc,BPT.L,27.64,0.389,1.265,Yes
+876,Ruffer Investment Company Limited,RICA.L,3.96,0.061,0.361,Yes
+877,EMS-CHEMIE HOLDING AG,EMSNZ.XC,13.6,0.203,1.121,Yes
+878,"Block, Inc.",0L95.IL,41.44,0.556,1.34,No
+879,WashTec AG,0GJK.IL,14.86,0.22,0.455,Yes
+880,"Naturgy Energy Group, S.A.",0NPV.IL,14.93,0.221,0.233,Yes
+881,Software Circle plc,SFT.L,31.64,0.441,1.991,No
+882,R&S Group Holding AG,RSGNZ.XC,49.86,0.654,2.0,Yes
+883,Société BIC SA,BBP.XC,20.68,0.303,0.293,Yes
+884,Robinson plc,RBN.L,14.92,0.224,0.115,Yes
+885,Danone S.A.,0KFX.IL,13.28,0.201,0.25,Yes
+886,Tencent Holdings Limited,0Z4S.IL,20.95,0.308,0.077,Yes
+887,freenet AG,0MV2.IL,13.37,0.203,0.248,No
+888,Hammerson Plc,HMSO.L,19.71,0.292,1.712,Yes
+889,DFS Furniture plc,DFS.L,22.59,0.332,1.27,Yes
+890,Cmb.Tech NV,0K9A.IL,27.78,0.401,0.968,Yes
+891,Porvair plc,PRVL.XC,16.51,0.249,0.503,Yes
+892,Investec Group,INVP.L,14.14,0.216,1.105,Yes
+893,EMS-CHEMIE HOLDING AG,0QM9.IL,13.51,0.207,1.146,Yes
+894,Canal+ SA,CANL.XC,29.18,0.42,1.473,Yes
+895,Covivio,COVP.XC,17.74,0.268,1.496,Yes
+896,Investec Group,INVPL.XC,14.11,0.217,1.13,Yes
+897,RM plc,RM.L,32.91,0.471,1.296,Yes
+898,Mpac Group plc,MPAC.L,38.12,0.535,1.401,Yes
+899,SMCP S.A.,0RVA.IL,35.84,0.507,2.022,Yes
+900,Hammerson Plc,HMSOL.XC,19.24,0.29,1.717,Yes
+901,Ecora Royalties PLC,ECOR.L,25.07,0.369,1.301,Yes
+902,Voestalpine AG,VOEV.XC,25.25,0.372,1.485,Yes
+903,Tatton Asset Management plc,TAM.L,15.5,0.237,0.298,Yes
+904,Santhera Pharmaceuticals Holding AG,SANNZ.XC,42.58,0.593,0.597,Yes
+905,Ecora Royalties PLC,ECORL.XC,25.02,0.371,1.259,Yes
+906,BH Macro Limited,BHMG.L,6.84,0.11,0.182,Yes
+907,On the Beach Group plc,OTB.L,42.62,0.595,0.953,Yes
+908,"EDP, S.A.",0OF7.IL,15.31,0.237,0.625,Yes
+909,On the Beach Group plc,OTBL.XC,42.66,0.597,0.995,Yes
+910,SGS SA,SGSNZ.XC,13.39,0.21,0.991,Yes
+911,DFS Furniture plc,DFSL.XC,22.64,0.342,1.345,Yes
+912,Métropole Télévision S.A.,0MGL.IL,11.99,0.189,0.303,Yes
+913,Comet Holding AG,COTNZ.XC,33.05,0.481,1.528,Yes
+914,OSB Group Plc,OSB.L,25.15,0.377,1.551,Yes
+915,Vale S.A.,0LBF.IL,18.96,0.291,0.993,Yes
+916,Santander UK plc,SANB.L,6.14,0.1,0.355,Yes
+917,Likewise Group Plc,LIKE.L,28.44,0.422,1.565,Yes
+918,OSB Group Plc,OSBL.XC,24.96,0.375,1.501,Yes
+919,SGS SA,0QMI.IL,13.1,0.207,1.033,Yes
+920,"Ricoh Company, Ltd.",RICO.L,15.26,0.239,0.281,Yes
+921,WisdomTree Copper 3x Daily Leveraged,3HCL.L,47.75,0.664,0.972,Yes
+922,SpaceandPeople plc,SAL.L,28.39,0.423,1.424,Yes
+923,Essity AB (publ),0RQD.IL,11.46,0.183,0.61,Yes
+924,QinetiQ Group plc,QQ.L,25.34,0.383,0.463,Yes
+925,Flughafen Zürich AG,FHZNZ.XC,11.87,0.189,0.519,Yes
+926,Henderson Smaller Companies Ord,HSL.L,14.66,0.231,1.409,Yes
+927,Eleco plc,ELCO.L,25.46,0.385,1.72,Yes
+928,QinetiQ Group plc,QQL.XC,25.86,0.393,0.467,Yes
+929,Ypsomed Holding AG,YPSNZ.XC,22.06,0.341,0.195,No
+930,Zehnder Group AG,ZEHNZ.XC,17.88,0.281,1.688,Yes
+931,Elkem ASA,0SFN.IL,23.57,0.364,2.024,Yes
+932,Oxford Biomedica plc,OXB.L,44.07,0.633,2.863,Yes
+933,Webuild S.p.A.,0BJP.IL,18.57,0.293,1.412,Yes
+934,Aminex PLC,AEX.L,55.44,0.769,0.669,Yes
+935,JPMorgan Emerg EMEA Sec Plc,JEMA.L,35.83,0.531,0.291,Yes
+936,Cambi ASA,0ABM.IL,20.21,0.317,0.428,Yes
+937,Canal+ SA,CAN.L,28.61,0.436,1.702,Yes
+938,Flughafen Zürich AG,0RG6.IL,11.94,0.194,0.547,Yes
+939,Valmet Oyj,0QIW.IL,19.92,0.315,1.291,Yes
+940,Cmb.Tech NV,CMBTB.XC,34.1,0.511,1.269,Yes
+941,INDUS Holding AG,INHD.XC,13.63,0.221,0.583,No
+942,Oxford Biomedica plc,OXBL.XC,42.87,0.625,2.728,Yes
+943,SRT Marine Systems plc,SRT.L,45.1,0.654,0.163,No
+944,Elementis plc,ELM.L,16.04,0.259,1.364,Yes
+945,Banca IFIS S.p.A.,IFM.XC,22.15,0.35,0.617,Yes
+946,United Internet AG,0GE4.IL,16.17,0.263,0.22,No
+947,Geberit AG,GEBNZ.XC,13.91,0.228,1.096,Yes
+948,Man Group Plc,EMGL.XC,15.34,0.251,1.305,Yes
+949,BH Macro Limited,BHMU.L,6.0,0.102,0.124,Yes
+950,Alpha Bank S.A.,0RCS.IL,22.49,0.36,0.326,Yes
+951,Man Group Plc,EMG.L,15.24,0.251,1.35,Yes
+952,Rights & Issues Investment Trust Ord,RIII.L,11.15,0.187,0.787,Yes
+953,SCOR SE,0IT3.IL,15.73,0.261,0.634,Yes
+954,DCC Energy plc,DCC.L,15.03,0.25,1.336,Yes
+955,Elementis plc,ELML.XC,15.81,0.262,1.397,Yes
+956,NCAB Group AB (publ),0AAQ.IL,28.41,0.449,0.888,Yes
+957,Avolta AG,AVOLZ.XC,16.83,0.278,0.838,Yes
+958,BW LPG Limited,BWLPGO.XC,33.99,0.528,1.989,Yes
+959,Avolta AG,0QK3.IL,17.21,0.285,0.876,Yes
+960,DCC Energy plc,DCCL.XC,14.89,0.25,1.365,Yes
+961,Compagnie Générale des Établissements Michelin Société en commandite par actions,0OFM.IL,13.57,0.229,1.32,Yes
+962,dormakaba Holding AG,DOKAZ.XC,13.74,0.233,0.603,Yes
+963,Geberit AG,0QQ2.IL,13.48,0.229,1.067,Yes
+964,BioGaia AB (publ),0GTN.IL,12.95,0.221,0.048,No
+965,Upland Resources Limited,UPL.L,68.17,0.959,1.607,Yes
+966,Fidelity Asian Values Ord,FAS.L,8.45,0.147,0.933,Yes
+967,SalMar ASA,SALMO.XC,23.44,0.384,0.76,Yes
+968,Permanent TSB Group Holdings plc,PTSB.L,18.6,0.311,0.566,Yes
+969,Prosus N.V.,PRXA.XC,15.34,0.26,0.079,Yes
+970,"Mota-Engil, SGPS, S.A.",0FB0.IL,29.61,0.476,1.399,Yes
+971,Eiffage SA,0NPT.IL,14.66,0.251,1.046,Yes
+972,Adyen N.V.,ADYENA.XC,36.58,0.578,0.613,Yes
+973,TruFin plc,TRU.L,31.28,0.505,0.522,Yes
+974,SCOR SE,SCRP.XC,15.43,0.265,0.696,Yes
+975,WisdomTree Industrial Metals,INDU.L,8.94,0.158,0.376,Yes
+976,Sofina Société Anonyme,0G2X.IL,13.5,0.234,1.087,Yes
+977,Dunedin Income Growth Ord,DIG.L,6.84,0.122,0.892,Yes
+978,Angling Direct PLC,ANG.L,19.17,0.325,0.491,Yes
+979,EQT AB (publ),EQTS.XC,19.78,0.334,0.745,Yes
+980,Henkel AG & Co. KGaA,0IZ8.IL,11.61,0.203,1.338,Yes
+981,Worldwide Healthcare Ord,WWH.L,9.74,0.172,0.77,Yes
+982,Gimv NV,0EKR.IL,11.54,0.202,0.755,Yes
+983,EVN AG,0EEI.IL,10.87,0.191,0.951,Yes
+984,Technip Energies N.V.,TEP.XC,15.37,0.265,0.73,Yes
+985,1&1 AG,0E6Y.IL,18.07,0.31,0.321,No
+986,H. Lundbeck A/S,0ABR.L,14.08,0.246,0.595,Yes
+987,STMicroelectronics N.V.,STMPAP.XC,48.95,0.754,0.092,Yes
+988,"Redeia Corporación, S.A.",0RI5.IL,7.38,0.133,0.292,Yes
+989,Western Digital Corporation,WDCD.XC,58.79,0.879,2.854,No
+990,Eurofins Scientific SE,0MV5.IL,17.13,0.298,1.189,Yes
+991,Raspberry Pi Holdings plc,RPIL.XC,52.06,0.8,0.44,Yes
+992,Wickes Group plc,WIXL.XC,17.79,0.309,1.323,Yes
+993,Österreichische Post AG,0NTM.IL,6.87,0.125,0.754,Yes
+994,Ithaca Energy plc,ITHL.XC,25.2,0.426,0.884,Yes
+995,Raspberry Pi Holdings plc,RPI.L,50.75,0.785,0.489,Yes
+996,New Star Investment Trust Ord,NSI.L,9.32,0.168,0.159,Yes
+997,Ithaca Energy plc,ITH.L,25.37,0.43,0.983,Yes
+998,System1 Group PLC,SYS1.L,42.67,0.681,0.01,No
+999,Wickes Group plc,WIX.L,17.87,0.313,1.217,Yes
+1000,The Alumasc Group plc,ALU.L,19.32,0.337,0.866,Yes
+1001,Coor Service Management Holding AB,0R8Q.IL,14.7,0.261,0.405,Yes
+1002,Michelin,MLP.XC,12.68,0.227,1.393,Yes
+1003,Rainbow Rare Earths Limited,RBW.L,30.03,0.506,0.423,Yes
+1004,Freeport-McMoRan Inc.,FPMBD.XC,24.69,0.425,1.082,Yes
+1005,Holcim AG,HOLNZ.XC,16.89,0.3,0.934,Yes
+1006,British Land Company PLC,BLND.L,14.18,0.254,1.213,Yes
+1007,Holcim AG,0QKY.IL,16.83,0.3,1.05,Yes
+1008,Prosus N.V.,0A28.IL,15.19,0.274,0.29,Yes
+1009,Reply S.p.A.,0RV0.IL,17.09,0.306,0.149,Yes
+1010,Irish Residential Properties REIT Plc,0QT8.IL,12.34,0.226,0.886,Yes
+1011,Henderson Far East Income Limited,HFEL.L,7.72,0.144,0.776,Yes
+1012,Celtic plc,CCP.L,18.63,0.332,0.18,Yes
+1013,Almaden Minerals Ltd.,0UH8.L,75.87,1.118,3.214,Yes
+1014,"Prosegur Cash, S.A.",0RNO.IL,11.55,0.212,0.27,Yes
+1015,Integrated Diagnostics Holdings plc,IDHC.L,27.23,0.471,0.192,No
+1016,The Parkmead Group plc,PMG.L,28.81,0.497,0.974,Yes
+1017,British Land Company PLC,BLNDL.XC,13.93,0.255,1.193,Yes
+1018,Eurofins Scientific SE,ERFP.XC,16.63,0.301,1.173,Yes
+1019,Vestas Wind Systems A/S,VWSC.XC,23.03,0.407,0.417,Yes
+1020,Staffline Group PLC,STAF.L,36.88,0.621,0.613,Yes
+1021,ICG Enterprise Trust Ord,ICGT.L,9.96,0.186,0.896,Yes
+1022,Aker Solutions ASA,0QXP.IL,24.13,0.426,0.031,Yes
+1023,Eiffage SA,FGRP.XC,13.85,0.255,1.049,Yes
+1024,Renishaw plc,RSW.L,22.19,0.396,1.828,Yes
+1025,J Sainsbury plc,SBRY.L,13.28,0.246,0.95,Yes
+1026,Wise Group plc,WISE.L,19.24,0.348,0.161,Yes
+1027,Jet2 plc,JET2.L,18.53,0.336,0.479,Yes
+1028,Orchard Funding Group plc,ORCH.L,43.36,0.719,0.381,Yes
+1029,TwentyFour Income Fund Limited,TFIF.L,3.91,0.076,0.196,Yes
+1030,Integrated Diagnostics Holdings plc,IDHCL.XC,28.37,0.498,0.229,No
+1031,St. James's Place plc,STJ.L,21.32,0.384,1.384,Yes
+1032,Ferrari N.V.,RACEM.XC,14.91,0.276,0.367,Yes
+1033,Kardex Holding AG,KARNZ.XC,18.01,0.329,1.522,Yes
+1034,SEGRO Plc,SGROL.XC,14.67,0.272,1.674,Yes
+1035,St. James's Place plc,STJL.XC,21.27,0.384,1.368,Yes
+1036,Renishaw plc,RSWL.XC,21.96,0.395,1.807,Yes
+1037,Wise Group plc,WISEL.XC,19.06,0.348,0.139,Yes
+1038,"NetEase, Inc.",0K6G.L,13.01,0.243,0.417,No
+1039,SEGRO Plc,SGRO.L,14.55,0.271,1.705,Yes
+1040,Sweco AB (publ),0H0G.IL,15.66,0.291,0.896,Yes
+1041,Eckert & Ziegler SE,0NZY.IL,17.38,0.321,0.235,Yes
+1042,Fraport AG,FRAD.XC,13.77,0.258,0.016,Yes
+1043,J Sainsbury plc,SBRYL.XC,13.16,0.248,0.967,Yes
+1044,Asiamet Resources Limited,ARS.L,37.95,0.651,0.411,Yes
+1045,Zigup Plc,ZIG.L,12.72,0.241,1.08,Yes
+1046,Aalberts N.V.,0NX1.IL,18.35,0.341,1.736,Yes
+1047,Koninklijke Ahold Delhaize N.V.,ADA.XC,10.4,0.201,0.859,Yes
+1048,Westwing Group SE,0AA2.IL,24.72,0.451,2.049,Yes
+1049,Adyen N.V.,0YP5.IL,32.76,0.58,1.001,Yes
+1050,Tata Steel Limited,TTSTL.XC,14.69,0.28,1.01,Yes
+1051,Bristol-Myers Squibb Company,0R1F.IL,13.79,0.264,0.868,Yes
+1052,Pantheon Infrastructure PLC,PINTL.XC,5.88,0.117,0.125,No
+1053,Evonik Industries AG,0QDS.IL,12.31,0.238,0.388,Yes
+1054,Vietnam Enterprise Ord,VEIL.L,9.86,0.192,0.82,Yes
+1055,3i Group Ord,III.L,18.44,0.347,1.84,Yes
+1056,Zigup Plc,ZIGL.XC,12.53,0.243,1.083,Yes
+1057,Ratos AB (publ),0KBQ.IL,13.06,0.253,1.252,Yes
+1058,Scout24 SE,0RB8.IL,12.14,0.237,0.085,Yes
+1059,Kesko Oyj,KESKBH.XC,10.57,0.208,0.013,No
+1060,STS Global Income & Growth Trust plc,STSL.XC,2.29,0.047,0.007,No
+1061,PPHE Hotel Group Limited,PPHL.XC,23.57,0.44,0.872,Yes
+1062,Jacquet Metals SA,0IN3.IL,13.89,0.27,0.786,Yes
+1063,PPHE Hotel Group Limited,PPH.L,23.91,0.447,0.845,Yes
+1064,James Fisher and Sons plc,FSJ.L,16.34,0.315,1.296,Yes
+1065,Webuild S.p.A.,WBDM.XC,19.6,0.374,0.971,Yes
+1066,Vestas Wind Systems A/S,0NMK.IL,21.34,0.406,0.487,Yes
+1067,Ecclesiastical Insurance Office PLC,ELLA.L,4.12,0.084,0.325,Yes
+1068,Essity AB (publ),ESSIBS.XC,9.06,0.181,0.72,Yes
+1069,Manx Financial Group PLC,MFX.L,28.21,0.525,1.225,Yes
+1070,Edinburgh Worldwide Investment Trust Plc,EWIL.XC,7.99,0.162,0.472,Yes
+1071,Altra Fastigheter AB (publ),0A0K.IL,19.66,0.38,1.551,Yes
+1072,Diales Group Plc,DIAL.L,19.69,0.381,0.958,Yes
+1073,Oakley Capital Investments Limited,OCI.L,8.18,0.166,0.391,Yes
+1074,Aberdeen New India Investment Trust,ANII.L,9.99,0.201,0.254,Yes
+1075,DSM-Firmenich AG,0AC9.IL,12.71,0.253,0.109,Yes
+1076,Ferrari N.V.,0RDT.IL,14.62,0.29,0.219,Yes
+1077,Netcall plc,NET.L,15.87,0.314,0.61,Yes
+1078,IP Group Plc,IPOL.XC,20.4,0.396,0.633,Yes
+1079,BioInvent International AB (publ),0H22.IL,38.0,0.692,0.038,Yes
+1080,Christie Group plc,CTG.L,25.39,0.486,1.394,Yes
+1081,Fraport AG,0O1R.IL,11.63,0.235,0.498,Yes
+1082,James Fisher and Sons plc,FSJL.XC,16.27,0.325,1.303,Yes
+1083,Trigano S.A.,TRIP.XC,16.54,0.33,0.788,Yes
+1084,"Moderna, Inc.",0A45.IL,63.26,1.073,1.9,Yes
+1085,IP Group Plc,IPO.L,20.23,0.399,0.63,Yes
+1086,NSI N.V.,0RQN.IL,8.14,0.169,0.695,Yes
+1087,DSM-Firmenich AG,DSFIRA.XC,12.68,0.258,0.086,Yes
+1088,Delivery Hero SE,DHERD.XC,47.52,0.852,0.8,Yes
+1089,"Fuller, Smith & Turner P.L.C.",FSTAL.XC,12.2,0.25,0.884,Yes
+1090,"Moderna, Inc.",0QFD.XC,49.42,0.884,1.905,Yes
+1091,YIT Oyj,0GKA.IL,21.38,0.425,1.489,Yes
+1092,KWS SAAT SE & Co. KGaA,KWSD.XC,15.03,0.31,0.073,No
+1093,"Viscofan, S.A.",0MKW.IL,5.92,0.127,0.266,Yes
+1094,Fundamenta Real Estate AG,FRENZ.XC,5.2,0.112,0.011,No
+1095,TKMS AG & Co KGaA,TKMSD.XC,37.28,0.709,2.405,Yes
+1096,Ondine Biomedical Inc.,OBI.L,39.61,0.748,0.791,No
+1097,Hunting PLC,HTG.L,17.44,0.358,1.919,Yes
+1098,Tamburi Investment Partners S.p.A.,0G9J.IL,9.35,0.199,1.197,Yes
+1099,Kontron AG,0L9J.IL,15.74,0.326,0.783,Yes
+1100,Ninety One Group,N91L.XC,10.64,0.226,1.017,Yes
+1101,Ninety One Group,N91.L,10.82,0.23,0.992,Yes
+1102,Arrow Exploration Corp.,AXL.L,22.57,0.457,0.727,No
+1103,Shield Therapeutics plc,STX.L,62.66,1.107,1.543,Yes
+1104,Hunting PLC,HTGL.XC,17.25,0.357,1.843,Yes
+1105,Schaeffler AG,0RBK.IL,29.86,0.591,2.841,Yes
+1106,Diaceutics PLC,DXRX.L,22.24,0.453,1.334,Yes
+1107,Vinci SA,0NQM.IL,9.04,0.194,0.898,Yes
+1108,GSK plc,GSK.L,10.28,0.22,1.121,Yes
+1109,Belgrano,0E1Y.IL,18.19,0.377,1.654,Yes
+1110,Henkel AG & Co. KGaA,HEN3D.XC,9.28,0.2,0.903,Yes
+1111,Chesterfield Resources plc,CHF.L,55.09,1.005,1.868,Yes
+1112,Munters Group AB (publ),MTRSS.XC,26.18,0.53,1.855,Yes
+1113,Vinci SA,DGP.XC,9.65,0.209,0.97,Yes
+1114,Rockwool A/S,0M0A.IL,14.31,0.305,0.718,Yes
+1115,CT Global Managed Portfolio Income Ord,CMPI.L,6.23,0.137,0.87,Yes
+1116,Wacker Neuson SE,0K11.IL,17.14,0.362,0.55,Yes
+1117,Abbott Laboratories,0Q15.L,10.3,0.224,0.596,Yes
+1118,Oxford Instruments plc,OXIG.L,14.59,0.312,1.187,Yes
+1119,Oxford Instruments plc,OXIGL.XC,14.43,0.309,1.17,Yes
+1120,GSK plc,GSKL.XC,10.1,0.221,1.112,Yes
+1121,M Winkworth PLC,WINK.L,7.5,0.167,0.197,Yes
+1122,Henkel AG & Co. KGaA,0IZC.IL,9.91,0.219,1.318,Yes
+1123,Bergbahnen Engelberg-Trübsee-Titlis AG,TIBNZ.XC,7.88,0.176,0.707,Yes
+1124,Quantum Helium Limited,QHE.L,59.74,1.103,1.422,No
+1125,Camellia Plc,CAM.L,11.04,0.243,0.224,Yes
+1126,"Fuller, Smith & Turner P.L.C.",FSTA.L,11.57,0.255,0.862,Yes
+1127,Cadeler A/S,CADLRO.XC,18.44,0.395,0.186,Yes
+1128,Stelrad Group PLC,SRADL.XC,16.61,0.359,2.477,Yes
+1129,Castelnau Group Limited,CGL.L,10.54,0.234,0.298,Yes
+1130,"Public Policy Holding Company, Inc.",PPHC.L,16.82,0.364,0.616,Yes
+1131,Sovereign Metals Limited,SVML.L,20.04,0.429,2.206,Yes
+1132,Logistics Development Group plc,LDG.L,13.87,0.304,1.093,Yes
+1133,Investment Company Ord,INV.L,6.08,0.138,0.528,Yes
+1134,Fidelity China Special Situations Ord,FCSS.L,11.91,0.264,0.84,Yes
+1135,Sunrise Communications AG,SUNNZ.XC,11.32,0.252,0.903,Yes
+1136,Logitech International S.A.,LOGNZ.XC,17.74,0.386,1.033,Yes
+1137,Zotefoams plc,ZTF.L,26.71,0.562,2.223,Yes
+1138,Europa Oil & Gas (Holdings) plc,EOG.L,34.71,0.71,2.146,Yes
+1139,Informa plc,INF.L,8.42,0.191,1.061,Yes
+1140,Logitech International S.A.,0QK6.IL,18.24,0.399,1.087,Yes
+1141,Viridien Société anonyme,VIRIP.XC,33.22,0.692,1.706,Yes
+1142,Invesco Asia Dragon Trust plc,IADL.XC,3.61,0.085,0.127,Yes
+1143,"Tesla, Inc.",0R0X.L,48.06,0.955,0.703,No
+1144,Bavarian Nordic A/S,0DPB.IL,21.39,0.468,1.839,Yes
+1145,Aalberts N.V.,AALBA.XC,15.51,0.347,1.114,Yes
+1146,Basic-Fit N.V.,0RHD.IL,12.58,0.286,0.853,Yes
+1147,Gran Tierra Energy Inc.,GTE.L,26.59,0.572,1.027,No
+1148,Bossard Holding AG,BOSNZ.XC,11.7,0.267,1.704,Yes
+1149,Indutrade AB (publ),0H30.IL,13.54,0.306,1.597,Yes
+1150,Kerry Group plc,KYGA.L,6.52,0.152,0.218,Yes
+1151,Berkeley Energia Limited,BKY.L,23.8,0.519,0.24,Yes
+1152,H & M Hennes & Mauritz AB (publ),0HBP.IL,12.83,0.294,1.403,Yes
+1153,Sixt SE,0NW8.IL,9.23,0.215,0.665,Yes
+1154,Lerøy Seafood Group ASA,0GM2.IL,9.52,0.221,0.611,Yes
+1155,North Atlantic Smaller Cos Ord,NAS.L,6.72,0.158,0.831,Yes
+1156,Dottikon ES Holding AG,DESNZ.XC,13.88,0.318,0.911,Yes
+1157,Zotefoams plc,ZTFL.XC,25.49,0.558,2.17,Yes
+1158,Geiger Counter Limited,GCL.L,19.81,0.445,1.373,Yes
+1159,Informa plc,INFL.XC,8.15,0.193,1.116,Yes
+1160,Trigano S.A.,0NX0.IL,15.38,0.354,1.346,Yes
+1161,Glencore plc,GLEN.L,13.85,0.321,1.487,Yes
+1162,DKSH Holding AG,DKSHZ.XC,8.05,0.192,0.881,Yes
+1163,Mowi ASA,0OAW.IL,8.88,0.211,0.608,Yes
+1164,Crystal Amber Fund Limited,CRS.L,14.11,0.33,1.087,Yes
+1165,Nemetschek SE,NEMD.XC,16.03,0.373,0.322,No
+1166,Glencore plc,GLENL.XC,13.69,0.323,1.444,Yes
+1167,Pandora A/S,PNDORC.XC,17.44,0.405,0.155,Yes
+1168,Vusion S.A.,VUP.XC,20.11,0.463,0.014,No
+1169,Restore plc,RST.L,12.61,0.3,0.575,Yes
+1170,Oryx International Growth Fund Limited,OIG.L,10.07,0.243,1.1,Yes
+1171,Global Opportunities Trust Ord,GOT.L,5.1,0.126,0.522,Yes
+1172,Banca IFIS S.p.A.,0NBX.IL,14.58,0.347,0.81,Yes
+1173,Tekmar Group plc,TGP.L,48.41,1.018,1.614,Yes
+1174,Toyota Motor Corporation,TYT.L,13.12,0.315,0.602,Yes
+1175,Instalco AB (publ),0RP5.IL,17.6,0.414,2.31,Yes
+1176,Virbac SA,VIRPP.XC,8.52,0.208,0.366,Yes
+1177,Savills plc,SVS.L,11.83,0.286,1.621,Yes
+1178,Pandora A/S,0NQC.IL,17.58,0.416,0.362,Yes
+1179,Koninklijke Ahold Delhaize N.V.,0RI8.IL,8.49,0.209,0.85,Yes
+1180,Castellum AB (publ),0GT1.IL,10.3,0.252,1.227,Yes
+1181,Strategic Equity Capital Ord,SEC.L,6.82,0.169,0.582,Yes
+1182,TORM plc,TRMDAC.XC,14.54,0.35,0.952,Yes
+1183,Temenos AG,TEMNZ.XC,15.94,0.382,1.308,Yes
+1184,Symphony Environmental Technologies plc,SYM.L,45.03,0.974,2.156,Yes
+1185,Brunello Cucinelli S.p.A.,BCM.XC,13.18,0.321,1.193,Yes
+1186,"Telefónica, S.A.",0TDE.IL,7.12,0.179,0.255,Yes
+1187,NCC Group plc,NCC.L,11.82,0.292,0.527,Yes
+1188,J D Wetherspoon plc,JDW.L,12.93,0.319,1.563,Yes
+1189,Umicore SA,UMIB.XC,25.17,0.594,0.899,Yes
+1190,Poolbeg Pharma PLC,POLB.L,23.61,0.563,0.11,Yes
+1191,Munters Group AB (publ),0RPO.IL,19.97,0.484,1.93,Yes
+1192,London Security plc,LSC.L,11.18,0.282,0.424,No
+1193,Mitchells & Butlers plc,MAB.L,13.98,0.348,1.397,Yes
+1194,NCC Group plc,NCCL.XC,11.57,0.291,0.527,Yes
+1195,Savills plc,SVSL.XC,11.41,0.288,1.7,Yes
+1196,Altra Fastigheter AB (publ),ALTRAS.XC,11.29,0.285,0.269,Yes
+1197,Temenos AG,0QOA.IL,15.21,0.378,1.212,Yes
+1198,"Solaria Energía y Medio Ambiente, S.A.",SLRE.XC,24.97,0.598,0.244,Yes
+1199,Givaudan SA,GIVNZ.XC,8.47,0.217,0.421,Yes
+1200,J D Wetherspoon plc,JDWL.XC,12.52,0.316,1.588,Yes
+1201,Mitchells & Butlers plc,MABL.XC,13.88,0.349,1.481,Yes
+1202,Georgina Energy PLC,GEX.L,75.56,1.547,0.744,Yes
+1203,Sylvania Platinum Limited,SLP.L,21.38,0.525,2.391,Yes
+1204,Nemetschek SE,0FDT.IL,13.04,0.331,0.259,No
+1205,Givaudan SA,0QPS.IL,8.14,0.212,0.387,Yes
+1206,Scout24 SE,G24D.XC,10.8,0.279,0.115,No
+1207,"AOTI, Inc.",AOTI.L,39.18,0.919,1.203,Yes
+1208,TMT Investments PLC,TMT.L,13.55,0.351,0.041,Yes
+1209,"Solaria Energía y Medio Ambiente, S.A.",0KCD.IL,21.26,0.534,1.478,Yes
+1210,Deutsche Lufthansa AG,LHAD.XC,13.43,0.351,1.167,Yes
+1211,Hafnia Limited,HAFNIO.XC,12.67,0.333,0.022,Yes
+1212,Bilibili Inc.,0T3W.L,20.39,0.519,1.251,Yes
+1213,TF1 SA,0NQT.IL,8.54,0.228,0.098,Yes
+1214,Corbion N.V.,0QHL.IL,10.03,0.268,0.925,Yes
+1215,Capita plc,CPI.L,26.53,0.665,0.71,Yes
+1216,Land Securities Group Plc,LAND.L,7.6,0.206,1.116,Yes
+1217,The Smarter Web Company Plc,SWC.L,27.97,0.7,3.063,Yes
+1218,Nuformix plc,NFX.L,57.57,1.304,2.998,Yes
+1219,Naked Wines plc,WINE.L,20.64,0.535,0.593,Yes
+1220,BioArctic AB (publ),0RV2.IL,18.2,0.477,1.192,Yes
+1221,NORMA Group SE,0P38.IL,13.52,0.362,1.365,Yes
+1222,Capita plc,CPIL.XC,26.1,0.664,0.667,Yes
+1223,discoverIE Group plc,DSCVL.XC,14.05,0.376,1.28,Yes
+1224,Tialis Essential IT PLC,TIA.L,29.06,0.734,0.865,Yes
+1225,New Frontier Minerals Limited,NFM.L,36.81,0.905,3.473,Yes
+1226,AMG Critical Materials N.V.,0LO9.IL,16.36,0.435,1.029,Yes
+1227,Trip.com Group Limited,0I50.L,16.52,0.44,0.278,No
+1228,80 Mile Plc,80M.L,45.47,1.093,2.132,Yes
+1229,AIXTRON SE,0NP9.IL,25.22,0.652,0.453,Yes
+1230,Poxel S.A.,0RA2.IL,54.96,1.283,2.935,Yes
+1231,Kerry Group plc,KYGAL.XC,6.17,0.173,0.438,Yes
+1232,Land Securities Group Plc,LANDL.XC,7.33,0.205,1.069,Yes
+1233,Hansard Global plc,HSD.L,6.63,0.186,0.011,No
+1234,discoverIE Group plc,DSCV.L,13.56,0.371,1.275,Yes
+1235,Kalray S.A.,0ABT.L,77.49,1.71,6.341,Yes
+1236,Chrysalis Investments Limited,CHRY.L,11.42,0.316,0.399,Yes
+1237,Wüstenrot & Württembergische AG,0GJN.IL,6.28,0.178,1.212,Yes
+1238,Mowi ASA,MOWIO.XC,7.41,0.209,0.53,Yes
+1239,Cavendish plc,CAV.L,21.81,0.584,1.755,Yes
+1240,Supreme Plc,SUP.L,14.7,0.406,0.551,Yes
+1241,H. Lundbeck A/S,0ND5.IL,9.38,0.266,0.169,Yes
+1242,Ashmore Group Plc,ASHM.L,12.86,0.361,1.397,Yes
+1243,Umicore SA,0RUY.IL,18.61,0.513,0.863,Yes
+1244,Ashmore Group Plc,ASHML.XC,12.84,0.363,1.415,Yes
+1245,"Colonial SFL, Socimi S. A.",0RID.IL,8.38,0.244,1.384,Yes
+1246,CTS Eventim AG & Co. KGaA,EVDD.XC,11.26,0.324,0.396,Yes
+1247,Huhtamäki Oyj,0K9W.IL,6.09,0.179,0.879,Yes
+1248,Bachem Holding AG,BANBZ.XC,12.14,0.349,0.547,Yes
+1249,Continental Aktiengesellschaft,0LQ1.IL,11.42,0.329,1.576,Yes
+1250,Netcompany Group A/S,0YH9.IL,13.46,0.385,0.474,No
+1251,CTS Eventim AG & Co. KGaA,0EEE.IL,12.57,0.362,0.727,Yes
+1252,Quartix Technologies plc,QTX.L,16.73,0.475,1.732,Yes
+1253,Supermarket Income REIT plc,SUPR.L,5.81,0.173,0.727,Yes
+1254,Breedon Group plc,BREEL.XC,7.5,0.222,0.995,Yes
+1255,INSPECS Group plc,SPEC.L,20.81,0.587,1.734,Yes
+1256,Keystone Law Group plc,KEYS.L,9.67,0.286,0.558,Yes
+1257,3i Group plc,IIIL.XC,11.84,0.348,1.843,Yes
+1258,Prudential plc,PRU.L,7.07,0.212,0.65,Yes
+1259,Continental Aktiengesellschaft,COND.XC,10.27,0.304,1.292,Yes
+1260,HgCapital Trust Ord,HGT.L,6.07,0.183,0.019,Yes
+1261,Foresight Group Holdings Limited,FSG.L,8.9,0.267,0.776,Yes
+1262,Grafton Group plc,GFTU.L,8.13,0.245,0.808,Yes
+1263,Prudential plc,PRUL.XC,6.94,0.211,0.608,Yes
+1264,Proximus PLC,0DPU.IL,8.48,0.259,0.078,No
+1265,PCI-PAL PLC,PCIP.L,18.65,0.547,2.502,Yes
+1266,URU Metals Limited,URU.L,39.82,1.082,1.223,Yes
+1267,XP Factory Plc,XPF.L,16.67,0.495,0.232,No
+1268,Sirius Real Estate Limited,SREL.XC,7.08,0.219,1.518,Yes
+1269,WisdomTree WTI Crude Oil 3x Daily Leveraged ETN,3LOI.L,52.23,1.366,4.234,No
+1270,Ashoka India Equity Investment Ord,AIE.L,6.1,0.19,0.412,Yes
+1271,Tan Delta Systems plc,TAND.L,22.94,0.668,0.406,No
+1272,Supermarket Income REIT plc,SUPRL.XC,5.78,0.181,1.051,Yes
+1273,Georg Fischer AG,0QP4.IL,9.57,0.295,1.342,Yes
+1274,PATRIZIA SE,0FJC.IL,8.08,0.25,0.902,Yes
+1275,"Almirall, S.A.",0O9B.IL,7.35,0.229,1.296,Yes
+1276,Georg Fischer AG,GFZ.XC,9.43,0.292,1.358,Yes
+1277,Grafton Group plc,GFTUL.XC,7.71,0.241,0.8,Yes
+1278,Terveystalo Oyj,0RV1.IL,7.7,0.242,0.513,Yes
+1279,HICL Infrastructure PLC Ord,HICL.L,4.81,0.153,0.46,Yes
+1280,PayPoint plc,PAYL.XC,11.54,0.36,0.083,Yes
+1281,Tribal Group plc,TRB.L,13.03,0.404,0.803,Yes
+1282,Foresight Group Holdings Limited,FSGL.XC,8.56,0.273,0.835,Yes
+1283,Schroders Capital Global Innov Trust Ord,INOV.L,9.65,0.306,0.634,No
+1284,Autoneum Holding AG,AUTNZ.XC,12.19,0.383,1.635,Yes
+1285,"Soltec Power Holdings, S.A.",0AC5.IL,71.2,1.826,0.196,No
+1286,Arcadis NV,ARCADA.XC,11.29,0.358,0.639,Yes
+1287,RATIONAL Aktiengesellschaft,0FRJ.IL,7.19,0.232,1.361,Yes
+1288,African Pioneer PLC,AFP.L,23.06,0.703,2.686,Yes
+1289,Capricorn Energy PLC,CNEL.XC,18.21,0.569,1.813,Yes
+1290,everplay group plc,EVPL.L,19.47,0.606,0.629,Yes
+1291,Tritax Big Box Ord,BBOX.L,6.92,0.228,1.668,Yes
+1292,Hollywood Bowl Group plc,BOWLL.XC,7.38,0.242,0.515,Yes
+1293,Mersen S.A.,0Q6Q.IL,13.91,0.445,2.033,Yes
+1294,Sonova Holding AG,SOONZ.XC,8.47,0.278,0.666,Yes
+1295,Wallenstam AB (publ),0R7Y.IL,8.85,0.289,1.215,Yes
+1296,StoneCo Ltd.,0A4H.L,17.63,0.557,1.018,Yes
+1297,Sabre Insurance Group plc,SBRE.L,7.13,0.236,0.087,Yes
+1298,Mersen S.A.,MRNP.XC,12.63,0.408,0.316,Yes
+1299,GetBusy plc,GETB.L,10.68,0.348,0.671,Yes
+1300,Sonova Holding AG,0QPY.IL,8.38,0.277,0.66,Yes
+1301,Capricorn Energy PLC,CNE.L,17.87,0.569,1.9,Yes
+1302,PayPoint plc,PAY.L,10.97,0.36,0.093,Yes
+1303,Mips AB (publ),0RNQ.IL,18.58,0.591,2.757,Yes
+1304,Experian plc,EXPN.L,7.57,0.252,0.855,Yes
+1305,Genus plc,GNSL.XC,11.1,0.365,1.37,Yes
+1306,CK Infrastructure Holdings Limited,CKI.L,5.74,0.193,0.382,Yes
+1307,Billington Holdings Plc,BILN.L,13.31,0.434,1.545,Yes
+1308,HEXPOL AB (publ),0R7O.IL,7.78,0.26,1.261,Yes
+1309,W.A.G payment solutions plc,EWGL.XC,11.36,0.374,0.273,Yes
+1310,NIOX Group Plc,NIOXL.XC,10.13,0.336,0.629,Yes
+1311,Corero Network Security plc,CNS.L,17.85,0.574,0.932,No
+1312,Bristol Water PLC,BWRA.L,2.69,0.092,0.267,Yes
+1313,European Green Transition plc,EGT.L,14.39,0.47,0.656,Yes
+1314,Hollywood Bowl Group plc,BOWL.L,7.44,0.251,0.471,Yes
+1315,Arcadis NV,0N6B.IL,10.92,0.363,0.755,Yes
+1316,TGS ASA,TGSO.XC,12.35,0.409,0.248,Yes
+1317,Experian plc,EXPNL.XC,7.51,0.254,0.887,Yes
+1318,Value and Indexed Property Income Ord,VIP.L,5.03,0.172,0.744,Yes
+1319,Burckhardt Compression Holding AG,BCHNZ.XC,7.57,0.256,1.468,Yes
+1320,Sensirion Holding AG,SENSZ.XC,12.18,0.406,0.26,Yes
+1321,ERG S.p.A.,0MHC.IL,6.85,0.235,1.172,Yes
+1322,Fnac Darty SA,FNACP.XC,7.75,0.265,0.863,No
+1323,Tieto Oyj,0KG0.IL,6.14,0.212,0.752,Yes
+1324,India Capital Growth Fund Limited,IGCL.XC,6.5,0.226,0.663,Yes
+1325,JPMorgan China Growth & Income Ord,JCGI.L,7.42,0.257,0.51,Yes
+1326,ASOS Plc,ASC.L,12.72,0.431,0.858,Yes
+1327,Inchcape plc,INCH.L,7.46,0.259,1.529,Yes
+1328,Phoenix Mecano AG,PMNZ.XC,5.22,0.183,0.659,Yes
+1329,RATIONAL Aktiengesellschaft,RAAD.XC,6.8,0.237,0.543,Yes
+1330,Huhtamäki Oyj,HUH1VH.XC,5.52,0.195,0.098,Yes
+1331,Everyman Media Group plc,EMAN.L,13.54,0.462,2.691,No
+1332,Nichols plc,NICL.L,8.24,0.288,0.799,Yes
+1333,Zalando SE,0QXN.IL,10.87,0.377,0.451,Yes
+1334,ASOS Plc,ASCL.XC,12.54,0.433,0.749,Yes
+1335,Medacta Group SA,MOVEZ.XC,5.95,0.212,0.917,Yes
+1336,Neste Oyj,0O46.IL,13.54,0.468,0.072,Yes
+1337,TORM plc,0RG4.IL,10.2,0.358,1.229,Yes
+1338,Sabre Insurance Group plc,SBREL.XC,6.61,0.236,0.142,Yes
+1339,Bolloré SE,0IXZ.IL,4.12,0.149,0.197,Yes
+1340,Unilever PLC,ULVRL.XC,5.41,0.194,1.249,Yes
+1341,Lagardere SA,0HB2.IL,4.04,0.146,0.25,Yes
+1342,Unilever PLC,ULVR.L,5.42,0.195,1.231,Yes
+1343,Soitec SA,0RMT.IL,34.38,1.106,1.627,Yes
+1344,VietNam Holding Limited,VNH.L,6.4,0.23,0.839,Yes
+1345,Eurasia Mining Plc,EUA.L,30.06,0.986,0.58,Yes
+1346,Kainos Group plc,KNOS.L,13.06,0.459,0.112,Yes
+1347,AO World plc,AO.L,5.94,0.216,0.684,Yes
+1348,CellaVision AB (publ),0MR5.IL,10.88,0.387,0.586,Yes
+1349,W.A.G payment solutions plc,EWG.L,10.67,0.38,0.041,Yes
+1350,DBV Technologies S.A.,0QAJ.IL,21.71,0.741,1.49,Yes
+1351,Diös Fastigheter AB (publ),0GTM.IL,6.78,0.246,1.249,Yes
+1352,TomCo Energy Plc,TOM.L,35.82,1.162,1.231,No
+1353,GreenX Metals Limited,GRX.L,9.41,0.339,0.118,No
+1354,Kainos Group plc,KNOSL.XC,12.76,0.456,0.123,Yes
+1355,Melrose Industries PLC,MRO.L,9.25,0.336,1.138,Yes
+1356,Inchcape plc,INCHL.XC,6.93,0.255,1.507,Yes
+1357,Playtech plc,PTECL.XC,14.3,0.51,0.429,Yes
+1358,Melrose Industries PLC,MROL.XC,9.26,0.337,1.164,Yes
+1359,Peel Hunt Limited,PEEL.L,9.98,0.362,1.157,Yes
+1360,Persimmon Plc,PSN.L,9.14,0.334,1.535,Yes
+1361,Gresham House Energy Storage Ord,GRID.L,16.38,0.582,0.141,No
+1362,Orrön Energy AB (publ),0NNR.IL,13.92,0.5,1.59,Yes
+1363,Bayer Aktiengesellschaft,BAYND.XC,11.15,0.405,0.944,Yes
+1364,Playtech plc,PTEC.L,14.17,0.51,0.433,Yes
+1365,Soitec SA,SOIP.XC,31.29,1.058,0.839,Yes
+1366,Conroy Gold and Natural Resources plc,CGNR.L,27.93,0.956,3.15,Yes
+1367,India Capital Growth Fund Limited,IGC.L,6.85,0.256,0.038,No
+1368,Critical Mineral Resources PLC,CMRS.L,31.36,1.066,0.267,Yes
+1369,Persimmon Plc,PSNL.XC,9.07,0.337,1.55,Yes
+1370,Hexagon AB (publ),HEXABS.XC,9.8,0.364,1.528,Yes
+1371,Mercia Asset Management PLC,MERC.L,8.21,0.307,0.772,Yes
+1372,AO World plc,AOL.XC,5.83,0.22,0.676,Yes
+1373,Dauch Corporation,DCH.L,14.26,0.521,0.878,Yes
+1374,"CIE Automotive, S.A.",0DZC.IL,5.76,0.218,1.397,Yes
+1375,Bayer Aktiengesellschaft,0P6S.IL,10.56,0.393,0.965,Yes
+1376,The Sage Group plc,SGEL.XC,8.81,0.33,0.165,Yes
+1377,"Fluidra, S.A.",0ILI.IL,6.88,0.261,0.982,Yes
+1378,Medartis Holding AG,MEDZ.XC,8.25,0.311,2.032,Yes
+1379,Enwell Energy plc,ENW.L,16.42,0.6,0.259,No
+1380,Kaufman & Broad S.A.,0F07.IL,7.97,0.302,1.208,Yes
+1381,The Boeing Company,0BOE.L,8.53,0.325,0.972,Yes
+1382,The Sage Group plc,SGE.L,8.66,0.331,0.123,Yes
+1383,Hacksaw AB (publ),HACKS.XC,13.5,0.506,0.363,Yes
+1384,SMA Solar Technology AG,0NIF.IL,15.45,0.579,0.549,No
+1385,London Stock Exchange Group plc,LSEG.L,5.3,0.207,0.41,Yes
+1386,Neste Oyj,NESTEH.XC,12.27,0.467,0.473,Yes
+1387,American Airlines Group Inc.,0HE6.IL,10.96,0.425,0.482,Yes
+1388,Synthomer plc,SYNTL.XC,32.3,1.154,3.051,No
+1389,Elixirr International plc,ELIX.L,10.51,0.41,1.717,Yes
+1390,Arbonia AG,ARBNZ.XC,7.47,0.295,0.706,Yes
+1391,Blue Star Capital plc,BLU.L,44.41,1.529,2.715,Yes
+1392,SparkChange Physical Carbon EUA ETC,CO2U.L,7.16,0.285,0.789,Yes
+1393,Johnson Service Group PLC,JSG.L,6.9,0.275,0.45,Yes
+1394,AEW UK REIT Ord,AEWU.L,4.04,0.164,0.524,Yes
+1395,Cadence Minerals Plc,KDNC.L,20.58,0.778,2.248,Yes
+1396,London Stock Exchange Group plc,LSEGL.XC,5.13,0.208,0.482,Yes
+1397,Zealand Pharma A/S,0NZU.IL,13.16,0.517,0.327,Yes
+1398,Siltronic AG,0R8P.IL,12.56,0.496,1.169,Yes
+1399,H-Power plc,HPOW.L,23.06,0.877,1.64,Yes
+1400,IG Design Group plc,IGR.L,20.39,0.785,0.91,Yes
+1401,Haleon plc,HLN.L,4.24,0.175,0.64,Yes
+1402,Aroundtown SA,0RUH.IL,9.45,0.382,1.575,Yes
+1403,Synthomer plc,SYNT.L,30.88,1.151,2.608,No
+1404,Carel Industries S.p.A.,CRLM.XC,7.78,0.319,0.404,No
+1405,DSV A/S,DSVC.XC,6.97,0.287,0.539,Yes
+1406,Dampskibsselskabet Norden A/S,DNORDC.XC,7.19,0.296,0.06,No
+1407,Kambi Group plc,0EAW.IL,11.08,0.45,0.246,Yes
+1408,TGS ASA,0MSJ.IL,8.71,0.358,0.902,Yes
+1409,AAK AB (publ.),0A0J.IL,5.44,0.227,0.38,Yes
+1410,Air France-KLM SA,0LN7.IL,11.78,0.479,2.16,Yes
+1411,Oxford Nanopore Technologies plc,ONTL.XC,17.6,0.702,1.072,Yes
+1412,LSL Property Services plc,LSLL.XC,7.78,0.323,0.605,Yes
+1413,Haleon plc,HLNL.XC,4.19,0.177,0.643,Yes
+1414,Eagle Eye Solutions Group PLC,EYE.L,13.6,0.553,0.827,Yes
+1415,JZ Capital Partners Limited,JZCP.L,3.94,0.167,0.143,Yes
+1416,SysGroup plc,SYS.L,15.02,0.609,0.165,Yes
+1417,Breedon Group plc,BREE.L,5.28,0.224,1.006,Yes
+1418,M&C Saatchi plc,SAA.L,7.6,0.321,1.136,Yes
+1419,"Fluidra, S.A.",FDRE.XC,6.47,0.276,0.841,Yes
+1420,Braime Group PLC,BMT.L,16.53,0.676,2.073,Yes
+1421,Fresenius Medical Care AG,FMED.XC,7.91,0.336,1.233,Yes
+1422,"Obrascón Huarte Lain, S.A.",0MKG.IL,11.83,0.495,0.699,Yes
+1423,Clariane SE,0OPS.IL,20.46,0.829,1.179,Yes
+1424,Trifast plc,TRI.L,7.67,0.329,1.389,Yes
+1425,Oxford Nanopore Technologies plc,ONT.L,16.78,0.693,1.002,Yes
+1426,LSL Property Services plc,LSL.L,7.37,0.319,0.678,Yes
+1427,AstraZeneca PLC,AZNL.XC,5.47,0.239,1.382,Yes
+1428,AstraZeneca PLC,AZN.L,5.48,0.24,1.419,Yes
+1429,Abingdon Health Plc,ABDX.L,10.29,0.442,0.742,Yes
+1430,WisdomTree Carbon,CARB.L,6.62,0.29,0.777,Yes
+1431,Fresenius Medical Care AG,0H9X.IL,6.91,0.304,1.367,Yes
+1432,Ten Lifestyle Group Plc,TENG.L,9.88,0.429,0.457,Yes
+1433,Oncopeptides AB (publ),0RN4.IL,55.19,2.033,3.703,Yes
+1434,"Amadeus IT Group, S.A.",0P2W.IL,5.24,0.233,0.612,Yes
+1435,Vincorion SE,V1NCD.XC,11.24,0.487,2.235,Yes
+1436,Schroder Real Estate Investment Trust Limited,SREI.L,4.19,0.187,0.437,Yes
+1437,Aumann AG,0RO8.IL,9.54,0.416,1.288,Yes
+1438,Seeing Machines Limited,SEE.L,15.52,0.663,0.248,Yes
+1439,Carlsberg A/S,0AI4.IL,5.38,0.24,1.351,Yes
+1440,The Procter & Gamble Company,0NOF.L,3.24,0.147,0.561,Yes
+1441,CT Automotive Group plc,CTA.L,18.24,0.776,0.844,Yes
+1442,PowerHouse Energy Group Plc,PHE.L,33.37,1.349,1.956,Yes
+1443,ZOO Digital Group plc,ZOO.L,25.66,1.07,1.106,Yes
+1444,Serica Energy plc,SQZ.L,8.67,0.387,0.64,Yes
+1445,Grand City Properties S.A.,0RPK.IL,6.22,0.282,1.796,Yes
+1446,"Amadeus IT Group, S.A.",AMSE.XC,5.19,0.239,0.563,Yes
+1447,Axfood AB (publ),0R6R.IL,5.03,0.232,0.266,Yes
+1448,NSI N.V.,NSIA.XC,3.98,0.184,0.088,No
+1449,Nexus Infrastructure plc,NEXS.L,12.9,0.576,0.605,Yes
+1450,Symrise AG,0G6T.IL,5.36,0.248,0.231,Yes
+1451,Schroder Real Estate Investment Trust Limited,SREIL.XC,2.4,0.112,0.182,Yes
+1452,Phoenix Spree Deutschland Limited,PSDLL.XC,2.91,0.137,0.102,Yes
+1453,Symrise AG,SY1D.XC,5.68,0.264,0.41,No
+1454,EssilorLuxottica Société anonyme,ELP.XC,5.28,0.247,1.122,Yes
+1455,Derwent London Plc,DLN.L,5.69,0.266,1.079,Yes
+1456,Eurazeo SE,RFP.XC,7.23,0.337,0.752,Yes
+1457,Eurocell plc,ECEL.L,5.86,0.276,0.443,Yes
+1458,STS Global Income & Growth Trust Ord,STS.L,2.06,0.099,0.564,Yes
+1459,Sanlorenzo S.p.A.,SLM.XC,5.49,0.259,0.337,Yes
+1460,BRCK Group plc,BRCK.L,6.16,0.29,0.01,Yes
+1461,Derwent London Plc,DLNL.XC,5.68,0.269,1.078,Yes
+1462,Aeroports de Paris SA,ADPP.XC,4.92,0.234,0.779,Yes
+1463,New Oriental Education & Technology Group Inc.,0K75.L,8.51,0.398,0.679,No
+1464,EssilorLuxottica Société anonyme,0OMK.IL,5.1,0.243,1.053,Yes
+1465,Johnson Matthey Plc,JMAT.L,6.81,0.326,1.502,Yes
+1466,Axis Bank Limited,AXBL.XC,5.3,0.256,0.395,Yes
+1467,Aeroports de Paris SA,0NP8.IL,5.07,0.245,0.841,Yes
+1468,Axis Bank Limited,AXB.IL,5.07,0.246,0.257,Yes
+1469,CEPS PLC,CEPS.L,9.0,0.43,0.114,No
+1470,Gamma Communications plc,GAMA.L,6.81,0.329,0.561,Yes
+1471,Greencoat Renewables,GRP.L,3.63,0.178,0.313,Yes
+1472,Ilika plc,IKA.L,13.81,0.65,1.364,Yes
+1473,Ströer SE & Co. KGaA,0MYZ.IL,6.8,0.33,1.288,Yes
+1474,Johnson Matthey Plc,JMATL.XC,6.7,0.327,1.493,Yes
+1475,Eurazeo SE,0HZC.IL,6.75,0.33,1.181,Yes
+1476,Xtract Resources Plc,XTR.L,15.09,0.713,1.639,Yes
+1477,Invesco Physical Palladium ETC,SPAP.L,6.9,0.339,1.398,Yes
+1478,S4 Capital plc,SFOR.L,15.52,0.735,0.93,Yes
+1479,Foxtons Group plc,FOXT.L,6.12,0.302,0.285,No
+1480,iShares Physical Palladium ETC,SPDM.L,6.8,0.336,1.429,Yes
+1481,DSV A/S,0JN9.IL,5.87,0.293,0.464,Yes
+1482,Tortilla Mexican Grill plc,MEX.L,8.02,0.398,1.0,Yes
+1483,Titon Holdings Plc,TON.L,6.73,0.337,0.721,Yes
+1484,Fair Oaks Income Limited,FAIR.L,2.39,0.122,0.491,Yes
+1485,Tatton Asset Management plc,TAML.XC,5.98,0.301,0.685,Yes
+1486,Borregaard ASA,0QB7.IL,3.94,0.202,0.255,Yes
+1487,S4 Capital plc,SFORL.XC,14.86,0.733,0.935,Yes
+1488,Water Intelligence plc,WATR.L,7.14,0.364,0.671,Yes
+1489,Jadestone Energy plc,JSE.L,7.35,0.376,0.637,Yes
+1490,3M Company,0QNY.IL,6.64,0.341,0.669,Yes
+1491,IBU-tec advanced materials AG,0UNS.L,17.66,0.871,2.399,Yes
+1492,Leverage Shares 3x Long Copper ETC,3CUL.L,9.98,0.509,1.345,No
+1493,RHI Magnesita N.V.,RHIML.XC,7.54,0.39,1.745,Yes
+1494,Warehouses De Pauw SA,0MU2.IL,4.15,0.218,1.466,Yes
+1495,RHI Magnesita N.V.,RHIM.L,7.44,0.387,1.674,Yes
+1496,WisdomTree Physical Palladium,PPDX.L,6.44,0.338,1.392,Yes
+1497,M&G Credit Income Investment Ord,MGCI.L,1.33,0.072,0.033,No
+1498,Richmond Hill Resources Plc,RHR.L,17.95,0.901,3.447,Yes
+1499,Ovzon AB (publ),OVZONS.XC,13.28,0.68,0.203,Yes
+1500,Yellow Cake plc,YCA.L,5.03,0.267,0.523,Yes
+1501,AIQ Limited,AIQ.L,13.37,0.685,0.43,Yes
+1502,Dampskibsselskabet Norden A/S,0HDP.IL,6.22,0.33,0.596,Yes
+1503,Valeo SE,0RH5.IL,7.93,0.42,2.57,Yes
+1504,NV Bekaert SA,0OQJ.IL,3.73,0.201,1.149,Yes
+1505,Lancashire Holdings Limited,LRE.L,4.0,0.216,0.913,Yes
+1506,Harbour Energy plc,HBR.L,7.86,0.421,1.015,Yes
+1507,Emmi AG,EMMNZ.XC,2.61,0.143,0.439,Yes
+1508,RS Group plc,RS1.L,5.47,0.299,1.57,Yes
+1509,Baillie Gifford China Growth Trust PLC,BGCGL.XC,2.99,0.165,0.084,No
+1510,Harbour Energy plc,HBRL.XC,7.8,0.423,0.962,Yes
+1511,SLB N.V.,0SCL.IL,5.77,0.316,1.087,Yes
+1512,SSP Group plc,SSPG.L,7.36,0.401,1.481,Yes
+1513,WisdomTree Lean Hogs,HOGS.L,3.47,0.194,0.13,No
+1514,Foxtons Group plc,FOXTL.XC,5.62,0.311,0.177,No
+1515,BioNTech SE,0A3M.IL,7.45,0.411,1.355,Yes
+1516,Ipsos SA,0KA3.IL,4.97,0.278,0.4,Yes
+1517,Tomra Systems ASA,0KV7.IL,8.8,0.486,1.229,Yes
+1518,Town Centre Securities Plc,TOWN.L,4.41,0.249,0.947,Yes
+1519,Colruyt Group N.V.,0N4Y.IL,3.56,0.202,0.176,Yes
+1520,RS Group plc,RS1L.XC,5.35,0.302,1.625,Yes
+1521,Sopra Steria Group SA,0NJQ.IL,6.77,0.381,0.154,Yes
+1522,SDI Group plc,SDI.L,8.54,0.478,0.812,Yes
+1523,Lancashire Holdings Limited,LREL.XC,3.87,0.221,0.983,Yes
+1524,SSP Group plc,SSPGL.XC,6.99,0.395,1.445,Yes
+1525,Finseta Plc,FIN.L,15.8,0.862,2.22,Yes
+1526,K+S Aktiengesellschaft,0Q2N.IL,5.89,0.338,0.822,Yes
+1527,Frasers Group Plc,FRAS.L,4.4,0.255,1.016,Yes
+1528,L'Oréal S.A.,0NZM.IL,3.29,0.192,0.781,Yes
+1529,Thermador Groupe SA,0XFV.IL,4.21,0.248,0.948,Yes
+1530,Livermore Investments Group Limited,LIV.L,5.7,0.338,0.405,Yes
+1531,K+S Aktiengesellschaft,SDFD.XC,5.85,0.348,0.187,Yes
+1532,DP Poland Plc,DPP.L,6.47,0.386,0.133,Yes
+1533,Heineken Holding N.V.,0NBD.IL,4.0,0.243,1.295,Yes
+1534,bet-at-home.com AG,0RIP.IL,9.27,0.55,2.124,Yes
+1535,KraneShares Global Carbon Strategy ETC Securities,KRBP.L,3.01,0.185,0.798,No
+1536,BlackRock Latin American Ord,BRLA.L,3.59,0.222,1.333,Yes
+1537,Rosebank Industries plc,ROSEL.XC,4.1,0.254,0.237,Yes
+1538,Gfinity plc,GFIN.L,21.87,1.261,0.617,No
+1539,NIOX Group Plc,NIOX.L,4.64,0.287,0.209,Yes
+1540,LPA Group Plc,LPA.L,6.59,0.405,0.495,Yes
+1541,Taylor Maritime Limited,TMI.L,2.3,0.146,0.107,No
+1542,Frasers Group Plc,FRASL.XC,3.96,0.249,1.026,Yes
+1543,Kinepolis Group NV,0QV7.IL,4.59,0.289,0.385,Yes
+1544,Scottish Oriental Smaller Cos Ord,SST.L,2.56,0.163,0.565,Yes
+1545,Aumovio SE,AMV0D.XC,5.94,0.377,2.085,Yes
+1546,Aptamer Group PLC,APTA.L,26.37,1.56,1.211,Yes
+1547,Valeo SE,FRP.XC,6.38,0.411,2.531,Yes
+1548,Imerys S.A.,0NPX.IL,4.67,0.303,0.615,Yes
+1549,Entra ASA,ENTRAO.XC,2.58,0.17,0.228,Yes
+1550,Hello Group Inc.,0K2P.L,5.86,0.381,0.052,No
+1551,Mortgage Advice Bureau (Holdings) plc,MAB1.L,5.98,0.391,0.594,Yes
+1552,JPMorgan India Growth & Income plc,JIGI.L,2.79,0.185,0.569,Yes
+1553,Sodexo S.A.,0J3F.IL,3.78,0.251,0.726,Yes
+1554,Vonovia SE,VNAD.XC,4.73,0.318,1.702,Yes
+1555,ElringKlinger AG,0MG5.IL,4.69,0.319,0.093,Yes
+1556,Ambu A/S,0MJF.IL,5.82,0.394,1.398,Yes
+1557,Akzo Nobel N.V.,0A00.IL,4.43,0.303,0.737,Yes
+1558,Jungheinrich Aktiengesellschaft,0EXP.IL,5.16,0.352,1.159,Yes
+1559,"Audax Renovables, S.A.",0EIB.IL,3.64,0.255,0.543,Yes
+1560,Lumo Kodit Oyj,0A0E.IL,4.43,0.309,1.309,Yes
+1561,Northern Electric PLC,NTEA.L,1.09,0.077,0.034,Yes
+1562,Dauch Corporation,DCHL.XC,8.44,0.58,1.677,Yes
+1563,Vonovia SE,0QFT.IL,4.36,0.309,1.678,Yes
+1564,Worsley Investors Limited,WINV.L,2.13,0.153,0.101,Yes
+1565,Ipsos SA,IPSP.XC,4.51,0.322,0.287,Yes
+1566,Cambridge Nutritional Sciences plc,CNSL.L,6.12,0.434,1.367,Yes
+1567,TT Electronics plc,TTG.L,8.09,0.57,1.852,Yes
+1568,WisdomTree Wheat,WEAT.L,3.29,0.238,0.389,Yes
+1569,Ferro-Alloy Resources Limited,FAR.L,15.55,1.077,0.28,Yes
+1570,NewRiver REIT plc,NRR.L,2.86,0.209,0.875,Yes
+1571,OPmobility SE,0NW1.IL,5.2,0.378,1.952,Yes
+1572,Morgan Advanced Materials plc,MGAM.L,4.09,0.299,1.734,Yes
+1573,GE Aerospace,0ADN.IL,2.9,0.216,0.144,No
+1574,SparkChange Physical Carbon EUA ETC,CO2.L,3.81,0.283,0.809,Yes
+1575,TT Electronics plc,TTGL.XC,7.69,0.562,1.895,Yes
+1576,Südzucker AG,0G7B.IL,3.23,0.247,0.651,No
+1577,L'Oréal S.A.,ORP.XC,2.64,0.203,0.759,Yes
+1578,Melexis NV,0FA0.IL,5.37,0.412,1.095,Yes
+1579,Great Western Mining Corporation PLC,GWMO.L,12.62,0.978,0.013,No
+1580,FRP Advisory Group plc,FRP.L,2.97,0.24,0.407,Yes
+1581,Panther Securities PLC,PNS.L,0.94,0.077,0.038,Yes
+1582,Fintel Plc,FNTL.L,4.02,0.324,1.057,Yes
+1583,NewRiver REIT plc,NRRL.XC,2.47,0.201,0.891,Yes
+1584,Cancom SE,0O0F.IL,3.94,0.321,0.168,Yes
+1585,SparkChange Physical Carbon EUA ETC,CO2P.L,3.48,0.288,0.815,Yes
+1586,Accsys Technologies PLC,AXS.L,3.67,0.309,0.618,Yes
+1587,Severfield plc,SFRL.XC,7.19,0.595,1.215,Yes
+1588,Centrica plc,CNAL.XC,2.48,0.21,0.247,Yes
+1589,Tertiary Minerals plc,TYM.L,10.51,0.87,3.873,Yes
+1590,Centrica plc,CNA.L,2.44,0.211,0.257,Yes
+1591,Bellway p.l.c.,BWY.L,3.69,0.318,1.22,Yes
+1592,Johnson Service Group PLC,JSGL.XC,3.35,0.291,0.294,Yes
+1593,Thungela Resources Limited,TGAL.XC,6.15,0.528,0.091,No
+1594,Conduit Holdings Limited,CRE.L,3.0,0.262,0.525,Yes
+1595,Meier Tobler Group AG,MTGZ.XC,3.14,0.275,0.443,Yes
+1596,Spectra Systems Corporation,SPSY.L,4.07,0.36,0.143,No
+1597,VGP NV,VGPB.XC,2.93,0.261,1.212,Yes
+1598,Severfield plc,SFR.L,7.05,0.619,1.64,Yes
+1599,Bellway p.l.c.,BWYL.XC,3.49,0.313,1.196,Yes
+1600,ECO Animal Health Group plc,EAH.L,5.16,0.463,0.648,Yes
+1601,Jersey Oil and Gas Plc,JOG.L,11.22,0.987,1.303,Yes
+1602,Icade,0K4O.IL,3.31,0.304,0.651,Yes
+1603,Reabold Resources Plc,RBD.L,8.72,0.79,0.761,Yes
+1604,Dillistone Group Plc,DSG.L,5.96,0.56,2.212,Yes
+1605,JOYY Inc.,0VVY.L,2.92,0.28,0.162,Yes
+1606,Bucher Industries AG,BUCNZ.XC,2.02,0.194,1.035,Yes
+1607,"EDP Renewables, S.A.",0ML1.IL,3.52,0.338,1.138,Yes
+1608,Truecaller AB (publ),0AA7.L,6.36,0.605,0.053,Yes
+1609,Genel Energy plc,GENLL.XC,4.35,0.418,0.788,Yes
+1610,McDonald's Corporation,MDOD.XC,1.26,0.124,0.046,Yes
+1611,Demant A/S,0RGT.IL,2.8,0.276,0.34,Yes
+1612,JM AB (publ),0MI3.IL,3.58,0.363,1.345,Yes
+1613,Craneware plc,CRW.L,3.51,0.356,0.03,Yes
+1614,Conduit Holdings Limited,CREL.XC,2.57,0.263,0.491,Yes
+1615,Great Portland Estates Plc,GPE.L,2.54,0.263,1.085,Yes
+1616,Syncona Limited,SYNC.L,2.37,0.245,0.036,No
+1617,Tullow Oil plc,TLW.L,6.64,0.679,1.251,Yes
+1618,Wishbone Gold Plc,WSBN.L,17.74,1.757,1.575,Yes
+1619,Matas A/S,0QFA.IL,2.24,0.237,0.567,Yes
+1620,Akzo Nobel N.V.,AKZAA.XC,2.53,0.275,0.94,Yes
+1621,Vianet Group plc,VNET.L,3.97,0.429,0.024,No
+1622,Pharming Group N.V.,0QCO.IL,4.34,0.476,0.827,No
+1623,adidas AG,ADSD.XC,2.62,0.29,1.054,Yes
+1624,Braemar Plc,BMSL.XC,2.49,0.276,1.055,Yes
+1625,Custodian Property Income REIT Ord,CREI.L,1.82,0.205,0.67,Yes
+1626,Associated British Foods plc,ABF.L,1.84,0.209,0.693,Yes
+1627,Gurit Holding AG,GURNZ.XC,8.03,0.895,0.683,Yes
+1628,UnitedHealth Group Incorporated,0R0O.L,3.73,0.426,0.592,No
+1629,PensionBee Group plc,PBEEL.XC,1.95,0.226,0.323,Yes
+1630,adidas AG,0OLD.IL,2.49,0.288,0.85,Yes
+1631,Braemar Plc,BMS.L,2.39,0.28,0.996,Yes
+1632,Associated British Foods plc,ABFL.XC,1.78,0.211,0.698,Yes
+1633,P/F Bakkafrost,0MQ2.IL,2.19,0.259,0.006,Yes
+1634,Gem Resources Plc,GEMR.L,14.44,1.634,0.313,Yes
+1635,MYCELX Technologies Corporation,MYX.L,4.48,0.531,2.033,Yes
+1636,Tullow Oil plc,TLWL.XC,5.71,0.674,1.308,Yes
+1637,"Netflix, Inc.",0QYI.L,6.12,0.722,0.508,No
+1638,WisdomTree Agriculture,AGAP.L,1.21,0.146,0.008,No
+1639,Thungela Resources Limited,TGA.L,4.31,0.531,0.139,No
+1640,"Young & Co.'s Brewery, P.L.C.",YNGN.L,2.1,0.264,1.185,Yes
+1641,Sodexo S.A.,SWP.XC,1.95,0.245,0.735,Yes
+1642,Siegfried Holding AG,SFZNZ.XC,2.27,0.286,0.967,Yes
+1643,CT Healthcare Trust plc,CTHT.L,1.76,0.226,0.872,Yes
+1644,Petro Matad Limited,MATD.L,7.97,0.997,1.474,Yes
+1645,Anglesey Mining plc,AYM.L,8.95,1.122,2.185,Yes
+1646,Shaires Holdings Ltd,SHR.L,12.11,1.515,0.934,No
+1647,Jangada Mines Plc,JAN.L,7.58,0.984,1.735,Yes
+1648,Moncler S.p.A.,MONCM.XC,2.68,0.355,1.797,Yes
+1649,Tristel plc,TSTL.L,2.26,0.3,0.347,Yes
+1650,Goldstone Resources Limited,GRL.L,8.8,1.187,1.843,Yes
+1651,"Somero Enterprises, Inc.",SOM.L,2.54,0.366,0.684,Yes
+1652,Seed Innovations Limited,SEED.L,4.72,0.674,1.088,Yes
+1653,Zanaga Iron Ore Company Limited,ZIOC.L,5.19,0.743,0.234,No
+1654,Forterra plc,FORT.L,1.77,0.258,0.985,Yes
+1655,Fevertree Drinks PLC,FEVRL.XC,2.04,0.297,1.978,Yes
+1656,Forbo Holding AG,FORNZ.XC,2.03,0.295,1.807,Yes
+1657,Genel Energy plc,GENL.L,2.69,0.393,0.729,Yes
+1658,Hermès International Société en commandite par actions,0HV2.IL,1.63,0.254,0.96,Yes
+1659,SeSa S.p.A.,SESM.XC,2.0,0.312,1.142,Yes
+1660,Forterra plc,FORTL.XC,1.6,0.251,0.961,Yes
+1661,Innate Pharma S.A.,0EVI.IL,3.39,0.534,1.423,Yes
+1662,Randstad N.V.,0NW2.IL,2.09,0.335,1.085,Yes
+1663,Bytes Technology Group plc,BYITL.XC,2.23,0.359,0.286,No
+1664,Solid State plc,SOLI.L,2.78,0.448,0.089,No
+1665,Tessenderlo Group NV,0KCP.IL,1.61,0.265,1.194,Yes
+1666,Malvern International Plc,MLVN.L,2.26,0.376,0.486,Yes
+1667,Greatland Resources Limited,GGPL.XC,4.38,0.725,1.367,Yes
+1668,Hermès International Société en commandite par actions,RMSP.XC,1.47,0.252,0.855,Yes
+1669,"Pershing Square Holdings, Ltd.",PSHDL.XC,1.24,0.213,0.828,Yes
+1670,Bytes Technology Group plc,BYIT.L,2.03,0.357,0.301,No
+1671,Moncler S.p.A.,0QII.IL,1.79,0.319,1.495,Yes
+1672,Mindflair Plc,MFAI.L,6.56,1.177,0.689,Yes
+1673,Ondo InsurTech Plc,ONDO.L,5.41,0.978,0.756,No
+1674,Big Yellow Group Plc,BYG.L,1.5,0.276,1.053,Yes
+1675,InterContinental Hotels Group PLC,IHGL.XC,3.51,0.666,0.513,Yes
+1676,X-FAB Silicon Foundries SE,XFABP.XC,3.66,0.702,0.704,Yes
+1677,Atlantic Lithium Limited,ALL.L,3.44,0.661,1.164,Yes
+1678,Vanquis Banking Group plc,VANQ.L,2.81,0.542,0.138,Yes
+1679,Sixt SE,0NW7.IL,1.37,0.273,0.497,Yes
+1680,Lumo Kodit Oyj,LUMOH.XC,1.47,0.306,0.908,Yes
+1681,Vanquis Banking Group plc,VANQL.XC,2.55,0.541,0.229,Yes
+1682,Baillie Gifford European Growth Trust plc,BGEUL.XC,0.58,0.124,0.361,Yes
+1683,Pennant International Group plc,PEN.L,1.65,0.355,0.794,Yes
+1684,Reliance Industries Limited,RIGDL.XC,0.99,0.214,0.096,Yes
+1685,Steppe Cement Ltd.,STCM.L,1.62,0.351,0.473,Yes
+1686,Bunzl plc,BNZL.L,1.01,0.226,0.653,Yes
+1687,Bonduelle SCA,0N75.IL,1.43,0.32,0.289,Yes
+1688,Tomra Systems ASA,TOMO.XC,1.54,0.356,0.071,Yes
+1689,Merck KGaA,MRKD.XC,1.16,0.268,1.072,Yes
+1690,Fonix Plc,FNX.L,1.54,0.358,0.433,Yes
+1691,SThree plc,STEM.L,2.0,0.477,0.811,Yes
+1692,Riverstone Energy Limited,RSE.L,1.14,0.287,0.589,Yes
+1693,RELX PLC,RELL.XC,0.81,0.204,0.137,Yes
+1694,RELX PLC,REL.L,0.8,0.204,0.18,Yes
+1695,Globalworth Real Estate Investments Limited,GWI.L,0.82,0.21,0.2,Yes
+1696,Bechtle AG,0DPM.IL,1.2,0.306,0.019,No
+1697,boohoo group plc,DEBS.L,2.63,0.676,0.331,Yes
+1698,4imprint Group plc,FOUR.L,1.39,0.367,1.709,Yes
+1699,Hapag-Lloyd Aktiengesellschaft,0RCG.IL,1.22,0.325,1.311,Yes
+1700,SThree plc,STEML.XC,1.75,0.478,0.808,Yes
+1701,Vesuvius plc,VSVSL.XC,1.1,0.305,1.378,Yes
+1702,Merck KGaA,0O14.IL,0.88,0.264,1.073,Yes
+1703,Big Yellow Group Plc,BYGL.XC,0.89,0.272,1.059,Yes
+1704,Bunzl plc,BNZLL.XC,0.76,0.231,0.726,Yes
+1705,Hays plc,HASL.XC,2.02,0.613,1.105,Yes
+1706,Touchstar plc,TST.L,1.06,0.326,0.563,Yes
+1707,Ashtead Technology Holdings Plc,ATL.XC,1.43,0.45,1.286,Yes
+1708,Afry AB,0QUU.IL,0.78,0.246,0.87,Yes
+1709,Icade,ICADP.XC,0.94,0.298,0.158,Yes
+1710,Reliance Industries Limited,RIGD.IL,0.64,0.211,0.028,Yes
+1711,DSW Capital plc,DSW.L,1.24,0.414,1.079,Yes
+1712,Vp plc,VP.L,0.74,0.25,0.661,Yes
+1713,Hays plc,HAS.L,1.77,0.605,1.105,Yes
+1714,4imprint Group plc,FOURL.XC,1.06,0.362,1.659,Yes
+1715,Kuehne + Nagel International AG,0QMW.IL,0.62,0.215,0.473,Yes
+1716,Renault SA,0NQF.IL,0.93,0.327,0.941,Yes
+1717,Ariana Resources plc,AAU.L,1.84,0.647,3.093,Yes
+1718,Alfa Financial Software Holdings PLC,ALFAL.XC,0.78,0.285,0.722,Yes
+1719,BTG Consulting plc,BTG.L,0.46,0.168,0.177,No
+1720,Alfa Financial Software Holdings PLC,ALFA.L,0.75,0.28,0.882,Yes
+1721,Vesuvius plc,VSVS.L,0.8,0.301,1.382,Yes
+1722,IMCD N.V.,0QVU.IL,0.89,0.342,0.893,Yes
+1723,DiaSorin S.p.A.,0GZX.IL,0.71,0.277,0.958,Yes
+1724,Kuehne + Nagel International AG,KNINZ.XC,0.55,0.214,0.456,Yes
+1725,B90 Holdings PLC,B90.L,1.71,0.682,1.137,Yes
+1726,"Jerónimo Martins, SGPS, S.A.",0EXG.IL,0.58,0.236,0.602,Yes
+1727,Barry Callebaut AG,BARNZ.XC,0.94,0.385,0.721,Yes
+1728,Phoenix Spree Deutschland Limited,PSDL.L,0.41,0.174,0.178,Yes
+1729,Valartis Group AG,VLRTZ.XC,0.54,0.23,0.224,Yes
+1730,"Peloton Interactive, Inc.",0A46.IL,1.45,0.696,1.099,No
+1731,S&U plc,SUSL.XC,0.61,0.301,1.126,Yes
+1732,ams-OSRAM AG,0QWC.IL,1.7,0.867,1.877,Yes
+1733,Interpump Group S.p.A.,0EWD.IL,0.56,0.324,1.214,Yes
+1734,Romande Energie Holding SA,REHNZ.XC,0.24,0.139,0.312,Yes
+1735,Genuit Group plc,GEN.L,0.57,0.367,1.999,Yes
+1736,Ashtead Technology Holdings Plc,AT.L,0.61,0.419,0.539,Yes
+1737,Finsbury Growth & Income Ord,FGT.L,0.18,0.129,0.707,Yes
+1738,4basebio PLC,4BB.L,0.49,0.362,1.093,Yes
+1739,Galileo Resources Plc,GLR.L,0.62,0.46,0.703,No
+1740,Alstom SA,ALOP.XC,0.58,0.459,1.567,Yes
+1741,Stora Enso Oyj,STERVH.XC,0.18,0.279,1.19,Yes
+1742,everplay group plc,EVPLL.XC,0.26,0.44,1.6,Yes
+1743,Genuit Group plc,GENL.XC,0.21,0.363,1.984,Yes
+1744,Wienerberger AG,0MKZ.IL,0.16,0.272,1.095,Yes
+1745,Empresaria Group plc,EMR.L,0.24,0.515,1.251,Yes
+1746,Genmab A/S,0MGB.IL,0.12,0.326,1.118,Yes
+1747,Teleperformance SE,0J6X.IL,0.15,0.538,1.155,Yes
+1748,Antin Infrastructure Partners S.A.,ANTINP.XC,0.08,0.289,0.425,Yes
+1749,WisdomTree Wheat 2x Daily Leveraged,LWEA.L,0.04,0.474,0.727,Yes
+1750,Agronomics Limited,ANIC.L,-0.14,0.783,1.981,Yes
+1751,ME Group International plc,MEGP.L,-0.08,0.36,0.235,Yes
+1752,Teleperformance SE,TEPP.XC,-0.21,0.553,0.877,Yes
+1753,Leverage Shares 3x Long WTI Oil ETC,WTI3.L,-0.7,1.591,24.462,Yes
+1754,Salvatore Ferragamo S.p.A.,0P52.IL,-0.2,0.448,1.032,Yes
+1755,Hypoport SE,0JVS.IL,-0.28,0.506,1.666,Yes
+1756,Stadler Rail AG,SRAILZ.XC,-0.15,0.268,0.636,Yes
+1757,CA Immobilien Anlagen AG,0MIP.IL,-0.14,0.237,1.095,Yes
+1758,Rightmove plc,RMV.L,-0.16,0.252,0.283,Yes
+1759,OPmobility SE,OPMP.XC,-0.27,0.402,1.138,Yes
+1760,Stora Enso Oyj,0CXC.IL,-0.23,0.273,1.705,Yes
+1761,Castings P.L.C.,CGS.L,-0.22,0.261,0.288,Yes
+1762,TEAM plc,TEAM.L,-0.85,0.975,0.047,No
+1763,Rightmove plc,RMVL.XC,-0.27,0.247,0.254,Yes
+1764,S&U plc,SUS.L,-0.31,0.261,1.037,Yes
+1765,Renault SA,RNOP.XC,-0.4,0.334,1.093,Yes
+1766,Genmab A/S,GMABC.XC,-0.38,0.312,1.314,Yes
+1767,Alstom SA,0J2R.IL,-0.53,0.425,1.645,Yes
+1768,Redcare Pharmacy NV,0RJT.IL,-0.69,0.535,0.938,Yes
+1769,Meridian Mining Plc,MNO.L,-0.91,0.679,5.618,No
+1770,CML Microsystems plc,CML.L,-0.66,0.494,0.109,No
+1771,LEG Immobilien SE,LEGD.XC,-0.4,0.296,1.244,Yes
+1772,Heineken N.V.,HEIAA.XC,-0.32,0.231,1.099,Yes
+1773,Hilton Food Group plc,HFG.L,-0.37,0.27,0.866,Yes
+1774,EMV Capital plc,EMVC.L,-0.52,0.364,0.721,Yes
+1775,Tritax Big Box REIT plc,BBOXL.XC,-0.26,0.159,0.515,Yes
+1776,Flowtech Fluidpower plc,FLO.L,-0.75,0.458,1.646,Yes
+1777,Distil Plc,DIS.L,-2.05,1.231,2.01,Yes
+1778,Heineken N.V.,0O26.IL,-0.41,0.229,0.984,Yes
+1779,Hilton Food Group plc,HFGL.XC,-0.48,0.268,0.866,Yes
+1780,Hostelworld Group plc,HSWL.XC,-0.49,0.272,0.501,Yes
+1781,FDJ United,0A8B.IL,-0.48,0.263,0.222,Yes
+1782,Knowit AB (publ),0GNK.IL,-0.68,0.375,0.402,Yes
+1783,ME Group International plc,MEGPL.XC,-0.68,0.351,0.268,Yes
+1784,WisdomTree Wheat,WEAP.L,-0.46,0.234,0.415,Yes
+1785,Caffyns plc,CFYN.L,-0.52,0.241,0.259,Yes
+1786,International Paper Company,IPC.L,-0.76,0.351,1.208,Yes
+1787,MedPal AI PLC,MPAL.L,-2.39,1.029,0.845,Yes
+1788,Warpaint London PLC,W7L.L,-1.26,0.509,1.616,Yes
+1789,Metlen Energy & Metals PLC,MTLN.L,-0.94,0.375,0.757,No
+1790,Helical plc,HLCL.L,-0.63,0.243,1.063,Yes
+1791,VERBUND AG,VERV.XC,-0.56,0.206,0.15,Yes
+1792,Strip Tinning Holdings plc,STG.L,-1.97,0.713,0.263,No
+1793,Elisa Oyj,0I8Y.IL,-0.53,0.185,0.38,Yes
+1794,Foresight Environmental Infrastructure Limited,FGEN.L,-0.66,0.231,0.473,Yes
+1795,Adecco Group AG,ADENZ.XC,-1.29,0.427,1.437,Yes
+1796,Zambeef Products PLC,ZAM.L,-1.05,0.336,0.086,No
+1797,Mercedes-Benz Group AG,0NXX.IL,-0.79,0.247,1.314,Yes
+1798,Inspiration Healthcare Group plc,IHC.L,-2.44,0.747,2.537,Yes
+1799,Sika AG,SIKAZ.XC,-0.91,0.274,1.431,Yes
+1800,Astrid Intelligence Plc,ASTR.AQ,-4.17,1.279,2.61,Yes
+1801,Helical plc,HLCLL.XC,-0.81,0.232,1.037,Yes
+1802,Kooth plc,KOO.L,-1.78,0.503,0.435,Yes
+1803,Mercedes-Benz Group AG,MBGD.XC,-0.9,0.244,1.42,Yes
+1804,Fulcrum Metals plc,FMET.L,-2.48,0.669,2.809,Yes
+1805,Chelverton UK Dividend Trust Ord,SDV.L,-0.78,0.206,0.648,Yes
+1806,Jersey Electricity plc,JEL.L,-0.47,0.116,0.421,Yes
+1807,Hexagon Composites ASA,0EOF.IL,-2.77,0.686,0.588,No
+1808,Snap Inc.,0RNH.L,-2.16,0.534,0.849,Yes
+1809,Brooks Macdonald Group plc,BRK.L,-1.01,0.24,0.979,Yes
+1810,The Swatch Group AG,UHRNZ.XC,-1.01,0.239,1.072,Yes
+1811,Clariant AG,CLNZ.XC,-1.33,0.309,1.502,Yes
+1812,SKAN Group AG,0SKN.IL,-1.33,0.287,1.072,Yes
+1813,SKAN Group AG,SKANZ.XC,-1.37,0.286,1.005,Yes
+1814,Wynnstay Group Plc,WYN.L,-1.11,0.222,0.364,Yes
+1815,PowerCell Sweden AB (publ),0G9R.IL,-4.28,0.865,0.622,Yes
+1816,Volkswagen AG,0P6O.IL,-1.31,0.261,1.008,Yes
+1817,Groupe Minoteries SA,GMIZ.XC,-0.7,0.137,0.303,Yes
+1818,Volkswagen AG,VOW3D.XC,-1.4,0.271,0.986,Yes
+1819,Potter & Moore Plc,PAM.L,-2.36,0.452,1.848,Yes
+1820,AB Sagax (publ),0QDX.IL,-1.39,0.262,1.057,Yes
+1821,Straumann Holding AG,0QMV.IL,-1.7,0.317,1.402,Yes
+1822,Card Factory plc,CARD.L,-2.09,0.386,1.574,Yes
+1823,Sika AG,0Z4C.IL,-1.48,0.27,1.391,Yes
+1824,Straumann Holding AG,STMNZ.XC,-1.76,0.319,1.426,Yes
+1825,Clariant AG,0QJS.IL,-1.7,0.301,1.424,Yes
+1826,Card Factory plc,CARDL.XC,-2.2,0.39,1.598,Yes
+1827,Keo Capital AB (publ),KEOCS.XC,-3.53,0.629,1.155,Yes
+1828,The Swatch Group AG,UHRZ.XC,-1.57,0.263,1.173,Yes
+1829,Hostelworld Group plc,HSW.L,-1.67,0.274,0.309,Yes
+1830,Dunelm Group plc,DNLM.L,-1.85,0.303,1.13,Yes
+1831,Sunda Energy Plc,SNDA.L,-5.09,0.835,0.33,No
+1832,Mincon Group plc,MCON.L,-2.26,0.365,0.021,No
+1833,Tate & Lyle plc,TATE.L,-2.1,0.335,0.417,Yes
+1834,Deutsche Wohnen SE,0OBQ.IL,-1.83,0.29,1.258,Yes
+1835,Tate & Lyle plc,TATEL.XC,-2.14,0.336,0.413,Yes
+1836,Comptoir Group PLC,COM.L,-2.5,0.379,1.483,Yes
+1837,FDJ United,FDJUP.XC,-1.86,0.277,0.609,Yes
+1838,Dunelm Group plc,DNLML.XC,-2.03,0.301,1.183,Yes
+1839,Gem Diamonds Limited,GEMD.L,-5.16,0.771,2.143,Yes
+1840,Quadient S.A.,0NQ5.IL,-2.34,0.337,0.98,Yes
+1841,P/F Bakkafrost,BAKKAO.XC,-1.7,0.244,0.034,Yes
+1842,"Cellnex Telecom, S.A.",0R9C.IL,-2.19,0.314,1.638,Yes
+1843,Pennon Group Plc,PNN.L,-2.15,0.305,0.365,Yes
+1844,Meko AB (publ),0HDJ.IL,-1.93,0.271,0.595,No
+1845,The Swatch Group AG,0QJV.IL,-1.87,0.259,1.167,Yes
+1846,Randstad N.V.,RANDA.XC,-2.34,0.322,0.962,Yes
+1847,GN Store Nord A/S,0K9P.IL,-2.83,0.39,0.957,Yes
+1848,"PepsiCo, Inc.",0QOS.L,-1.34,0.172,1.015,Yes
+1849,GB Group plc,GBG.L,-2.87,0.367,0.555,Yes
+1850,ECR Minerals plc,ECR.L,-4.48,0.575,0.828,Yes
+1851,Chocoladefabriken Lindt & Sprüngli AG,0QP1.IL,-1.62,0.204,0.596,Yes
+1852,Newron Pharmaceuticals S.p.A.,NWRNZ.XC,-4.63,0.59,0.539,Yes
+1853,Chocoladefabriken Lindt & Sprüngli AG,LISPZ.XC,-1.62,0.204,0.616,Yes
+1854,Checkit plc,CKT.L,-3.75,0.475,0.192,Yes
+1855,Narf Industries Plc,NARF.L,-5.37,0.678,0.688,Yes
+1856,Gecina,0OPE.IL,-1.88,0.22,1.104,Yes
+1857,Royal Unibrew A/S,RBREWC.XC,-2.71,0.317,1.057,Yes
+1858,Dätwyler Holding AG,DAEZ.XC,-2.65,0.303,1.698,Yes
+1859,Autotrader Group plc,AUTO.L,-2.23,0.253,0.029,No
+1860,Partners Group Holding AG,PGHNZ.XC,-2.61,0.29,0.59,Yes
+1861,Salvatore Ferragamo S.p.A.,SFERM.XC,-3.73,0.415,1.861,Yes
+1862,Wizz Air Holdings Plc,WIZZ.L,-4.78,0.521,1.188,Yes
+1863,VERBUND AG,0NR1.IL,-1.93,0.206,0.418,Yes
+1864,Dätwyler Holding AG,0QNJ.IL,-2.82,0.302,1.707,Yes
+1865,Pennon Group Plc,PNNL.XC,-2.85,0.303,0.47,Yes
+1866,Juventus Football Club S.p.A.,0H65.IL,-4.08,0.436,0.134,Yes
+1867,RWS Holdings plc,RWS.L,-5.26,0.563,0.134,Yes
+1868,Sabien Technology Group Plc,SNT.L,-6.25,0.669,0.726,Yes
+1869,Cerillion Plc,CER.L,-3.69,0.389,0.97,Yes
+1870,Shuka Minerals Plc,SKA.L,-6.73,0.714,1.003,Yes
+1871,Autotrader Group plc,AUTOL.XC,-2.41,0.251,0.011,Yes
+1872,The Berkeley Group Holdings plc,BKG.L,-2.54,0.264,1.16,Yes
+1873,Wizz Air Holdings Plc,WIZZL.XC,-4.93,0.517,1.237,Yes
+1874,UPM-Kymmene Oyj,UPMH.XC,-2.14,0.221,1.051,Yes
+1875,Thule Group AB (publ),0R3W.IL,-3.11,0.316,1.807,Yes
+1876,Neuberger Private Equity Partners Limited,NBPE.L,-1.3,0.13,0.251,Yes
+1877,Thruvision Group plc,THRU.L,-13.47,1.429,1.223,Yes
+1878,The Berkeley Group Holdings plc,BKGL.XC,-2.65,0.265,1.202,Yes
+1879,Physiomics Plc,PYC.L,-7.8,0.792,1.739,Yes
+1880,Crimson Tide plc,TIDE.L,-6.36,0.637,0.573,Yes
+1881,Michelmersh Brick Holdings plc,MBH.L,-2.71,0.265,1.546,Yes
+1882,UPM-Kymmene Oyj,0NV5.IL,-2.21,0.212,1.025,Yes
+1883,Redcare Pharmacy NV,RDCD.XC,-5.82,0.566,1.368,Yes
+1884,Elekta AB (publ),EKTABS.XC,-2.97,0.282,0.019,Yes
+1885,Travis Perkins plc,TPK.L,-3.52,0.331,1.683,Yes
+1886,Travis Perkins plc,TPKL.XC,-3.52,0.332,1.735,Yes
+1887,SoftwareOne Holding AG,SWONZ.XC,-5.12,0.484,0.533,Yes
+1888,Siemens Healthineers AG,SHLD.XC,-2.29,0.211,0.856,Yes
+1889,Sanderson Design Group plc,SDG.L,-3.86,0.354,0.843,Yes
+1890,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien,0DVE.IL,-2.42,0.22,0.555,Yes
+1891,SEB SA,0MGS.IL,-3.9,0.352,0.918,Yes
+1892,Stora Enso Oyj,0KCK.IL,-2.95,0.264,1.538,Yes
+1893,SEB SA,SKP.XC,-4.06,0.365,0.994,Yes
+1894,Koenig & Bauer AG,0G15.IL,-5.18,0.457,1.098,Yes
+1895,"C3.ai, Inc.",0A5W.IL,-7.85,0.693,1.524,Yes
+1896,PetroTal Corp.,PTAL.L,-5.57,0.485,0.163,Yes
+1897,Sanofi,SANP.XC,-2.41,0.204,0.818,Yes
+1898,Safestore Holdings Plc,SAFE.L,-3.43,0.29,1.327,Yes
+1899,"ENCE Energía y Celulosa, S.A.",0K96.IL,-2.84,0.238,1.26,Yes
+1900,"Global Dominion Access, S.A.",0RFW.IL,-2.35,0.194,0.684,Yes
+1901,ProSiebenSat.1 Media SE,0QG9.IL,-5.48,0.449,0.953,Yes
+1902,Velocity Composites plc,VEL.L,-6.46,0.531,0.386,Yes
+1903,Reckitt Benckiser Group plc,RKT.L,-2.82,0.227,1.224,Yes
+1904,Dürr Aktiengesellschaft,0J9C.IL,-4.18,0.339,2.373,Yes
+1905,The Kraft Heinz Company,0JRV.IL,-2.4,0.193,0.784,Yes
+1906,Exor N.V.,EXOA.XC,-2.91,0.234,1.459,Yes
+1907,Evolution AB (publ),0RQ6.IL,-4.01,0.323,0.353,No
+1908,Safestore Holdings Plc,SAFEL.XC,-3.63,0.287,1.332,Yes
+1909,Elisa Oyj,ELISAH.XC,-2.36,0.183,0.142,Yes
+1910,UPL Limited,UPLL.IL,-2.77,0.215,1.189,Yes
+1911,bioMérieux S.A.,0RUG.IL,-3.03,0.234,0.651,Yes
+1912,First Property Group plc,FPO.L,-3.84,0.296,0.879,Yes
+1913,Next 15 Group plc,NFG.L,-7.06,0.55,2.412,Yes
+1914,Reckitt Benckiser Group plc,RKTL.XC,-2.97,0.224,1.186,Yes
+1915,Exor N.V.,0RKY.IL,-2.52,0.188,0.873,Yes
+1916,Auction Technology Group plc,ATGL.XC,-5.11,0.384,0.325,Yes
+1917,Focus Xplore Plc,FOX.L,-9.66,0.74,1.887,Yes
+1918,Trainline plc,TRN.L,-4.91,0.366,0.562,No
+1919,Prospex Energy Plc,PXEN.L,-6.87,0.509,1.379,No
+1920,Auction Technology Group plc,ATG.L,-5.31,0.39,0.288,Yes
+1921,GENinCode Plc,GENI.L,-16.35,1.264,2.312,Yes
+1922,Focusrite plc,TUNE.L,-7.16,0.526,1.916,Yes
+1923,"Young & Co.'s Brewery, P.L.C.",YNGA.L,-3.53,0.253,1.011,Yes
+1924,Craneware plc,CRWL.XC,-6.74,0.489,0.674,Yes
+1925,CM.com N.V.,0CMC.IL,-5.21,0.374,0.418,No
+1926,Trainline plc,TRNL.XC,-5.08,0.363,0.568,No
+1927,Alten S.A.,0O1S.IL,-6.01,0.43,1.348,Yes
+1928,"Promotora de Informaciones, S.A.",0R7W.IL,-3.54,0.244,0.972,Yes
+1929,Sanofi,0O59.IL,-2.78,0.191,0.721,Yes
+1930,WisdomTree Nickel,NICK.L,-3.39,0.23,0.476,Yes
+1931,Elekta AB (publ),0O5H.IL,-3.83,0.26,0.775,Yes
+1932,Great Portland Estates Plc,GPEL.XC,-3.93,0.263,1.068,Yes
+1933,Strix Group Plc,KETL.L,-6.12,0.406,1.011,Yes
+1934,DiaSorin S.p.A.,DIAM.XC,-4.05,0.265,1.063,Yes
+1935,"Gestamp Automoción, S.A.",0ROM.IL,-3.46,0.224,1.384,Yes
+1936,Spirax Group plc,SPX.L,-4.89,0.318,2.183,Yes
+1937,Spirax Group plc,SPXL.XC,-4.95,0.32,2.225,Yes
+1938,Leverage Shares 5x Long Gold ETC,GLD5.L,-21.95,1.536,10.988,No
+1939,HUTCHMED (China) Limited,HCM.L,-6.31,0.405,0.359,Yes
+1940,Aptitude Software Group plc,APTD.L,-4.8,0.304,0.016,Yes
+1941,Clean Power Hydrogen plc,CPH2.L,-14.84,0.981,0.403,No
+1942,Greggs plc,GRG.L,-4.79,0.3,0.303,Yes
+1943,Signify N.V.,0RHI.IL,-5.02,0.313,0.727,Yes
+1944,Ariston Holding N.V.,0ABE.IL,-5.97,0.371,1.712,Yes
+1945,Airbus SE,AIRP.XC,-4.39,0.27,1.023,Yes
+1946,Aptitude Software Group plc,APTDL.XC,-4.87,0.297,0.282,Yes
+1947,Pantheon Resources Plc,PANRL.XC,-14.36,0.916,3.669,No
+1948,Vitrolife AB (publ),0YAY.IL,-6.55,0.398,0.774,Yes
+1949,SGL Carbon SE,0MPL.IL,-7.04,0.429,1.537,Yes
+1950,Claranova SE,0N6K.IL,-9.24,0.569,0.693,Yes
+1951,GlobalData Plc,DATA.L,-8.32,0.502,0.692,Yes
+1952,Tecan Group AG,TECNZ.XC,-6.53,0.39,1.528,Yes
+1953,DFDS A/S,0RB3.IL,-6.49,0.387,0.745,Yes
+1954,Premier Miton Group plc,PMI.L,-7.04,0.42,0.493,Yes
+1955,Trafalgar Minerals Plc,TRAF.L,-11.71,0.712,1.735,Yes
+1956,dotdigital Group Plc,DOTD.L,-6.11,0.359,0.814,Yes
+1957,Marshalls plc,MSLHL.XC,-6.51,0.383,0.884,Yes
+1958,"JinkoSolar Holding Co., Ltd.",0JOX.IL,-8.0,0.473,0.006,No
+1959,Barratt Redrow plc,BTRWL.XC,-5.59,0.326,1.03,Yes
+1960,Greggs plc,GRGL.XC,-5.12,0.297,0.306,Yes
+1961,EDX Medical Group Plc,EDX.L,-15.41,0.94,10.041,Yes
+1962,Barratt Redrow plc,BTRW.L,-5.64,0.324,1.037,Yes
+1963,Marshalls plc,MSLH.L,-6.67,0.384,0.855,Yes
+1964,Celebrus Technologies plc,CLBS.L,-8.98,0.517,2.162,Yes
+1965,Creo Medical Group PLC,CREO.L,-10.91,0.633,2.771,Yes
+1966,Fevertree Drinks PLC,FEVR.L,-5.93,0.335,1.541,Yes
+1967,Bayerische Motoren Werke Aktiengesellschaft,0O0U.IL,-5.01,0.278,0.979,Yes
+1968,Evoke plc,EVOK.L,-10.04,0.566,1.646,Yes
+1969,Alcon Inc.,0A0D.IL,-4.07,0.223,0.881,Yes
+1970,AB Sagax (publ),SAGABS.XC,-4.57,0.25,0.905,Yes
+1971,US Solar Fund Ord,USF.L,-5.49,0.298,0.454,Yes
+1972,Evoke plc,EVOKL.XC,-10.24,0.568,1.517,Yes
+1973,Alcon Inc.,ALCZ.XC,-4.1,0.219,0.816,Yes
+1974,Eden Research plc,EDEN.L,-10.5,0.577,1.437,Yes
+1975,Eutelsat Communications S.A.,ETLP.XC,-12.61,0.698,0.642,Yes
+1976,Vulcan Two Group Plc,VUL.L,-6.15,0.329,0.099,No
+1977,Topps Tiles Plc,TPTL.XC,-5.69,0.303,0.968,Yes
+1978,Ascom Holding AG,ASCNZ.XC,-8.36,0.449,0.273,Yes
+1979,Interparfums SA,0IUJ.IL,-5.35,0.283,1.285,Yes
+1980,"Baidu, Inc.",0HL1.L,-8.75,0.465,0.483,Yes
+1981,Michael Page Plc,PAGEL.XC,-10.04,0.529,1.807,Yes
+1982,Interroll Holding AG,INRNZ.XC,-6.72,0.346,1.959,Yes
+1983,Symphony International Holdings Limited,SIHL.L,-5.85,0.299,0.055,Yes
+1984,Wilmington plc,WIL.L,-3.97,0.201,0.406,Yes
+1985,Alten S.A.,ATEP.XC,-7.57,0.39,1.677,Yes
+1986,Edisun Power Europe AG,ESUNZ.XC,-7.75,0.399,1.603,Yes
+1987,"Coinbase Global, Inc.",1QZD.XC,-12.5,0.656,0.285,Yes
+1988,Volvo Car AB (publ.),0AAK.IL,-11.01,0.573,2.187,Yes
+1989,Michael Page Plc,PAGE.L,-10.23,0.526,1.817,Yes
+1990,Nestlé S.A.,NESNZ.XC,-3.87,0.192,0.742,Yes
+1991,"Cirsa Enterprises, S.A.",CIRSAE.XC,-3.5,0.171,0.095,Yes
+1992,bioMérieux S.A.,BIMP.XC,-4.09,0.2,0.711,Yes
+1993,JD Sports Fashion Plc,JDL.XC,-8.81,0.439,1.325,Yes
+1994,JD Sports Fashion Plc,JD.L,-8.8,0.434,1.263,Yes
+1995,SIG Group AG,SIGNZ.XC,-7.4,0.361,1.335,Yes
+1996,Chapel Down Group Plc,CDGP.L,-8.37,0.411,0.021,Yes
+1997,BKW AG,BKWZ.XC,-4.06,0.195,0.613,Yes
+1998,Nestlé S.A.,0QR4.IL,-3.9,0.186,0.668,Yes
+1999,Piaggio & C. SpA,0FM1.IL,-5.85,0.28,1.246,Yes
+2000,hVIVO plc,HVO.L,-13.43,0.667,1.156,Yes
+2001,Kering SA,0IIH.IL,-7.78,0.372,1.421,Yes
+2002,Meren Energy Inc.,0QVL.IL,-6.86,0.326,0.675,Yes
+2003,Pluxee N.V.,PLXP.XC,-8.94,0.428,1.47,Yes
+2004,DocMorris AG,DOCMZ.XC,-16.33,0.806,1.386,Yes
+2005,Kering SA,KERP.XC,-8.02,0.379,1.395,Yes
+2006,Landis+Gyr Group AG,LANDZ.XC,-6.0,0.278,0.766,Yes
+2007,Topps Tiles Plc,TPT.L,-6.13,0.283,1.159,Yes
+2008,Syncona Limited,SYNCL.XC,-3.27,0.149,0.047,No
+2009,YouGov plc,YOUL.XC,-9.55,0.443,0.063,Yes
+2010,Workspace Group Plc,WKP.L,-5.51,0.25,0.991,Yes
+2011,MJ Gleeson plc,GLE.L,-7.47,0.342,0.554,Yes
+2012,Capgemini SE,CAPP.XC,-6.5,0.291,0.053,No
+2013,Watkin Jones Plc,WJG.L,-13.51,0.626,3.206,Yes
+2014,Atrium Ljungberg AB (publ),0IHM.IL,-5.82,0.259,1.221,Yes
+2015,Swedencare AB (publ),0ABG.IL,-9.66,0.437,0.259,Yes
+2016,MJ Gleeson plc,GLEL.XC,-7.8,0.35,0.585,Yes
+2017,CelLBxHealth plc,CLBX.L,-24.35,1.174,1.626,Yes
+2018,Taylor Wimpey plc,TW.L,-6.58,0.287,1.042,Yes
+2019,Altitude Group plc,ALT.L,-11.18,0.492,0.189,No
+2020,Capgemini SE,0HAZ.IL,-7.12,0.301,0.185,Yes
+2021,Grenke AG,0R97.IL,-9.17,0.389,1.798,Yes
+2022,WisdomTree Sugar,SUGA.L,-6.19,0.259,1.214,No
+2023,Taylor Wimpey plc,TWL.XC,-6.82,0.285,1.085,Yes
+2024,Virgin Wines UK PLC,VINO.L,-10.51,0.447,1.506,Yes
+2025,Edenred SE,0MUM.IL,-9.65,0.406,2.029,Yes
+2026,Hikma Pharmaceuticals PLC,HIK.L,-5.77,0.238,0.628,Yes
+2027,Wilmington plc,WILL.XC,-4.82,0.197,0.471,Yes
+2028,"Young & Co.'s Brewery, P.L.C.",YNGAL.XC,-6.06,0.247,1.498,Yes
+2029,WisdomTree Corn,CORN.L,-4.69,0.188,0.113,Yes
+2030,Schroder BSC Social Impact Trust Ord,SBSI.L,-4.29,0.171,0.093,No
+2031,Essentra plc,ESNTL.XC,-8.06,0.326,1.468,Yes
+2032,Predator Oil & Gas Holdings Plc,PRD.L,-18.1,0.764,1.042,Yes
+2033,NAHL Group Plc,NAH.L,-8.71,0.35,0.257,Yes
+2034,Pulsar Helium Inc.,PLSRL.XC,-9.45,0.381,2.477,No
+2035,Hikma Pharmaceuticals PLC,HIKL.XC,-5.94,0.234,0.657,Yes
+2036,RELX PLC,RENA.XC,-3.52,0.137,0.525,No
+2037,WisdomTree Nickel 2x Daily Leveraged,LNIK.L,-11.35,0.457,0.912,Yes
+2038,Henry Boot PLC,BOOTL.XC,-5.94,0.232,0.128,Yes
+2039,Macfarlane Group PLC,MACF.L,-7.28,0.284,0.35,Yes
+2040,Greencoat Uk Wind Plc,UKWL.XC,-2.8,0.107,0.393,Yes
+2041,Workspace Group Plc,WKPL.XC,-6.34,0.246,1.024,Yes
+2042,Paradox Interactive AB (publ),0GDU.IL,-8.0,0.312,0.328,No
+2043,Speedy Hire Plc,SDY.L,-10.5,0.414,0.981,Yes
+2044,Macfarlane Group PLC,MACFL.XC,-7.31,0.283,0.256,Yes
+2045,Kosmos Energy Ltd.,KOS.L,-18.11,0.737,2.395,Yes
+2046,Ingenta plc,ING.L,-12.0,0.471,2.097,Yes
+2047,Dotlines Global Limited,DOTL.L,-28.35,1.213,14.622,Yes
+2048,Arjo AB (publ),0HQ8.IL,-7.47,0.283,0.708,Yes
+2049,CPH Group AG,CPHNZ.XC,-5.77,0.216,0.645,Yes
+2050,Hemnet Group AB (publ),0ABY.IL,-11.55,0.443,0.308,Yes
+2051,Svenska Cellulosa Aktiebolaget SCA (publ),0MCK.IL,-5.24,0.193,1.085,Yes
+2052,Essentra plc,ESNT.L,-8.48,0.316,1.487,Yes
+2053,Energean plc,ENOGL.XC,-8.9,0.332,1.383,Yes
+2054,Strix Group Plc,KETLL.XC,-11.52,0.434,1.211,Yes
+2055,THG Plc,THG.L,-12.52,0.473,1.267,Yes
+2056,C&C Group plc,CCR.L,-8.05,0.294,1.182,Yes
+2057,Speedy Hire Plc,SDYL.XC,-11.03,0.408,0.885,Yes
+2058,Wacker Chemie AG,0NR4.IL,-7.15,0.259,0.793,Yes
+2059,THG Plc,THGL.XC,-12.84,0.473,1.316,Yes
+2060,Forvia SE,0MGR.IL,-13.03,0.478,2.646,Yes
+2061,V-ZUG Holding AG,VZUGZ.XC,-8.24,0.295,0.292,No
+2062,Better Collective A/S,0AA8.IL,-10.52,0.381,0.401,Yes
+2063,SDCL Efficiency Income Trust Plc,SEITL.XC,-6.14,0.214,0.357,Yes
+2064,Sligro Food Group N.V.,0MKM.IL,-8.67,0.305,0.654,Yes
+2065,WisdomTree California Carbon,WCCP.L,-6.55,0.225,0.476,No
+2066,Deutsche Pfandbriefbank AG,0R9K.IL,-12.18,0.43,1.522,Yes
+2067,NWF Group plc,NWF.L,-8.1,0.278,1.066,Yes
+2068,"Talgo, S.A.",0R99.IL,-6.69,0.227,1.245,Yes
+2069,C&C Group plc,CCRL.XC,-8.42,0.288,1.055,Yes
+2070,Pets at Home Group Plc,PETS.L,-9.22,0.312,1.32,Yes
+2071,Schweiter Technologies AG,SWTQZ.XC,-8.31,0.278,0.843,Yes
+2072,Faron Pharmaceuticals Oy,FARN.L,-23.5,0.848,0.557,Yes
+2073,Entain Plc,ENTL.XC,-11.85,0.399,0.356,Yes
+2074,Tikehau Capital,TKOP.XC,-5.39,0.176,0.239,Yes
+2075,Foresight Solar Fund Limited,FSFL.L,-6.53,0.213,0.284,Yes
+2076,Dassault Systèmes SE,DSYP.XC,-9.08,0.299,0.083,No
+2077,Arkema S.A.,0IB0.IL,-7.31,0.237,1.365,Yes
+2078,Victrex plc,VCT.L,-10.94,0.36,1.097,Yes
+2079,Entain Plc,ENT.L,-11.99,0.396,0.285,Yes
+2080,Pets at Home Group Plc,PETSL.XC,-9.6,0.31,1.363,Yes
+2081,Cirata plc,CRTA.L,-24.17,0.832,1.301,Yes
+2082,Arbuthnot Banking Group PLC,ARBB.L,-5.16,0.16,0.412,Yes
+2083,Coral Products PLC,CRU.L,-17.13,0.563,1.652,Yes
+2084,Victrex plc,VCTL.XC,-11.2,0.354,1.05,Yes
+2085,Infrastrutture Wireless Italiane S.p.A.,INWM.XC,-8.59,0.264,1.209,Yes
+2086,Cindrigo Holdings Limited,CINH.L,-30.82,1.07,3.825,Yes
+2087,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",0HAU.IL,-8.9,0.274,1.147,Yes
+2088,Sunrise Resources plc,SRES.L,-20.8,0.68,2.678,Yes
+2089,Jet2 plc,JET2L.XC,-10.19,0.315,0.368,Yes
+2090,Team Internet Group plc,TIG.L,-17.92,0.574,1.275,Yes
+2091,Dassault Systèmes SE,0HB4.IL,-9.41,0.288,0.025,Yes
+2092,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",MCP.XC,-8.98,0.271,1.111,Yes
+2093,Ibstock plc,IBST.L,-10.44,0.315,1.247,Yes
+2094,Novo Nordisk A/S,NOVOBC.XC,-13.07,0.398,0.751,No
+2095,Ibstock plc,IBSTL.XC,-10.63,0.318,1.238,Yes
+2096,WPP plc,WPP.L,-13.31,0.403,0.282,Yes
+2097,Henry Boot PLC,BOOT.L,-7.42,0.218,0.095,No
+2098,Mobico Group Plc,MCG.L,-20.35,0.637,3.667,Yes
+2099,Duke Capital Limited,DUKE.L,-6.3,0.183,0.555,Yes
+2100,Tokmanni Group Oyj,0RG2.IL,-9.89,0.292,0.52,Yes
+2101,Arkema S.A.,AKEP.XC,-7.72,0.225,1.265,Yes
+2102,"ServiceNow, Inc.",4S0D.XC,-21.21,0.66,0.722,No
+2103,WisdomTree Palladium 1x Daily Short,1PAS.L,-12.66,0.376,1.677,No
+2104,Meren Energy Inc.,MERS.XC,-10.27,0.3,0.692,Yes
+2105,Novo Nordisk A/S,0QIU.IL,-13.86,0.412,0.598,No
+2106,Dianomi plc,DNM.L,-13.02,0.386,0.13,No
+2107,Mobico Group Plc,MCGL.XC,-20.62,0.634,3.664,Yes
+2108,WPP plc,WPPL.XC,-13.64,0.399,0.345,Yes
+2109,Real Estate Credit Investments Limited,RECI.L,-3.41,0.095,0.406,Yes
+2110,Beiersdorf Aktiengesellschaft,BEID.XC,-8.95,0.254,1.485,Yes
+2111,Whitbread plc,WTBL.XC,-8.53,0.239,0.682,Yes
+2112,Liontrust Asset Management PLC,LIOL.XC,-13.6,0.391,0.94,Yes
+2113,Liontrust Asset Management PLC,LIO.L,-13.61,0.391,0.992,Yes
+2114,Malibu Life Holdings Limited,MLHL.L,-7.07,0.196,0.244,Yes
+2115,Whitbread plc,WTB.L,-8.59,0.237,0.611,Yes
+2116,Croda International Plc,CRDAL.XC,-8.72,0.24,1.427,Yes
+2117,Wolters Kluwer N.V.,0NMU.IL,-10.21,0.282,0.258,No
+2118,STV Group plc,STVGL.XC,-11.08,0.307,0.153,Yes
+2119,Verallia Société Anonyme,0ABH.IL,-11.02,0.305,0.741,Yes
+2120,PUMA SE,0NQE.IL,-15.48,0.437,0.469,Yes
+2121,LANXESS Aktiengesellschaft,0H7I.IL,-11.54,0.318,1.605,Yes
+2122,Intrum AB (publ),0H9P.IL,-29.82,0.909,1.212,Yes
+2123,Chariot Limited,CHAR.L,-27.8,0.836,0.544,No
+2124,Holmen AB (publ),0XS9.IL,-5.04,0.134,0.667,Yes
+2125,Transense Technologies plc,TRT.L,-17.24,0.484,0.342,No
+2126,OptiBiotix Health Plc,OPTI.L,-25.8,0.755,0.377,Yes
+2127,Croda International Plc,CRDA.L,-8.85,0.235,1.352,Yes
+2128,Beiersdorf Aktiengesellschaft,0DQ7.IL,-9.38,0.25,1.602,Yes
+2129,Greencoat UK Wind,UKW.L,-6.5,0.17,0.181,Yes
+2130,Selkirk Group Plc,SELK.L,-15.14,0.41,1.004,Yes
+2131,Coloplast A/S,0QBO.IL,-9.47,0.248,0.352,Yes
+2132,James Halstead plc,JHDL.XC,-9.11,0.236,0.074,No
+2133,Zinc Media Group plc,ZIN.L,-11.96,0.313,0.214,Yes
+2134,AB Dynamics plc,ABDP.L,-15.0,0.397,0.238,Yes
+2135,Arecor Therapeutics plc,AREC.L,-18.59,0.501,0.531,Yes
+2136,PUMA SE,PUMD.XC,-16.05,0.426,0.277,No
+2137,Shoe Zone plc,SHOE.L,-19.95,0.539,1.031,Yes
+2138,Wolters Kluwer N.V.,WKLA.XC,-10.74,0.276,0.276,No
+2139,Porsche Automobil Holding SE,0JHU.IL,-8.66,0.219,0.993,Yes
+2140,Komax Holding AG,KOMNZ.XC,-19.23,0.511,2.729,Yes
+2141,"Corticeira Amorim, S.G.P.S., S.A.",0O7J.IL,-5.71,0.141,0.718,Yes
+2142,Diageo plc,DGED.L,-9.87,0.248,0.208,Yes
+2143,Vistry Group PLC,VTYL.XC,-19.42,0.511,3.174,Yes
+2144,Adler Group S.A.,0RA1.IL,-22.88,0.611,0.701,Yes
+2145,NIBE Industrier AB (publ),0RH0.IL,-11.58,0.29,0.852,Yes
+2146,Pathos Communications PLC,NEWS.L,-18.08,0.465,1.219,No
+2147,Judges Scientific plc,JDG.L,-16.46,0.418,0.127,Yes
+2148,Arkadian Strategic Metals Plc,AKN.L,-31.78,0.88,1.259,Yes
+2149,Vistry Group PLC,VTY.L,-19.65,0.507,3.154,Yes
+2150,Porsche Automobil Holding SE,PAH3D.XC,-8.76,0.213,0.427,Yes
+2151,Amplifon S.p.A.,0N61.IL,-16.95,0.429,1.924,Yes
+2152,PNE AG,0KUY.IL,-13.04,0.32,0.526,Yes
+2153,Sintana Energy Inc.,SEI.L,-18.12,0.456,0.093,Yes
+2154,STV Group plc,STVG.L,-11.55,0.28,0.353,Yes
+2155,Bénéteau S.A.,0K8N.IL,-13.3,0.32,1.052,Yes
+2156,SDCL Efficiency Income Trust plc.,SEIT.L,-14.28,0.344,0.627,Yes
+2157,Tracsis plc,TRCS.L,-18.0,0.442,0.51,Yes
+2158,Amplifon S.p.A.,AMPM.XC,-16.92,0.412,1.554,Yes
+2159,Proteome Sciences plc,PRM.L,-24.94,0.629,1.535,Yes
+2160,Elixirr International plc,ELIXL.XC,-18.03,0.435,1.392,Yes
+2161,Schweizerische Nationalbank,SNBNZ.XC,-8.46,0.194,0.353,Yes
+2162,naturenergie holding AG,NEAGZ.XC,-6.29,0.142,0.456,Yes
+2163,Revolution Beauty Group plc,REVB.L,-29.1,0.744,0.943,Yes
+2164,Bow Street Group plc,BOW.L,-25.76,0.641,2.328,Yes
+2165,Euroapi S.A.,0EAP.IL,-24.06,0.592,2.357,Yes
+2166,Dr. Ing. h.c. F. Porsche AG,09II.IL,-11.86,0.273,1.006,Yes
+2167,Ultimate Products Plc,ULTP.L,-17.34,0.41,0.876,Yes
+2168,Reach plc,RCH.L,-15.74,0.368,1.654,Yes
+2169,"JD.com, Inc.",0JOQ.L,-17.04,0.401,0.132,Yes
+2170,Jubilee Metals Group PLC,JLP.L,-21.07,0.501,3.048,Yes
+2171,Christian Dior SE,0NPL.IL,-11.53,0.26,0.998,Yes
+2172,Ørsted A/S,0RHE.IL,-19.89,0.466,0.851,Yes
+2173,Mayr-Melnhof Karton AG,0NZ7.IL,-11.67,0.259,1.048,Yes
+2174,BioVersys AG,BIOVZ.XC,-15.35,0.346,1.883,No
+2175,Reach plc,RCHL.XC,-16.1,0.364,1.736,Yes
+2176,Mountview Estates P.L.C.,MTVW.L,-5.0,0.107,0.261,Yes
+2177,London BTC Company Limited,BTC.L,-44.16,1.178,3.634,No
+2178,Mondi plc,MNDIL.XC,-13.47,0.295,0.963,Yes
+2179,Nel ASA,0E4Q.IL,-25.53,0.597,0.473,Yes
+2180,Octopus Renewables Infrastructure Ord,ORIT.L,-9.4,0.201,0.273,No
+2181,Taylor Maritime Limited,TMIP.L,-11.36,0.245,0.298,Yes
+2182,Blackbird plc,BIRD.L,-32.94,0.797,0.846,Yes
+2183,Quantum Base Holdings PLC,QUBE.L,-16.37,0.358,0.59,Yes
+2184,Buccaneer Energy plc.,BUCE.L,-36.01,0.884,1.529,Yes
+2185,Ground Rents Income Fund Ord,GRIO.L,-17.37,0.382,1.296,Yes
+2186,Mondi plc,MNDI.L,-13.67,0.294,0.925,Yes
+2187,lastminute.com N.V.,LMNZ.XC,-14.58,0.313,0.684,Yes
+2188,CoreShares Natural Gas ETC,1NGL.L,-20.69,0.459,1.148,No
+2189,Biesse S.p.A.,0DUK.IL,-15.98,0.345,0.758,Yes
+2190,Dr. Ing. h.c. F. Porsche AG,P911D.XC,-13.62,0.289,1.082,Yes
+2191,Grainger plc,GRIL.XC,-8.47,0.173,0.627,Yes
+2192,Econocom Group SE,0RPX.IL,-10.05,0.206,0.403,Yes
+2193,Grainger plc,GRI.L,-8.33,0.169,0.624,Yes
+2194,NOBA Bank Group AB (publ),NOBAS.XC,-16.22,0.342,0.627,Yes
+2195,Lindsell Train Ord,LTI.L,-8.26,0.166,0.441,Yes
+2196,Robert Walters plc,RWA.L,-21.96,0.471,0.98,Yes
+2197,Kenmare Resources plc,KMRL.XC,-17.61,0.367,0.89,Yes
+2198,Kenmare Resources plc,KMR.L,-18.04,0.377,0.799,Yes
+2199,Future plc,FUTR.L,-22.7,0.484,0.931,Yes
+2200,Parvus Energy Efficiency Trust,AEET.L,-18.44,0.384,0.232,No
+2201,The Renewables Infrastructure Group Limited,TRIG.L,-9.09,0.18,0.232,Yes
+2202,Frontier IP Group Plc,FIPP.L,-27.32,0.595,0.927,Yes
+2203,Future plc,FUTRL.XC,-22.8,0.482,0.911,Yes
+2204,StarragTornos Group AG,STGNZ.XC,-8.55,0.167,0.766,Yes
+2205,doValue S.p.A.,0RTI.IL,-31.54,0.695,1.515,Yes
+2206,Achilles Investment Company Limited,AIC.L,-3.95,0.075,0.15,Yes
+2207,Carl Zeiss Meditec AG,0DHC.IL,-20.15,0.412,1.047,Yes
+2208,Union Jack Oil plc,UJO.L,-33.17,0.725,0.813,Yes
+2209,B&M European Value Retail plc,BME.L,-20.05,0.405,0.38,Yes
+2210,Shawbrook Group PLC,SHAW.L,-17.78,0.355,0.683,Yes
+2211,Robert Walters plc,RWAL.XC,-22.46,0.457,1.006,Yes
+2212,CALIDA Holding AG,CALNZ.XC,-16.67,0.325,0.878,Yes
+2213,B&M European Value Retail plc,BMEL.XC,-20.25,0.402,0.448,Yes
+2214,FW Thorpe Plc,TFW.L,-12.56,0.237,1.232,Yes
+2215,Lenzing Aktiengesellschaft,0NCV.IL,-13.64,0.256,0.05,Yes
+2216,SMG Swiss Marketplace Group Holding AG,SMGZ.XC,-22.54,0.443,0.125,Yes
+2217,LEM Holding SA,LEHNZ.XC,-26.74,0.537,1.178,Yes
+2218,Kinepolis Group NV,KINB.XC,-9.26,0.169,0.172,No
+2219,Feintool International Holding AG,FTONZ.XC,-14.64,0.273,0.487,Yes
+2220,Huddled Group Plc,HUD.L,-31.85,0.649,0.436,Yes
+2221,Oxford Metrics plc,OMG.L,-19.62,0.371,1.224,Yes
+2222,Stellantis N.V.,0QXR.IL,-16.2,0.3,0.816,Yes
+2223,WisdomTree Lead,LEED.L,-6.73,0.119,0.146,Yes
+2224,Vivendi SE,VIVP.XC,-27.18,0.532,1.766,Yes
+2225,dotdigital Group Plc,DOTDL.XC,-20.81,0.39,0.812,Yes
+2226,Keras Resources Plc,KRS.L,-41.43,0.881,1.672,No
+2227,Nanoco Group plc,NANO.L,-34.45,0.691,0.214,No
+2228,James Halstead plc,JHD.L,-11.54,0.203,0.147,Yes
+2229,Vivendi SE,0IIF.IL,-27.34,0.523,1.434,Yes
+2230,NextEnergy Solar Fund Limited,NESF.L,-14.47,0.255,0.851,Yes
+2231,Synergia Energy Ltd,SYN.L,-38.65,0.78,1.967,No
+2232,Klingelnberg AG,KLINZ.XC,-12.27,0.211,0.474,Yes
+2233,Shurgard Self Storage Ltd,SHURB.XC,-12.43,0.214,0.338,Yes
+2234,Bellevue Group AG,BBNZ.XC,-21.7,0.392,1.84,Yes
+2235,accesso Technology Group plc,ACSO.L,-17.97,0.318,0.354,Yes
+2236,Dometic Group AB (publ),0RCO.IL,-23.62,0.427,2.404,Yes
+2237,Domino's Pizza Group plc,DOML.XC,-15.07,0.256,1.331,Yes
+2238,Metsä Board Oyj,0O7A.IL,-18.38,0.317,1.292,Yes
+2239,Adval Tech Holding AG,ADVNZ.XC,-26.42,0.468,1.918,No
+2240,Domino's Pizza Group plc,DOM.L,-15.14,0.251,1.318,Yes
+2241,Vetropack Holding AG,VETNZ.XC,-14.24,0.234,0.205,Yes
+2242,Albion Technology & Gen VCT Ord,AATG.L,-3.25,0.05,0.145,No
+2243,Record plc,REC.L,-15.52,0.254,0.582,Yes
+2244,Metall Zug AG,METNZ.XC,-12.67,0.204,0.161,Yes
+2245,Maintel Holdings Plc,MAI.L,-20.94,0.351,0.348,Yes
+2246,Rémy Cointreau SA,RCOP.XC,-20.93,0.349,1.326,Yes
+2247,Foresight VCT Ord,FTV.L,-6.93,0.107,0.259,Yes
+2248,Interparfums SA,ITPP.XC,-13.56,0.216,0.413,Yes
+2249,Halo Minerals PLC,HALO.L,-33.12,0.582,1.122,No
+2250,Literacy Capital PLC,BOOK.L,-14.04,0.221,0.833,Yes
+2251,Unite Group PLC,UTG.L,-15.1,0.239,0.396,Yes
+2252,Douglas AG,DOUD.XC,-24.94,0.416,2.04,Yes
+2253,abrdn Property Income Trust Limited,API.L,-40.03,0.73,0.855,Yes
+2254,Churchill China plc,CHH.L,-27.0,0.449,1.456,Yes
+2255,Davide Campari-Milano N.V.,CPRM.XC,-16.87,0.264,0.82,Yes
+2256,Unite Group PLC,UTGL.XC,-15.32,0.237,0.44,Yes
+2257,Northcoders Group PLC,CODE.L,-34.64,0.595,0.032,Yes
+2258,"iQIYI, Inc.",0XWG.L,-36.89,0.63,0.486,Yes
+2259,Shawbrook Group PLC,SHAWL.XC,-23.86,0.371,0.924,Yes
+2260,FDM Group (Holdings) plc,FDML.XC,-31.82,0.517,0.337,Yes
+2261,GlobalData Plc,DATAL.XC,-36.05,0.6,0.294,Yes
+2262,FDM Group (Holdings) plc,FDM.L,-31.84,0.512,0.345,Yes
+2263,NNIT A/S,0R5Z.IL,-19.86,0.298,0.341,No
+2264,River Global Plc,RVRG.L,-39.49,0.665,0.813,Yes
+2265,Husqvarna AB (publ),0GTR.IL,-18.4,0.27,1.186,Yes
+2266,Bystronic AG,BYSZ.XC,-28.97,0.447,1.661,Yes
+2267,Husqvarna AB (publ),HUSQBS.XC,-21.42,0.314,1.115,Yes
+2268,BW Energy Limited,0ABD.IL,-25.13,0.376,1.667,Yes
+2269,Facilities by ADF plc,ADF.L,-31.88,0.494,1.786,Yes
+2270,Safestay plc,SSTY.L,-18.5,0.264,0.815,No
+2271,Rémy Cointreau SA,0MGU.IL,-21.69,0.313,1.577,Yes
+2272,Firering Strategic Minerals Plc,FRG.L,-36.72,0.58,0.157,Yes
+2273,Diageo plc,DGE.L,-15.79,0.22,0.27,Yes
+2274,Diageo plc,DGEL.XC,-15.87,0.221,0.322,Yes
+2275,Burford Capital Limited,BUR.L,-27.76,0.41,2.246,Yes
+2276,Gerresheimer AG,0NTI.IL,-29.5,0.438,0.653,No
+2277,Bioventix PLC,BVXP.L,-20.75,0.292,0.022,Yes
+2278,Manolete Partners Plc,MANO.L,-31.81,0.475,1.119,Yes
+2279,,SVEABS.XC,-15.33,0.206,0.423,Yes
+2280,Sveafastigheter AB (publ),SVEAFS.XC,-15.33,0.206,0.423,Yes
+2281,GAM Holding AG,GAMZ.XC,-35.3,0.532,1.529,Yes
+2282,iomart Group plc,IOM.L,-44.82,0.719,1.759,Yes
+2283,PHSC plc,PHSC.L,-43.56,0.691,0.055,Yes
+2284,Aevis Victoria SA,AEVSZ.XC,-11.25,0.147,0.242,Yes
+2285,AB Electrolux (publ),0MDT.IL,-30.23,0.437,2.23,Yes
+2286,Feedback plc,FDBK.L,-44.47,0.703,1.371,Yes
+2287,"NIKE, Inc.",0QZ6.L,-24.02,0.329,0.714,Yes
+2288,Plexus Holdings plc,POS.L,-37.36,0.552,2.211,Yes
+2289,Midwich Group plc,MIDW.L,-25.76,0.353,1.98,Yes
+2290,Acuity RM Group Plc Ord,ACRM.L,-40.7,0.608,1.232,Yes
+2291,ProService Building Services Marketplace Plc,PRO.L,-35.51,0.505,1.978,Yes
+2292,WH Smith PLC,SMWH.L,-27.98,0.376,1.676,Yes
+2293,Petra Diamonds Limited,PDL.L,-44.66,0.668,0.913,Yes
+2294,Borr Drilling Limited,BORRO.XC,-30.38,0.412,3.154,Yes
+2295,Agfa-Gevaert NV,0MFU.IL,-31.28,0.425,1.109,Yes
+2296,WH Smith PLC,SMWHL.XC,-28.16,0.374,1.685,Yes
+2297,Rieter Holding AG,RIENZ.XC,-45.04,0.664,0.486,Yes
+2298,REACT Group PLC,REAT.L,-19.61,0.242,0.432,Yes
+2299,Gemfields Group Limited,GEM.L,-34.48,0.463,0.345,No
+2300,ICG-Longbow Senior Secured UK Property Debt Investments Ltd,LBOW.L,-19.95,0.245,0.054,Yes
+2301,AstraZeneca PLC,AZNS.XC,-16.2,0.194,2.649,No
+2302,Lords Group Trading plc,LORD.L,-34.3,0.453,1.47,Yes
+2303,Jarvis Securities plc,JIM.L,-47.44,0.685,1.903,Yes
+2304,Gresham House Income & Growth VCT Ord,GHV1.L,-7.89,0.089,0.368,Yes
+2305,Stabilus SE,0QUL.IL,-26.39,0.327,0.692,Yes
+2306,CLS Holdings plc,CLIL.XC,-24.11,0.294,1.379,Yes
+2307,CLS Holdings plc,CLI.L,-23.72,0.288,1.385,Yes
+2308,Stellantis N.V.,STLAMM.XC,-29.29,0.366,0.909,Yes
+2309,SIG plc,SHI.L,-31.49,0.395,0.614,Yes
+2310,Sherborne Investors (Guernsey) C Limited,SIGC.L,-17.71,0.203,0.992,Yes
+2311,Sutton Harbour Group plc,SUH.L,-35.53,0.452,1.226,Yes
+2312,Ecofin US Renewables Infrastructure Ord,RNEW.L,-30.12,0.366,0.926,Yes
+2313,Impax Asset Management Group Plc,IPX.L,-32.57,0.401,1.557,Yes
+2314,Maven Income & Growth VCT Ord,MIG1.L,-6.09,0.064,0.062,No
+2315,RM Infrastructure Income Ord,RMII.L,-10.79,0.116,0.13,No
+2316,Bertrandt Aktiengesellschaft,0NYZ.IL,-34.54,0.423,1.759,Yes
+2317,SIG plc,SHIL.XC,-31.92,0.383,0.584,Yes
+2318,Varia US Properties AG,VARNZ.XC,-22.19,0.25,0.026,Yes
+2319,Pernod Ricard SA,0HAT.IL,-21.03,0.234,0.973,Yes
+2320,Maven Income & Growth VCT 3 Ord,MIG3.L,-7.05,0.073,0.085,No
+2321,Pernod Ricard SA,RIP.XC,-21.04,0.233,0.905,Yes
+2322,Ubisoft Entertainment SA,0NVL.IL,-38.41,0.472,0.051,Yes
+2323,Carlo Gavazzi Holding AG,GAVZ.XC,-20.15,0.22,0.617,Yes
+2324,abrdn European Logistics Income PLC,ASLI.L,-30.7,0.357,0.523,Yes
+2325,Impax Asset Management Group Plc,IPXL.XC,-28.5,0.32,1.105,Yes
+2326,Geox S.p.A.,0KHH.IL,-25.23,0.274,0.929,Yes
+2327,Ubisoft Entertainment SA,UBIP.XC,-38.47,0.451,0.291,Yes
+2328,ORIOR AG,ORONZ.XC,-36.66,0.424,0.765,Yes
+2329,Aquila European Renewables Ord,AERI.L,-25.68,0.277,0.715,No
+2330,bpost NV/SA,0QF5.IL,-32.39,0.364,1.011,Yes
+2331,AB Dynamics plc,ABDPL.XC,-37.31,0.42,0.305,No
+2332,Verisure plc,VSURES.XC,-43.39,0.503,0.588,No
+2333,Portmeirion Group PLC,PMP.L,-36.52,0.397,0.035,Yes
+2334,Ebiquity plc,EBQ.L,-34.61,0.358,1.162,Yes
+2335,Maven Income & Growth VCT 4 Ord,MAV4.L,-6.81,0.06,0.157,No
+2336,Aterian plc,ATN.L,-32.23,0.318,0.189,Yes
+2337,Touchstone Exploration Inc.,TXP.L,-43.82,0.468,0.129,Yes
+2338,accesso Technology Group plc,ACSOL.XC,-32.24,0.308,0.267,No
+2339,Mortgage Advice Bureau (Holdings) plc,MAB1L.XC,-28.63,0.267,0.081,Yes
+2340,Hargreave Hale AIM VCT Ord,HHV.L,-11.14,0.091,0.236,Yes
+2341,Macau Property Opportunities Fund Limited,MPO.L,-47.54,0.482,0.512,No
+2342,TAKKT AG,0GC8.IL,-34.92,0.288,0.584,Yes
+2343,Amadeus FiRe AG,0DK9.IL,-38.3,0.321,0.391,Yes
+2344,The Conygar Investment Company PLC,CIC.L,-35.06,0.277,0.854,Yes
+2345,VPC Specialty Lending Investments Ord,VSL.L,-42.91,0.323,0.157,Yes
+2346,BRCK Group plc,BRCKL.XC,-20.57,0.134,0.182,No
+2347,Maven Renovar VCT Ord,MRV.L,-17.38,0.104,0.205,Yes
+2348,Mind Gym plc,MIND.L,-47.38,0.326,1.291,Yes
+2349,Princes Group plc,PRNL.XC,-39.88,0.256,1.134,Yes
+2350,Princes Group plc,PRN.L,-39.17,0.241,0.839,Yes
+2351,Time Out Group plc,TMO.L,-45.93,0.273,0.3,No
+2352,TotalEnergies SE,TTEP.XC,-33.89,0.17,0.978,No
+2353,Kerry Group plc,KRZI.XC,-36.76,0.168,1.361,Yes
+2354,Acast AB (publ),ACASTS.XC,-34.55,0.063,0.618,Yes
+2355,Zoyo Limited,ZOYO.L,0.0,0.0,0.0,No
+2356,Rockwood Strategic Plc,RKWL.XC,0.0,0.0,0.0,No
+2357,The Schiehallion Fund Limited,MNTNL.XC,0.0,0.0,0.0,No
+2358,Nordea Bank Abp,NDAH.XC,20.1,,,
+2359,Infracore SA,INFRAZ.XC,-35.91,,,
+2360,Kongsberg Maritime ASA,KMARO.XC,0.0,,,
+2361,WisdomTree WTI Crude Oil,CRUDL.XC,0.0,0.0,0.0,No
+2362,lululemon athletica inc.,33LD.XC,0.0,0.0,,
+2363,GAM Holding AG,0QN3.IL,0.0,0.0,0.0,No
+2364,LAMDA Development S.A.,0NCY.IL,0.0,0.0,0.0,No
+2365,Wirecard AG,0O8X.IL,0.0,0.0,0.0,No
+2366,Solutions 30 SE,0A29.IL,0.0,0.0,0.0,No
+2367,Stillfront Group AB (publ),0A2A.IL,0.0,0.0,0.0,No
+2368,TeamViewer SE,0A36.IL,0.0,0.0,0.0,No
+2369,Allegro.eu S.A.,0A5O.IL,0.0,0.0,0.0,No
+2370,AutoStore Holdings Ltd.,0AAE.IL,0.0,0.0,0.0,No
+2371,Sdiptech AB (publ),0AAV.IL,0.0,0.0,0.0,No
+2372,Technoprobe S.p.A.,0AB7.IL,0.0,0.0,0.0,No

@@ -1,0 +1,304 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Omer Construction & Engineering (1986) Ltd.,OMCN.TA,85.57,0.227,0.16,No
+2,Menora Mivtachim Holdings Ltd.,MMHD.TA,89.02,0.275,1.175,Yes
+3,Phoenix Financial Ltd.,PHOE.TA,75.65,0.255,1.094,Yes
+4,Harel Insurance Investments & Financial Services Ltd,HARL.TA,97.53,0.314,1.379,Yes
+5,Libra Insurance Company Ltd,LBRA.TA,134.71,0.417,0.923,Yes
+6,Max Stock Ltd.,MAXO.TA,84.27,0.303,0.913,Yes
+7,Bet Shemesh Engines Holdings (1997) Ltd,BSEN.TA,121.28,0.423,0.757,Yes
+8,Meitav Investment House Ltd,MTAV.TA,125.24,0.445,1.78,Yes
+9,TA-125,^TA125.TA,31.9,0.159,1.0,Yes
+10,OPC Energy Ltd.,OPCE.TA,68.57,0.305,0.932,Yes
+11,Bank Leumi le-Israel B.M.,LUMI.TA,37.81,0.188,0.906,Yes
+12,Migdal Insurance and Financial Holdings Ltd.,MGDL.TA,73.66,0.33,1.558,Yes
+13,Paz Retail And Energy Ltd.,PAZ.TA,45.18,0.229,0.968,Yes
+14,Bank Hapoalim B.M.,POLI.TA,34.83,0.183,0.869,Yes
+15,The Tel-Aviv Stock Exchange Ltd.,TASE.TA,98.65,0.428,1.562,Yes
+16,Clal Insurance Enterprises Holdings Ltd.,CLIS.TA,77.35,0.362,1.949,Yes
+17,Minrav Group Ltd,MNRV.TA,69.62,0.338,0.846,No
+18,Analyst I.M.S. Investment Management Services Ltd,ANLT.TA,75.93,0.365,1.088,Yes
+19,Michpal Technologies Ltd,MCPL.TA,64.38,0.324,0.574,No
+20,Orad Ltd,ORAD.TA,92.41,0.447,0.482,Yes
+21,Y.D. More Investments Ltd,MRIN.TA,97.97,0.482,1.571,Yes
+22,Mivtach Shamir Holdings Ltd,MISH.TA,70.63,0.382,1.517,Yes
+23,Turpaz Industries Ltd,TRPZ.TA,116.89,0.562,2.135,Yes
+24,El Al Israel Airlines Ltd.,ELAL.TA,86.34,0.456,0.898,Yes
+25,BrainsWay Ltd.,BWAY.TA,102.02,0.521,1.458,Yes
+26,Econergy Ltd,ECNR.TA,88.97,0.47,1.586,Yes
+27,Lahav LR Real Estate Ltd,LAHAV.TA,54.12,0.322,1.143,Yes
+28,Albaad Massuot Yitzhak Ltd,ALBA.TA,63.73,0.372,0.797,Yes
+29,Dor Alon Energy In Israel (1988) Ltd,DRAL.TA,42.15,0.268,0.922,Yes
+30,P.C.B. Technologies Ltd,PCBT.TA,83.03,0.465,1.175,Yes
+31,Rapac Communication & Infrastructure Ltd,RPAC.TA,53.67,0.337,1.29,Yes
+32,ARGO Properties N.V.,ARGO.TA,38.11,0.255,0.753,Yes
+33,BIG Shopping Centers Ltd,BIG.TA,33.19,0.227,1.147,Yes
+34,More Provident Funds and Pensions Ltd,MPP.TA,61.07,0.382,1.022,Yes
+35,Rimon Consulting & Management Services Ltd.,RMON.TA,71.77,0.438,1.652,Yes
+36,Elbit Systems Ltd.,ESLT.TA,48.53,0.319,0.483,Yes
+37,Neto M.E Holdings Ltd,NTO.TA,54.3,0.352,1.371,Yes
+38,Cellcom Israel Ltd.,CEL.TA,51.6,0.339,1.527,Yes
+39,I.D.I. Insurance Company Ltd.,IDIN.TA,53.09,0.347,0.827,Yes
+40,Castro Model Ltd.,CAST.TA,71.11,0.441,0.547,Yes
+41,G1 Secure Solutions Ltd,GOSS.TA,47.39,0.323,0.899,Yes
+42,Golf & Co Group Ltd,GOLF.TA,43.53,0.303,0.712,Yes
+43,Shagrir Group Vehicle Services Ltd,SHGR.TA,47.39,0.327,0.37,Yes
+44,Aluma Infrastructure Fund (2020) Ltd,ALUMA.TA,63.4,0.425,1.342,Yes
+45,Willy-Food Investments Ltd,WLFD.TA,49.94,0.35,1.269,Yes
+46,Opal Balance Investments Ltd,OPAL.TA,35.63,0.265,1.008,Yes
+47,TAT Technologies Ltd.,TATT.TA,63.09,0.434,0.475,Yes
+48,Neto Malinda Trading Ltd.,NTML.TA,46.34,0.336,1.325,Yes
+49,Bareket Capital Ltd,BRKT.TA,40.24,0.302,0.997,Yes
+50,Kardan Israel Ltd.,KRDI.TA,52.74,0.381,0.916,Yes
+51,Qualitau Ltd,QLTU.TA,112.03,0.703,2.309,Yes
+52,SofWave Medical Ltd.,SOFW.TA,68.59,0.488,1.413,Yes
+53,Partner Communications Company Ltd.,PTNR.TA,43.23,0.335,0.878,Yes
+54,M.Yochananof and Sons (1988) Ltd,YHNF.TA,36.25,0.29,0.938,Yes
+55,Menif - Financial Services Ltd,MNIF.TA,40.87,0.323,1.388,Yes
+56,Delta Israel Brands Ltd,DLTI.TA,52.32,0.398,1.41,Yes
+57,Teva Pharmaceutical Industries Limited,TEVA.TA,52.3,0.4,0.71,Yes
+58,Kenon Holdings Ltd.,KEN.TA,40.25,0.32,1.208,Yes
+59,Zur Shamir Holdings Ltd,ZUR.TA,52.66,0.409,1.456,Yes
+60,Terminal X Online Ltd.,TRX.TA,53.47,0.416,1.571,Yes
+61,Bikurey Hasade Group Ltd,BKRY.TA,37.61,0.311,0.71,Yes
+62,Zanlakol Ltd,ZNKL.TA,45.02,0.365,0.428,Yes
+63,Shufersal Ltd,SAE.TA,34.67,0.292,0.708,Yes
+64,Rotshtein Realestate Ltd,ROTS.TA,41.87,0.346,1.296,Yes
+65,Mizrahi Tefahot Bank Ltd.,MZTF.TA,21.68,0.197,0.724,Yes
+66,Tiv Taam Holdings 1 Ltd.,TTAM.TA,28.92,0.256,0.541,Yes
+67,Ashot Ashkelon Industries Ltd.,ASHO.TA,64.4,0.508,1.33,Yes
+68,Priortech Ltd,PRTC.TA,48.26,0.408,0.864,Yes
+69,Azrieli Group Ltd.,AZRG.TA,32.56,0.292,1.476,Yes
+70,Rent It - Residential Reit Ltd,RENT.TA,26.81,0.246,0.214,No
+71,Inrom Construction Industries Ltd,INRM.TA,37.06,0.332,1.062,Yes
+72,Elad Software Systems Ltd,ELAD.TA,46.36,0.403,0.097,Yes
+73,Rami Levi Chain Stores Hashikma Marketing 2006 Ltd,RMLI.TA,19.76,0.191,0.483,Yes
+74,F.I.B.I. Holdings Ltd,FIBIH.TA,25.82,0.244,1.09,Yes
+75,Melisron Ltd.,MLSR.TA,23.06,0.22,0.986,Yes
+76,Rotem Shani Entrepreneurship and Investment Ltd.,RTSN.TA,42.0,0.375,0.762,Yes
+77,Israel Discount Bank Limited,DSCT.TA,21.6,0.208,0.838,Yes
+78,Hagag Europe Development Z.F. Ltd,HGGE.TA,47.93,0.421,0.901,Yes
+79,El-Mor Electric Installation & Services (1986) Ltd.,ELMR.TA,56.4,0.482,1.596,Yes
+80,Baran Group Ltd,BRAN.TA,39.24,0.356,0.412,Yes
+81,Accel Solutions Group Ltd,ACCL.TA,50.79,0.446,1.138,Yes
+82,Michlol Finance Ltd,MCLL.TA,36.2,0.335,0.827,Yes
+83,Mendelson Infrastructures & Industries Ltd.,MNIN.TA,35.41,0.332,0.98,Yes
+84,Isrotel Ltd.,ISRO.TA,30.46,0.297,1.008,Yes
+85,E. Schnapp & Co. Works Ltd,SHNP.TA,34.41,0.335,0.674,Yes
+86,Allot Ltd.,ALLT.TA,69.85,0.611,0.507,Yes
+87,Y.Z. Queenco Ltd.,QNCO.TA,73.23,0.638,0.659,Yes
+88,Geffen Residence & Renewal Ltd,GEFR.TA,33.72,0.334,0.771,Yes
+89,Amir Marketing and Investments in Agriculture Ltd,AMRK.TA,19.41,0.203,0.501,Yes
+90,Sunflower Sustainable Investments Ltd,SNFL.TA,30.26,0.308,0.822,Yes
+91,Nova Ltd.,NVMI.TA,52.7,0.5,1.551,Yes
+92,Alrov Properties and Lodgings Ltd.,ALRPR.TA,27.11,0.282,1.029,Yes
+93,Discount Investment Corporation Ltd.,DISI.TA,40.66,0.413,0.819,Yes
+94,Jacob Finance and Investments Ltd,JCFN.TA,39.8,0.427,1.68,Yes
+95,Turbogen Ltd,TURB.TA,69.12,0.678,1.031,Yes
+96,Export Investment Co. Ltd.,EXPO.TA,24.05,0.276,0.497,Yes
+97,Kafrit Industries (1993) Ltd,KAFR.TA,31.05,0.355,0.974,Yes
+98,S.R. Accord Ltd.,SRAC.TA,28.32,0.328,0.922,Yes
+99,InPlay Oil Corp.,IPO.TA,51.7,0.562,0.196,Yes
+100,IMCO Industries Ltd.,IMCO.TA,71.98,0.736,0.386,Yes
+101,Multi Retail Group Ltd,MRG.TA,74.58,0.776,0.019,Yes
+102,Aura Investments Ltd.,AURA.TA,40.07,0.467,1.493,Yes
+103,Electra Limited,ELTR.TA,22.32,0.282,1.029,Yes
+104,Y.H. Dimri Construction & Development Ltd,DIMRI.TA,17.47,0.226,0.936,Yes
+105,Bezeq The Israel Telecommunication Corp. Ltd,BEZQ.TA,16.62,0.217,0.879,Yes
+106,Gav-Yam Lands Corp. Ltd,GVYM.TA,20.0,0.258,0.88,Yes
+107,Aran Research & Development (1982) Ltd.,ARAN.TA,37.98,0.459,1.115,Yes
+108,First International Bank of Israel Ltd,FIBI.TA,15.67,0.206,1.013,Yes
+109,Bank of Jerusalem Ltd.,JBNK.TA,17.15,0.228,0.669,Yes
+110,Knafaim Holdings Ltd.,KNFM.TA,22.77,0.296,1.204,Yes
+111,Megureit Israel Ltd,MGRT.TA,27.25,0.349,1.221,Yes
+112,M.L.R.N Projects and Trading Ltd,MLRN.TA,59.07,0.678,1.716,Yes
+113,RSL Electronics Ltd.,RSEL.TA,47.47,0.569,0.0,No
+114,Mediterranean Towers Ltd.,MDTR.TA,21.62,0.285,1.119,Yes
+115,Nawi Group Ltd,NAWI.TA,25.03,0.329,1.264,Yes
+116,Ackerstein Group Ltd,ACKR.TA,28.43,0.371,0.622,Yes
+117,Nayax Ltd.,NYAX.TA,32.13,0.421,0.77,Yes
+118,Brimag Digital Age Ltd.,BRMG.TA,29.85,0.399,1.38,Yes
+119,Tamar Petroleum Ltd,TMRP.TA,28.45,0.387,0.741,Yes
+120,Delek Group Ltd.,DLEKG.TA,19.17,0.277,0.968,Yes
+121,Overseas Commerce Ltd.,OVRS.TA,14.39,0.212,0.075,No
+122,Shikun & Binui Ltd.,SKBN.TA,31.56,0.436,1.707,Yes
+123,Carasso Motors Ltd.,CRSM.TA,26.49,0.374,1.404,Yes
+124,Bait Bakfar Ltd,BKFR.TA,18.41,0.271,0.589,Yes
+125,Strauss Group Ltd.,STRS.TA,15.14,0.226,0.512,Yes
+126,Rav-Bariach (08) Industries Ltd.,BRIH.TA,29.62,0.421,0.882,Yes
+127,Hagag Group Real Estate Entrepreneurship Ltd,HGG.TA,33.45,0.475,2.179,Yes
+128,Rani Zim Shopping Centers Ltd,RANI.TA,24.57,0.363,1.184,Yes
+129,Mivne Real Estate (K.D) Ltd,MVNE.TA,15.41,0.238,0.833,Yes
+130,Camtek Ltd.,CAMT.TA,35.01,0.508,1.464,Yes
+131,I.B.I.- Managing & Underwriting Ltd,IBIU.TA,25.55,0.386,1.417,Yes
+132,Bonei Hatichon Civil Engineering & Infrastructures Ltd.,BOTI.TA,24.52,0.373,1.107,Yes
+133,Sano Bruno's Enterprises Ltd,SANO1.TA,17.01,0.266,0.818,Yes
+134,Compugen Ltd.,CGEN.TA,90.83,1.131,1.747,Yes
+135,Property & Building Corp. Ltd.,PTBL.TA,33.05,0.494,2.051,Yes
+136,Reit 1 Ltd,RIT1.TA,15.32,0.248,0.907,Yes
+137,Tomer Energy Royalties (2012) Ltd,TOEN.TA,18.33,0.294,0.625,Yes
+138,Ralco Agencies Ltd,RLCO.TA,22.25,0.353,0.677,Yes
+139,NewMed Energy - Limited Partnership,NWMD.TA,18.1,0.293,1.319,Yes
+140,ETGA Group Ltd,ETGA.TA,24.54,0.388,1.225,Yes
+141,Prashkovsky Investments and Construction Ltd.,PRSK.TA,24.34,0.386,1.473,Yes
+142,Suny Cellular Communication Ltd,SNCM.TA,15.61,0.257,1.144,Yes
+143,Danel (Adir Yeoshua) Ltd,DANE.TA,14.18,0.237,0.81,Yes
+144,Seach Medical Group Ltd,SEMG.TA,28.33,0.452,1.525,Yes
+145,Ravad Ltd,RAVD.TA,18.05,0.304,0.118,Yes
+146,One Software Technologies Ltd,ONE.TA,20.26,0.339,1.222,Yes
+147,AFI Properties Ltd.,AFPR.TA,14.81,0.263,0.984,Yes
+148,Blue Square Real Estate Ltd,BLSR.TA,16.01,0.283,1.328,Yes
+149,Primotec Group Ltd,PRMG.TA,17.47,0.309,0.574,Yes
+150,Palram Industries (1990) Ltd,PLRM.TA,19.04,0.338,0.698,Yes
+151,Matrix IT Ltd.,MTRX.TA,20.31,0.362,1.064,Yes
+152,Automatic Bank Services Limited,SHVA.TA,20.1,0.362,1.295,Yes
+153,Av-Gad Holdings Ltd,AVGD.TA,29.88,0.519,1.72,Yes
+154,Gan Shmuel Foods Ltd.,GSFI.TA,19.9,0.363,0.532,Yes
+155,Reit Azorim - H.F Living Ltd,AZRT.TA,16.33,0.303,0.728,Yes
+156,Almogim Holdings Ltd,ALMA.TA,21.09,0.385,1.325,Yes
+157,FMS Enterprises Migun Ltd,FBRT.TA,17.73,0.33,0.008,Yes
+158,Duniec Bros. Ltd,DUNI.TA,17.63,0.33,1.146,Yes
+159,Formula Systems (1985) Ltd.,FORTY.TA,18.04,0.343,1.074,Yes
+160,Synel M.L.L Payway Ltd,SNEL.TA,21.47,0.403,0.824,Yes
+161,Ratio Petroleum Energy - Limited Partnership,RTPT.TA,34.21,0.614,0.856,Yes
+162,E.N. Shoham Business Ltd,SHOM.TA,16.33,0.318,1.034,Yes
+163,Abra Information Technologies Ltd.,ABRA.TA,20.53,0.393,0.87,Yes
+164,The Gold Bond Group Ltd.,GOLD.TA,14.26,0.285,0.793,Yes
+165,Diplomat Holdings Ltd,DIPL.TA,16.12,0.326,0.972,Yes
+166,Global Knafaim Leasing Ltd,GKL.TA,15.42,0.326,1.036,Yes
+167,iCon Group Ltd,ICON.TA,15.59,0.337,0.917,Yes
+168,Erika Carmel-Tech Ltd,ERKA.TA,37.52,0.753,0.347,Yes
+169,Issta Ltd,ISTA.TA,13.78,0.304,1.477,Yes
+170,Meshulam Levinstein Contracting & Engineering Ltd.,LEVI.TA,18.01,0.398,1.805,Yes
+171,Payment Financial Technologies Ltd,PMNT.TA,19.43,0.431,0.956,Yes
+172,Mordechai Aviv Taasiot Beniyah (1973) Ltd.,AVIV.TA,18.14,0.405,0.991,Yes
+173,Hiron-Trade Investments & Industrial Buildings Ltd,HRON.TA,8.71,0.204,0.209,Yes
+174,Menivim - The New Reit Ltd,MNRT.TA,9.77,0.228,0.807,Yes
+175,Buff Technologies Ltd.,BUFT.TA,64.91,1.254,1.064,Yes
+176,Cohen Development Gas & Oil Ltd.,CDEV.TA,13.44,0.311,1.082,Yes
+177,Computer Direct Group Ltd.,CMDR.TA,14.93,0.349,0.995,Yes
+178,"Azorim-Investment, Development & Construction Co. Ltd",AZRM.TA,17.26,0.403,1.328,Yes
+179,Hilan Ltd.,HLAN.TA,11.11,0.269,0.885,Yes
+180,Fox-Wizel Ltd.,FOX.TA,12.48,0.303,1.046,Yes
+181,Holmes Place International Ltd,HLMS.TA,9.31,0.229,0.72,Yes
+182,Fridenson Logistic Services Ltd,FRDN.TA,15.29,0.371,0.37,Yes
+183,Hamat Group Ltd.,HAMAT.TA,14.55,0.357,1.13,Yes
+184,Sade Real Estate - Y.S. Ltd.,SADE.TA,48.63,1.067,1.667,Yes
+185,Atreyu Capital Markets Ltd,ATRY.TA,11.81,0.3,1.151,Yes
+186,Victory Supermarket Chain Ltd,VCTR.TA,12.69,0.324,1.136,Yes
+187,Alony-Hetz Properties & Investments Ltd,ALHE.TA,13.23,0.339,1.496,Yes
+188,Lapidoth Capital Ltd,LAPD.TA,10.79,0.28,1.101,Yes
+189,CI Systems (Israel) Ltd.,CISY.TA,27.71,0.683,1.061,Yes
+190,Ashdod Refinery Ltd,ARF.TA,17.78,0.472,0.809,Yes
+191,Gilat Satellite Networks Ltd.,GILT.TA,19.62,0.525,1.596,Yes
+192,Kamada Ltd.,KMDA.TA,10.67,0.297,0.877,Yes
+193,Altshuler Shaham Finance Ltd,ALTF.TA,13.25,0.368,0.474,Yes
+194,IBI Silver Castle Ltd,IBIS.TA,65.69,1.523,1.807,Yes
+195,Kardan Real Estate Enterprise and Development Ltd,KARE.TA,14.09,0.398,1.509,Yes
+196,Africa Israel Residences Ltd,AFRE.TA,12.17,0.352,1.363,Yes
+197,Orian Sh.M. Ltd.,ORIN.TA,12.04,0.358,0.726,Yes
+198,Isras Investment Company Ltd,ISRS.TA,7.2,0.223,0.746,Yes
+199,Lesico Ltd,LSCO.TA,13.11,0.406,0.901,Yes
+200,"Ormat Technologies, Inc.",ORA.TA,9.25,0.298,0.524,Yes
+201,Zvi Sarfati & Sons Investments & Constructions Ltd.,SRFT.TA,8.39,0.273,0.915,Yes
+202,Elco Ltd.,ELCO.TA,10.14,0.33,1.25,Yes
+203,Aviation Links Ltd,AVIA.TA,12.57,0.406,1.004,Yes
+204,Carasso Real Estate Ltd,CRSR.TA,13.12,0.45,1.458,Yes
+205,Sella Capital Real Estate Ltd.,SLARL.TA,8.12,0.292,1.036,Yes
+206,Blender Financial Technologies,BLND.TA,11.29,0.408,0.517,Yes
+207,Naphtha Israel Petroleum Corp. Ltd.,NFTA.TA,7.4,0.273,0.949,Yes
+208,Ybox Real Estate Ltd.,YBOX.TA,12.29,0.447,0.697,Yes
+209,Idomoo Ltd.,IDMO.TA,16.41,0.623,1.456,Yes
+210,Israel Shipyards Industries Ltd,ISHI.TA,10.48,0.412,1.177,Yes
+211,Lewinsky-Ofer Ltd.,LEOF.TA,12.0,0.471,0.153,No
+212,Ashtrom Group Ltd.,ASHG.TA,8.91,0.359,1.613,Yes
+213,Mia Dynamics Motors Ltd,MIA.TA,21.61,0.843,1.269,Yes
+214,HomeBiogas Ltd,HMGS.TA,58.98,2.186,2.239,Yes
+215,Netanel Group Ltd,NTGR.TA,6.85,0.394,1.223,Yes
+216,Golden House Ltd,GOHO.TA,6.88,0.464,0.168,No
+217,Villar International Ltd.,VILR.TA,3.28,0.23,0.635,Yes
+218,Elron Ventures Ltd,ELRN.TA,8.76,0.605,1.556,Yes
+219,Netanel Menivim Ltd.,NTNB.TA,5.18,0.364,0.923,Yes
+220,Electreon Wireless Ltd,ELWS.TA,10.56,0.789,1.623,Yes
+221,A. Libental Holdings Ltd,LBTL.TA,4.73,0.362,1.157,Yes
+222,Hod Assaf Industries Ltd.,HOD.TA,3.34,0.266,0.511,Yes
+223,Summit Real Estate Holdings Ltd,SMT.TA,3.54,0.287,1.129,Yes
+224,Ram-On Investments and Holdings (1999) Ltd,RMN.TA,2.1,0.175,0.408,Yes
+225,Norstar Holdings Inc,NSTR.TA,6.14,0.511,1.269,Yes
+226,Imagesat International (I.S.I) Ltd,ISI.TA,4.85,0.42,1.176,Yes
+227,Medipower (Overseas) Public Co. Limited,MDPR.TA,2.49,0.256,0.622,Yes
+228,Matricelf Ltd,MTLF.TA,7.32,0.832,0.829,Yes
+229,Kerur Holdings Ltd.,KRUR.TA,1.55,0.239,0.531,Yes
+230,Electra Consumer Products (1970) Ltd,ECP.TA,2.93,0.455,2.032,Yes
+231,E.S. Australia Israel Holdings Ltd,AUIS.TA,2.51,0.395,0.715,Yes
+232,Universal Motors Israel Ltd,UNMI.TA,1.21,0.195,0.274,Yes
+233,Upsellon Brands Holdings Ltd,UPSL.TA,2.49,0.455,0.258,No
+234,Equital Ltd.,EQTL.TA,1.41,0.328,1.351,Yes
+235,Aspen Group Ltd.,ASGR.TA,1.23,0.311,1.257,Yes
+236,Plasson Industries Ltd,PLSN.TA,0.94,0.283,0.977,Yes
+237,Delek Automotive Systems Ltd,DLEA.TA,0.29,0.364,1.367,Yes
+238,Sufrin Holdings Ltd.,SFRN.TA,-0.19,0.398,1.384,Yes
+239,Israel Corporation Ltd,ILCO.TA,-0.16,0.305,0.855,Yes
+240,Supergas Power (2019) Ltd,SPGS.TA,-0.22,0.36,1.123,Yes
+241,Tefron Ltd.,TFRLF.TA,-1.0,0.494,1.118,Yes
+242,AudioCodes Ltd.,AUDC.TA,-1.19,0.394,0.805,Yes
+243,Tgi Infrastructures Ltd,TGI.TA,-1.27,0.299,0.687,Yes
+244,Photomyne Ltd,PHTM.TA,-1.48,0.32,0.393,Yes
+245,Epitomee Medical Ltd,EPIT.TA,-5.86,1.207,0.124,Yes
+246,"OPKO Health, Inc.",OPK.TA,-2.1,0.411,0.128,Yes
+247,Adgar Investments and Development Ltd,ADGR.TA,-1.39,0.267,0.988,Yes
+248,Israir Group Ltd,ISRG.TA,-2.03,0.285,0.543,Yes
+249,Ginegar Plastic Products Ltd.,GNGR.TA,-2.12,0.271,0.52,Yes
+250,Airport City Ltd.,ARPT.TA,-1.38,0.175,0.63,Yes
+251,Nissan Medical Industries Ltd,NISA.TA,-2.58,0.322,0.578,Yes
+252,ICL Group Ltd,ICL.TA,-2.49,0.308,0.559,Yes
+253,Ludan Engineering Co. Ltd,LUDN.TA,-4.19,0.436,0.832,Yes
+254,Emilia Development (O.F.G) Ltd.,EMDV.TA,-2.71,0.245,0.673,Yes
+255,BioLight Life Sciences Ltd.,BOLT.TA,-5.75,0.508,0.027,Yes
+256,Vitania Ltd.,VTNA.TA,-4.32,0.289,1.028,Yes
+257,"Taya Investment Co., Ltd.",TAYA.TA,-3.16,0.188,0.181,Yes
+258,Isracard Ltd.,ISCD.TA,-6.48,0.301,1.082,Yes
+259,Amiad Water Systems Ltd.,AMD.TA,-7.41,0.312,0.61,Yes
+260,Big Tech 50 R&D-Limited Partnership,BIGT.TA,-11.83,0.49,0.597,No
+261,Wilk Technologies Ltd,WILK.TA,-21.36,0.916,0.209,No
+262,Arbe Robotics Ltd.,ARBE.TA,-21.2,0.824,3.039,Yes
+263,"Unitronics (1989) (R""G) Ltd",UNIT.TA,-8.85,0.31,0.001,Yes
+264,ZOOZ Strategy Ltd.,ZOOZ.TA,-26.81,1.026,0.655,Yes
+265,Bubbles Intergroup Ltd,BBLS.TA,-15.49,0.477,0.405,Yes
+266,Rimoni Industries Ltd.,RIMO.TA,-9.72,0.289,1.099,Yes
+267,Scodix Ltd.,SCDX.TA,-16.6,0.487,1.354,Yes
+268,Pulsenmore Ltd.,PLSM.TA,-28.55,0.894,0.12,No
+269,N.R. Spuntech Industries Ltd.,SPNTC.TA,-11.79,0.326,0.636,Yes
+270,Storage Drop Storage Technologies Ltd,STRG.TA,-39.35,1.103,2.39,Yes
+271,Clal Biotechnology Industries Ltd.,CBI.TA,-16.57,0.397,0.46,Yes
+272,Water.Io Ltd,WATR.TA,-38.32,1.007,1.897,Yes
+273,NICE Ltd.,NICE.TA,-15.97,0.341,0.094,Yes
+274,Sugat Group Ltd,SUGT.TA,-11.59,0.23,0.589,Yes
+275,Energean plc,ENOG.TA,-15.2,0.284,0.814,Yes
+276,Millennium Food Tech Limited Partnership,MIFT.TA,-25.05,0.491,0.405,Yes
+277,Gencell Ltd,GNCL.TA,-37.49,0.769,1.767,Yes
+278,Rekah Pharmaceutical Industry Ltd.,REKA.TA,-13.82,0.244,0.387,Yes
+279,Carmel Corp Ltd.,CRML.TA,-13.73,0.239,0.599,Yes
+280,Urbanica (Palo) Retail Ltd,URBC.TA,-22.46,0.349,0.437,Yes
+281,Shure-Tech Investments - Limited Partnership,STEC.TA,-27.8,0.442,0.538,Yes
+282,Bio Meat Foodtech - Limited Partnership,BIMT.TA,-30.9,0.495,0.145,Yes
+283,Bio-View Ltd,BIOV.TA,-30.73,0.437,0.695,Yes
+284,Rustic Bakery Limited,RSTC.TA,-43.4,0.639,,
+285,Rotem Energy Mineral (REM) - Limited Partnership,RTEN.TA,-48.58,0.721,1.709,Yes
+286,Grace Breeding Ltd,GRAC.TA,-39.23,0.53,1.043,No
+287,Aura Smart Air Ltd,AUSA-M.TA,-28.37,0.354,0.089,Yes
+288,Sarine Technologies Ltd.,SARN.TA,-23.24,0.269,0.076,Yes
+289,Foresight Autonomous Holdings Ltd.,FRSX.TA,-62.75,0.966,0.488,Yes
+290,Retailors Ltd,RTLS.TA,-32.7,0.386,0.654,Yes
+291,Can-Fite BioPharma Ltd.,CANF.TA,-48.75,0.634,0.385,No
+292,Shoval Engineering and Construction Ltd,SHVL.TA,-23.79,0.261,0.542,Yes
+293,Tidhar Group Ltd.,TDHR.TA,-22.49,0.224,,
+294,Pluri Inc.,PLUR.TA,-40.95,0.413,0.206,Yes
+295,Evogene Ltd.,EVGN.TA,-52.54,0.54,1.17,Yes
+296,Skyline Investments Inc.,SKLN.TA,-53.37,0.346,0.229,Yes
+297,Bagira M. Holdings Ltd.,BGRA.TA,-67.26,0.313,,
+298,T&M Group Ltd,TANM.TA,-68.31,0.195,,
+299,BST GROUP E.A.W. LTD,BSTG.TA,-66.65,0.177,,
+300,Rafa Laboratories Ltd.,RAFA.TA,-5.03,,,
+301,Rapac Energy Ltd.,RPCE.TA,-9.66,,,
+302,Sola Renewable Energies Ltd,SOLA.TA,11.39,,,
+303,Delek Property Development Ltd,DLAS.TA,-46.74,,,

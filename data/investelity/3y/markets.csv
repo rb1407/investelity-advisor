@@ -1,0 +1,51 @@
+Rank,ISO Code,Country,Market Index Name,Market Index Ticker,Return (%),Risk
+1.0,tw,Taiwan,TWSE Capitalization Weighted Stock Index,^TWII,71.25,0.215
+2.0,sg,Singapore,STI Index,^STI,23.94,0.093
+3.0,ca,Canada,S&P/TSX Composite Index,^GSPTSE,25.11,0.104
+4.0,gr,Greece,ASE Composite Index,GD.AT,33.98,0.142
+5.0,es,Spain,IBEX 35,^IBEX,28.53,0.129
+6.0,il,Israel,TA-125,^TA125.TA,38.04,0.178
+7.0,us,United States,S&P 500,^GSPC,25.06,0.123
+8.0,it,Italy,FTSE MIB Index,FTSEMIB.MI,21.26,0.116
+9.0,at,Austria,Austrian Traded Index,^ATX,23.82,0.129
+10.0,be,Belgium,BEL 20,^BFX,17.82,0.103
+11.0,de,Germany,DAX P,^GDAXI,18.37,0.125
+12.0,nl,Netherlands,AEX-Index,^AEX,15.53,0.108
+13.0,pt,Portugal,PSI 20,PSI20.LS,14.86,0.106
+14.0,tr,Turkey,BIST 100,XU100.IS,38.79,0.253
+15.0,my,Malaysia,FTSE Bursa Malaysia KLCI,^KLSE,10.76,0.082
+16.0,ie,Ireland,ISEQ All Share Index,^ISEQ,20.39,0.152
+17.0,gb,United Kingdom,FTSE 100,^FTSE,12.05,0.097
+18.0,jp,Japan,Nikkei 225,^N225,31.35,0.234
+19.0,kr,South Korea,KOSPI Composite Index,^KS11,51.64,0.403
+20.0,ar,Argentina,MERVAL,^MERV,99.26,0.676
+21.0,br,Brazil,BOVESPA,^BVSP,15.74,0.147
+22.0,fi,Finland,OMX Helsinki 25,^OMXH25,13.48,0.135
+23.0,au,Australia,S&P/ASX 200,^AXJO,10.43,0.108
+24.0,se,Sweden,OMX Stockholm 30 Index,^OMX,11.63,0.135
+25.0,cn,China,SSE Composite Index,000001.SS,12.71,0.161
+26.0,mx,Mexico,IPC Mexico,^MXX,9.46,0.125
+27.0,ch,Switzerland,SMI,^SSMI,8.72,0.122
+28.0,nz,New Zealand,S&P/NZX 50,^NZ50,6.06,0.089
+29.0,fr,France,CAC 40,^FCHI,6.27,0.119
+30.0,in,India,S&P BSE SENSEX,^BSESN,4.56,0.115
+31.0,id,Indonesia,IDX Composite Index,^JKSE,-3.74,0.216
+,cz,Czechia,PX Index,FPXAA.PR,,
+,ve,Venezuela,Indice IBC,IBC.CR,,
+,za,South Africa,FTSE/JSE SA All Share Index,J203.L,,
+,cl,Chile,S&P/CLX IGPA,SPCLXIGPA.SN,,
+,pl,Poland,WIG Total Return Index,WIG.WA,,
+,ro,Romania,BET 10,^BET.RO,,
+,kw,Kuwait,Kuwait All-Share Index,^BKA.KW,,
+,hu,Hungary,Budapest Stock Index,^BUX.BD,,
+,eg,Egypt,EGX 30,^CASE30,,
+,qa,Qatar,QE Index,^GNRI.QA,,
+,hk,Hong Kong,Hang Seng Index,^HIS,,
+,dk,Denmark,OMX Copenhagen 20,^OMXC20,,
+,lv,Latvia,OMX Riga,^OMXR,,
+,ee,Estonia,OMX Tallinn,^OMXT,,
+,lt,Lithuania,OMX Vilnius,^OMXV,,
+,no,Norway,Oslo Bors All-Share Index,^OSEAX,,
+,th,Thailand,SET50 Index,^SET50.BK,,
+,sa,Saudi Arabia,Tadawul All Shares Index,^TASI.SR,,
+,is,Iceland,OMX Iceland All-Share Price Index,^XIPI,,

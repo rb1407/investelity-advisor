@@ -1,0 +1,697 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Ecomate Holdings Berhad,0239.KL,36.81,0.147,0.341,No
+2,Solar District Cooling Group Berhad,0321.KL,34.93,0.146,0.18,Yes
+3,IGB Berhad,5606.KL,30.7,0.143,0.611,Yes
+4,IGB Real Estate Investment Trust,5227.KL,25.76,0.124,0.324,Yes
+5,AMMB Holdings Berhad,1015.KL,32.54,0.154,0.642,Yes
+6,Innoprise Plantations Berhad,6262.KL,31.06,0.151,0.005,No
+7,RHB Bank Berhad,1066.KL,25.63,0.128,0.478,Yes
+8,Kumpulan Fima Berhad,6491.KL,23.58,0.12,0.009,Yes
+9,Telekom Malaysia Berhad,4863.KL,22.73,0.119,0.727,Yes
+10,Westports Holdings Berhad,5246.KL,38.24,0.198,0.491,Yes
+11,KLCC Property Holdings Berhad,5235SS.KL,14.47,0.083,0.202,Yes
+12,Kim Loong Resources Berhad,5027.KL,23.37,0.13,0.303,Yes
+13,OSK Holdings Berhad,5053.KL,47.86,0.248,1.0,Yes
+14,Kerjaya Prospek Group Berhad,7161.KL,44.2,0.243,0.125,Yes
+15,Hong Leong Industries Berhad,3301.KL,39.52,0.222,0.338,Yes
+16,TradePlus Shariah Gold ETF,0828EA.KL,29.64,0.178,0.109,Yes
+17,Teamstar Berhad,0393.KL,8.66,0.058,0.531,Yes
+18,Eq8 Dow Jones US Titans 50 ETF,0827EA.KL,26.76,0.167,0.418,Yes
+19,ITMAX System Berhad,5309.KL,39.29,0.237,0.903,Yes
+20,IGB Commercial Real Estate Investment Trust,5299.KL,16.53,0.109,0.425,Yes
+21,Chin Teck Plantations Berhad,1929.KL,17.67,0.118,0.195,No
+22,Negri Sembilan Oil Palms Berhad,2038.KL,25.88,0.169,0.247,No
+23,SD Guthrie Berhad,5285.KL,19.52,0.131,0.788,Yes
+24,United Malacca Berhad,2593.KL,8.87,0.064,0.077,No
+25,KPJ Healthcare Berhad,5878.KL,41.4,0.266,0.083,No
+26,Sunway Real Estate Investment Trust,5176.KL,20.88,0.15,0.365,Yes
+27,Sunway Berhad,5211.KL,46.79,0.314,1.1,Yes
+28,CIMB Group Holdings Berhad,1023.KL,22.03,0.165,1.326,Yes
+29,Alliance Bank Malaysia Berhad,2488.KL,20.82,0.158,0.417,Yes
+30,LPI Capital Bhd,8621.KL,14.3,0.112,0.021,No
+31,MBM Resources Berhad,5983.KL,26.31,0.201,0.718,Yes
+32,Gas Malaysia Berhad,5209.KL,28.61,0.219,0.031,Yes
+33,Oriental Interest Berhad,5827.KL,13.12,0.107,0.251,Yes
+34,Gamuda Berhad,5398.KL,35.48,0.278,0.769,Yes
+35,Fibromat (M) Berhad,0355.KL,42.69,0.326,0.465,No
+36,Unique Fire Holdings Berhad,0257.KL,35.68,0.283,0.081,Yes
+37,Solarvest Holdings Berhad,0215.KL,40.6,0.32,0.319,Yes
+38,Press Metal Aluminium Holdings Berhad,8869.KL,23.79,0.2,0.484,Yes
+39,Eurospan Holdings Berhad,7094.KL,45.73,0.359,0.827,No
+40,APM Automotive Holdings Berhad,5015.KL,23.93,0.204,0.316,Yes
+41,Pavilion Real Estate Investment Trust,5212.KL,20.0,0.175,0.591,Yes
+42,99 Speed Mart Retail Holdings Berhad,5326.KL,30.57,0.27,1.616,Yes
+43,Eco World Development Group Berhad,8206.KL,34.92,0.304,0.698,Yes
+44,FCW Holdings Berhad,2755.KL,23.12,0.212,0.348,No
+45,Allianz Malaysia Berhad,1163.KL,18.66,0.177,0.749,Yes
+46,Oriental Holdings Berhad,4006.KL,9.44,0.095,0.139,Yes
+47,Bursa Malaysia Berhad,1818.KL,14.65,0.146,0.826,Yes
+48,IHH Healthcare Berhad,5225.KL,15.1,0.15,0.357,Yes
+49,ABF Malaysia Bond Index,0800EA.KL,4.93,0.052,0.0,No
+50,Malaysia Smelting Corporation Berhad,5916.KL,31.31,0.303,0.622,Yes
+51,GDB Holdings Berhad,0198.KL,42.25,0.393,0.046,Yes
+52,Allianz Malaysia Berhad,1163PA.KL,17.01,0.177,0.647,Yes
+53,Gopeng Berhad,2135.KL,46.58,0.437,1.793,No
+54,PSP Energy Berhad,0383.KL,16.91,0.178,0.499,Yes
+55,Sorento Capital Berhad,0326.KL,50.87,0.476,2.762,Yes
+56,JAG Capital Berhad,6874.KL,29.13,0.294,0.99,Yes
+57,KIP Real Estate Investment Trust,5280.KL,7.4,0.082,0.164,Yes
+58,Farm Fresh Berhad,5306.KL,24.19,0.251,0.883,Yes
+59,JcbNext Berhad,0058.KL,8.13,0.091,0.295,Yes
+60,Malayan Cement Berhad,3794.KL,30.83,0.318,1.863,Yes
+61,FTSE Bursa Malaysia KLCI,^KLSE,7.37,0.085,1.0,Yes
+62,Binastra Corporation Berhad,7195.KL,33.25,0.349,0.089,Yes
+63,AME Real Estate Investment Trust,5307.KL,13.09,0.149,0.516,Yes
+64,Magna Prima Berhad,7617.KL,34.97,0.37,0.984,Yes
+65,TSA Group Berhad,0297.KL,13.15,0.154,0.085,Yes
+66,Versatile Creative Berhad,4995.KL,14.93,0.175,0.343,Yes
+67,Magnum Berhad,3859.KL,12.4,0.148,0.271,Yes
+68,Leong Hup International Berhad,6633.KL,19.45,0.23,0.851,Yes
+69,FM Global Logistics Holdings Berhad,7210.KL,8.35,0.103,0.064,Yes
+70,MISC Berhad,3816.KL,9.37,0.116,0.578,Yes
+71,Poh Kong Holdings Berhad,5080.KL,15.08,0.184,0.398,Yes
+72,Hap Seng Plantations Holdings Berhad,5138.KL,17.26,0.212,0.063,No
+73,BM GreenTech Berhad,0168.KL,33.32,0.391,0.894,No
+74,PTT Synergy Group Berhad,7010.KL,50.79,0.577,0.239,No
+75,Matrix Concepts Holdings Berhad,5236.KL,13.18,0.174,0.79,Yes
+76,HI Mobility Berhad,5335.KL,38.24,0.459,0.668,Yes
+77,Lim Seong Hai Capital Berhad,0351.KL,38.55,0.474,1.092,Yes
+78,PETRONAS Gas Berhad,6033.KL,6.0,0.085,0.508,Yes
+79,ES Sunlogy Berhad,0345.KL,41.45,0.515,0.902,Yes
+80,JAG Berhad,0024.KL,16.89,0.232,0.602,Yes
+81,Northern Solar Holdings Berhad,0340.KL,34.43,0.443,1.491,No
+82,IJM Corporation Berhad,3336.KL,26.64,0.353,1.189,Yes
+83,Maybulk Berhad,5077.KL,11.92,0.169,0.072,Yes
+84,Yew Lee Pacific Group Berhad,0248.KL,30.71,0.405,0.464,Yes
+85,Sunway Healthcare Holdings Berhad,5555.KL,17.83,0.249,1.235,Yes
+86,Far East Holdings Berhad,5029.KL,8.11,0.119,0.276,No
+87,Dutch Lady Milk Industries Berhad,3026.KL,16.99,0.241,0.148,No
+88,TSH Resources Berhad,9059.KL,17.54,0.252,0.066,No
+89,Oxford Innotech Berhad,0368.KL,34.32,0.466,0.26,No
+90,Ramssol Group Berhad,0236.KL,22.87,0.328,0.97,No
+91,YTL Corporation Berhad,4677.KL,35.75,0.496,2.614,Yes
+92,Manulife Holdings Berhad,1058.KL,12.68,0.195,0.123,No
+93,Eco-Shop Marketing Berhad,5337.KL,18.38,0.281,1.409,Yes
+94,Axis Real Estate Investment Trust,5106.KL,6.88,0.114,0.013,No
+95,Able Global Berhad,7167.KL,14.1,0.226,0.516,Yes
+96,Sealink International Berhad,5145.KL,35.35,0.551,1.452,Yes
+97,Oriental Kopi Holdings Berhad,0338.KL,25.67,0.42,3.23,Yes
+98,Lagenda Properties Berhad,7179.KL,13.7,0.241,0.242,Yes
+99,UOA Development Bhd,5200.KL,5.65,0.105,0.202,Yes
+100,SKB Shutters Corporation Berhad,7115.KL,22.03,0.384,0.988,Yes
+101,Guan Chong Berhad,5102.KL,35.55,0.589,1.526,No
+102,Genting Plantations Berhad,2291.KL,7.88,0.146,0.173,Yes
+103,Kim Hin Industry Berhad,5371.KL,39.36,0.667,0.021,Yes
+104,Shin Yang Group Berhad,5173.KL,11.71,0.221,0.52,Yes
+105,NationGate Holdings Berhad,0270.KL,34.41,0.603,1.621,Yes
+106,Infraharta Holdings Berhad,7240.KL,35.51,0.625,1.358,Yes
+107,Mulpha International Bhd,3905.KL,6.95,0.138,0.267,No
+108,Kinergy Advancement Berhad,0193.KL,8.0,0.164,0.192,Yes
+109,BLD Plantation Bhd.,5069.KL,15.03,0.303,0.071,Yes
+110,Polymer Link Holdings Berhad,0381.KL,23.75,0.468,0.675,Yes
+111,Prolintas Infra Business Trust,5320.KL,3.82,0.082,0.071,Yes
+112,Orgabio Holdings Berhad,0252.KL,15.67,0.321,0.087,No
+113,Harbour-Link Group Berhad,2062.KL,10.72,0.225,0.68,Yes
+114,PGF Capital Berhad,8117PA.KL,19.43,0.395,0.424,Yes
+115,CB Industrial Product Holding Berhad,7076.KL,12.64,0.269,1.128,Yes
+116,OCB Berhad,5533.KL,14.1,0.303,0.349,Yes
+117,Eq8 Dow Jones Islamic Market Malaysia Titans 25 ETF,0821EA.KL,8.51,0.187,0.411,Yes
+118,ViTrox Corporation Berhad,0097.KL,22.8,0.479,0.024,No
+119,Texchem Resources Bhd,8702.KL,14.16,0.317,1.036,Yes
+120,Ajiya Berhad,7609.KL,14.71,0.329,0.189,Yes
+121,AuMas Resources Berhad,0098.KL,23.45,0.51,0.321,No
+122,Zecon Berhad,7028.KL,8.54,0.201,0.336,Yes
+123,ICT Zone Asia Berhad,0358.KL,17.19,0.397,0.485,Yes
+124,Aemulus Holdings Berhad,0181.KL,27.46,0.618,0.077,Yes
+125,Kretam Holdings Berhad,1996.KL,8.97,0.217,0.651,No
+126,Pantech Global Berhad,5331.KL,10.07,0.246,1.239,No
+127,Teck Guan Perdana Berhad,7439.KL,7.45,0.185,0.128,Yes
+128,Seal Incorporated Berhad,4286.KL,12.01,0.294,0.142,Yes
+129,Engtex Group Berhad,5056.KL,13.45,0.328,1.536,Yes
+130,Pecca Group Berhad,5271.KL,9.56,0.244,0.092,Yes
+131,CSC Steel Holdings Berhad,5094.KL,7.56,0.198,0.62,Yes
+132,TH Plantations Berhad,5112.KL,11.04,0.289,0.288,Yes
+133,Sapura Industrial Berhad,7811.KL,4.03,0.109,0.361,No
+134,Kimlun Corporation Berhad,5171.KL,13.86,0.365,1.399,Yes
+135,Rimbunan Sawit Berhad,5113.KL,12.07,0.322,0.482,Yes
+136,AYER Holdings Berhad,2305.KL,5.33,0.151,0.475,Yes
+137,MUI Properties Berhad,3913.KL,16.9,0.459,1.03,Yes
+138,Greatech Technology Berhad,0208.KL,14.91,0.409,0.527,Yes
+139,RGT Berhad,9954.KL,50.62,1.227,1.874,Yes
+140,Velesto Energy Berhad,5243.KL,13.1,0.366,0.378,Yes
+141,Kuala Lumpur Kepong Berhad,2445.KL,5.12,0.149,0.404,Yes
+142,Ace Pacific Group Berhad,0074.KL,34.63,0.9,0.835,No
+143,FoundPac Group Berhad,5277.KL,12.42,0.354,0.64,Yes
+144,Bina Puri Holdings Bhd,5932.KL,17.04,0.481,0.956,No
+145,Rhone Ma Holdings Berhad,5278.KL,4.13,0.124,0.173,No
+146,Ralco Corporation Berhad,7498.KL,17.59,0.501,0.379,Yes
+147,UUE Holdings Berhad,0310.KL,14.79,0.433,1.169,Yes
+148,Tiong Nam Logistics Holdings Berhad,8397.KL,4.62,0.142,0.141,Yes
+149,Eastern & Oriental Berhad,3417.KL,13.91,0.427,1.006,Yes
+150,PUC Berhad,0007.KL,26.89,0.785,0.537,No
+151,7-Eleven Malaysia Holdings Berhad,5250.KL,1.46,0.047,0.015,No
+152,Fima Corporation Berhad,3107.KL,2.81,0.092,0.044,Yes
+153,Velocity Capital Partner Berhad,7165.KL,17.49,0.556,1.061,No
+154,Focus Dynamics Group Berhad,0116.KL,49.03,1.403,1.474,Yes
+155,Metronic Global Berhad,0043.KL,44.17,1.287,4.173,No
+156,Three-A Resources Berhad,0012.KL,4.24,0.144,0.364,Yes
+157,Asia Poly Holdings Berhad,0105.KL,18.29,0.597,0.107,No
+158,3REN Berhad,0328.KL,14.95,0.496,0.584,Yes
+159,Visdynamics Holdings Berhad,0120.KL,14.59,0.491,1.715,Yes
+160,Golden Land Berhad,7382.KL,9.23,0.318,0.144,No
+161,QES Group Berhad,0196.KL,11.62,0.399,0.581,Yes
+162,Dagang NeXchange Berhad,4456.KL,11.83,0.406,0.077,No
+163,S P Setia Berhad,8664PC.KL,14.31,0.496,0.523,No
+164,Bintulu Port Holdings Berhad,5032.KL,5.19,0.188,0.518,Yes
+165,Glostrext Berhad,0284.KL,6.85,0.249,0.353,Yes
+166,Seni Jaya Corporation Berhad,9431.KL,13.39,0.475,1.128,Yes
+167,Protasco Berhad,5070.KL,12.87,0.459,1.108,Yes
+168,UMS Holdings Berhad,7137.KL,3.72,0.138,0.218,Yes
+169,AppAsia Berhad,0119.KL,11.31,0.407,1.224,No
+170,ECM Libra Group Berhad,2143.KL,10.35,0.374,0.364,No
+171,Marine & General Berhad,5078.KL,12.86,0.467,0.806,No
+172,P.A. Resources Berhad,7225.KL,11.65,0.425,0.886,Yes
+173,Hextar Global Berhad,5151.KL,5.48,0.207,0.214,Yes
+174,Gagasan Nadi Cergas Berhad,0206.KL,6.31,0.238,0.088,No
+175,Sunzen Group Berhad,0148.KL,6.89,0.266,0.191,No
+176,Atrium Real Estate Investment Trust,5130.KL,2.36,0.094,0.142,No
+177,QL Resources Berhad,7084.KL,4.03,0.16,0.492,Yes
+178,Scientex Berhad,4731.KL,4.84,0.193,0.642,Yes
+179,Sports Toto Berhad,1562.KL,4.37,0.175,0.364,Yes
+180,EITA Resources Berhad,5208.KL,7.6,0.305,0.514,No
+181,SAM Engineering & Equipment (M) Berhad,9822.KL,11.28,0.449,0.332,No
+182,AIZO Group Berhad,7219.KL,32.04,1.18,0.141,Yes
+183,Infomina Berhad,0265.KL,11.45,0.468,0.502,Yes
+184,Fibon Berhad,0149.KL,5.19,0.221,0.053,No
+185,Samchem Holdings Berhad,5147.KL,7.91,0.335,0.596,No
+186,AFFIN Bank Berhad,5185.KL,6.11,0.275,1.402,Yes
+187,Pentamaster Corporation Berhad,7160.KL,9.69,0.432,0.288,Yes
+188,Amway (Malaysia) Holdings Berhad,6351.KL,3.98,0.183,1.012,Yes
+189,Epicon Berhad,4847.KL,14.83,0.654,0.314,Yes
+190,Atlan Holdings Bhd,7048.KL,3.34,0.155,0.342,No
+191,Oversea Enterprise Berhad,0153.KL,23.42,1.005,2.199,Yes
+192,Luxchem Corporation Berhad,5143.KL,4.08,0.193,0.29,Yes
+193,Seng Fong Holdings Berhad,5308.KL,6.61,0.317,0.14,No
+194,MMAG Holdings Berhad,0034.KL,20.74,0.949,1.511,No
+195,Aurelius Technologies Berhad,5302.KL,6.93,0.359,0.308,Yes
+196,Tien Wah Press Holdings Berhad,7374.KL,2.6,0.138,0.165,Yes
+197,mTouche Technology Berhad,0092.KL,23.77,1.157,4.002,Yes
+198,PETRONAS Dagangan Berhad,5681.KL,4.53,0.246,0.884,Yes
+199,AWC Berhad,7579.KL,10.35,0.555,1.698,Yes
+200,Mr D.I.Y. Group (M) Berhad,5296.KL,5.88,0.322,1.077,Yes
+201,Maxis Berhad,6012.KL,3.11,0.175,0.817,Yes
+202,Inari Amertron Berhad,0166.KL,8.77,0.483,0.117,Yes
+203,Tong Herr Resources Berhad,5010.KL,6.84,0.381,0.293,No
+204,China Ouhua Winery Holdings Limited,5188.KL,9.03,0.501,0.611,Yes
+205,Nova Technology Services Berhad,0017.KL,21.05,1.161,0.242,No
+206,Edelteq Holdings Berhad,0278.KL,9.17,0.537,0.942,Yes
+207,XiDeLang Holdings Ltd,5156.KL,16.57,0.949,0.489,Yes
+208,Magni-Tech Industries Berhad,7087.KL,2.87,0.174,0.157,Yes
+209,S P Setia Berhad,8664.KL,10.29,0.615,0.212,No
+210,AbleGroup Berhad,7086.KL,7.03,0.427,1.372,Yes
+211,Grand Central Enterprises Bhd.,5592.KL,7.39,0.455,1.213,Yes
+212,HCK Capital Group Berhad,7105.KL,0.65,0.042,0.141,No
+213,Aeon Co. (M) Bhd.,6599.KL,3.91,0.252,1.198,Yes
+214,Sedania Innovator Berhad,0178.KL,15.57,0.968,0.478,No
+215,Ocean Vantage Holdings Berhad,0220.KL,6.98,0.457,0.546,No
+216,SEG International Bhd,9792.KL,0.95,0.065,0.17,No
+217,Cosmos Technology International Berhad,0261.KL,5.26,0.368,1.124,Yes
+218,Brite-Tech Berhad,0011.KL,2.12,0.155,0.144,Yes
+219,Autocount Dotcom Berhad,0276.KL,5.34,0.388,1.246,No
+220,SDS Group Berhad,0212.KL,4.76,0.35,1.771,Yes
+221,Kia Lim Berhad,6211.KL,5.09,0.41,1.125,Yes
+222,SCGM Bhd,7247.KL,2.7,0.221,0.012,Yes
+223,Focus Point Holdings Berhad,0157.KL,2.01,0.165,0.336,No
+224,New Hoong Fatt Holdings Berhad,7060.KL,2.52,0.21,0.316,Yes
+225,Go Hub Capital Berhad,0311.KL,6.4,0.527,0.631,Yes
+226,Oppstar Berhad,0275.KL,11.5,0.94,1.452,No
+227,Cahya Mata Sarawak Berhad,2852.KL,4.51,0.386,0.405,Yes
+228,Kossan Rubber Industries Bhd,7153.KL,4.58,0.397,0.055,No
+229,FSBM Holdings Berhad,9377.KL,6.41,0.554,0.46,No
+230,Steel Hawk Berhad,0320.KL,11.96,1.038,3.72,No
+231,Dialog Group Berhad,7277.KL,3.14,0.287,0.127,No
+232,ASTEEL Group Berhad,7020.KL,3.82,0.354,0.37,Yes
+233,PNE PCB Berhad,6637.KL,7.18,0.698,0.315,No
+234,Vizione Holdings Berhad,7070.KL,10.58,1.037,2.233,Yes
+235,ES Ceramics Technology Berhad,0100.KL,3.74,0.383,0.702,Yes
+236,IFCA MSC Berhad,0023.KL,5.52,0.568,1.65,Yes
+237,Xin Synergy Group Berhad,7043.KL,1.8,0.195,0.176,Yes
+238,Reservoir Link Energy Bhd,0219.KL,2.77,0.313,0.958,No
+239,Foodie Media Berhad,0382.KL,4.31,0.528,3.78,Yes
+240,RCE Capital Berhad,9296.KL,1.77,0.221,0.548,Yes
+241,Evd Berhad,0174PA.KL,12.0,1.44,3.859,No
+242,Formosa Prosonic Industries Berhad,9172.KL,3.24,0.408,1.105,Yes
+243,Progressive Impact Corporation Berhad,7201.KL,3.72,0.472,0.667,No
+244,Pineapple Resources Berhad,0006.KL,1.78,0.236,0.565,Yes
+245,AmanahRaya Real Estate Investment Trust,5127.KL,1.69,0.245,0.036,No
+246,Oriental Food Industries Holdings Berhad,7107.KL,1.66,0.248,0.181,Yes
+247,Majuperak Holdings Berhad,8141.KL,5.96,0.877,0.377,Yes
+248,G3 Global Berhad,7184.KL,5.57,0.851,0.224,Yes
+249,Chemlite Innovation Berhad,0348.KL,3.78,0.588,0.482,Yes
+250,Khee San Berhad,6203.KL,3.87,0.63,0.882,Yes
+251,Mesiniaga Berhad,5011.KL,1.27,0.21,0.644,Yes
+252,TechStore Berhad,0343.KL,2.84,0.471,1.655,Yes
+253,Petra Energy Berhad,5133.KL,2.13,0.359,0.015,No
+254,Scanwolf Corporation Berhad,7239.KL,1.7,0.291,0.042,No
+255,Axteria Group Berhad,7120.KL,3.38,0.608,2.481,Yes
+256,Euro Holdings Berhad,7208.KL,2.6,0.469,1.802,Yes
+257,Wentel Engineering Holdings Berhad,0298.KL,1.16,0.226,0.031,No
+258,OB Holdings Berhad,0327.KL,1.45,0.352,2.098,Yes
+259,Thong Guan Industries Berhad,7034.KL,0.72,0.244,0.902,Yes
+260,Kawan Renergy Berhad,0307.KL,2.04,0.691,0.4,No
+261,"Riverview Rubber Estates, Berhad",2542.KL,0.32,0.124,0.372,Yes
+262,P.I.E. Industrial Berhad,7095.KL,1.66,0.671,1.851,Yes
+263,PETRONAS Chemicals Group Berhad,5183.KL,1.65,0.718,0.745,Yes
+264,Coastal Contracts Bhd,5071.KL,0.68,0.304,0.704,Yes
+265,Harn Len Corporation Bhd,7501.KL,0.79,0.449,0.929,No
+266,OSK Ventures International Berhad,0053.KL,0.37,0.249,0.462,No
+267,Quality Concrete Holdings Berhad,7544.KL,0.46,0.325,0.144,No
+268,Keyfield International Berhad,5321.KL,0.5,0.361,0.098,No
+269,HPP Holdings Berhad,0228.KL,0.49,0.382,0.048,Yes
+270,Mentiga Corporation Berhad,5223.KL,0.38,0.322,0.384,No
+271,MYMBN Berhad,0280.KL,0.55,0.523,0.864,Yes
+272,Paos Holdings Berhad,5022.KL,0.27,0.316,0.441,No
+273,Uchi Technologies Berhad,7100.KL,0.14,0.169,0.597,Yes
+274,RGB International Bhd.,0037.KL,0.25,0.339,1.018,Yes
+275,Cloudpoint Technology Berhad,0277.KL,0.19,0.362,0.425,Yes
+276,UEM Sunrise Berhad,5148.KL,0.18,0.476,1.634,Yes
+277,Karex Berhad,5247.KL,0.02,0.264,0.15,Yes
+278,Capital A Berhad,5099.KL,0.0,0.745,2.306,Yes
+279,Lay Hong Berhad,9385.KL,-0.04,0.261,1.282,Yes
+280,EWI Capital Berhad,5283.KL,-0.18,0.382,0.984,No
+281,Tuju Setia Berhad,5297.KL,-0.16,0.333,0.694,Yes
+282,Digistar Corporation Berhad,0029.KL,-0.36,0.619,0.619,Yes
+283,Evergreen Max Cash Capital Berhad,0286.KL,-0.22,0.287,0.662,Yes
+284,Astral Asia Berhad,7054.KL,-0.33,0.412,0.309,No
+285,PMCK Berhad,0363.KL,-0.29,0.354,1.726,Yes
+286,Eonmetall Group Berhad,7217.KL,-0.24,0.296,0.102,No
+287,Hektar Real Estate Investment Trust,5121.KL,-0.21,0.17,0.294,Yes
+288,Paragon Union Berhad,9407.KL,-0.62,0.463,0.922,Yes
+289,Varia Berhad,5006.KL,-0.41,0.24,0.315,Yes
+290,CAB Cakaran Corporation Berhad,7174.KL,-0.56,0.309,0.047,Yes
+291,Parlo Berhad,0022.KL,-2.13,1.123,0.993,Yes
+292,Kenanga Investment Bank Berhad,6483.KL,-0.42,0.202,0.252,Yes
+293,HSS Engineers Berhad,0185.KL,-1.34,0.503,1.633,Yes
+294,JF Technology Berhad,0146.KL,-1.61,0.577,0.711,Yes
+295,TPC Plus Berhad,7176.KL,-0.78,0.273,0.175,No
+296,Hibiscus Petroleum Berhad,5199.KL,-1.11,0.366,0.351,No
+297,Southern Steel Berhad,5665.KL,-1.22,0.392,0.296,Yes
+298,KKB Engineering Berhad,9466.KL,-0.88,0.278,0.54,Yes
+299,Metrod Holdings Berhad,6149.KL,-0.57,0.178,0.388,No
+300,Pasdec Holdings Berhad,6912.KL,-0.45,0.133,0.014,No
+301,TSR Capital Berhad,5042.KL,-1.13,0.332,0.352,Yes
+302,Southern Acids (M) Berhad,5134.KL,-0.5,0.138,0.321,Yes
+303,XOX Berhad,0165.KL,-2.89,0.804,0.81,No
+304,Express Powerr Solutions (M) Bhd,0370.KL,-1.69,0.375,0.106,No
+305,SMTrack Berhad,0169.KL,-5.11,1.116,1.713,Yes
+306,Amlex Holdings Berhad,03011.KL,-3.83,0.828,3.17,Yes
+307,Green Packet Berhad,0082.KL,-3.31,0.694,1.131,Yes
+308,Greentronics Technology Berhad,7943.KL,-2.88,0.577,1.237,Yes
+309,Flexidynamic Holdings Berhad,0231.KL,-2.05,0.409,0.147,Yes
+310,Pantech Group Holdings Berhad,5125.KL,-0.94,0.183,0.817,Yes
+311,FITTERS Diversified Berhad,9318.KL,-2.34,0.451,1.24,Yes
+312,Kumpulan Perangsang Selangor Berhad,5843.KL,-0.94,0.18,0.189,Yes
+313,Malaysian Genomics Resource Centre Berhad,0155.KL,-1.96,0.365,1.343,Yes
+314,Sasbadi Holdings Berhad,5252.KL,-1.19,0.214,0.522,Yes
+315,Willowglen MSC Berhad,0008.KL,-0.94,0.168,0.36,Yes
+316,Glomac Berhad,5020.KL,-0.9,0.155,0.102,Yes
+317,Joe Holding Berhad,7096.KL,-4.23,0.718,2.043,Yes
+318,B.I.G. Industries Berhad,7005.KL,-1.55,0.247,0.236,Yes
+319,White Horse Berhad,5009.KL,-1.56,0.243,0.266,No
+320,LBS Bina Group Berhad,5789.KL,-1.65,0.252,0.664,Yes
+321,Fintec Global Berhad,0150.KL,-6.89,1.02,0.234,No
+322,Uoa Real Estate Investment,5110.KL,-0.99,0.134,0.293,Yes
+323,Axiata Group Berhad,6888.KL,-2.33,0.312,1.32,Yes
+324,Hengyuan Refining Company Berhad,4324.KL,-4.21,0.561,0.098,Yes
+325,Nestlé (Malaysia) Berhad,4707.KL,-2.19,0.283,1.629,Yes
+326,Alpha IVF Group Berhad,0303.KL,-1.87,0.234,0.535,Yes
+327,LTKM Berhad,7085.KL,-1.93,0.233,0.601,Yes
+328,Unitrade Industries Berhad,0247.KL,-2.47,0.288,0.058,No
+329,Ecobuilt Holdings Berhad,0059.KL,-5.96,0.704,1.852,No
+330,Malaysian Resources Corporation Berhad,1651.KL,-3.79,0.442,0.763,Yes
+331,SFP Tech Holdings Berhad,0251.KL,-6.98,0.825,0.637,No
+332,Permaju Industries Berhad,7080.KL,-7.74,0.906,0.909,No
+333,Suria Capital Holdings Berhad,6521.KL,-2.28,0.257,0.718,No
+334,JHM Consolidation Berhad,0127.KL,-4.45,0.5,0.865,Yes
+335,DRB-HICOM Berhad,1619.KL,-3.55,0.396,0.841,Yes
+336,Eversafe Rubber Berhad,0190.KL,-4.77,0.528,0.274,Yes
+337,MMS Ventures Berhad,0113.KL,-4.98,0.524,1.782,Yes
+338,Bioalpha Holdings Berhad,0179.KL,-11.06,1.198,2.618,Yes
+339,Sycal Ventures Berhad,9717.KL,-2.55,0.254,0.391,Yes
+340,Tek Seng Holdings Berhad,7200.KL,-1.89,0.185,0.0,No
+341,Alcom Group Berhad,2674.KL,-2.44,0.234,0.0,Yes
+342,Synergy House Berhad,0279.KL,-7.06,0.69,2.017,Yes
+343,AE Multi Holdings Berhad,7146.KL,-6.23,0.601,2.255,Yes
+344,Bright Packaging Industry Berhad,9938.KL,-2.98,0.279,0.703,Yes
+345,Ta Win Holdings Berhad,7097.KL,-8.81,0.841,0.654,No
+346,Mega First Corporation Berhad,3069.KL,-2.18,0.2,0.802,Yes
+347,Signature Alliance Group Berhad,0360.KL,-3.29,0.293,0.476,No
+348,Uzma Berhad,7250.KL,-5.57,0.498,1.697,Yes
+349,NEXG Berhad,5216.KL,-5.75,0.497,0.048,Yes
+350,Dancomech Holdings Berhad,5276.KL,-1.32,0.111,0.248,Yes
+351,Selangor Dredging Berhad,2224.KL,-2.32,0.194,0.271,Yes
+352,YBS International Berhad,0025.KL,-7.03,0.585,0.652,No
+353,DutaLand Berhad,3948.KL,-1.74,0.139,0.252,Yes
+354,Pappajack Berhad,0242.KL,-0.96,0.076,0.15,Yes
+355,Farm Price Holdings Berhad,0304.KL,-5.21,0.402,0.121,Yes
+356,Rhong Khen International Berhad,7006.KL,-2.3,0.171,0.314,Yes
+357,Symphony Life Berhad,1538.KL,-8.16,0.622,0.723,No
+358,Benalec Holdings Berhad,5190.KL,-5.65,0.423,0.527,No
+359,SCC Holdings Berhad,0158.KL,-4.83,0.348,0.067,Yes
+360,Nexg Bina Berhad,7154.KL,-9.45,0.692,0.449,Yes
+361,Mynews Holdings Berhad,5275.KL,-3.7,0.256,0.292,Yes
+362,Econpile Holdings Berhad,5253.KL,-8.65,0.611,0.873,Yes
+363,Borneo Oil Berhad,7036.KL,-10.85,0.753,0.204,No
+364,JAKS Resources Berhad,4723.KL,-6.71,0.455,0.802,Yes
+365,Rohas Tecnic Berhad,9741.KL,-5.83,0.39,0.183,Yes
+366,Mieco Berhad,5001.KL,-0.89,0.057,0.03,No
+367,Citra Nusa Holdings Berhad,5104.KL,-4.18,0.263,0.832,Yes
+368,Tan Chong Motor Holdings Berhad,4405.KL,-9.61,0.62,0.5,Yes
+369,Homeritz Corporation Berhad,5160.KL,-2.62,0.159,0.029,No
+370,OpenMove AI Berhad,0106.KL,-5.81,0.357,0.118,Yes
+371,Trive Property Group Berhad,0118.KL,-13.52,0.864,2.318,Yes
+372,Securemetric Berhad,0203.KL,-6.19,0.369,0.727,Yes
+373,Astino Berhad,7162.KL,-2.68,0.152,0.196,No
+374,Johan Holdings Berhad,3441.KL,-9.43,0.52,0.155,No
+375,TMC Life Sciences Berhad,0101.KL,-5.04,0.262,1.075,Yes
+376,Minho (M) Berhad,5576.KL,-2.55,0.129,0.283,Yes
+377,Watta Holding Berhad,7226.KL,-8.51,0.443,0.587,No
+378,Thriven Global Berhad,7889.KL,-7.86,0.407,1.186,No
+379,OKA Corporation Bhd,7140.KL,-2.88,0.145,0.554,Yes
+380,Pensonic Holdings Berhad,9997.KL,-7.63,0.389,0.511,Yes
+381,iCapital.biz Berhad,5108.KL,-3.09,0.154,0.229,Yes
+382,Privasia Technology Berhad,0123.KL,-6.36,0.317,0.062,Yes
+383,Maxim Global Berhad,4022.KL,-5.35,0.264,0.118,No
+384,Olympia Industries Berhad,3018.KL,-4.57,0.224,0.315,Yes
+385,GDEX Berhad,0078.KL,-6.22,0.296,0.199,Yes
+386,KESM Industries Berhad,9334.KL,-9.38,0.452,0.883,Yes
+387,Matang Berhad,0189.KL,-2.96,0.138,0.213,Yes
+388,CAM Resources Berhad,7128.KL,-6.53,0.304,0.294,No
+389,C.I. Holdings Berhad,2828.KL,-2.47,0.112,0.546,Yes
+390,Hwa Tai Industries Berhad,8478.KL,-5.33,0.244,0.386,No
+391,Federal International Holdings Berhad,8605.KL,-10.51,0.489,0.706,Yes
+392,Shangri-La Hotels (Malaysia) Berhad,5517.KL,-4.38,0.198,0.484,Yes
+393,Hartalega Holdings Berhad,5168.KL,-10.49,0.482,0.263,No
+394,Optimax Holdings Berhad,0222.KL,-4.7,0.21,0.374,Yes
+395,Scope Industries Berhad,0028.KL,-9.35,0.419,0.433,No
+396,MyTech Group Berhad,7692.KL,-7.1,0.314,0.424,Yes
+397,BP Plastics Holding Bhd.,5100.KL,-6.8,0.295,0.783,Yes
+398,PMB Technology Berhad,7172.KL,-10.09,0.442,0.978,Yes
+399,Well Chip Group Berhad,5325.KL,-8.17,0.353,1.098,Yes
+400,SBH Marine Holdings Berhad,0300.KL,-8.62,0.372,0.675,Yes
+401,Ho Hup Construction Company Berhad,5169.KL,-20.81,0.956,1.114,No
+402,Parkson Holdings Berhad,5657.KL,-8.99,0.382,0.127,Yes
+403,Aimflex Berhad,0209.KL,-10.22,0.435,1.634,Yes
+404,Subur Tiasa Holdings Berhad,6904.KL,-4.68,0.192,0.52,Yes
+405,Sin Heng Chan (Malaya) Berhad,4316.KL,-6.36,0.256,0.074,No
+406,TRC Synergy Berhad,5054.KL,-6.54,0.257,0.727,Yes
+407,Cypark Resources Berhad,5184.KL,-7.16,0.282,0.638,No
+408,Komarkcorp Berhad,7017.KL,-16.72,0.687,1.394,Yes
+409,Salutica Berhad,0183.KL,-20.68,0.863,1.626,Yes
+410,Xin Hwa Holdings Berhad,5267.KL,-7.78,0.303,0.361,No
+411,CME Group Berhad,7018.KL,-21.59,0.899,1.65,Yes
+412,PT Resources Holdings Berhad,0260.KL,-10.47,0.402,0.528,No
+413,Vinvest Capital Holdings Berhad,0069.KL,-21.12,0.846,2.151,No
+414,Iconic Worldwide Berhad,9113.KL,-10.63,0.402,0.357,No
+415,S & F Capital Berhad,8745.KL,-8.97,0.332,1.487,Yes
+416,UPA Corporation Berhad,7757.KL,-2.46,0.088,0.11,No
+417,SkyWorld Development Berhad,5315.KL,-7.21,0.263,0.091,No
+418,Prestar Resources Berhad,9873.KL,-5.62,0.203,0.04,Yes
+419,British American Tobacco (Malaysia) Berhad,4162.KL,-9.47,0.347,0.185,Yes
+420,Titijaya Land Berhad,5239.KL,-5.69,0.201,0.127,No
+421,Seremban Engineering Berhad,5163.KL,-7.3,0.26,0.103,Yes
+422,Efficient E-Solutions Berhad,0064.KL,-12.16,0.437,0.404,Yes
+423,Supermax Corporation Berhad,7106.KL,-13.88,0.501,0.794,Yes
+424,Wellcall Holdings Berhad,7231.KL,-3.9,0.134,0.267,Yes
+425,Teo Guan Lee Corporation Berhad,9369.KL,-6.27,0.215,0.24,Yes
+426,Midtown Group Berhad,0177.KL,-13.84,0.487,0.288,Yes
+427,Genting Malaysia Berhad,4715.KL,-6.59,0.223,0.289,Yes
+428,SMRT Holdings Berhad,0117.KL,-17.55,0.623,0.11,No
+429,Sapura Resources Berhad,4596.KL,-12.61,0.435,0.655,No
+430,Ancom Logistics Berhad,0048.KL,-11.24,0.385,0.393,Yes
+431,SMIS Corporation Berhad,7132.KL,-8.31,0.277,1.26,Yes
+432,Star Media Group Berhad,6084.KL,-5.19,0.17,0.202,Yes
+433,Rekatech Capital Berhad,0081.KL,-13.03,0.442,1.127,Yes
+434,Aldrich Resources Berhad,0079.KL,-14.18,0.482,0.008,No
+435,MGB Berhad,7595.KL,-8.43,0.276,0.717,Yes
+436,Pos Malaysia Berhad,4634.KL,-13.41,0.438,1.847,No
+437,ASM Automation Group Berhad,0362.KL,-10.32,0.332,1.494,Yes
+438,Petron Malaysia Refining & Marketing Bhd,3042.KL,-5.31,0.166,0.441,Yes
+439,YX Precious Metals Bhd,0250.KL,-5.32,0.164,0.122,Yes
+440,HB Global Limited,5187.KL,-18.98,0.624,0.14,Yes
+441,DKLS Industries Berhad,7528.KL,-8.77,0.269,0.253,Yes
+442,Dataprep Holdings Bhd,8338.KL,-16.3,0.517,0.084,No
+443,Harrisons Holdings (Malaysia) Berhad,5008.KL,-4.5,0.133,0.009,Yes
+444,Ahmad Zaki Resources Berhad,7078.KL,-14.53,0.443,0.162,Yes
+445,PLYTEC Holding Berhad,0289.KL,-11.76,0.352,0.935,No
+446,Sersol Berhad,0055.KL,-23.92,0.755,2.657,Yes
+447,AHB Holdings Berhad,7315.KL,-19.88,0.613,1.431,Yes
+448,Kumpulan Jetson Berhad,9083.KL,-18.18,0.553,0.227,Yes
+449,Kein Hing International Berhad,7199.KL,-7.32,0.205,0.301,Yes
+450,Spring Art Holdings Berhad,0216.KL,-10.96,0.312,0.732,No
+451,Taghill Holdings Berhad,0241.KL,-12.68,0.361,0.54,Yes
+452,Bumi Armada Berhad,5210.KL,-10.66,0.3,0.147,Yes
+453,Hextar Industries Berhad,0161.KL,-9.13,0.253,0.595,No
+454,VETECE Holdings Berhad,0319.KL,-15.03,0.427,1.655,Yes
+455,Agmo Holdings Berhad,0258.KL,-13.7,0.383,0.077,Yes
+456,Muhibbah Engineering (M) Bhd.,5703.KL,-8.62,0.233,0.258,Yes
+457,Bina Darulaman Berhad,6173.KL,-11.57,0.31,0.231,No
+458,PCCS Group Berhad,6068.KL,-9.01,0.238,0.252,No
+459,T7 Global Berhad,7228.KL,-12.49,0.336,0.224,No
+460,Malaysia Marine and Heavy Engineering Holdings Berhad,5186.KL,-8.98,0.236,0.378,Yes
+461,Ornapaper Berhad,5065.KL,-6.19,0.16,0.736,Yes
+462,TT Vision Holdings Berhad,0272.KL,-24.62,0.698,0.521,No
+463,Daythree Digital Berhad,0281.KL,-14.05,0.375,0.265,Yes
+464,George Kent (Malaysia) Berhad,3204.KL,-11.4,0.296,0.079,Yes
+465,Esthetics International Group Berhad,5081.KL,-11.74,0.305,0.011,Yes
+466,Mercury Industries Berhad,8192.KL,-10.66,0.273,1.121,No
+467,Swift Haulage Berhad,5303.KL,-7.88,0.199,1.143,Yes
+468,EP Manufacturing Bhd,7773.KL,-13.47,0.343,1.314,Yes
+469,Supreme Consolidated Resources Berhad,0330.KL,-18.96,0.497,0.402,Yes
+470,WTS Capital Berhad,0050.KL,-19.26,0.505,0.97,Yes
+471,Lotus Circular Berhad,7234.KL,-13.55,0.344,0.147,No
+472,Muda Holdings Berhad,3883.KL,-12.2,0.307,0.179,Yes
+473,Genetec Technology Berhad,0104.KL,-28.78,0.793,1.141,No
+474,Mayu Global Group Berhad,7099.KL,-17.22,0.444,0.132,Yes
+475,A-Rank Berhad,7214.KL,-6.63,0.16,0.179,No
+476,Saliran Group Berhad,0346.KL,-11.42,0.281,1.336,Yes
+477,N2N Connect Berhad,0108.KL,-7.19,0.171,0.183,Yes
+478,Carlo Rino Group Berhad,0335.KL,-15.36,0.378,0.151,Yes
+479,CYL Corporation Berhad,7157.KL,-11.47,0.277,0.048,No
+480,Harvest Miracle Capital Berhad,0060.KL,-16.25,0.397,1.242,No
+481,Media Prima Berhad,4502.KL,-9.08,0.214,0.239,Yes
+482,Eng Kah Corporation Berhad,7149.KL,-16.6,0.404,0.541,Yes
+483,Encorp Berhad,6076.KL,-15.2,0.367,0.82,Yes
+484,Technodex Bhd,0132.KL,-15.5,0.373,0.582,No
+485,Hua Yang Berhad,5062.KL,-13.21,0.313,0.166,Yes
+486,Hil Industries Berhad,8443.KL,-9.08,0.209,0.022,No
+487,Avaland Berhad,5182.KL,-10.94,0.253,0.742,Yes
+488,Hap Seng Consolidated Berhad,3034.KL,-8.12,0.183,0.765,Yes
+489,REDtone Digital Berhad,0032.KL,-15.08,0.346,1.179,Yes
+490,Minox International Group Berhad,0288.KL,-13.36,0.3,0.121,No
+491,Elsoft Research Berhad,0090.KL,-14.56,0.328,0.892,Yes
+492,PPB Group Berhad,4065.KL,-9.44,0.206,0.447,Yes
+493,Fast Energy Holdings Berhad,0084.KL,-22.87,0.534,1.475,No
+494,MAG Holdings Berhad,0095.KL,-6.39,0.136,0.118,No
+495,YB Ventures Berhad,5048.KL,-28.92,0.693,0.639,No
+496,DXN Holdings Bhd.,5318.KL,-5.92,0.125,0.4,Yes
+497,Tri-Mode System (M) Berhad,0199.KL,-15.49,0.341,0.798,Yes
+498,M & A Equity Holdings Berhad,7082.KL,-15.45,0.34,0.349,No
+499,LGMS Berhad,0249.KL,-17.02,0.374,0.855,Yes
+500,KYM Holdings Bhd,8362.KL,-14.34,0.309,0.858,Yes
+501,CEKD Berhad,0238.KL,-9.66,0.203,0.292,Yes
+502,Jiankun International Berhad,8923.KL,-23.69,0.531,0.325,Yes
+503,Y&G Corporation Bhd.,7003.KL,-17.74,0.384,1.548,No
+504,Bermaz Auto Berhad,5248.KL,-16.43,0.353,1.025,Yes
+505,Malaysia Steel Works (KL) Bhd.,5098.KL,-12.2,0.256,0.356,Yes
+506,Cuscapi Berhad,0051.KL,-22.35,0.494,1.727,Yes
+507,Lotte Chemical Titan Holding Berhad,5284.KL,-25.19,0.564,0.624,No
+508,Gadang Holdings Berhad,9261.KL,-17.66,0.376,0.114,No
+509,Ecoscience International Berhad,0255.KL,-26.04,0.575,0.257,Yes
+510,Hiap Teck Venture Berhad,5072.KL,-12.18,0.247,0.004,No
+511,L&P Global Berhad,0268.KL,-22.47,0.481,0.877,Yes
+512,Cheeding Holdings Berhad,0372.KL,-18.11,0.378,0.245,No
+513,Leon Fuat Berhad,5232.KL,-9.73,0.194,0.111,No
+514,Parkwood Holdings Berhad,2682.KL,-20.18,0.423,0.346,Yes
+515,Nextgreen Global Berhad,7241.KL,-6.51,0.125,0.003,No
+516,Lion Posim Berhad,8486.KL,-11.95,0.235,0.528,Yes
+517,Celcomdigi Berhad,6947.KL,-9.25,0.177,0.809,Yes
+518,Greater Bay Holdings Berhad,9148.KL,-5.88,0.111,0.242,Yes
+519,Sanichi Technology Berhad,0133.KL,-22.44,0.46,1.158,No
+520,Master-Pack Group Berhad,7029.KL,-13.72,0.267,0.334,No
+521,Kumpulan H & L High-Tech Berhad,7033.KL,-9.6,0.182,0.403,Yes
+522,Khind Holdings Berhad,7062.KL,-13.36,0.258,0.338,No
+523,Arvex Berhad,0210.KL,-13.77,0.264,0.377,No
+524,Muar Ban Lee Group Berhad,5152.KL,-9.08,0.168,0.434,No
+525,Malton Berhad,6181.KL,-15.97,0.303,0.182,Yes
+526,Farlim Group (Malaysia) Bhd.,6041.KL,-11.22,0.206,0.177,Yes
+527,Advance Synergy Berhad,1481.KL,-16.61,0.314,0.426,No
+528,Media Chinese International Limited,5090.KL,-14.01,0.261,0.266,Yes
+529,MSB Global Group Berhad,0350.KL,-25.16,0.497,2.614,Yes
+530,Empire Premium Food Berhad,5351.KL,-10.53,0.192,0.243,Yes
+531,Can-One Berhad,5105.KL,-11.61,0.212,0.222,Yes
+532,DS Sigma Holdings Berhad,0269.KL,-12.0,0.218,0.778,Yes
+533,MMIS Berhad,03027.KL,-18.74,0.351,1.749,Yes
+534,Revenue Group Berhad,0200.KL,-21.54,0.408,0.738,Yes
+535,DGB Asia Berhad,0152.KL,-28.5,0.562,1.793,No
+536,Kronologi Asia Berhad,0176.KL,-23.04,0.439,0.335,No
+537,Mycron Steel Berhad,5087.KL,-12.9,0.229,0.701,Yes
+538,PRG Holdings Berhad,7168.KL,-19.06,0.349,0.364,Yes
+539,Comfort Gloves Berhad,2127.KL,-21.52,0.394,0.343,Yes
+540,NTPM Holdings Berhad,5066.KL,-15.32,0.27,0.331,Yes
+541,Asia File Corporation Bhd.,7129.KL,-9.13,0.155,0.114,Yes
+542,Wegmans Holdings Berhad,0197.KL,-15.55,0.268,0.623,No
+543,M N C Wireless Berhad,0103.KL,-27.25,0.502,1.385,Yes
+544,BTM Resources Berhad,7188.KL,-20.39,0.359,0.315,No
+545,TCS Group Holdings Berhad,0221.KL,-21.97,0.387,0.132,Yes
+546,Emico Holdings Berhad,9091.KL,-18.87,0.326,0.794,No
+547,Mobilia Holdings Berhad,0229.KL,-13.38,0.224,0.605,No
+548,CTOS Digital Berhad,5301.KL,-16.48,0.28,1.065,Yes
+549,Jentayu Sustainables Berhad,5673.KL,-28.2,0.509,0.886,No
+550,Techna-X Berhad,2739.KL,-41.17,0.804,0.303,No
+551,Pansar Berhad,8419.KL,-8.92,0.143,0.02,Yes
+552,Iskandar Waterfront City Berhad,1589.KL,-26.71,0.468,0.743,Yes
+553,Peoplelogy Berhad,0356.KL,-16.0,0.264,1.087,No
+554,Evd Berhad,0174.KL,-28.73,0.508,0.457,No
+555,Oceancash Pacific Berhad,0049.KL,-20.63,0.348,0.467,No
+556,Infoline Tec Group Berhad,0253.KL,-22.42,0.381,0.141,Yes
+557,Chin Well Holdings Berhad,5007.KL,-14.99,0.244,0.237,No
+558,Poh Huat Resources Holdings Berhad,7088.KL,-13.17,0.211,0.29,No
+559,Hong Leong Capital Berhad,5274.KL,-10.3,0.163,0.641,Yes
+560,Kim Teck Cheong Consolidated Berhad,0180.KL,-16.15,0.262,0.953,Yes
+561,Radiant Globaltech Berhad,0202.KL,-15.3,0.247,0.314,No
+562,Nova Wellness Group Berhad,0201.KL,-13.7,0.218,0.331,Yes
+563,M K Land Holdings Berhad,8893.KL,-15.52,0.247,0.168,No
+564,Wong Engineering Corporation Berhad,7050.KL,-17.86,0.287,0.383,Yes
+565,Metro Healthcare Berhad,0329.KL,-22.67,0.372,0.604,Yes
+566,Ann Joo Resources Berhad,6556.KL,-20.19,0.324,0.251,Yes
+567,South Malaysia Industries Berhad,4375.KL,-26.04,0.428,1.458,No
+568,GUH Holdings Berhad,3247.KL,-12.42,0.189,0.405,Yes
+569,FBG Holdings Berhad,7047.KL,-23.49,0.378,0.831,Yes
+570,Mlabs Systems Berhad,0085.KL,-37.44,0.65,0.911,Yes
+571,Innity Corporation Berhad,0147.KL,-31.75,0.529,0.609,Yes
+572,Sin-Kung Logistics Berhad,0305.KL,-17.11,0.262,0.818,No
+573,Supercomnet Technologies Berhad,0001.KL,-21.54,0.337,0.716,Yes
+574,ManagePay Systems Berhad,0156.KL,-18.08,0.277,0.135,No
+575,Straits Energy Resources Berhad,0080.KL,-27.22,0.439,1.188,Yes
+576,Citaglobal Berhad,7245PA.KL,-15.51,0.234,0.13,Yes
+577,SBS Nexus Berhad,0386.KL,-24.87,0.394,0.976,Yes
+578,Gabungan AQRS Berhad,5226.KL,-19.79,0.304,0.647,Yes
+579,AYS Ventures Berhad,5021.KL,-12.81,0.189,0.043,Yes
+580,Knusford Berhad,5035.KL,-20.84,0.32,0.531,No
+581,Country Heights Holdings Berhad,5738.KL,-19.71,0.3,1.041,No
+582,Sumisaujana Group Berhad,0349.KL,-31.48,0.513,1.873,Yes
+583,Lien Hoe Corporation Berhad,3573.KL,-23.72,0.368,0.112,No
+584,ELK-Desa Resources Berhad,5228.KL,-5.51,0.076,0.282,No
+585,Computer Forms (Malaysia) Berhad,8044.KL,-18.89,0.278,0.049,Yes
+586,Genting Berhad,3182.KL,-17.13,0.25,0.381,Yes
+587,Vantris Energy Berhad,5218.KL,-27.6,0.425,1.38,No
+588,CN Asia Corporation Bhd,7986.KL,-25.55,0.388,0.309,No
+589,Carimin Petroleum Berhad,5257.KL,-18.63,0.27,1.155,Yes
+590,Yong Tai Berhad,7066.KL,-28.45,0.435,0.566,No
+591,Sunview Group Berhad,0262.KL,-19.78,0.283,0.91,No
+592,Pestec International Berhad,5219.KL,-33.78,0.525,0.942,Yes
+593,Volcano Berhad,0232.KL,-28.09,0.421,1.134,No
+594,SKP Resources Bhd,7155.KL,-27.41,0.407,1.544,Yes
+595,Careplus Group Berhad,0163.KL,-28.24,0.42,0.685,No
+596,Globetronics Technology Bhd.,7022.KL,-35.78,0.555,0.024,Yes
+597,UCrest Berhad,0005.KL,-24.15,0.348,0.35,No
+598,SBC Corporation Berhad,5207.KL,-14.25,0.192,0.246,Yes
+599,DPI Holdings Berhad,0205.KL,-16.32,0.222,0.61,Yes
+600,Chuan Huat Resources Berhad,7016.KL,-19.04,0.261,0.137,No
+601,Tashin Holdings Berhad,0211.KL,-16.67,0.224,0.707,Yes
+602,Land 33 Berhad,7131.KL,-20.6,0.281,0.216,Yes
+603,Solid Automotive Berhad,5242.KL,-13.2,0.172,0.045,Yes
+604,Puncak Niaga Holdings Berhad,6807.KL,-22.41,0.303,0.622,Yes
+605,Reach Ten Holdings Berhad,5332.KL,-21.33,0.284,0.331,Yes
+606,Propel Global Bhd,0091.KL,-22.94,0.305,0.495,Yes
+607,Maxland Berhad,7123.KL,-31.22,0.435,0.89,Yes
+608,Marco Holdings Berhad,3514.KL,-12.76,0.16,0.349,No
+609,Sik Cheong Berhad,0316.KL,-23.47,0.311,1.019,Yes
+610,G Capital Berhad,7676.KL,-26.01,0.349,1.424,No
+611,A1 A.K. Koh Group Berhad,0365.KL,-23.84,0.316,0.41,Yes
+612,Melewar Industrial Group Berhad,3778.KL,-20.42,0.264,0.162,No
+613,Cape EMS Berhad,5311.KL,-32.75,0.451,0.608,No
+614,Toyo Ventures Holdings Berhad,7173.KL,-38.38,0.547,1.638,Yes
+615,Amtel Holdings Berhad,7031.KL,-16.96,0.211,0.282,No
+616,Teladan Group Berhad,0230.KL,-13.54,0.164,0.308,No
+617,One Glove Group Berhad,5079.KL,-20.44,0.255,0.244,Yes
+618,Only World Group Holdings Berhad,5260.KL,-25.42,0.325,2.085,Yes
+619,HPMT Holdings Berhad,5291.KL,-18.3,0.223,0.01,Yes
+620,Zantat Holdings Berhad,0301.KL,-25.18,0.318,0.426,Yes
+621,Evergreen Fibreboard Berhad,5101.KL,-25.42,0.321,0.094,No
+622,Topvision Eye Specialist Berhad,0332.KL,-30.78,0.399,0.245,No
+623,TASCO Berhad,5140.KL,-19.42,0.232,0.968,Yes
+624,Hextar Healthcare Berhad,7803.KL,-29.92,0.38,0.988,No
+625,Ekovest Berhad,8877.KL,-27.77,0.346,0.321,No
+626,OM Holdings Limited,5298.KL,-22.25,0.266,0.786,Yes
+627,CJ Century Logistics Holdings Berhad,7117.KL,-23.23,0.278,0.918,Yes
+628,CWG Holdings Berhad,9423.KL,-23.11,0.277,0.504,Yes
+629,IQ Group Holdings Berhad,5107.KL,-21.39,0.252,0.489,Yes
+630,V.S. Industry Berhad,6963.KL,-33.29,0.416,0.651,Yes
+631,LAC Med Berhad,5341.KL,-22.44,0.262,1.254,Yes
+632,Beshom Holdings Berhad,7668.KL,-15.05,0.169,0.67,Yes
+633,Cengild Medical Berhad,0243.KL,-16.8,0.19,0.3,No
+634,PMW International Berhad,0379.KL,-25.8,0.305,1.52,Yes
+635,UMediC Group Berhad,0256.KL,-25.59,0.301,0.82,Yes
+636,MTAG Group Berhad,0213.KL,-16.85,0.188,0.116,No
+637,Mudajaya Group Berhad,5085.KL,-25.2,0.289,0.088,Yes
+638,Perak Transit Berhad,0186.KL,-37.11,0.453,1.036,Yes
+639,LKL International Berhad,0182.KL,-34.09,0.403,0.193,Yes
+640,Box-Pak (Malaysia) Bhd.,6297.KL,-32.99,0.385,0.01,No
+641,Senheng New Retail Berhad,5305.KL,-30.04,0.342,1.768,Yes
+642,Jaycorp Berhad,7152.KL,-27.36,0.303,0.121,No
+643,Power Root Berhad,7237.KL,-13.15,0.133,0.37,Yes
+644,Luster Industries Bhd,5068.KL,-24.44,0.26,0.131,No
+645,Kerjaya Prospek Property Berhad,7077.KL,-26.6,0.284,0.469,Yes
+646,Adventa Berhad,7191.KL,-26.84,0.287,0.036,No
+647,Arka Berhad,7218.KL,-35.48,0.397,0.225,No
+648,D & O Green Technologies Berhad,7204.KL,-44.48,0.523,0.828,Yes
+649,Solution Group Berhad,0093.KL,-28.66,0.301,0.098,Yes
+650,Lotus KFM Berhad,8303.KL,-28.68,0.297,0.298,Yes
+651,Aquawalk Group Berhad,0380.KL,-53.04,0.645,3.562,Yes
+652,Focus Lumber Berhad,5197.KL,-19.72,0.191,0.068,No
+653,MAA Group Berhad,1198.KL,-24.4,0.242,0.165,Yes
+654,Econframe Berhad,0227.KL,-31.11,0.317,0.262,Yes
+655,Lion Industries Corporation Berhad,4235.KL,-29.63,0.298,0.169,No
+656,Colform Group Berhad,0341.KL,-19.97,0.189,0.238,No
+657,HLT Global Berhad,0188.KL,-44.43,0.488,1.341,Yes
+658,Bonia Corporation Berhad,9288.KL,-19.57,0.182,0.522,No
+659,Ho Wah Genting Berhad,9601.KL,-28.21,0.274,0.63,No
+660,Kucingko Berhad,0315.KL,-43.68,0.466,0.077,No
+661,Wang-Zheng Berhad,7203.KL,-15.82,0.14,0.558,Yes
+662,Choo Bee Metal Industries Berhad,5797.KL,-17.23,0.152,0.051,Yes
+663,SaudiGold Group Berhad,5157.KL,-35.06,0.342,0.159,Yes
+664,WTEC Group Berhad,0352.KL,-31.79,0.302,0.605,Yes
+665,Excel Force MSC Berhad,0065.KL,-33.74,0.322,0.583,No
+666,APB Resources Berhad,5568.KL,-50.67,0.545,0.514,Yes
+667,Pan Malaysia Corporation Berhad,4081.KL,-35.54,0.338,0.214,No
+668,HeveaBoard Berhad,5095.KL,-26.78,0.239,0.555,Yes
+669,Berjaya Food Berhad,5196.KL,-35.92,0.339,1.433,No
+670,Advancecon Holdings Berhad,5281.KL,-15.81,0.13,0.218,Yes
+671,Perusahaan Sadur Timah Malaysia (Perstima) Berhad,5436.KL,-32.99,0.299,0.926,Yes
+672,Enproserve Group Berhad,0367.KL,-17.8,0.148,0.359,Yes
+673,Orkim Berhad,5348.KL,-25.89,0.222,0.402,Yes
+674,Wawasan Dengkil Holdings Berhad,0347.KL,-34.0,0.305,1.5,Yes
+675,Feytech Holdings Berhad,5322.KL,-45.13,0.414,1.581,Yes
+676,Lii Hen Industries Bhd,7089.KL,-29.59,0.23,0.443,Yes
+677,Taliworks Corporation Berhad,8524.KL,-26.14,0.197,0.389,No
+678,PLS Plantations Berhad,9695.KL,-38.99,0.313,1.373,No
+679,CUCKOO International (MAL) Berhad,5336.KL,-40.95,0.322,0.883,Yes
+680,Verdant Solar Holdings Bhd,0373.KL,-35.18,0.259,0.78,Yes
+681,Binasat Communications Berhad,0195.KL,-40.42,0.301,0.468,Yes
+682,Tomypak Holdings Berhad,7285.KL,-29.83,0.205,0.074,No
+683,Pacific & Orient Berhad,6009.KL,-18.22,0.113,0.128,Yes
+684,Kawan Food Berhad,7216.KL,-24.08,0.154,0.492,Yes
+685,EPB Group Berhad,0317.KL,-38.19,0.258,0.997,No
+686,Global Oriental Berhad,1147.KL,-26.54,0.165,0.059,Yes
+687,Panasonic Manufacturing Malaysia Berhad,3719.KL,-29.26,0.182,0.506,Yes
+688,Guan Huat Seng Holdings Berhad,0387.KL,-25.19,0.146,1.098,Yes
+689,5E Resources Holdings Berhad,0397.KL,-30.82,0.18,1.464,No
+690,Astro Malaysia Holdings Berhad,6399.KL,-47.83,0.294,0.086,Yes
+691,Camaroe Berhad,0371.KL,-52.14,0.329,0.03,No
+692,Elsa Berhad,0458.KL,-33.42,0.163,,
+693,HSS Holdings Berhad,0460.KL,-55.08,0.316,,
+694,BMS Holdings Berhad,0385.KL,-39.83,0.086,0.101,No
+695,Liftech Group Sdn Bhd,0462.KL,-22.54,0.001,,
+696,SRKK AI Berhad,0466.KL,-10.47,,,

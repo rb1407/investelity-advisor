@@ -1,0 +1,25 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,"Ciagest - Sic Imobiliaria Fechada, S.A.",MLCIA.LS,7.85,0.012,0.086,Yes
+2,"Ramada Investimentos e Industria, S.A.",RAM.LS,17.12,0.081,0.15,Yes
+3,"Sonae, SGPS, S.A.",SON.LS,39.47,0.187,1.282,Yes
+4,PSI 20,PSI20.LS,16.82,0.105,1.0,Yes
+5,"Ibersol, S.G.P.S., S.A.",IBS.LS,24.66,0.164,0.688,Yes
+6,"REN - Redes Energéticas Nacionais, SGPS, S.A.",RENE.LS,21.83,0.158,0.799,Yes
+7,"Martifer SGPS, S.A.",MAR.LS,31.3,0.22,0.633,Yes
+8,"CTT - Correios De Portugal, S.A.",CTT.LS,32.06,0.246,0.635,Yes
+9,"Novabase S.G.P.S., S.A.",NBA.LS,35.72,0.3,0.697,Yes
+10,"Semapa - Sociedade de Investimento e Gestão, SGPS, S.A.",SEM.LS,23.26,0.214,0.812,Yes
+11,"MERLIN Properties SOCIMI, S.A.",MRL.LS,28.52,0.283,1.548,Yes
+12,"Pharol, S.A.",PHR.LS,38.16,0.374,1.259,Yes
+13,"Toyota Caetano Portugal, S.A.",SCT.LS,18.22,0.201,0.22,Yes
+14,"Sport Lisboa e Benfica - Futebol, SAD",SLBEN.LS,34.64,0.421,1.401,Yes
+15,"Galp Energia, SGPS, S.A.",GALP.LS,24.07,0.311,0.854,Yes
+16,"EDP, S.A.",EDP.LS,14.97,0.23,1.511,Yes
+17,"Mota-Engil, SGPS, S.A.",EGL.LS,28.0,0.463,1.283,Yes
+18,"Sonaecom, SGPS, S.A.",SNC.LS,8.7,0.177,0.088,Yes
+19,"Sporting Clube de Portugal - Futebol, SAD",SCP.LS,4.79,0.167,0.169,Yes
+20,"The Navigator Company, S.A.",NVG.LS,3.32,0.143,0.015,Yes
+21,"EDP Renewables, S.A.",EDPR.LS,3.0,0.332,1.975,Yes
+22,"Jerónimo Martins, SGPS, S.A.",JMT.LS,0.33,0.238,1.097,Yes
+23,"Corticeira Amorim, S.G.P.S., S.A.",COR.LS,-6.0,0.13,0.369,Yes
+24,"Estoril Sol, SGPS, S.A.",ESON.LS,-23.68,0.276,0.848,Yes

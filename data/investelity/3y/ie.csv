@@ -1,0 +1,18 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,FBD Holdings plc,EG7.IR,31.23,0.123,0.241,Yes
+2,AIB Group plc,A5G.IR,51.92,0.229,0.915,Yes
+3,Cairn Homes plc,C5H.IR,42.49,0.25,0.838,Yes
+4,Glenveagh Properties PLC,GVR.IR,40.75,0.267,0.836,Yes
+5,Bank of Ireland Group plc,BIRG.IR,39.68,0.264,1.183,Yes
+6,ISEQ All Share Index,^ISEQ,20.96,0.149,1.0,Yes
+7,Origin Enterprises plc,OIZ.IR,20.84,0.193,0.051,Yes
+8,Uniphar plc,UPR.IR,29.25,0.27,1.022,Yes
+9,Hammerson Plc,HMSO.IR,28.65,0.291,0.413,No
+10,Ryanair Holdings plc,RYA.IR,21.12,0.3,1.245,Yes
+11,Irish Residential Properties REIT Plc,IRES.IR,12.82,0.21,0.736,Yes
+12,Malin Corporation plc,MLC.IR,22.96,0.373,0.058,Yes
+13,Permanent TSB Group Holdings plc,PTSB.IR,17.54,0.329,0.626,Yes
+14,Kerry Group plc,KRZ.IR,5.47,0.183,0.688,Yes
+15,Mincon Group plc,MIO.IR,13.45,0.488,0.623,Yes
+16,Greencoat Renewables,GRP.IR,2.05,0.15,0.343,Yes
+17,Kenmare Resources plc,KMR.IR,-9.76,0.391,0.096,No

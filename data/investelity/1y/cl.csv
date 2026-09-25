@@ -1,0 +1,102 @@
+Rank,Name,Ticker,Return (%),Risk
+1,Fondo de Inversion ETF Singular Chile Corta Duracion,CFIETFCD.SN,4.53,0.001
+2,BTG Pactual Chile S.A. Administradora General De Fondos - Liquidez Alternativa Fund,CFIBTGPLAA.SN,7.84,0.008
+3,Toesca SA Administrative General De Fondos- Toesca Deuda Privada Fondo De Inversion,CFITODPA-E.SN,8.63,0.011
+4,Enel Generación Chile S.A.,ENELGXCH.SN,32.19,0.081
+5,Moneda Renta CLP Fondo de Inversion,CFIMRCLP.SN,11.71,0.036
+6,Fondo De Inversion ETF Singular Chile Corporativo,CFIETFCC.SN,6.22,0.022
+7,Moneda Renta CLP Fondo de Inversion,CFIMRCLPR.SN,11.96,0.042
+8,Howmet Aerospace Inc.,HWM.SN,78.84,0.226
+9,Asset Administradora General de Fondos S.A. - Fundo De Investimento Asset Rentas Residenciales,CFIARR.SN,1.65,0.007
+10,Singular Asset Management ADM GEN FD SA - FI Singular Core ETF,CFI4060ETF.SN,9.36,0.039
+11,Moneda Cumplo Pronto Pago Pymes Fondo de Inversion,CFIMCUMR.SN,5.94,0.026
+12,Banvida S.A.,BANVIDA.SN,49.13,0.196
+13,Empresa Eléctrica de Magallanes S.A.,EDELMAG.SN,44.84,0.182
+14,CGE Transmisión S.A.,CGET.SN,61.99,0.241
+15,Inmobiliaria Central de Estacionamientos Agustinas S.A.,ESTACIONAM.SN,8.72,0.042
+16,Oxiquim S.A.,OXIQUIM.SN,18.9,0.087
+17,Enaex S.A.,ENAEX.SN,24.72,0.112
+18,Howmet Aerospace Inc.,HWMCL.SN,53.44,0.22
+19,Banco Santander-Chile,BSANTANDER.SN,30.46,0.137
+20,Inversiones La Construcción S.A.,ILC.SN,89.26,0.335
+21,Parque Arauco S.A.,PARAUCO.SN,83.18,0.32
+22,Pionero Fondo De Inversion,CFIPIONERO.SN,54.65,0.234
+23,Fondo de Inversion Independencia Rentas Inmobiliarias,CFINRENTAS.SN,39.17,0.186
+24,Ameris Capital Adm Gen De Fdos Sa - Ameris Dover Street Fund,CFIASXIB-E.SN,8.98,0.055
+25,Echeverría Izquierdo S.A.,EISA.SN,52.94,0.286
+26,Plaza S.A.,MALLPLAZA.SN,68.1,0.353
+27,Embotelladora Andina S.A.,ANDINA-A.SN,21.34,0.132
+28,Nuam S.A.,NUAM.SN,36.64,0.229
+29,Embotelladora Andina S.A.,ANDINA-B.SN,37.2,0.233
+30,Banchile Administradora General - Fondo de Inversion MarketPlus Fund,CFIBMPEM-E.SN,28.11,0.184
+31,iShares Trust - iShares Core S&P 500 ETF,IVVCL.SN,14.99,0.104
+32,Banchile Administradora General - Fondo de Inversion MarketPlus Fund,CFIBCHMPGB.SN,18.03,0.124
+33,Duncan Fox S.A.,DUNCANFOX.SN,56.78,0.341
+34,Newmont Corporation,NEMCL.SN,88.45,0.485
+35,Potasios Investments S.A.,POTASIOS-A.SN,84.51,0.472
+36,Larrainvial Asset Management Administradora General - Fondo De Inversion Larrainvial Deuda Privada F,CFILVDPU-E.SN,6.19,0.046
+37,Engie Energia Chile S.A.,ECL.SN,36.3,0.238
+38,"iShares, Inc. - iShares MSCI Emerging Markets ETF",EEMCL.SN,28.23,0.192
+39,Grupo Empresas Navieras S.A.,NAVIERA.SN,15.44,0.111
+40,Coca-Cola Embonor S.A.,EMBONOR-B.SN,23.11,0.161
+41,Fondo de Inversion ETF Singular S&P 500 Fund,CFISPETF.SN,14.51,0.108
+42,Energía Latina S.A.,ENLASA.SN,15.46,0.129
+43,Multiexport Foods S.A.,MULTI-X.SN,30.4,0.254
+44,Berkshire Hathaway Inc.,BRKBCL.SN,2.53,0.024
+45,Banchile Administradora General - Fondo de Inversion MarketPlus Fund,CFIBCHMPUS.SN,14.41,0.135
+46,Camanchaca S.A.,CAMANCHACA.SN,39.06,0.34
+47,Moneda Deuda Latinoamericana fondo de inversion,CFIIMDLAT.SN,7.83,0.078
+48,Scotiabank Chile S.A.,SCOTIABKCL.SN,18.16,0.174
+49,iShares Core S&P 500 ETF,IVV.SN,16.34,0.16
+50,Enel Chile S.A.,ENELCHILE.SN,15.26,0.155
+51,Singular Asset Management Adm Gen Fondos SA - Fondo de Inversion ETF Singular Nasdaq 100 Fund,CFINASDAQ.SN,19.71,0.206
+52,Quiñenco SA,QUINENCO.SN,13.0,0.145
+53,Watt's S.A.,WATTS.SN,18.28,0.223
+54,,CFI-FYPGAE.SN,13.61,0.172
+55,Socovesa S.A.,SOCOVESA.SN,42.26,0.55
+56,Empresas Hites S.A.,HITES.SN,14.48,0.215
+57,Sociedad Matriz SAAM S.A.,SMSAAM.SN,14.2,0.221
+58,Administradora de Fondos de Pensiones Cuprum S.A.,CUPRUM.SN,40.95,0.578
+59,Compañía Sud Americana de Vapores S.A.,VAPORES.SN,7.69,0.13
+60,"Amazon.com, Inc.",AMZNCL.SN,20.41,0.334
+61,BTG Pactual Chile SA Administradora General De Fondos - ETF Latam Equities FI,CFIETFLAT.SN,8.2,0.142
+62,LATAM Airlines Group S.A.,LTM.SN,20.63,0.341
+63,Empresa Nacional de Telecomunicaciones S.A.,ENTEL.SN,23.82,0.407
+64,iShares Gold Trust,IAUCL.SN,12.79,0.231
+65,Inversiones Aguas Metropolitanas S.A.,IAM.SN,7.14,0.15
+66,Larrain Vial Act. Sa AGF - Fondo De Inversion Activa Deuda Hipotecaria Con Subsidio Habitacional I,CFID1HS.SN,15.88,0.323
+67,Visa Inc.,VCL.SN,13.68,0.319
+68,Cencosud Shopping S.A.,CENCOMALLS.SN,12.1,0.343
+69,Administradora de Fondos de Pensiones Habitat S.A.,HABITAT.SN,7.61,0.237
+70,Zona Franca de Iquique S.A.,ZOFRI.SN,3.23,0.103
+71,Walmart Inc.,WALMARTCL.SN,2.97,0.258
+72,Inversiones Tricahue S.A.,TRICAHUE.SN,0.41,0.078
+73,BTG Pactual Chile S.A. Administradora General De Fondos - BTG Pactual Renta Residencial Fund,CFIBTGRRA.SN,2.09,0.399
+74,Inmobiliaria Manquehue S.A.,MANQUEHUE.SN,-9.61,0.32
+75,Banchile Administradora General - Fondo de Inversion Deuda Global Fund,CFIBCHDEGB.SN,-2.64,0.084
+76,iShares Trust - iShares U.S. Technology ETF,IYWCL.SN,-16.33,0.494
+77,Compañía Cervecerías Unidas S.A.,CCU.SN,-8.08,0.214
+78,Empresas Copec S.A.,COPEC.SN,-8.48,0.214
+79,AntarChile S.A.,ANTARCHILE.SN,-7.06,0.167
+80,Aguas Andinas S.A.,AGUAS-A.SN,-4.47,0.096
+81,Instituto de Diagnóstico S.A.,INDISA.SN,-9.71,0.19
+82,Hipermarc S.A.,HIPERMARC.SN,-12.03,0.234
+83,Forus S.A.,FORUS.SN,-10.06,0.152
+84,Empresas Tricot S.A.,TRICOT.SN,-8.48,0.126
+85,"ISHARES BITCOIN TRUST, UNICA",IBITCL.SN,-28.66,0.473
+86,SMU S.A.,SMU.SN,-16.22,0.235
+87,Colbún S.A.,COLBUN.SN,-12.24,0.151
+88,Ripley Corp S.A.,RIPLEY.SN,-15.34,0.167
+89,Clínica Las Condes S.A.,LAS-CONDES.SN,-27.38,0.287
+90,Empresa Eléctrica Pehuenche S.A.,PEHUENCHE.SN,-10.13,0.097
+91,Sonda S.A.,SONDA.SN,-16.59,0.144
+92,Masisa S.A.,MASISA.SN,-42.74,0.425
+93,Empresas CMPC S.A.,CMPC.SN,-24.46,0.19
+94,Viña Concha y Toro S.A.,CONCHATORO.SN,-16.08,0.104
+95,Cencosud S.A.,CENCOSUD.SN,-27.15,0.177
+96,Forestal Constructora y Comercial del Pacifico Sur SA,PASUR.SN,-21.6,0.121
+97,Cintac S.A.,CINTAC.SN,-36.61,0.197
+98,Minera Valparaiso S.A.,MINERA.SN,-25.04,0.122
+99,Buydepa SpA,BUYDEPAX.SN,0.0,0.0
+100,Sociedad Anonima de Deportes Club de Golf Santiago,GOLF.SN,0.0,0.0
+101,,QTOP.SN,37.24,

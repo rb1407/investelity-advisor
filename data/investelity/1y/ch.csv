@@ -1,0 +1,208 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Luzerner Kantonalbank AG,LUKN.SW,54.03,0.077,0.183,Yes
+2,Kuehne + Nagel International AG,KNIN.SW,57.02,0.088,0.186,Yes
+3,UBS Group AG,UBSGE.SW,94.52,0.188,1.024,Yes
+4,Walliser Kantonalbank,WKBN.SW,31.45,0.085,0.38,No
+5,BNP Paribas SA,BNP.SW,90.15,0.215,1.357,Yes
+6,St. Galler Kantonalbank AG,SGKN.SW,37.84,0.111,0.078,Yes
+7,Berner Kantonalbank AG,BEKN.SW,66.38,0.191,0.051,Yes
+8,Banque Cantonale Vaudoise,BCVN.SW,49.95,0.172,0.239,No
+9,Graubündner Kantonalbank,GRKP.SW,69.11,0.229,0.397,No
+10,Elma Electronic AG,ELMN.SW,9.16,0.038,0.02,Yes
+11,Emmi AG,EMMN.SW,28.3,0.109,0.134,No
+12,SIG Group AG,SIGN.SW,79.77,0.262,1.002,Yes
+13,VP Bank AG,VPBN.SW,22.59,0.095,0.327,Yes
+14,Liechtensteinische Landesbank Aktiengesellschaft,LLBN.SW,58.02,0.217,0.532,No
+15,DKSH Holding AG,DKSH.SW,31.82,0.138,0.549,Yes
+16,Apple Inc.,AAPL.SW,61.85,0.246,0.596,Yes
+17,SFS Group AG,SFSN.SW,33.17,0.149,0.458,Yes
+18,DHL AG,DHL.SW,51.15,0.219,1.096,Yes
+19,EMS-CHEMIE HOLDING AG,EMSN.SW,51.65,0.228,0.233,Yes
+20,Julius Bär Gruppe AG,BAER.SW,51.19,0.237,1.115,Yes
+21,BASF SE,BAS.SW,34.4,0.169,0.187,No
+22,Banque Cantonale de Genève SA,BCGE.SW,46.35,0.224,0.261,No
+23,Sandoz Group AG,SDZ.SW,55.52,0.265,1.176,Yes
+24,Vaudoise Assurances Holding SA,VAHN.SW,33.06,0.17,0.354,No
+25,BVZ Holding AG,BVZN.SW,55.65,0.268,0.453,No
+26,Glarner Kantonalbank,GLKBN.SW,29.72,0.158,0.549,Yes
+27,Edisun Power Europe AG,ESUN.SW,36.74,0.191,0.551,No
+28,Züblin Immobilien Holding AG,ZUBN.SW,23.11,0.132,0.042,Yes
+29,Plazza AG,PLAN.SW,12.66,0.075,0.273,No
+30,Orell Füssli AG,OFN.SW,43.89,0.238,0.023,No
+31,Investis Holding SA,IREN.SW,18.0,0.114,0.102,Yes
+32,Novartis AG,NOVN.SW,31.7,0.192,0.926,Yes
+33,ING Groep N.V.,INGA.SW,43.21,0.254,1.234,Yes
+34,Schweiter Technologies AG,SWTQ.SW,38.64,0.242,0.692,No
+35,Romande Energie Holding SA,REHN.SW,21.57,0.145,0.306,No
+36,SMI,^SSMI,20.88,0.142,1.0,Yes
+37,CITIGROUP INC,C.SW,48.59,0.3,0.549,Yes
+38,UBS Group AG,UBSG.SW,51.66,0.32,0.444,Yes
+39,Helvetia Baloise Holding AG,HBAN.SW,16.33,0.117,0.157,Yes
+40,SF Urban Properties AG,SFPN.SW,10.86,0.08,0.274,Yes
+41,Basellandschaftliche Kantonalbank,BLKB.SW,25.04,0.176,0.136,Yes
+42,Ascom Holding AG,ASCN.SW,80.34,0.478,0.856,No
+43,Zuger Kantonalbank,ZUGER.SW,25.45,0.182,0.201,No
+44,Eli Lilly and Company,LLY.SW,89.14,0.521,0.986,Yes
+45,ABB Ltd,ABBN.SW,51.28,0.339,1.022,Yes
+46,HIAG Immobilien Holding AG,HIAG.SW,19.31,0.144,0.374,Yes
+47,mobilezone holding ag,MOZN.SW,30.28,0.223,0.349,Yes
+48,Valiant Holding AG,VATN.SW,24.76,0.186,0.03,Yes
+49,Basler Kantonalbank,BSKP.SW,32.31,0.237,0.749,Yes
+50,Koninklijke Ahold Delhaize N.V.,AD.SW,15.14,0.123,0.028,No
+51,Forbo Holding AG,FORN.SW,51.63,0.369,1.079,Yes
+52,Sensirion Holding AG,SENS.SW,46.12,0.348,0.066,No
+53,NVIDIA Corporation,NVDA.SW,42.7,0.327,0.022,No
+54,Swiss Re AG,SRENE.SW,26.51,0.22,0.177,No
+55,Alpine Select AG,ALPN.SW,11.04,0.098,0.294,Yes
+56,Galderma Group AG,GALD.SW,26.75,0.226,0.34,Yes
+57,Compagnie Financière Richemont SA,CFR.SW,34.57,0.29,1.55,Yes
+58,Sulzer AG,SUN.SW,28.21,0.244,0.141,No
+59,nebag ag,NBEN.SW,12.72,0.118,0.106,Yes
+60,Bachem Holding AG,BANB.SW,41.83,0.355,1.143,No
+61,Santhera Pharmaceuticals Holding AG,SANN.SW,54.5,0.454,1.789,Yes
+62,ASML Holding N.V.,ASML.SW,60.54,0.503,2.01,Yes
+63,Zalando SE,ZAL.SW,47.97,0.415,0.48,Yes
+64,Swiss Prime Site AG,SPSN.SW,18.34,0.178,0.738,Yes
+65,Ypsomed Holding AG,YPSN.SW,38.72,0.353,0.12,No
+66,Hypothekarbank Lenzburg AG,HBLN.SW,7.41,0.076,0.436,No
+67,The Swatch Group AG,UHR.SW,38.46,0.355,0.808,Yes
+68,SGS SA,SGSN.SW,20.93,0.21,1.121,Yes
+69,Newmont Corporation,NEM.SW,63.98,0.554,0.524,Yes
+70,StarragTornos Group AG,STGN.SW,16.41,0.189,0.146,Yes
+71,Curatis Holding AG,CURN.SW,52.2,0.531,1.36,No
+72,EPIC Suisse AG,EPIC.SW,7.43,0.09,0.122,Yes
+73,SKAN Group AG,SKAN.SW,31.56,0.351,0.963,Yes
+74,Nordex SE,NDX1.SW,51.67,0.552,2.409,No
+75,Lonza Group AG,LONN.SW,12.84,0.162,0.544,Yes
+76,"Amazon.com, Inc.",AMZN.SW,38.41,0.444,0.278,No
+77,PSP Swiss Property AG,PSPN.SW,10.87,0.141,0.31,Yes
+78,Deutsche Bank Aktiengesellschaft,DBK.SW,32.3,0.387,1.05,Yes
+79,Zurich Insurance Group AG,ZURN.SW,12.8,0.166,0.81,Yes
+80,Swisscom AG,SCMN.SW,16.0,0.205,0.315,Yes
+81,Temenos AG,TEMN.SW,25.56,0.32,0.317,Yes
+82,Allreal Holding AG,ALLN.SW,12.22,0.167,0.438,Yes
+83,Nestlé S.A.,NESN.SW,15.75,0.214,1.109,Yes
+84,ABB Ltd,ABBNE.SW,25.31,0.339,1.22,Yes
+85,Huber+Suhner AG,HUBN.SW,40.69,0.524,0.947,Yes
+86,SoftwareOne Holding AG,SWON.SW,28.17,0.384,0.339,No
+87,ORIOR AG,ORON.SW,27.77,0.382,1.014,Yes
+88,"Uber Technologies, Inc.",UBER.SW,15.72,0.23,0.337,Yes
+89,Novavest Real Estate AG,NREN.SW,5.69,0.095,0.144,Yes
+90,AT&T Inc.,T.SW,24.51,0.381,0.841,No
+91,Mobimo Holding AG,MOBN.SW,7.61,0.136,0.371,Yes
+92,Groupe Minoteries SA,GMI.SW,8.07,0.145,0.022,Yes
+93,Sika AG,SIKA.SW,18.21,0.321,1.621,Yes
+94,Intershop Holding AG,ISN.SW,6.79,0.128,0.266,Yes
+95,Straumann Holding AG,STMN.SW,18.7,0.337,0.94,Yes
+96,LEM Holding SA,LEHN.SW,44.67,0.751,0.712,Yes
+97,COLTENE Holding AG,CLTN.SW,14.53,0.274,1.607,Yes
+98,Newron Pharmaceuticals S.p.A.,NWRN.SW,38.12,0.664,1.76,Yes
+99,CALIDA Holding AG,CALN.SW,23.25,0.429,0.586,Yes
+100,NIBE Industrier AB (publ),NIBEB.SW,9.7,0.194,0.357,No
+101,Accelleron Industries AG,ACLN.SW,17.02,0.335,0.043,No
+102,Metall Zug AG,METN.SW,10.93,0.223,0.608,Yes
+103,Komax Holding AG,KOMN.SW,36.9,0.7,0.521,Yes
+104,Adecco Group AG,ADEN.SW,30.35,0.593,0.165,Yes
+105,Holcim AG,HOLN.SW,11.96,0.252,0.404,Yes
+106,Thurgauer Kantonalbank,TKBP.SW,7.31,0.159,0.032,Yes
+107,"Robinhood Markets, Inc.",HOOD.SW,33.42,0.673,0.363,Yes
+108,Avolta AG,AVOL.SW,14.05,0.306,1.166,Yes
+109,Alphabet Inc.,GOOG.SW,21.33,0.453,0.371,Yes
+110,Zug Estates Holding AG,ZUGN.SW,7.3,0.165,0.112,Yes
+111,Zehnder Group AG,ZEHN.SW,13.5,0.3,0.965,Yes
+112,Warteck Invest AG,WARN.SW,2.82,0.072,0.213,Yes
+113,Siemens Energy AG,ENR.SW,20.06,0.483,1.737,Yes
+114,Berkshire Hathaway Inc.,BRK.SW,4.97,0.135,0.451,Yes
+115,Cembra Money Bank AG,CMBN.SW,3.23,0.091,0.246,Yes
+116,Adval Tech Holding AG,ADVN.SW,10.41,0.3,0.368,Yes
+117,"Netflix, Inc.",NFLX.SW,11.79,0.354,0.525,No
+118,Barry Callebaut AG,BARN.SW,10.36,0.336,0.648,Yes
+119,Givaudan SA,GIVN.SW,8.1,0.268,1.208,Yes
+120,APG|SGA SA,APGN.SW,3.21,0.121,0.553,Yes
+121,EFG International AG,EFGN.SW,4.09,0.162,0.507,Yes
+122,Phoenix Mecano AG,PMN.SW,3.31,0.143,0.106,Yes
+123,Novartis AG,NOVNEE.SW,3.61,0.156,1.509,Yes
+124,Medartis Holding AG,MED.SW,5.33,0.231,1.325,Yes
+125,Villars Holding S.A.,VILN.SW,2.33,0.118,0.018,No
+126,Implenia AG,IMPN.SW,6.09,0.305,1.407,Yes
+127,Swiss Re AG,SREN.SW,3.94,0.214,0.474,Yes
+128,Cosmo N.V.,CMHC.SW,12.96,0.855,1.872,Yes
+129,Burkhalter Holding AG,BRKN.SW,4.02,0.309,0.488,Yes
+130,"Coinbase Global, Inc.",COIN.SW,6.2,0.518,0.66,No
+131,Bell Food Group AG,BELL.SW,3.55,0.325,0.082,No
+132,Compagnie Financière Tradition SA,CFT.SW,2.94,0.286,0.227,Yes
+133,Cham Swiss Properties AG,CHAM.SW,1.54,0.154,0.251,Yes
+134,Logitech International S.A.,LOGNE.SW,4.11,0.51,0.2,Yes
+135,Alcon Inc.,ALC.SW,1.45,0.217,0.957,Yes
+136,Dätwyler Holding AG,DAE.SW,1.33,0.272,1.359,Yes
+137,Kudelski SA,KUD.SW,0.81,0.236,1.07,No
+138,Geberit AG,GEBN.SW,0.9,0.262,1.572,Yes
+139,Logitech International S.A.,LOGN.SW,-0.09,0.456,0.109,No
+140,Compagnie Financière Tradition SA,CFTE.SW,-0.16,0.314,0.067,Yes
+141,Sunrise Communications AG,SUNN.SW,-0.53,0.199,0.299,Yes
+142,Galenica AG,GALE.SW,-0.38,0.138,0.533,Yes
+143,Georg Fischer AG,GF.SW,-1.26,0.375,0.728,Yes
+144,Comunus SICAV - Swiss,CMUS.SW,-0.54,0.129,0.646,Yes
+145,Aevis Victoria SA,AEVS.SW,-0.59,0.121,0.139,No
+146,Fundamenta Real Estate AG,FREN.SW,-0.59,0.111,0.031,Yes
+147,Montana Aerospace AG,AERO.SW,-3.72,0.55,0.1,Yes
+148,R&S Group Holding AG,RSGN.SW,-8.65,0.837,2.264,Yes
+149,Cicor Technologies Ltd.,CICN.SW,-10.82,0.767,1.853,Yes
+150,Geberit AG,GEBNE.SW,-4.33,0.282,1.553,Yes
+151,"Tesla, Inc.",TSLA.SW,-8.34,0.52,0.547,Yes
+152,Mikron Holding AG,MIKN.SW,-4.57,0.275,0.213,Yes
+153,Vetropack Holding AG,VETN.SW,-4.59,0.24,0.343,No
+154,Arbonia AG,ARBN.SW,-7.48,0.324,0.075,Yes
+155,Walmart Inc.,WMT.SW,-5.33,0.206,0.126,Yes
+156,Autoneum Holding AG,AUTN.SW,-10.85,0.407,0.734,Yes
+157,Space Exploration Technologies Corp.,SPCX.SW,-35.28,1.503,,
+158,Swiss Life REF (CH) ESG Diversified Commercial Switzerland Fund,SLDCS.SW,-0.74,0.025,0.264,Yes
+159,Valartis Group AG,VLRT.SW,-9.25,0.285,0.549,Yes
+160,Dottikon ES Holding AG,DESN.SW,-7.8,0.235,0.028,Yes
+161,Kardex Holding AG,KARN.SW,-11.68,0.321,0.06,Yes
+162,TX Group AG,TXGN.SW,-13.19,0.35,0.339,Yes
+163,ALSO Holding AG,ALSN.SW,-13.55,0.351,0.505,Yes
+164,naturenergie holding AG,NEAG.SW,-3.99,0.098,0.133,No
+165,Highlight Event and Entertainment AG,HLEE.SW,-14.05,0.356,1.619,Yes
+166,TX Group AG,TXGNE.SW,-14.01,0.354,0.246,Yes
+167,Kuros Biosciences AG,KURN.SW,-17.81,0.439,1.173,Yes
+168,lastminute.com N.V.,LMN.SW,-16.54,0.374,0.943,Yes
+169,Xlife Sciences AG,XLS.SW,-27.86,0.633,1.043,Yes
+170,Private Equity Holding AG,PEHN.SW,-5.26,0.106,0.0,No
+171,BioVersys AG,BIOV.SW,-15.83,0.334,0.97,No
+172,Schindler Holding AG,SCHN.SW,-7.57,0.147,0.569,Yes
+173,SMG Swiss Marketplace Group Holding AG,SMG.SW,-23.08,0.448,0.644,No
+174,Schindler Holding AG,SCHNE.SW,-9.41,0.155,0.567,Yes
+175,Interroll Holding AG,INRN.SW,-28.73,0.471,1.035,Yes
+176,Schindler Holding AG,SCHP.SW,-10.29,0.152,0.596,Yes
+177,Schindler Holding AG,SCHPE.SW,-11.97,0.166,0.622,Yes
+178,Partners Group Holding AG,PGHN.SW,-23.28,0.322,0.996,No
+179,Accelleron Industries AG,ACLNE.SW,-22.82,0.297,1.815,Yes
+180,Bucher Industries AG,BUCN.SW,-13.51,0.165,0.814,Yes
+181,L'Air Liquide S.A.,AI1.SW,-14.29,0.171,1.579,No
+182,C Capital Holdings AG,CCAP.SW,-45.66,0.637,2.684,No
+183,Medacta Group SA,MOVE.SW,-13.02,0.145,0.237,Yes
+184,Peach Property Group AG,PEAN.SW,-23.66,0.272,0.631,Yes
+185,dormakaba Holding AG,DOKA.SW,-19.69,0.211,0.734,Yes
+186,ARYZTA AG,ARYN.SW,-34.96,0.36,0.601,No
+187,Volkswagen AG,VOW3.SW,-29.03,0.281,0.644,Yes
+188,Chocoladefabriken Lindt & Sprüngli AG,LISP.SW,-26.61,0.253,1.022,Yes
+189,GAM Holding AG,GAM.SW,-45.32,0.481,0.332,Yes
+190,Chocoladefabriken Lindt & Sprüngli AG,LISN.SW,-23.61,0.207,0.812,Yes
+191,Chocoladefabriken Lindt & Sprüngli AG,LISPE.SW,-27.78,0.247,0.907,Yes
+192,Bayerische Motoren Werke Aktiengesellschaft,BMW.SW,-35.53,0.331,0.279,Yes
+193,Swissquote Group Holding SA,SQN.SW,-23.6,0.198,0.181,Yes
+194,BKW AG,BKW.SW,-24.8,0.209,0.164,No
+195,CPH Group AG,CPHN.SW,-16.1,0.124,0.365,Yes
+196,Addex Therapeutics Ltd,ADXN.SW,-55.34,0.553,1.304,Yes
+197,Schlatter Industries AG,STRN.SW,-14.63,0.111,0.383,Yes
+198,Rheinmetall AG,RHM.SW,-48.22,0.445,0.034,Yes
+199,Bystronic AG,BYS.SW,-47.97,0.41,0.077,Yes
+200,Schweizerische Nationalbank,SNBN.SW,-19.41,0.134,0.198,No
+201,"NIKE, Inc.",NKE.SW,-42.48,0.275,0.637,Yes
+202,Varia US Properties AG,VARN.SW,-39.34,0.21,0.394,No
+203,Amrize AG,AMRZE.SW,-48.4,0.229,2.461,Yes
+204,SAP SE,SAP.SW,-44.76,0.188,0.661,Yes
+205,Valiant Holding AG,VATNE.SW,-31.95,0.119,,
+206,Mobifonds Swiss Property Fund,MFSP.SW,-10.6,0.0,,
+207,Infracore SA,INFRAC.SW,-14.75,,,

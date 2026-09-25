@@ -1,0 +1,186 @@
+Rank,Name,Ticker,Return (%),Risk
+1,Pioneer Property Group ASA,PPG.OL,17.86,0.054
+2,Rogaland Sparebank,ROGS.OL,33.75,0.127
+3,Veidekke ASA,VEI.OL,40.73,0.166
+4,Storebrand ASA,STB.OL,41.26,0.168
+5,Instabank ASA,INSTA.OL,56.08,0.221
+6,SpareBank 1 Nord-Norge,NONG.OL,31.64,0.139
+7,Sats ASA,SATS.OL,65.32,0.267
+8,Sparebanken Norge,SBNOR.OL,36.95,0.167
+9,Endúr ASA,ENDUR.OL,45.4,0.201
+10,Voss Veksel- og Landmandsbank ASA,VVL.OL,35.54,0.164
+11,Wilh. Wilhelmsen Holding ASA,WWI.OL,47.1,0.21
+12,SpareBank 1 Sør-Norge ASA,SB1NO.OL,31.89,0.154
+13,Sentia ASA,SNTIA.OL,41.01,0.195
+14,SpareBank 1 Nordmøre,SNOR.OL,23.41,0.124
+15,Jæren Sparebank,JAREN.OL,18.51,0.101
+16,Constellation Oil Services Holding S.A.,COSH.OL,44.72,0.223
+17,Skue Sparebank,SKUE.OL,25.37,0.136
+18,Aurskog Sparebank,AURG.OL,15.04,0.085
+19,Sparebanken Øst,SPOG.OL,27.59,0.149
+20,Protector Forsikring ASA,PROT.OL,51.0,0.255
+21,SpareBank 1 Østfold Akershus,SOAG.OL,21.23,0.119
+22,SpareBank 1 Ringerike Hadeland,RING.OL,24.7,0.14
+23,DNB Bank ASA,DNB.OL,24.02,0.138
+24,SpareBank 1 SMN,MING.OL,26.92,0.154
+25,Odfjell Drilling Ltd.,ODL.OL,51.24,0.273
+26,Gjensidige Forsikring ASA,GJF.OL,31.22,0.188
+27,Sparebanken Møre,MORG.OL,23.27,0.145
+28,Norconsult ASA,NORCO.OL,38.09,0.243
+29,Grong Sparebank,GRONG.OL,18.31,0.129
+30,Kongsberg Gruppen ASA,KOG.OL,70.54,0.415
+31,Norbit ASA,NORBT.OL,63.88,0.39
+32,Sogn Sparebank,SOGN.OL,46.73,0.31
+33,Melhus Sparebank,MELG.OL,14.72,0.112
+34,SpareBank 1 Østlandet,SPOL.OL,24.4,0.18
+35,Romerike Sparebank,ROMER.OL,17.72,0.137
+36,Otello Corporation ASA,OTEC.OL,36.16,0.263
+37,Moreld ASA,MORLD.OL,61.81,0.417
+38,AF Gruppen ASA,AFG.OL,23.7,0.186
+39,ABG Sundal Collier Holding ASA,ABG.OL,24.83,0.194
+40,Sparebank 68° Nord,SB68.OL,20.1,0.162
+41,Skandia GreenPower AS,SKAND.OL,72.23,0.495
+42,SpareBank 1 Helgeland,HELG.OL,22.36,0.184
+43,Soiltech ASA,STECH.OL,37.34,0.305
+44,Aasen Sparebank,AASB.OL,14.57,0.136
+45,PetroNor E&P ASA,PNOR.OL,43.58,0.364
+46,Vend Marketplaces ASA,VEND.OL,34.59,0.302
+47,Bien Sparebank ASA,BIEN.OL,28.18,0.252
+48,Solstad Offshore ASA,SOFF.OL,52.27,0.432
+49,DNO ASA,DNO.OL,40.2,0.349
+50,Solstad Maritime ASA,SOMA.OL,47.83,0.405
+51,Kitron ASA,KIT.OL,54.72,0.454
+52,Klaveness Combination Carriers ASA,KCC.OL,31.78,0.3
+53,Kraft Bank ASA,KRAB.OL,25.76,0.259
+54,Europris ASA,EPR.OL,22.74,0.232
+55,SED Energy Holdings Plc,ENH.OL,28.42,0.29
+56,Integrated Wind Solutions ASA,IWS.OL,24.54,0.258
+57,Haugesund Sparebank,HGSB.OL,16.19,0.177
+58,Cambi ASA,CAMBI.OL,30.49,0.318
+59,BW Offshore Limited,BWO.OL,24.87,0.266
+60,SoftwareOne Holding AG,SWON.OL,35.82,0.37
+61,BW Energy Limited,BWE.OL,37.82,0.41
+62,Telenor ASA,TEL.OL,13.16,0.161
+63,Orkla ASA,ORK.OL,17.13,0.208
+64,Polaris Media ASA,POL.OL,18.12,0.231
+65,Austevoll Seafood ASA,AUSS.OL,15.3,0.2
+66,Odfjell SE,ODFB.OL,24.9,0.319
+67,PPI Public Property Invest AB (publ),PUBLI.OL,16.56,0.222
+68,Xplora Technologies AS,XPLRA.OL,36.97,0.473
+69,Flekkefjord Sparebank,FFSB.OL,6.76,0.098
+70,BlueNord ASA,BNOR.OL,21.54,0.298
+71,Odfjell SE,ODF.OL,24.98,0.342
+72,BW LPG Limited,BWLPG.OL,31.89,0.441
+73,Norwegian Air Shuttle ASA,NAS.OL,29.45,0.415
+74,Pareto Bank ASA,PARB.OL,13.55,0.203
+75,RomReal Limited,ROM.OL,27.85,0.396
+76,Scatec ASA,SCATC.OL,21.04,0.309
+77,Cadeler A/S,CADLR.OL,24.38,0.359
+78,Elkem ASA,ELK.OL,23.31,0.364
+79,North Energy ASA,NORTH.OL,14.31,0.232
+80,Akastor ASA,AKAST.OL,17.99,0.288
+81,Dellia Group ASA,DELIA.OL,65.48,0.915
+82,ADS Maritime Holding Plc,ADS.OL,9.76,0.168
+83,Goodtech ASA,GOD.OL,16.11,0.278
+84,Envipco Holding N.V.,ENVIP.OL,27.55,0.459
+85,Reach Subsea ASA,REACH.OL,25.0,0.422
+86,Petrolia SE,PSE.OL,18.28,0.318
+87,Aker Solutions ASA,AKSO.OL,24.58,0.422
+88,Eidesvik Offshore ASA,EIOF.OL,15.13,0.27
+89,Odfjell Technology Ltd.,OTL.OL,15.87,0.284
+90,Arendals Fossekompani ASA,AFK.OL,15.87,0.288
+91,MPC Energy Solutions N.V.,MPCES.OL,18.7,0.347
+92,Måsøval AS,MAS.OL,20.4,0.385
+93,Deep Value Driller AS,DVD.OL,14.18,0.276
+94,Trøndelag Sparebank,TRSB.OL,6.16,0.127
+95,Multiconsult ASA,MULTI.OL,10.51,0.217
+96,HAV Group ASA,HAV.OL,36.48,0.695
+97,Medistim ASA,MEDI.OL,16.22,0.342
+98,Høland og Setskog Sparebank,HSPG.OL,7.88,0.182
+99,Nordic Halibut AS,NOHAL.OL,10.58,0.244
+100,Mowi ASA,MOWI.OL,8.67,0.206
+101,Lytix Biopharma ASA,LYTIX.OL,29.43,0.661
+102,Archer Limited,ARCH.OL,14.22,0.344
+103,Lerøy Seafood Group ASA,LSG.OL,8.57,0.214
+104,Hafnia Limited,HAFNI.OL,13.11,0.33
+105,Lumi Education Group AS,LUMI.OL,13.69,0.345
+106,AutoStore Holdings Ltd.,AUTO.OL,25.38,0.629
+107,Omda AS,OMDA.OL,14.56,0.429
+108,Norske Skog ASA,NSKOG.OL,20.23,0.597
+109,Eqva ASA,EQVA.OL,15.26,0.463
+110,Baltic Sea Properties AS,BALT.OL,4.76,0.151
+111,Ensurge Micropower ASA,ENSU.OL,33.53,0.96
+112,Questerre Energy Corporation,QEC.OL,14.71,0.493
+113,TGS ASA,TGS.OL,10.56,0.364
+114,Tinde Sparebank,TINDE.OL,3.49,0.128
+115,Byggma ASA,BMA.OL,9.02,0.332
+116,Saga Pure ASA,SAGA.OL,3.58,0.14
+117,Inin Group AS,ININ.OL,10.47,0.41
+118,Borregaard ASA,BRG.OL,4.6,0.195
+119,Bouvet ASA,BOUV.OL,5.4,0.23
+120,OKEA ASA,OKEA.OL,9.99,0.422
+121,S.D. Standard ETC Plc,SDSD.OL,2.55,0.116
+122,Nidaros Sparebank,NISB.OL,3.67,0.179
+123,Photocure ASA,PHO.OL,7.58,0.393
+124,Havila Kystruten AS,HKY.OL,8.09,0.432
+125,Tomra Systems ASA,TOM.OL,8.67,0.487
+126,Komplett ASA,KOMPL.OL,10.07,0.568
+127,NRC Group ASA,NRC.OL,9.2,0.554
+128,5th Planet Games A/S,5PG.OL,11.53,0.764
+129,Gentian Diagnostics ASA,GENT.OL,5.6,0.391
+130,Axactor ASA,ACR.OL,5.15,0.38
+131,M Vest Water AS,MVW.OL,4.81,0.394
+132,Ventura Offshore Holding Ltd.,VTURA.OL,4.38,0.372
+133,Barramundi Group Ltd.,BARRA.OL,17.14,1.4
+134,Voim ASA,VOIM.OL,15.27,1.578
+135,Kongsberg Automotive ASA,KOA.OL,3.56,0.395
+136,Paratus Energy Services Ltd.,PLSV.OL,1.89,0.231
+137,Nordhealth AS,NORDH.OL,1.99,0.248
+138,Arribatec Group ASA,ARR.OL,5.13,0.768
+139,Arctic Bioscience AS,ABS.OL,4.41,0.818
+140,Tekna Holding ASA,TEKNA.OL,1.28,0.575
+141,BEWI ASA,BEWI.OL,-0.06,0.486
+142,Ayfie International AS,AIX.OL,-0.35,0.777
+143,Western Bulk Chartering AS,WEST.OL,-0.77,0.364
+144,Hermana Holding ASA,HERMA.OL,-1.65,0.413
+145,P/F Bakkafrost,BAKKA.OL,-1.13,0.253
+146,Hexagon Composites ASA,HEX.OL,-3.97,0.673
+147,Oncoinvent ASA,ONCIN.OL,-7.4,1.078
+148,Nordic Technology Group AS,NTG.OL,-7.3,0.815
+149,Gyldendal ASA,GYL.OL,-1.98,0.215
+150,Agilyx ASA,AGLX.OL,-3.97,0.404
+151,Huddly AS,HDLY.OL,-9.18,0.811
+152,Hofseth BioCare ASA,HBC.OL,-8.64,0.629
+153,Green Minerals AS,GEM.OL,-12.58,0.769
+154,Golden Energy Offshore Services ASA,GEOS.OL,-11.92,0.546
+155,ALNG ASA,ALNG.OL,-10.81,0.473
+156,Gulf Keystone Petroleum Limited,GKP.OL,-8.12,0.349
+157,Nykode Therapeutics AS,NYKD.OL,-15.8,0.676
+158,IDEX Biometrics ASA,IDEX.OL,-25.84,1.15
+159,Aqualis ASA,AQUA.OL,-6.16,0.222
+160,Scana ASA,SCANA.OL,-9.14,0.332
+161,Induct AS,INDCT.OL,-27.42,1.032
+162,ContextVision AB (publ),CONTX.OL,-10.15,0.346
+163,Webstep ASA,WSTEP.OL,-9.03,0.236
+164,Kongsberg Maritime ASA,KMAR.OL,-12.38,0.306
+165,Pelagic Credit Plc,PLGC.OL,-13.16,0.311
+166,Nel ASA,NEL.OL,-25.51,0.618
+167,Borr Drilling Limited,BORR.OL,-19.02,0.428
+168,Hexagon Purus ASA,HPUR.OL,-40.17,0.937
+169,Nordic Mining ASA,NOM.OL,-29.9,0.61
+170,NOS Nova AS,NOSN.OL,-24.55,0.467
+171,Salmon Evolution ASA,SALME.OL,-12.95,0.229
+172,Arctic Fish Holding AS,AFISH.OL,-28.3,0.499
+173,Kaldvik AS,KLDVK.OL,-29.93,0.514
+174,Prosafe SE,PRS.OL,-42.63,0.749
+175,The Kingfish Company N.V.,KING.OL,-38.62,0.632
+176,Appear ASA,APR.OL,-41.33,0.686
+177,Elliptic Laboratories ASA,ELABS.OL,-33.67,0.516
+178,Capsol Technologies ASA,CAPSL.OL,-23.89,0.327
+179,Itera ASA,ITERA.OL,-15.06,0.171
+180,Havila Shipping ASA,HAVI.OL,-43.03,0.575
+181,Icelandic Salmon AS,ISLAX.OL,-27.41,0.276
+182,ShaMaran Petroleum Ltd.,SNM.OL,-33.66,0.314
+183,Navamedic ASA,NAVA.OL,-27.92,0.21
+184,Gold Road International p.l.c.,GOLDR.OL,-38.35,
+185,Polar Resources AS,POLAR.OL,-6.81,

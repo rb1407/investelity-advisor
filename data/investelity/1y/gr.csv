@@ -1,0 +1,108 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Athens Water Supply and Sewerage Company S.A.,EYDAP.AT,111.09,0.226,0.739,No
+2,Vidavo S.A.,VIDAVO.AT,123.11,0.246,0.814,Yes
+3,Ble Kedros REIC,BLEKEDROS.AT,22.51,0.067,0.121,Yes
+4,Karelia Tobacco Company Inc.,KARE.AT,29.78,0.104,0.083,Yes
+5,Public Power Corporation S.A.,PPC.AT,90.52,0.272,0.947,Yes
+6,N. Varveris-Moda Bagno S.A.,MODA.AT,34.21,0.13,0.272,Yes
+7,Real Consulting S.A.,REALCONS.AT,78.66,0.265,1.079,Yes
+8,Austriacard Holdings AG,ACAG.AT,122.64,0.372,1.638,Yes
+9,Kri-Kri Milk Industry S.A.,KRI.AT,97.26,0.328,0.913,Yes
+10,Thessaloniki Water Supply & Sewerage Co S.A.,EYAPS.AT,34.13,0.148,0.221,Yes
+11,Interlife General Insurance Company S.A.,INLIF.AT,51.91,0.234,0.678,Yes
+12,National Bank of Greece S.A.,ETE.AT,49.72,0.23,0.954,Yes
+13,Titan S.A.,TITC.AT,75.17,0.329,1.081,Yes
+14,ASE Composite Index,GD.AT,36.98,0.183,1.0,Yes
+15,Pipe Works L. Girakian Profil S.A.,PROFK.AT,69.03,0.309,0.413,No
+16,Cenergy Holdings SA,CENER.AT,121.15,0.478,1.172,Yes
+17,Bank of Cyprus Holdings Public Limited Company,BOCHGR.AT,48.35,0.25,1.217,Yes
+18,Performance Technologies S.A.,PERF.AT,81.76,0.386,0.437,Yes
+19,BriQ Properties Real Estate Investment Company,BRIQ.AT,19.63,0.121,0.235,Yes
+20,Trek Development of Infrastructures and Services S.A.,TREK.AT,106.18,0.515,0.255,Yes
+21,Admie Holding S.A.,ADMIE.AT,61.53,0.347,1.018,Yes
+22,Flour Mills C. Sarantopoulos S.A.,KYSA.AT,43.56,0.262,0.711,No
+23,Hellenic Telecommunications Organization S.A.,HTO.AT,34.64,0.221,0.195,Yes
+24,Optima bank S.A.,OPTIMA.AT,61.08,0.36,1.268,Yes
+25,Alpha Trust Andromeda Investment Trust S.A.,ANDRO.AT,29.37,0.193,0.838,Yes
+26,Avax S.A.,AVAX.AT,59.3,0.366,1.285,Yes
+27,Euronext Athens Holding S.A.,EXAE.AT,34.01,0.228,0.233,No
+28,Piraeus Bank S.A.,TPEIR.AT,64.2,0.395,1.971,Yes
+29,Coca-Cola HBC AG,EEE.AT,47.6,0.318,0.404,Yes
+30,Dimand S.A.,DIMAND.AT,36.38,0.259,0.555,Yes
+31,European Innovation Solutions S.A.,EIS.AT,81.06,0.501,0.347,Yes
+32,Trade Estates REIC,TRESTATES.AT,19.59,0.159,0.443,Yes
+33,AS Commercial Industrial Company of Computers and Toys S.A.,ASCO.AT,24.93,0.206,0.456,Yes
+34,Alpha Bank S.A.,ALPHA.AT,39.96,0.32,1.672,Yes
+35,Eurobank S.A.,EUROB.AT,29.71,0.251,1.3,Yes
+36,Elastron S.A. - Steel Service Centers,ELSTR.AT,24.68,0.222,0.7,Yes
+37,Cnl Capital E.K.E.S. - AIFM,CNLCAP.AT,20.33,0.196,0.414,Yes
+38,Gr. Sarantis S.A.,SAR.AT,17.41,0.186,0.225,Yes
+39,Ideal Holdings S.A.,INTEK.AT,22.54,0.241,0.575,Yes
+40,Philippos Nakas S.A.,NAKAS.AT,16.5,0.186,0.255,Yes
+41,Revoil S.A.,REVOIL.AT,15.59,0.179,0.334,Yes
+42,Domiki Kritis S.A.,DOMIK.AT,46.44,0.495,1.101,Yes
+43,Elvalhalcor Hellenic Copper and Aluminium Industry S.A.,ELHA.AT,55.83,0.579,1.888,Yes
+44,SOFTWeb Adaptive I.T. Solutions SA,SOFTWEB.AT,77.87,0.763,0.092,Yes
+45,Alumil Aluminium Industry S.A.,ALMY.AT,19.45,0.242,0.677,Yes
+46,Medicon Hellas S.A.,MEDIC.AT,15.94,0.202,0.485,Yes
+47,Thessaloniki Port Authority Societe Anonyme,OLTH.AT,18.06,0.232,0.328,Yes
+48,Papoutsanis S.A.,PAP.AT,31.97,0.397,0.058,Yes
+49,Logismos Information Systems S.A.,LOGISMOS.AT,19.81,0.258,0.501,Yes
+50,J. & B. Ladenis Bros S.A. - Minerva - Knitwear Manufacturing Company,MIN.AT,28.27,0.368,0.978,Yes
+51,Orilina Properties REIC S.A.,ORILINA.AT,8.66,0.125,0.172,Yes
+52,Autohellas S.A.,OTOEL.AT,15.56,0.235,1.183,Yes
+53,Fais Holding Societe Anonyme,FAIS.AT,10.92,0.168,0.455,Yes
+54,Athens International Airport S.A.,AIA.AT,9.42,0.16,0.594,Yes
+55,Loulis Food Ingredients S.A.,KYLO.AT,6.4,0.113,0.451,Yes
+56,Ilyda SA,ILYDA.AT,39.93,0.676,0.74,No
+57,N. Leventeris S.A.,LEBEK.AT,17.06,0.348,0.354,No
+58,Alter Ego Media S.A.,AEM.AT,9.78,0.231,0.856,Yes
+59,Metlen Energy & Metals PLC,MTLN.AT,14.72,0.385,1.453,Yes
+60,Nafpaktos Textile Industry S.A.,NAYP.AT,14.31,0.425,0.546,No
+61,Y/Knot Invest S.A.,YKNOT.AT,22.14,0.841,3.512,Yes
+62,Unibios Holdings S.A.,BIOSK.AT,5.33,0.256,0.244,No
+63,Plastika Kritis S.A.,PLAKR.AT,3.01,0.165,0.63,Yes
+64,Elton International Trading Company S.A.,ELTON.AT,3.87,0.215,0.202,Yes
+65,Premia Real Estate Investment Company Societe Anonyme,PREMIA.AT,1.39,0.145,0.221,Yes
+66,Piraeus Port Authority S.A.,PPA.AT,1.49,0.201,0.41,Yes
+67,Emporiki Eisagogiki Aftokiniton Ditrohon kai Mihanon Thalassis Societe Anonyme,MOTO.AT,0.36,0.17,0.224,Yes
+68,Fourlis Holdings S.A.,FOYRK.AT,-0.03,0.164,0.187,Yes
+69,Mevaco S.A.,MEVA.AT,-1.18,0.16,0.027,Yes
+70,Intertech S.A. Inter. Technologies,INTET.AT,-2.74,0.312,0.758,Yes
+71,Mediterra S.A.,MASTIHA.AT,-1.06,0.082,0.087,No
+72,Bally's Intralot S.A.,BYLOT.AT,-4.65,0.335,0.653,Yes
+73,Jumbo S.A.,BELA.AT,-4.46,0.234,0.437,Yes
+74,Flexopack Société Anonyme Commercial and Industrial Plastics Company,FLEXO.AT,-3.85,0.132,0.439,Yes
+75,Wool Industry Tria Alfa S.A.,AAAK.AT,-20.0,0.628,0.705,Yes
+76,Mathios Refractories S.A.,MATHIO.AT,-17.73,0.531,1.526,Yes
+77,MIG Holdings S.A.,MIG.AT,-7.95,0.221,0.932,Yes
+78,Kordellos Ch. Bros S.A.,KORDE.AT,-9.8,0.254,0.88,Yes
+79,Phoenix Vega Mezz Plc,PVMEZZ.AT,-14.96,0.37,0.273,Yes
+80,Dromeas SA,DROME.AT,-9.43,0.214,0.508,Yes
+81,Petros Petropoulos AEVE,PETRO.AT,-5.98,0.131,0.44,Yes
+82,Mermeren Kombinat AD,MERKO.AT,-8.89,0.197,0.159,Yes
+83,Biokarpet S.A.,BIOKA.AT,-8.89,0.19,0.458,Yes
+84,Evropi Holdings Societe Anonyme,EVR.AT,-13.01,0.273,0.946,Yes
+85,E. Pairis S.A.,PAIR.AT,-13.69,0.253,0.519,Yes
+86,Galaxy Cosmos Mezz Plc,GCMEZZ.AT,-22.33,0.419,1.086,Yes
+87,SunriseMezz PLC,SUNMEZZ.AT,-23.89,0.407,0.851,Yes
+88,Kekrops S.A.,KEKR.AT,-23.7,0.357,1.615,Yes
+89,Frigoglass S.A.I.C.,FRIGO.AT,-22.16,0.33,0.988,Yes
+90,Vogiatzoglou Systems S.A.,VOSYS.AT,-8.34,0.115,0.233,Yes
+91,Attica Holdings S.A.,ATTICA.AT,-17.97,0.259,0.634,Yes
+92,Elinoil Hellenic Petroleum Company S.A.,ELIN.AT,-11.39,0.148,0.187,Yes
+93,Iktinos Hellas S.A. Greek Marble Industry Technical and Touristic Company,IKTIN.AT,-20.45,0.27,0.959,Yes
+94,AVE S.A.,AVE.AT,-11.49,0.143,0.135,No
+95,Lanakam S.A.,LANAC.AT,-34.28,0.481,0.811,No
+96,Cairo Mezz Plc,CAIROMEZ.AT,-37.42,0.528,0.506,Yes
+97,CPI Computer Peripherals International,CPI.AT,-19.74,0.245,0.888,Yes
+98,Trastor Real Estate Investment Company SA,TRASTOR.AT,-23.4,0.293,0.185,No
+99,LAMDA Development S.A.,LAMDA.AT,-17.8,0.2,0.718,Yes
+100,Allwyn AG,ALWN.AT,-25.17,0.294,0.799,Yes
+101,Athens Medical C.S.A.,IATR.AT,-21.62,0.23,0.395,Yes
+102,Centric Holdings S.A.,CENTR.AT,-15.37,0.15,0.412,Yes
+103,Onyx Touristiki Societe Anonyme,ONYX.AT,-32.45,0.332,0.03,No
+104,CrediaBank S.A.,CREDIA.AT,-36.19,0.311,0.656,Yes
+105,EL. D. Mouzakis S.A.,MOYZK.AT,-27.34,0.212,0.19,Yes
+106,Attica Publications S.A.,ATEK.AT,-36.79,0.15,0.041,No
+107,Attica Department Stores S.A.,ADPS.AT,-33.96,,,

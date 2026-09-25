@@ -1,0 +1,1861 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,RBC Enhanced North American Value Fund,RNVL.NE,32.36,0.027,,
+2,RBC Enhanced Quant Canadian Dividend Leaders Fund,RCDL.NE,32.37,0.028,,
+3,Brookfield Corporation,BN-PFE.TO,23.97,0.038,0.029,Yes
+4,Pembina Pipeline Corporation,PPL-PQ.TO,11.57,0.02,0.079,No
+5,Pembina Pipeline Corporation,PPL-PG.TO,15.14,0.027,0.131,Yes
+6,Brookfield Corporation,BN-PR.TO,28.76,0.048,0.199,No
+7,Brookfield Corp,BN-PB.TO,20.58,0.036,0.168,No
+8,RFA Financial Inc.,RFA-PI.TO,23.77,0.042,0.072,No
+9,Enbridge Inc.,ENB-PFG.TO,23.19,0.046,0.148,Yes
+10,Brookfield Corporation,BN-PFK.TO,19.99,0.044,0.821,No
+11,Brookfield Corporation,BN-PT.TO,28.16,0.062,0.041,No
+12,Pembina Pipeline Corporation,PPL-PC.TO,12.04,0.029,0.112,Yes
+13,Partners Value Split Corp.,PVS-PH.TO,4.7,0.012,0.081,Yes
+14,Brookfield Renewable Power Preferred Equity Inc.,BRF-PB.TO,18.13,0.043,0.101,Yes
+15,IGM Financial Inc.,IGM.TO,86.17,0.165,0.398,Yes
+16,Brookfield Corporation,BN-PFG.TO,19.74,0.047,0.035,Yes
+17,TransAlta Corporation,TA-PH.TO,10.44,0.026,0.176,Yes
+18,Enbridge Inc.,ENB-PFV.TO,12.86,0.032,0.217,Yes
+19,Pembina Pipeline Corporation,PPL-PA.TO,12.6,0.032,0.107,Yes
+20,Laurentian Bank of Canada,LB-PH.TO,13.33,0.034,0.138,Yes
+21,National Bank of Canada,NA-PS.TO,11.15,0.029,0.038,No
+22,Capital Power Corp,CPX-PC.TO,9.27,0.025,0.008,Yes
+23,National Bank of Canada,NA-PK.TO,11.3,0.031,0.006,Yes
+24,Enbridge Inc.,ENB-PFA.TO,21.78,0.058,0.303,Yes
+25,National Bank of Canada,NA-PG.TO,8.57,0.024,0.028,Yes
+26,CU Inc,CIU-PC.TO,33.97,0.087,0.255,No
+27,Brookfield Corporation,BN-PFM.TO,11.7,0.033,0.105,No
+28,TC Energy Corporation,TRP-PF.TO,27.26,0.072,0.23,Yes
+29,Tamarack Valley Energy Ltd.,TVE.TO,152.16,0.287,0.281,Yes
+30,Brookfield Office Properties Inc,BPO-PT.TO,36.11,0.094,0.221,Yes
+31,Algonquin Power & Utilities Corp,AQN-PD.TO,11.87,0.034,0.015,No
+32,Algonquin Power & Utilities Corp,AQN-PA.TO,13.13,0.038,0.038,Yes
+33,Pembina Pipeline Corporation,PPL-PE.TO,12.98,0.037,0.08,Yes
+34,Fortis Inc.,FTS-PM.TO,12.81,0.037,0.238,Yes
+35,Canaccord Genuity Group Inc.,CF-PA.TO,29.43,0.08,0.068,Yes
+36,Enbridge Inc.,ENB-PP.TO,24.53,0.069,0.383,Yes
+37,BCE Inc.,BCE-PK.TO,26.24,0.075,0.541,Yes
+38,Enbridge Inc,ENB-PB.TO,28.32,0.081,0.096,Yes
+39,Emera Incorporated,EMA-PH.TO,11.84,0.036,0.042,Yes
+40,Enbridge Inc,ENB-PF.TO,23.57,0.069,0.154,Yes
+41,Enbridge Inc.,ENB-PFC.TO,23.2,0.069,0.337,Yes
+42,Altius Minerals Corporation,ALS.TO,111.65,0.254,0.692,Yes
+43,Citadel Income Fund,CTF-UN.TO,28.71,0.084,1.154,No
+44,Firm Capital Property Trust,FCD-UN.TO,28.22,0.083,0.16,Yes
+45,"Mitsubishi UFJ Financial Group, Inc.",MUFG.NE,67.0,0.174,0.445,Yes
+46,Source Rock Royalties Ltd.,SRR.V,41.74,0.118,0.542,No
+47,Brookfield Office Properties Inc.,BPO-PG.TO,32.84,0.096,0.132,No
+48,TC Energy Corp,TRP-PD.TO,16.51,0.052,0.178,Yes
+49,TC Energy Corporation,TRP-PC.TO,27.65,0.083,0.284,Yes
+50,Brookfield Office Properties Inc.,BPO-PA.TO,39.46,0.114,0.231,Yes
+51,Brookfield Office Properties Inc,BPO-PR.TO,46.2,0.131,0.025,No
+52,Canoe EIT Income,EIT-UN.TO,24.25,0.075,0.491,Yes
+53,Enbridge Inc.,ENB-PJ.TO,22.21,0.069,0.337,Yes
+54,Brookfield Office Properties Inc,BPO-PE.TO,30.88,0.094,0.039,Yes
+55,Manulife Financial Corp,MFC-PM.TO,16.09,0.052,0.211,Yes
+56,BCE Inc.,BCE-PT.TO,24.47,0.077,0.136,Yes
+57,Premium Global Income Split Fund,PGIC.TO,40.18,0.12,0.462,Yes
+58,Cavvy Energy Ltd.,CVVY.TO,249.45,0.461,1.607,No
+59,ATCO Ltd.,ACO-X.TO,59.12,0.167,0.019,Yes
+60,Royal Bank of Canada,RY-PS.TO,9.01,0.031,0.007,Yes
+61,Canadian Large Cap Leaders Split Corp.,NPS.TO,73.04,0.2,0.626,Yes
+62,BCE Inc.,BCE-PG.TO,27.6,0.088,0.11,No
+63,Brookfield Renewable Partners L.P.,BEP-PR.TO,15.67,0.052,0.085,Yes
+64,Canadian Utilities Ltd,CU-PC.TO,13.23,0.045,0.269,Yes
+65,Real Estate Split Corp.,RS-PA.TO,7.19,0.025,0.064,No
+66,Russel Metals Inc.,RUS.TO,98.34,0.255,0.142,Yes
+67,Canadian Net Real Estate Investment Trust,NET-UN.V,35.84,0.113,0.313,No
+68,Elevate Service Group Inc.,SERV.V,113.07,0.285,0.842,No
+69,The Toronto-Dominion Bank,TD.TO,64.32,0.185,0.568,Yes
+70,Enbridge Inc.,ENB-PFU.TO,11.27,0.039,0.308,Yes
+71,Fortis Inc.,FTS-PG.TO,12.13,0.043,0.132,Yes
+72,New Stratus Energy Inc.,NSE.V,128.29,0.318,1.29,No
+73,Sun Life Financial Inc.,SLF-PJ.TO,26.4,0.088,0.225,Yes
+74,Capstone Infrastructure Corporation,CSE-PA.TO,38.27,0.122,0.346,No
+75,Sun Life Financial Inc.,SLF-PG.TO,25.86,0.087,0.241,Yes
+76,Whitecap Resources Inc.,WCP.TO,92.01,0.253,0.094,No
+77,TransAlta Corporation,TA-PD.TO,26.87,0.091,0.326,Yes
+78,Enbridge Inc.,ENB-PD.TO,25.07,0.085,0.359,Yes
+79,Headwater Exploration Inc.,HWX.TO,119.36,0.307,1.053,Yes
+80,North American Financial 15 Split Corp,FFN-PA.TO,7.67,0.028,0.152,Yes
+81,Power Corporation of Canada,POW-PI.TO,6.14,0.023,0.136,No
+82,Bird Construction Inc.,BDT.TO,161.18,0.384,1.412,No
+83,The Bank of Nova Scotia,BNS.TO,54.43,0.17,0.718,Yes
+84,Great-West Lifeco Inc.,GWO.TO,73.03,0.217,0.405,Yes
+85,Enbridge Inc.,ENB-PY.TO,25.73,0.089,0.437,Yes
+86,PrairieSky Royalty Ltd.,PSK.TO,52.55,0.167,0.224,Yes
+87,BCE Inc.,BCE-PM.TO,22.27,0.079,0.293,Yes
+88,Brookfield Renewable Partners L.P.,BEP-PM.TO,10.75,0.04,0.048,Yes
+89,TC Energy Corporation,TRP-PB.TO,25.23,0.089,0.438,Yes
+90,Enbridge Inc,ENB-PT.TO,19.95,0.072,0.314,Yes
+91,Manulife Financial Corp,MFC-PQ.TO,9.62,0.036,0.138,Yes
+92,TransAlta Corporation,TA-PJ.TO,11.1,0.042,0.199,Yes
+93,Brookfield Office Properties Inc.,BPO-PP.TO,46.12,0.152,0.214,Yes
+94,Manulife Financial Corporation,MFC-PF.TO,28.81,0.102,0.224,No
+95,BCE Inc.,BCE-PL.TO,29.0,0.103,0.699,Yes
+96,National Bank of Canada,NA-PI.TO,7.64,0.03,0.036,Yes
+97,BCE Inc.,BCE-PI.TO,22.98,0.084,0.198,Yes
+98,Partners Value Split Corp.,PVS-PV.TO,10.07,0.039,0.157,Yes
+99,High Arctic Overseas Holdings Corp.,HOH.V,155.37,0.394,0.376,Yes
+100,Westshore Terminals Investment Corporation,WTE.TO,85.41,0.258,0.389,Yes
+101,Canadian Utilities Limited,CU.TO,44.39,0.152,0.302,Yes
+102,Extendicare Inc.,EXE.TO,136.24,0.363,1.427,Yes
+103,Spartan Delta Corp.,SDE.TO,183.79,0.445,0.097,Yes
+104,Pembina Pipeline Corporation,PPL-PO.TO,11.82,0.046,0.114,No
+105,Enbridge Inc.,ENB-PV.TO,11.08,0.043,0.283,Yes
+106,Manulife Financial Corporation,MFC-PL.TO,14.39,0.056,0.244,Yes
+107,Brookfield Office Properties Inc.,BPO-PX.TO,22.89,0.086,0.02,No
+108,Ecora Royalties PLC,ECOR.TO,119.22,0.336,0.083,No
+109,Power Financial Corporation,PWF-PP.TO,32.13,0.117,0.055,No
+110,Canoe EIT Income Fund,EIT-PB.TO,6.11,0.025,0.055,No
+111,Prime Dividend Corp.,PDV.TO,80.85,0.254,0.065,No
+112,Canaccord Genuity Group Inc.,CF-PC.TO,12.15,0.048,0.012,No
+113,Brookfield Office Properties Inc.,BPO-PN.TO,46.52,0.162,0.12,Yes
+114,Capital Power Corp,CPX-PE.TO,8.16,0.033,0.058,No
+115,Fortis Inc.,FTS-PK.TO,16.87,0.066,0.126,Yes
+116,Mullen Group Ltd.,MTL.TO,114.42,0.331,0.703,Yes
+117,Intact Financial Corporation,IFC-PG.TO,10.4,0.042,0.188,No
+118,Power Corporation of Canada,POW.TO,66.43,0.219,0.307,Yes
+119,Emera Incorporated,EMA-PC.TO,11.32,0.046,0.023,No
+120,Economic Investment Trust Limited,EVT.TO,34.43,0.127,0.148,Yes
+121,Brookfield Corporation,BN-PZ.TO,13.68,0.055,0.012,No
+122,BCE Inc.,BCE-PH.TO,19.55,0.076,0.057,Yes
+123,Banyan Gold Corp.,BYN.V,205.01,0.499,3.528,Yes
+124,Manulife Financial Corporation,MFC-PN.TO,13.83,0.056,0.353,Yes
+125,Total Energy Services Inc.,TOT.TO,154.5,0.416,0.694,No
+126,Canadian Utilities Limited,CU-PK.TO,5.93,0.025,0.064,Yes
+127,Purpose RBC RY Yield Shares ETF CAD Income,RBCY.NE,50.0,0.177,0.377,Yes
+128,KP Tissue Inc.,KPT.TO,47.77,0.171,0.804,Yes
+129,Lara Exploration Ltd.,LRA.V,116.61,0.345,0.294,Yes
+130,Dividend 15 Split Corp. II,DF.TO,53.42,0.189,0.241,Yes
+131,Blue Moon Metals Inc.,MOON.V,217.9,0.527,0.738,No
+132,The Western Investment Company of Canada Limited,WI.V,95.36,0.3,1.575,Yes
+133,Alaris Equity Partners Income Trust,AD-UN.TO,38.77,0.145,0.765,Yes
+134,Enbridge Inc.,ENB-PN.TO,14.15,0.058,0.039,Yes
+135,Dividend Select 15 Corp.,DS.TO,30.01,0.117,0.7,Yes
+136,Fortis Inc.,FTS-PH.TO,18.93,0.077,0.218,Yes
+137,Cardinal Energy Ltd.,CJ.TO,77.74,0.261,0.142,Yes
+138,RFA Financial Inc.,RFA-PE.TO,28.61,0.113,0.039,No
+139,TDb Split Corp.,XTD.TO,139.66,0.404,0.778,Yes
+140,Royal Bank of Canada,RY.TO,48.62,0.18,0.22,Yes
+141,Brompton Lifeco Split Corporation A,LCS.TO,106.99,0.336,0.337,No
+142,"Banco Bilbao Vizcaya Argentaria, S.A.",BBVA.NE,72.33,0.249,0.17,Yes
+143,Cenovus Energy Inc.,CVE.TO,114.62,0.357,0.612,No
+144,National Bank of Canada,NA-PC.TO,6.26,0.028,0.02,Yes
+145,Life & Banc Split Corp.,LBS.TO,97.88,0.32,0.655,Yes
+146,Premium Income Corporation,PIC-A.TO,114.18,0.358,0.688,Yes
+147,Melcor Developments Ltd.,MRD.TO,33.94,0.135,0.147,No
+148,Freehold Royalties Ltd.,FRU.TO,41.03,0.16,0.644,Yes
+149,Canadian Banc Corp.,BK.TO,73.84,0.259,0.379,Yes
+150,Highwood Asset Management Ltd.,HAM.V,109.6,0.353,0.558,No
+151,CES Energy Solutions Corp.,CEU.TO,125.75,0.39,1.202,Yes
+152,Paramount Resources Ltd.,POU.TO,53.7,0.202,0.15,No
+153,NFI Group Inc.,NFI.TO,68.59,0.247,0.831,No
+154,Corby Spirit and Wine Limited,CSW-B.TO,23.16,0.097,0.412,Yes
+155,Brookfield Office Properties Inc.,BPO-PI.TO,27.52,0.114,0.011,No
+156,Brookfield Corporation,BN-PX.TO,16.34,0.071,0.015,No
+157,Canoe EIT Income Fund,EIT-PA.TO,6.58,0.03,0.052,Yes
+158,Manulife Financial Corporation,MFC-PK.TO,12.72,0.056,0.263,Yes
+159,Intact Financial Corporation,IFC-PA.TO,15.41,0.067,0.253,No
+160,Sun Life Financial Inc.,SLF-PK.TO,21.62,0.092,0.392,Yes
+161,Fortis Inc.,FTS-PI.TO,22.97,0.098,0.288,Yes
+162,Axo Metals Corp.,AXO.V,238.16,0.602,3.608,Yes
+163,Medexus Pharmaceuticals Inc.,MDP.TO,127.91,0.402,0.498,No
+164,Canadian Life Companies Split Corp.,LFE-PB.TO,11.44,0.051,0.133,No
+165,Baytex Energy Corp.,BTE.TO,140.62,0.43,0.436,Yes
+166,Premium Income Corp,PIC-PA.TO,11.19,0.051,0.091,Yes
+167,Brookfield Office Properties Inc.,BPO-PY.TO,25.94,0.111,0.207,No
+168,BCE Inc.,BCE-PZ.TO,19.21,0.084,0.449,Yes
+169,Morguard Real Estate Investment Trust,MRT-UN.TO,28.47,0.121,0.715,No
+170,South Bow Corporation,SOBO.TO,45.82,0.183,0.543,Yes
+171,Glacier Media Inc.,GVC.TO,160.89,0.478,0.358,No
+172,Arrow Exploration Corp.,AXL.V,150.99,0.458,2.24,No
+173,Surge Energy Inc.,SGY.TO,80.33,0.289,0.138,No
+174,Knight Therapeutics Inc.,GUD.TO,77.37,0.281,0.895,No
+175,Canadian Imperial Bank of Commerce,CM.TO,52.45,0.206,0.936,Yes
+176,Brookfield Corporation,BN-PFI.TO,6.13,0.029,0.116,Yes
+177,S&P/TSX Composite Index,^GSPTSE,23.48,0.103,1.0,Yes
+178,Magellan Aerospace Corporation,MAL.TO,137.05,0.435,2.222,Yes
+179,Manulife Financial Corp,MFC-PI.TO,6.4,0.03,0.033,Yes
+180,Dividend 15 Split Corp.,DFN.TO,54.11,0.215,0.109,No
+181,Centerra Gold Inc.,CG.TO,152.34,0.473,3.009,Yes
+182,Brompton Energy Split Corp Class A,ESP.TO,128.23,0.421,2.165,Yes
+183,Builders Capital Mortgage Corp.,BCF.V,19.41,0.088,0.416,Yes
+184,Canadian Banc Corp,BK-PA.TO,5.43,0.026,0.035,Yes
+185,Avante Corp.,XX.V,124.31,0.413,2.562,No
+186,Atlas Salt Inc.,SALT.V,182.33,0.536,2.716,Yes
+187,Sun Life Financial Inc.,SLF-PH.TO,18.39,0.084,0.056,No
+188,Exco Technologies Limited,XTC.TO,34.46,0.148,0.635,Yes
+189,Savaria Corporation,SIS.TO,48.37,0.199,0.179,No
+190,Primaris Real Estate Investment Trust,PMZ-UN.TO,54.11,0.22,0.838,Yes
+191,Bombardier Inc.,BBD-PC.TO,12.53,0.06,0.333,Yes
+192,Sustainable Innovation & Health Dividend Fund,SIH-UN.TO,42.83,0.184,0.844,Yes
+193,Partners Value Split Corp.,PVS-PJ.TO,4.85,0.024,0.073,Yes
+194,Pembina Pipeline Corporation,PPL-PFE.TO,8.44,0.041,0.014,No
+195,Calfrac Well Services Ltd.,CFW.TO,136.8,0.455,0.335,No
+196,Canadian Life Companies Split Corp.,LFE.TO,67.87,0.269,0.423,No
+197,Peyto Exploration & Development Corp.,PEY.TO,54.55,0.226,0.121,Yes
+198,Exchange Income Corporation,EIF.TO,84.88,0.321,0.898,Yes
+199,BCE Inc.,BCE-PC.TO,16.87,0.08,0.358,Yes
+200,Emera Incorporated,EMA-PJ.TO,15.61,0.075,0.213,Yes
+201,BMO Broad Commodity ETF - CAD Units,ZCOM.NE,49.86,0.211,0.855,No
+202,Lotus Creek Exploration Inc.,LTC.V,218.85,0.624,1.226,No
+203,Clairvest Group Inc.,CVG.TO,16.19,0.078,0.474,No
+204,Bombardier Inc.,BBD-PD.TO,22.63,0.107,0.002,No
+205,Quarterhill Inc.,QTRH.TO,201.28,0.599,1.663,No
+206,Zefiro Methane Corp.,ZEFI.NE,204.73,0.606,0.34,Yes
+207,Manulife Financial Corporation,MFC.TO,47.7,0.206,0.197,No
+208,Brookfield Renewable Power Preferred Equity Inc,BRF-PC.TO,13.5,0.066,0.108,Yes
+209,Great-West Lifeco Inc.,GWO-PN.TO,27.55,0.128,0.036,Yes
+210,Air Canada,AC.TO,67.03,0.274,1.581,Yes
+211,Brompton Split Banc Corp.,SBC.TO,93.15,0.354,1.678,Yes
+212,Enbridge Inc,ENB-PH.TO,16.74,0.082,0.35,Yes
+213,Pro Real Estate Investment Trust,PRV-UN.TO,26.37,0.125,0.31,Yes
+214,Element 29 Resources Inc.,ECU.V,220.44,0.648,1.477,No
+215,Brookfield Infrastructure Partners L.P.,BIP-PE.TO,11.53,0.058,0.255,Yes
+216,BCE Inc.,BCE-PD.TO,16.83,0.083,0.058,Yes
+217,Emera Incorporated,EMA-PF.TO,14.07,0.071,0.093,Yes
+218,Vulcan Minerals Inc.,VUL.V,182.77,0.588,1.97,Yes
+219,Elysee Development Corp.,ELC.V,44.66,0.203,0.731,No
+220,BCE Inc.,BCE-PE.TO,17.35,0.087,0.225,Yes
+221,Financial 15 Split Corp.,FTN.TO,57.74,0.254,0.36,Yes
+222,BP Silver Corp.,BPAG.V,228.19,0.684,4.373,Yes
+223,Aimia Inc.,AIM-PC.TO,15.42,0.08,0.143,Yes
+224,Kelt Exploration Ltd.,KEL.TO,65.86,0.286,0.68,Yes
+225,Precision Drilling Corporation,PD.TO,77.21,0.325,0.536,No
+226,Power Financial Corporation,PWF-PT.TO,12.2,0.064,0.14,Yes
+227,Sun Life Financial Inc.,SLF.TO,41.59,0.196,0.385,Yes
+228,Pembina Pipeline Corporation,PPL.TO,28.02,0.139,0.016,No
+229,Unisync Corp.,UNI.TO,142.24,0.51,0.778,Yes
+230,BCE Inc.,BCE-PA.TO,15.72,0.082,0.132,Yes
+231,Northland Power Inc,NPI-PA.TO,11.1,0.059,0.199,Yes
+232,Queen's Road Capital Investment Ltd.,QRC.TO,86.73,0.358,0.348,Yes
+233,BCE Inc.,BCE-PS.TO,23.74,0.12,0.311,Yes
+234,Q2 Metals Corp.,QTWO.V,248.69,0.738,3.034,Yes
+235,Enerflex Ltd.,EFX.TO,118.16,0.454,1.989,Yes
+236,Orogen Royalties Inc.,OGN.V,116.15,0.448,0.252,Yes
+237,Teck Resources Limited,TECK-B.TO,68.37,0.3,1.706,Yes
+238,Canadian Natural Resources Limited,CNQ.TO,76.07,0.327,0.059,Yes
+239,TransAlta Corp,TA-PG.TO,18.22,0.095,0.711,Yes
+240,AltaGas Ltd.,ALA-PG.TO,8.66,0.047,0.072,Yes
+241,Alvopetro Energy Ltd.,ALV.V,86.82,0.362,0.698,No
+242,Maple Gold Mines Ltd.,MGM.V,181.39,0.611,3.675,Yes
+243,NeuPath Health Inc.,NPTH.V,99.55,0.402,0.544,No
+244,Capital Power Corporation,CPX-PA.TO,17.11,0.09,0.481,No
+245,Teck Resources Limited,TECK-A.TO,68.31,0.303,1.708,Yes
+246,Nickel 28 Capital Corp.,NKL.V,72.99,0.32,0.299,Yes
+247,Frontera Energy Corporation,FEC.TO,196.62,0.649,0.021,Yes
+248,Aecon Group Inc.,ARE.TO,111.69,0.443,0.85,No
+249,Ovintiv Inc.,OVV.TO,81.7,0.351,0.294,No
+250,Infrastructure Dividend Split Corp.,IS.TO,33.52,0.168,0.947,Yes
+251,BCE Inc.,BCE-PB.TO,17.02,0.092,0.05,Yes
+252,Premium Global Income Split Fund,PGIC-PA.TO,9.42,0.052,0.09,No
+253,Trekor Metals Limited,TKO.TO,162.39,0.583,3.539,Yes
+254,Aya Gold & Silver Inc.,AYA.TO,217.45,0.705,5.759,Yes
+255,Linamar Corporation,LNR.TO,40.07,0.2,1.294,Yes
+256,BioRem Inc.,BRM.V,119.16,0.477,2.414,Yes
+257,BCE Inc.,BCE-PY.TO,16.92,0.093,0.222,Yes
+258,Global Dividend Growth Split Corp.,GDV-PA.TO,8.93,0.051,0.147,Yes
+259,Bank of Montreal,BMO.TO,40.92,0.207,0.661,Yes
+260,Brookfield Renewable Power Preferred Equity Inc.,BRF-PE.TO,13.7,0.077,0.251,Yes
+261,BCE Inc.,BCE-PF.TO,19.24,0.106,0.371,Yes
+262,Partners Value Split Corp.,PVS-PM.TO,5.48,0.032,0.102,Yes
+263,Power Financial Corporation,PWF-PA.TO,13.56,0.078,0.194,Yes
+264,American Eagle Gold Corp.,AE.V,142.69,0.565,0.799,No
+265,Sailfish Royalty Corp.,FISH.V,102.33,0.449,0.101,Yes
+266,G Mining Ventures Corp.,GMIN.TO,121.52,0.509,3.221,Yes
+267,National Bank of Canada,NA.TO,57.26,0.286,1.619,Yes
+268,DRI Healthcare Trust,DHT-U.TO,26.19,0.146,0.959,Yes
+269,Bonterra Energy Corp.,BNE.TO,83.8,0.389,0.96,No
+270,Rubellite Energy Corp.,RBY.TO,140.02,0.568,2.733,No
+271,Spanish Mountain Gold Ltd.,SPA.V,166.75,0.641,1.753,Yes
+272,Canadian National Railway Company,CNR.TO,40.72,0.218,1.545,Yes
+273,Algoma Central Corporation,ALC.TO,56.62,0.289,2.598,Yes
+274,Thesis Gold & Silver Inc.,TAU.V,128.44,0.54,3.193,Yes
+275,Topaz Energy Corp.,TPZ.TO,33.75,0.186,0.8,Yes
+276,K-Bro Linen Inc.,KBL.TO,41.11,0.221,0.909,Yes
+277,ConocoPhillips,ZCOP.NE,83.95,0.396,1.241,No
+278,Rockhaven Resources Ltd.,RK.V,202.66,0.738,2.373,Yes
+279,Omai Gold Mines Corp.,OMG.V,140.59,0.581,3.652,Yes
+280,Reko International Group Inc.,REKO.V,81.03,0.389,1.451,No
+281,Mineros S.A.,MSA.TO,119.39,0.52,3.167,Yes
+282,JFT Strategies Fund,JFS-UN.TO,15.33,0.092,0.06,No
+283,BCE Inc.,BCE-PR.TO,14.39,0.087,0.337,Yes
+284,Dexterra Group Inc.,DXT.TO,59.77,0.308,0.162,Yes
+285,Lundin Mining Corporation,LUN.TO,110.34,0.497,3.612,Yes
+286,Hamilton Enhanced U.S. Equity DayMAX ETF,SDAY.NE,19.84,0.119,0.425,Yes
+287,AltaGas Ltd.,ALA.TO,32.72,0.187,0.769,Yes
+288,Wall Financial Corporation,WFC.TO,57.06,0.301,2.033,Yes
+289,ProStar Holdings Inc.,MAPS.V,130.5,0.566,0.424,No
+290,Valeura Energy Inc.,VLE.TO,124.75,0.549,2.223,No
+291,Caldwell U.S. Dividend Advantage Fund,UDA.CN,24.77,0.147,0.857,Yes
+292,Brookfield Infrastructure Partners L.P.,BIP-PF.TO,10.29,0.065,0.294,Yes
+293,Gulf & Pacific Equities Corp.,GUF.V,49.78,0.271,0.39,Yes
+294,Athabasca Oil Corporation,ATH.TO,76.93,0.386,0.929,No
+295,Transcontinental Inc.,TCL-A.TO,134.77,0.586,4.084,No
+296,Western Energy Services Corp.,WRG.TO,68.0,0.351,2.23,No
+297,Suncor Energy Inc.,SU.TO,82.6,0.41,0.936,No
+298,Gran Tierra Energy Inc.,GTE.TO,231.67,0.84,1.655,No
+299,Bombardier Inc.,BBD-A.TO,73.96,0.378,2.675,Yes
+300,ASML Holding NV,ASMH.NE,107.05,0.502,0.099,Yes
+301,Evertz Technologies Limited,ET.TO,54.49,0.297,0.471,Yes
+302,Hudbay Minerals Inc.,HBM.TO,131.13,0.583,3.794,Yes
+303,Brookfield Corporation,BN-PFJ.TO,7.65,0.05,0.242,Yes
+304,TransAlta Corp,TA-PE.TO,22.0,0.135,0.916,Yes
+305,Minco Capital Corp.,MMM.V,155.3,0.661,2.387,No
+306,Montero Mining and Exploration Ltd.,MON.V,238.72,0.872,1.849,Yes
+307,Power Financial Corporation,PWF-PG.TO,6.47,0.043,0.073,Yes
+308,Keyera Corp.,KEY.TO,39.54,0.23,0.777,Yes
+309,Parex Resources Inc.,PXT.TO,86.44,0.436,1.549,No
+310,Big Banc Split Corp.,BNK.TO,39.16,0.229,0.889,Yes
+311,PJX Resources Inc.,PJX.V,229.47,0.858,0.003,Yes
+312,Ero Copper Corp.,ERO.TO,118.95,0.556,2.319,Yes
+313,ADF Group Inc.,DRX.TO,155.24,0.669,1.519,Yes
+314,CI High Yield Bond Private Pool ETF US$ Hedged Series,CGHY-U.TO,4.16,0.028,0.188,Yes
+315,Intact Financial Corporation,IFC-PM.TO,5.73,0.039,0.044,Yes
+316,Canaccord Genuity Group Inc.,CF.TO,48.01,0.276,1.44,Yes
+317,Emera Incorporated,EMA-PA.TO,17.8,0.114,0.121,No
+318,AGF Management Limited,AGF-B.TO,70.56,0.378,0.055,No
+319,Biomark Diagnostics Inc.,BUX.CN,60.45,0.334,1.312,Yes
+320,Quebecor Inc.,QBR-B.TO,54.65,0.308,0.946,Yes
+321,Silvercorp Metals Inc.,SVM.TO,149.61,0.662,5.215,Yes
+322,Hot Chili Limited,HCH.V,179.98,0.752,1.254,Yes
+323,ACT Energy Technologies Ltd.,ACX.TO,74.27,0.398,0.087,Yes
+324,BCE Inc.,BCE-PQ.TO,7.26,0.049,0.269,Yes
+325,White Gold Corp.,WGO.V,247.82,0.929,7.116,Yes
+326,Morocco Strategic Minerals Corporation,MCC.V,165.38,0.72,1.676,Yes
+327,Power Corporation of Canada,POW-PH.TO,6.55,0.045,0.221,No
+328,InPlay Oil Corp.,IPO.TO,63.42,0.356,0.617,No
+329,Lincoln Gold Mining Inc.,LMG.V,174.02,0.746,0.203,No
+330,Enbridge Inc,ENB-PA.TO,5.97,0.041,0.342,Yes
+331,Dividend Growth Split Corporation,DGS.TO,30.23,0.19,0.402,Yes
+332,TFI International Inc.,TFII.TO,69.7,0.384,1.706,Yes
+333,Cartier Resources Inc.,ECR.V,73.64,0.401,1.836,Yes
+334,Bombardier Inc.,BBD-B.TO,70.26,0.387,2.853,Yes
+335,Intrepid Metals Corp.,INTR.V,157.41,0.7,2.366,No
+336,Aritzia Inc.,ATZ.TO,75.0,0.408,2.013,Yes
+337,Cassiar Gold Corp.,GLDC.V,118.06,0.576,0.773,Yes
+338,Infield Minerals Corp.,IN.V,246.95,0.938,2.383,Yes
+339,Finning International Inc.,FTT.TO,53.45,0.314,1.053,Yes
+340,Canso Select Opportunities Corporation,CSOC-B.V,123.96,0.604,0.617,Yes
+341,Magna International Inc.,MG.TO,53.4,0.317,2.495,Yes
+342,Brookfield Renewable Power Preferred Equity Inc.,BRF-PF.TO,13.04,0.09,0.353,Yes
+343,Orezone Gold Corporation,ORE.TO,130.91,0.632,1.866,Yes
+344,PHX Energy Services Corp.,PHX.TO,104.93,0.54,1.85,Yes
+345,Nutrien Ltd.,NTR.TO,37.82,0.238,0.458,Yes
+346,Brookfield Office Properties Inc.,BPO-PW.TO,31.15,0.202,0.837,No
+347,GFG Resources Inc,GFG.V,57.23,0.34,0.069,No
+348,Copper Standard Resources Inc.,CSR.CN,64.96,0.377,1.7,Yes
+349,Gibson Energy Inc.,GEI.TO,31.47,0.205,0.342,Yes
+350,Brookfield Corporation,BN-PFA.TO,6.29,0.045,0.198,Yes
+351,ABB Ltd,ABB.NE,52.79,0.32,1.156,Yes
+352,Ensign Energy Services Inc.,ESI.TO,66.88,0.388,1.297,Yes
+353,International Petroleum Corporation,IPCO.TO,65.38,0.383,0.248,No
+354,Lithium Argentina AG,LAR.TO,184.14,0.815,4.382,Yes
+355,Restaurant Brands International Inc.,QSR.TO,28.83,0.191,0.451,Yes
+356,AbraSilver Resource Corp.,ABRA.TO,199.97,0.863,7.342,Yes
+357,The Toronto-Dominion Bank,TD-PFI.TO,6.62,0.048,0.113,Yes
+358,Aris Mining Corporation,ARIS.TO,171.21,0.782,4.835,Yes
+359,Journey Energy Inc.,JOY.TO,127.0,0.639,0.434,No
+360,Olive Resource Capital Inc.,OC.V,66.64,0.394,0.608,Yes
+361,George Weston Limited,WN-PA.TO,6.02,0.045,0.152,Yes
+362,E-L Financial Corporation Limited,ELF.TO,16.71,0.119,0.378,Yes
+363,Power Financial Corporation,PWF-PFA.TO,8.92,0.066,0.195,Yes
+364,Restaurant Brands International Limited Partnership,QSP-UN.TO,25.22,0.174,0.049,Yes
+365,Logan Energy Corp.,LGN.V,59.99,0.367,1.256,No
+366,Skeena Resources Limited,SKE.TO,116.01,0.611,4.478,Yes
+367,Alkane Resources Ltd,ALK.TO,128.0,0.655,3.379,Yes
+368,BioSyent Inc.,RX.V,51.42,0.325,2.609,Yes
+369,M Split Corp,XMF-PB.TO,11.44,0.084,0.256,No
+370,E-L Financial Corp Ltd,ELF-PF.TO,5.85,0.044,0.186,Yes
+371,DRI Healthcare Trust,DHT-UN.TO,25.96,0.181,0.183,Yes
+372,Fortune Minerals Limited,FT.TO,217.55,0.945,1.904,Yes
+373,BMO Global Health Care Active ETF Series,ZGHC.NE,28.3,0.196,0.542,Yes
+374,Aton Resources Inc.,AAN.V,181.23,0.842,1.07,No
+375,Adelphi Metals Inc.,ADP.CN,178.25,0.835,1.851,Yes
+376,Imperial Oil Limited,IMO.TO,61.81,0.384,0.052,Yes
+377,Inomin Mines Inc.,MINE.V,188.45,0.867,4.296,Yes
+378,Coppernico Metals Inc.,COPR.TO,230.65,0.988,1.382,Yes
+379,Saturn Oil & Gas Inc.,SOIL.TO,239.12,1.011,5.474,No
+380,The Caldwell Partners International Inc.,CWL.TO,80.03,0.475,1.315,Yes
+381,Northern Lights Resources Corp.,NLR.CN,183.76,0.859,0.6,No
+382,EQB Inc.,EQB.TO,50.3,0.327,0.296,Yes
+383,Yangarra Resources Ltd.,YGR.TO,82.8,0.489,2.399,No
+384,High Tide Resources Corp.,HTRC.CN,174.04,0.833,1.663,Yes
+385,Endurance Gold Corporation,EDG.V,192.59,0.893,0.376,No
+386,Jones Soda Co.,JSDA.CN,108.33,0.602,0.58,No
+387,UBS Group AG,UBS.NE,58.0,0.371,0.051,No
+388,Automotive Properties Real Estate Investment Trust,APR-UN.TO,14.0,0.105,0.578,Yes
+389,Rathdowney Resources Ltd.,RTH.V,184.09,0.87,0.509,Yes
+390,Alphamin Resources Corp.,AFM.V,70.19,0.434,3.136,Yes
+391,Vermilion Energy Inc.,VET.TO,101.98,0.579,1.233,No
+392,Telesat Corporation,TSAT.TO,99.99,0.572,0.06,Yes
+393,Falco Resources Ltd.,FPC.V,89.75,0.53,1.512,Yes
+394,Canadian General Investments Ord,CGI.TO,20.62,0.152,0.906,Yes
+395,Transcontinental Inc.,TCL-B.TO,114.05,0.636,4.496,No
+396,Commerce Split Corp,YCM-PB.TO,8.86,0.069,0.138,Yes
+397,MAK Acquisition Corp.,MAK-U.TO,8.8,0.069,0.184,No
+398,Radisson Mining Resources Inc.,RDS.V,178.97,0.871,3.17,Yes
+399,Strathcona Resources Ltd.,SCR.TO,89.63,0.535,1.468,No
+400,Mattr Corp.,MATR.TO,104.22,0.599,0.881,No
+401,Mako Mining Corp.,MKO.V,108.86,0.619,3.663,Yes
+402,Power & Infrastructure Split Corp.,PWI.TO,44.68,0.306,1.596,Yes
+403,Western Forest Products Inc.,WEF.TO,66.19,0.425,1.419,No
+404,Westhaven Gold Corp.,WHN.V,157.89,0.809,3.462,Yes
+405,Emera Inc,EMA-PL.TO,10.11,0.08,0.113,No
+406,Cosa Resources Corp.,COSA.V,173.99,0.867,3.246,No
+407,iA Financial Corporation Inc.,IAG.TO,34.47,0.248,0.505,No
+408,VersaBank,VBNK.TO,84.74,0.522,1.234,Yes
+409,Troilus Mining Corp.,TLG.TO,132.59,0.727,4.831,Yes
+410,Doman Building Materials Group Ltd.,DBM.TO,26.78,0.199,1.17,Yes
+411,Stakeholder Gold Corp.,SRC.V,117.3,0.667,1.623,Yes
+412,Abasca Resources Inc.,ABA.V,214.48,1.0,3.915,No
+413,Power & Infrastructure Split Corp.,PWI-PA.TO,5.6,0.045,0.126,No
+414,Wajax Corporation,WJX.TO,33.81,0.245,0.354,Yes
+415,BNP Paribas SA,BNP.NE,49.13,0.339,1.219,Yes
+416,Nevada Sunrise Metals Corporation,NEV.V,235.23,1.063,3.1,Yes
+417,Methanex Corporation,MX.TO,68.7,0.447,1.277,No
+418,Gunpoint Exploration Ltd.,GUN.V,119.8,0.683,0.611,Yes
+419,Power Corporation of Canada,POW-PG.TO,6.58,0.054,0.228,Yes
+420,Rio2 Limited,RIO.TO,125.56,0.708,3.614,Yes
+421,Calian Group Ltd.,CGY.TO,72.94,0.472,2.087,Yes
+422,Intact Financial Corporation,IFC-PI.TO,7.75,0.063,0.079,Yes
+423,Novra Technologies Inc.,NVI.V,239.12,1.092,3.821,Yes
+424,Quebecor Inc.,QBR-A.TO,56.35,0.387,1.221,Yes
+425,Azarga Metals Corp.,AZR.V,178.18,0.908,1.697,No
+426,Canadian Utilities Limited,CU-PF.TO,7.69,0.063,0.104,Yes
+427,Cybeats Technologies Corp.,CYBT.CN,88.21,0.555,3.095,Yes
+428,BluEnergies Ltd.,BLU.V,143.16,0.79,1.113,No
+429,Major Drilling Group International Inc.,MDI.TO,62.91,0.428,2.745,Yes
+430,Greenfire Resources Ltd.,GFR.TO,43.1,0.313,0.718,No
+431,Obsidian Energy Ltd.,OBE.TO,131.3,0.747,0.089,Yes
+432,Canadian Utilities Limited,CU-PH.TO,10.34,0.085,0.328,Yes
+433,North American Financial 15 Split Corp.,FFN.TO,52.03,0.367,0.513,Yes
+434,Canadian Pacific Kansas City Limited,CP.TO,30.02,0.229,2.023,Yes
+435,CEMATRIX Corporation,CEMX.TO,41.09,0.302,0.269,Yes
+436,Sprott Inc.,SII.TO,89.14,0.565,3.216,Yes
+437,MiniLuxe Holding Corp.,MNLX.V,45.98,0.332,0.494,Yes
+438,Highlander Silver Corp.,HSLV.TO,135.99,0.771,4.847,Yes
+439,Meridian Mining Plc,MNO.TO,76.11,0.503,3.848,Yes
+440,Great-West Lifeco Inc,GWO-PL.TO,6.73,0.057,0.082,Yes
+441,WestBond Enterprises Corporation,WBE.V,75.8,0.503,3.102,Yes
+442,TeraGo Inc.,TGO.TO,124.75,0.731,0.747,No
+443,AirBoss of America Corp.,BOS.TO,86.18,0.558,0.656,No
+444,U92 Energy Corp.,UTWO.V,184.22,0.955,2.615,Yes
+445,Meren Energy Inc.,MER.TO,47.99,0.35,0.775,No
+446,AKITA Drilling Ltd.,AKT.TO,124.32,0.733,4.891,No
+447,Firan Technology Group Corporation,FTG.TO,116.75,0.704,4.366,Yes
+448,Cygnus Metals Limited,CYG.V,167.26,0.903,2.11,Yes
+449,"Industria de Diseño Textil, S.A.",ZARA.NE,34.87,0.268,1.295,Yes
+450,Snowline Gold Corp.,SGD.TO,90.02,0.584,4.038,Yes
+451,M Split Corp,XMF-PC.TO,38.87,0.295,1.575,Yes
+452,Corby Spirit and Wine Limited,CSW-A.TO,20.38,0.166,0.75,Yes
+453,Power Corporation of Canada,POW-PA.TO,6.74,0.058,0.204,Yes
+454,Manulife Financial Corp,MFC-PB.TO,10.42,0.089,0.33,Yes
+455,First Quantum Minerals Ltd.,FM.TO,65.88,0.461,2.418,Yes
+456,Silver X Mining Corp.,AGX.V,202.33,1.034,3.509,Yes
+457,Power Financial Corp,PWF-PH.TO,5.65,0.049,0.059,Yes
+458,Great-West Lifeco Inc,GWO-PM.TO,6.65,0.058,0.156,Yes
+459,Mitsubishi Corporation,MTSU.NE,54.24,0.396,1.285,Yes
+460,Great-West Lifeco Inc.,GWO-PY.TO,9.28,0.08,0.263,Yes
+461,Sprott Physical Copper Trust,COP-UN.TO,33.59,0.263,1.154,Yes
+462,Urbana Corporation,URB.TO,27.45,0.221,0.28,No
+463,Royalties Inc.,RI.CN,83.84,0.565,3.945,No
+464,Compagnie Financiere Richemont SA,RCHM.NE,39.09,0.303,1.442,Yes
+465,Chesapeake Gold Corp.,CKG.V,122.65,0.751,3.226,Yes
+466,Manulife Financial Corporation,MFC-PJ.TO,7.38,0.065,0.218,Yes
+467,Gensource Potash Corporation,GSP.V,136.22,0.81,2.66,Yes
+468,Rogers Sugar Inc.,RSI.TO,12.61,0.109,0.068,Yes
+469,Freeman Gold Corp.,FMAN.V,126.83,0.773,2.114,No
+470,Chemtrade Logistics Income Fund,CHE-UN.TO,21.83,0.182,0.338,No
+471,SIR Royalty Income Fund,SRV-UN.TO,15.79,0.135,0.15,Yes
+472,Partners Value Split Corp.,PVS-PK.TO,4.66,0.042,0.12,Yes
+473,Pecoy Copper Corp.,PCU.V,120.6,0.755,2.347,Yes
+474,Crombie Real Estate Investment Trust,CRR-UN.TO,16.04,0.138,0.638,Yes
+475,Mundoro Capital Inc.,MUN.V,133.97,0.817,2.397,Yes
+476,Apple Inc.,AAPL.TO,27.41,0.227,0.863,Yes
+477,Global Battery Metals Ltd.,GBML.V,128.69,0.795,2.25,Yes
+478,Imperial Metals Corporation,III.TO,98.14,0.654,0.652,Yes
+479,Westgold Resources Limited,WGX.TO,84.51,0.584,3.428,Yes
+480,Toromont Industries Ltd.,TIH.TO,39.64,0.315,1.954,Yes
+481,Chorus Aviation Inc.,CHR.TO,32.53,0.265,1.967,Yes
+482,Emera Inc,EMA-PE.TO,10.63,0.095,0.155,Yes
+483,Hammond Power Solutions Inc.,HPS-A.TO,211.3,1.111,1.534,Yes
+484,Storm Exploration Inc.,STRM.V,135.4,0.828,0.336,Yes
+485,Intact Financial Corporation,IFC-PC.TO,8.66,0.078,0.262,No
+486,CANEX Metals Inc.,CANX.V,228.41,1.17,0.881,Yes
+487,Global Dividend Growth Split Corp.,GDV.TO,28.85,0.24,1.387,Yes
+488,"Advanced Micro Devices, Inc.",ZAMD.NE,200.04,1.08,0.552,Yes
+489,CI High Yield Bond Private Pool ETF C$ Series,CGHY.TO,3.31,0.031,0.116,Yes
+490,TC Energy Corporation,TRP.TO,21.95,0.189,0.704,Yes
+491,Canadian Utilities Limited,CU-PE.TO,6.82,0.062,0.269,Yes
+492,Great-West Lifeco Inc.,GWO-PZ.TO,6.58,0.061,0.15,No
+493,First Capital Real Estate Investment Trust,FCR-UN.TO,22.81,0.197,1.214,Yes
+494,Phenom Resources Corp.,PHNM.V,134.58,0.842,0.478,Yes
+495,Canadian Silver Hunter Inc.,AGH-H.V,169.02,0.983,2.333,Yes
+496,Four Nines Gold Inc.,FNAU.CN,150.04,0.909,2.857,No
+497,Southern Cross Gold Consolidated Ltd.,SXGC.TO,102.54,0.694,3.325,Yes
+498,Stampede Drilling Inc.,SDI.V,62.15,0.471,1.554,Yes
+499,Big Tree Carbon Inc.,BIGT.V,184.09,1.044,0.674,Yes
+500,Little Fish Acquisition I Corp.,LILL-P.V,70.48,0.522,1.061,Yes
+501,Tiger Gold Corp.,TIGR.V,71.66,0.529,1.546,Yes
+502,PesoRama Inc.,PESO.V,113.43,0.75,0.069,Yes
+503,Neo Performance Materials Inc.,NEO.TO,102.65,0.698,4.092,Yes
+504,BMO Global Dividend Opportunities Active ETF Series,ZGDV.NE,14.03,0.127,0.846,Yes
+505,Spark Energy Minerals Inc.,SPRK.CN,138.84,0.868,1.66,Yes
+506,PIMCO Global Income Opportunities Fund,PGI-UN.TO,4.04,0.038,0.007,No
+507,TRX Gold Corporation,TRX.TO,180.55,1.037,1.84,Yes
+508,Zodiac Gold Inc.,ZAU.V,179.68,1.034,0.807,Yes
+509,Adamera Minerals Corp.,ADZ.V,173.98,1.013,0.641,Yes
+510,Power Corporation of Canada,POW-PB.TO,6.14,0.058,0.171,Yes
+511,RioCan Real Estate Investment Trust,REI-UN.TO,18.92,0.169,0.511,Yes
+512,Yellow Pages Limited,Y.TO,34.56,0.291,2.364,Yes
+513,Metals Creek Resources Corp.,MEK.V,165.72,0.99,3.065,Yes
+514,Leocor Mining Inc.,LECR.CN,160.57,0.97,4.082,No
+515,United Corporations Ord,UNC.TO,17.33,0.157,0.89,Yes
+516,Monument Mining Limited,MMY.V,120.47,0.797,1.289,Yes
+517,Big Pharma Split Corp.,PRM-PA.TO,4.89,0.047,0.079,No
+518,"Thunder Mountain Gold, Inc.",THM.V,39.96,0.334,1.779,Yes
+519,Endeavour Mining plc,EDV.TO,75.63,0.566,3.987,Yes
+520,Partners Value Split Corp.,PVS-PU.TO,6.71,0.064,0.365,Yes
+521,Siemens AG,SIEM.NE,33.4,0.288,1.04,Yes
+522,Benton Resources Inc.,BEX.V,64.48,0.502,2.731,Yes
+523,Pason Systems Inc.,PSI.TO,34.38,0.296,0.309,Yes
+524,Lobe Sciences Ltd.,LOBE.CN,188.41,1.095,0.623,No
+525,Teako Minerals Corp.,TMIN.CN,94.61,0.677,1.199,Yes
+526,Copper Fox Metals Inc.,CUU.V,154.94,0.966,0.235,No
+527,Cerro de Pasco Resources Inc.,CDPR.V,84.65,0.625,0.045,Yes
+528,Flagship Communities Real Estate Investment Trust,MHC-UN.TO,19.61,0.18,0.39,No
+529,Eureka Metals Corp.,ERKA.CN,226.96,1.243,2.46,Yes
+530,Lux Metals Corp.,LXM.V,186.36,1.099,3.146,Yes
+531,Eldorado Gold Corporation,ELD.TO,94.67,0.685,3.165,Yes
+532,Power Corporation of Canada,POW-PC.TO,5.63,0.055,0.05,Yes
+533,Great-West Lifeco Inc.,GWO-PI.TO,10.96,0.105,0.385,Yes
+534,Northcliff Resources Ltd.,NCF.TO,155.78,0.981,3.878,Yes
+535,Golden Arrow Resources Corporation,GRG.V,149.05,0.952,0.102,No
+536,TWC Enterprises Limited,TWC.TO,20.72,0.191,0.146,No
+537,Hamilton Enhanced Technology DayMAX ETF,QDAY.NE,37.76,0.327,0.214,Yes
+538,CCL Industries Inc.,CCL-B.TO,24.7,0.224,1.75,Yes
+539,Cymbria Corporation,CYB.TO,16.85,0.158,0.482,Yes
+540,Slate Grocery REIT,SGR-UN.TO,18.14,0.169,0.558,Yes
+541,Paladin Energy Ltd,PDN.TO,85.31,0.639,0.744,Yes
+542,CT Real Estate Investment Trust,CRT-UN.TO,13.96,0.133,0.577,Yes
+543,Dream Industrial Real Estate Investment Trust,DIR-UN.TO,17.67,0.166,0.916,Yes
+544,Northview Residential REIT,NRR-UN.TO,12.13,0.117,0.072,No
+545,Sixty North Gold Mining Ltd.,SXTY.CN,195.76,1.155,1.329,Yes
+546,Barrick Mining Corporation,ABX.TO,56.88,0.468,3.035,Yes
+547,Sasquatch Resources Corp.,SASQ.CN,167.18,1.045,0.435,Yes
+548,Fortis Inc.,FTS.TO,14.33,0.138,0.627,Yes
+549,"Caribbean Utilities Company, Ltd.",CUP-U.TO,10.75,0.105,0.268,No
+550,Mercanto Holdings Inc.,MUSH.V,108.48,0.78,1.605,Yes
+551,Chibougamau Independent Mines Inc.,CBG.V,70.85,0.564,3.459,Yes
+552,Rio Silver Inc.,RYO.V,173.13,1.082,6.68,Yes
+553,Globex Mining Enterprises Inc.,GMX.TO,62.8,0.514,0.282,No
+554,Mega Uranium Ltd.,MGA.TO,92.14,0.697,0.471,Yes
+555,Brookfield Renewable Partners L.P.,BEP-UN.TO,35.07,0.316,0.089,No
+556,Senvest Capital Inc.,SEC.TO,26.16,0.244,0.367,Yes
+557,BMO Global Innovators Active ETF Series,ZGIN.NE,46.39,0.403,0.709,Yes
+558,Viva Gold Corp.,VAU.V,94.12,0.711,2.592,Yes
+559,Sprott Physical Silver Trust,PSLV.TO,59.85,0.5,2.903,Yes
+560,5N Plus Inc.,VNP.TO,91.17,0.697,0.601,Yes
+561,Hillcrest Energy Technologies Ltd.,HEAT.CN,98.5,0.739,0.439,Yes
+562,SSR Mining Inc.,SSRM.TO,88.83,0.684,4.147,Yes
+563,Canadian Utilities Ltd,CU-PG.TO,7.24,0.074,0.133,Yes
+564,Skeleton Coast Uranium Corp.,SKEL.V,194.16,1.187,4.614,No
+565,GoldHaven Resources Corp.,GOH.CN,235.13,1.341,2.59,Yes
+566,Zurich Insurance Group AG,ZUR.NE,15.73,0.155,0.86,Yes
+567,Sun Life Financial Inc.,SLF-PD.TO,9.57,0.097,0.2,Yes
+568,Black Diamond Group Limited,BDI.TO,29.33,0.275,0.791,Yes
+569,Goldsky Resources Corp.,GSKR.V,156.98,1.038,2.398,Yes
+570,Carolina Rush Corporation,RUSH.V,201.73,1.23,1.881,Yes
+571,Trident Resources Corp.,ROCK.V,159.9,1.058,4.765,Yes
+572,Cheelcare Inc.,CHER.V,88.72,0.696,2.705,Yes
+573,Solaris Resources Inc.,SLS.TO,53.13,0.465,3.438,Yes
+574,Seva Mining Corp.,SEVA.V,107.44,0.806,1.811,No
+575,Badger Infrastructure Solutions Ltd.,BDGI.TO,53.02,0.465,0.619,Yes
+576,Alphabet Inc.,GOOG.TO,50.07,0.444,0.798,Yes
+577,Lavras Gold Corp.,LGC.V,202.62,1.249,3.463,Yes
+578,BlackBerry Limited,BB.TO,181.53,1.165,0.892,Yes
+579,Canada Nickel Company Inc.,CNC.V,77.31,0.633,1.729,Yes
+580,CU Inc,CIU-PA.TO,6.84,0.072,0.363,Yes
+581,GoGo AI Network Inc.,GOGO.CN,102.17,0.787,2.018,No
+582,BMO Global Equity Active ETF Series,ZGEQ.NE,13.56,0.139,0.503,Yes
+583,Southern Silver Exploration Corp.,SSV.V,112.35,0.845,3.408,Yes
+584,Slate Grocery REIT,SGR-U.TO,19.16,0.192,0.675,Yes
+585,Cleantek Industries Inc.,CTEK.V,97.96,0.767,5.206,Yes
+586,Sprott Physical Copper Trust,COP-U.TO,36.78,0.347,1.437,Yes
+587,Zimtu Capital Corp.,ZC.V,225.17,1.355,2.372,No
+588,Silver Tiger Metals Inc.,SLVR.TO,58.36,0.512,2.044,Yes
+589,Zena Mining Corp.,ZCC-H.V,91.2,0.73,1.001,No
+590,Mining Americas Inc.,MAI.TO,86.42,0.701,4.135,Yes
+591,HM Exploration Corp.,HM.CN,183.37,1.194,6.159,Yes
+592,Canso Select Opportunities Corporation,CSOC-A.V,225.73,1.364,3.087,No
+593,International Tower Hill Mines Ltd.,ITH.TO,113.64,0.862,5.406,Yes
+594,Satellos Bioscience Inc.,MSCL.TO,202.45,1.276,3.327,Yes
+595,Granite Real Estate Investment Trust,GRT-UN.TO,23.96,0.238,1.065,Yes
+596,Quantum Battery Metals Corp.,QBAT.CN,138.09,0.99,3.236,Yes
+597,Decisive Dividend Corporation,DE.V,24.4,0.243,0.239,Yes
+598,China Goldcorp Ltd.,CAU-H.V,91.68,0.737,2.125,Yes
+599,Lake Victoria Gold Ltd.,LVG.V,124.83,0.925,0.895,Yes
+600,Dune Oil Corp.,DUNE.CN,215.05,1.334,0.621,Yes
+601,BQE Water Inc.,BQE.V,37.7,0.36,0.887,Yes
+602,Mackay Gold & Silver Corp.,MACK.V,134.38,0.986,14.21,No
+603,Route1 Inc.,ROI.V,123.01,0.928,5.528,Yes
+604,Aquarius Surgical Technologies Inc.,ASTI.CN,184.09,1.221,3.995,No
+605,Intact Financial Corporation,IFC-PK.TO,6.31,0.069,0.331,Yes
+606,Scottie Resources Corp.,SCOT.V,101.17,0.808,5.458,Yes
+607,1844 Resources Inc.,EFF.V,102.6,0.817,4.259,Yes
+608,Battery Mineral Resources Corp.,BMR.V,49.74,0.463,2.088,Yes
+609,Power Financial Corporation,PWF-PE.TO,6.29,0.069,0.19,Yes
+610,Desert Gold Ventures Inc.,DAU.V,94.09,0.772,4.811,Yes
+611,Leviathan Metals Corp.,LVX.V,79.22,0.677,0.269,Yes
+612,Saga Metals Corp.,SAGA.V,163.62,1.146,0.288,No
+613,Grey Wolf Health Corp.,WOLF.V,29.19,0.294,0.508,No
+614,Many Bright Ideas Technologies Inc.,MBI-H.V,102.6,0.828,0.055,Yes
+615,Decimus Oil Corp.,WCSB.V,114.24,0.897,3.712,No
+616,Arizona Gold & Silver Inc.,AZS.V,121.19,0.937,0.818,Yes
+617,Emera Incorporated,EMA.TO,9.93,0.109,0.078,Yes
+618,Avidian Gold Corp.,AVG.V,61.45,0.562,2.952,Yes
+619,ERDA Resource Opportunities Inc.,ERDA.V,68.22,0.612,0.635,No
+620,Capstone Copper Corp.,CS.TO,59.63,0.549,1.999,Yes
+621,Canagold Resources Ltd.,CCM.TO,47.38,0.454,1.464,Yes
+622,Great-West Lifeco Inc.,GWO-PT.TO,8.58,0.095,0.166,Yes
+623,"Canadian Tire Corporation, Limited",CTC-A.TO,22.76,0.239,0.913,Yes
+624,Dynamic Active Multi Crypto ETF,DXMC.NE,65.11,0.593,7.517,Yes
+625,Guardian i3 International Core Equity Fund ETF,GIIF.NE,12.32,0.135,0.756,Yes
+626,DAVIDsTEA Inc.,DTEA.V,42.28,0.416,1.0,Yes
+627,Sprott Physical Gold and Silver Trust,CEF-U.TO,35.91,0.362,2.478,Yes
+628,Rockland Resources Ltd.,RKL.CN,230.78,1.465,8.562,Yes
+629,First Lithium Minerals Corp.,FLM.CN,189.72,1.296,0.551,No
+630,Encanto Potash Corp.,EPO-H.V,108.89,0.887,4.229,Yes
+631,Americore Resources Corp.,AMCO.V,170.61,1.214,6.272,Yes
+632,Sprott Physical Gold and Silver Trust,CEF.TO,32.8,0.336,2.379,Yes
+633,Faircourt Gold Income Corp.,FGX.NE,43.38,0.429,4.061,Yes
+634,Generation Mining Limited,GENM.TO,77.24,0.688,3.844,Yes
+635,Los Andes Copper Ltd.,LA.V,139.78,1.066,0.439,No
+636,Nio Strategic Metals Inc.,NIO.V,147.36,1.106,6.615,Yes
+637,Clear Gold Resources Inc.,CFA-H.V,109.18,0.896,0.941,Yes
+638,GSP Resource Corp.,GSPR.V,103.52,0.863,1.449,Yes
+639,Power Financial Corporation,PWF-PZ.TO,6.49,0.074,0.07,Yes
+640,Velocity Minerals Ltd.,VLC.V,21.03,0.227,0.774,Yes
+641,Crown Point Energy Inc.,CWV-H.V,225.56,1.466,2.97,Yes
+642,WesCan Energy Corp.,WCE.V,121.91,0.976,5.278,No
+643,New Zealand Energy Corp.,NZ.V,116.71,0.947,3.028,No
+644,Avrupa Minerals Ltd.,AVU.V,170.65,1.232,1.376,No
+645,Conquest Resources Limited,CQR.V,166.68,1.217,0.182,Yes
+646,Golden Cariboo Resources Ltd.,GCC.CN,117.54,0.957,6.283,Yes
+647,MetalQuest Mining Inc.,MQM.V,105.42,0.886,0.131,Yes
+648,EnGold Mines Ltd.,EGM.V,111.37,0.922,4.805,Yes
+649,Visible Gold Mines Inc.,VGD.V,48.29,0.479,3.13,Yes
+650,Southern Energy Corp.,SOU.V,55.25,0.539,3.494,No
+651,Choice Properties Real Estate Investment Trust,CHP-UN.TO,10.03,0.116,0.408,Yes
+652,Big Bear Gold Corp.,BEAR.V,169.77,1.251,1.414,Yes
+653,Odyssey Resources Limited,ODX-H.V,195.32,1.374,0.508,No
+654,Arianne Phosphate Inc.,DAN.V,101.23,0.875,1.489,Yes
+655,Aclara Resources Inc.,ARA.TO,116.66,0.971,0.729,No
+656,Caprock Mining Corp.,CAPR.CN,147.39,1.15,2.789,No
+657,Velan Inc.,VLN.TO,26.01,0.285,0.653,Yes
+658,Akwaaba Mining Ltd.,AML.V,43.27,0.446,1.81,No
+659,,CATX.V,92.52,0.824,2.727,No
+660,Great-West Lifeco Inc,GWO-PG.TO,7.14,0.085,0.362,Yes
+661,Brookfield Infrastructure Partners L.P.,BIP-UN.TO,24.01,0.266,0.909,Yes
+662,ProAm Explorations Corporation,PMX.V,212.4,1.467,2.329,No
+663,Quadro Resources Ltd.,QRO.V,185.31,1.346,2.264,No
+664,NG Energy International Corp.,GASX.TO,79.7,0.739,4.563,Yes
+665,Avino Silver & Gold Mines Ltd.,ASM.TO,87.51,0.795,3.735,Yes
+666,Wheaton Precious Metals Corp.,WPM.TO,59.99,0.591,3.797,Yes
+667,CGX Energy Inc.,OYL.V,148.18,1.166,7.957,Yes
+668,Sienna Senior Living Inc.,SIA.TO,20.89,0.236,1.325,Yes
+669,Vitreous Glass Inc.,VCI.V,31.35,0.341,0.634,Yes
+670,Founders Metals Inc.,FDR.V,76.99,0.724,4.594,Yes
+671,AXA SA,AXA.NE,14.8,0.172,0.733,Yes
+672,Goldgroup Mining Inc.,GORO.V,140.29,1.13,0.908,Yes
+673,George Weston Limited,WN-PD.TO,4.18,0.051,0.125,Yes
+674,Cantex Mine Development Corp.,CD.V,112.23,0.967,6.701,Yes
+675,Abacus Mining & Exploration Corporation,AME.V,174.77,1.315,1.458,Yes
+676,Excellon Resources Inc.,EXN.V,145.26,1.162,6.143,Yes
+677,SPARQ Systems Inc.,SPRQ.V,88.75,0.814,2.454,Yes
+678,Emergent Metals Corp.,EMR.V,190.32,1.392,0.225,Yes
+679,RJK Explorations Ltd.,RJX-A.V,56.23,0.568,1.266,Yes
+680,Energy Income Fund,ENI-UN.TO,20.99,0.24,0.28,Yes
+681,NVRO Metals Limited,NVRO.V,60.97,0.608,4.1,Yes
+682,Foraco International SA,FAR.TO,53.05,0.543,3.606,Yes
+683,Naughty Ventures Corp.,BAD.CN,62.33,0.62,1.989,No
+684,Bantam Capital Corp.,BCC-H.V,102.29,0.911,1.71,Yes
+685,Bullion Gold Discoveries Corp.,BGD.V,83.35,0.781,3.458,Yes
+686,Earthwise Minerals Corp.,WISE.CN,172.91,1.321,8.298,Yes
+687,Bayhorse Silver Inc.,BHS.V,166.04,1.286,2.396,Yes
+688,Reeflex Solutions Inc.,RFX.V,100.53,0.905,2.866,Yes
+689,Wedgemount Resources Corp.,WDGY.CN,204.52,1.476,8.973,No
+690,Reconnaissance Energy Africa Ltd.,RECO.V,141.08,1.165,2.444,No
+691,Roxmore Resources Inc.,RM.TO,98.41,0.901,2.767,Yes
+692,Critical Reagent Processing Corp.,CRPC.CN,117.26,1.027,1.214,No
+693,Jaguar Mining Inc.,JAG.TO,70.16,0.701,4.529,Yes
+694,E Split Corp.,ENS.TO,19.55,0.232,0.741,Yes
+695,Bausch + Lomb Corporation,BLCO.TO,19.04,0.227,1.619,Yes
+696,Secure Blockchain Development Corp.,ID.V,195.44,1.469,11.108,Yes
+697,Avanti Helium Corp.,AVN.V,238.07,1.668,11.231,No
+698,Goldrea Resources Corp.,GOR.CN,113.27,1.017,1.206,Yes
+699,King Copper Discovery Corp.,KCP.V,74.03,0.74,0.261,Yes
+700,Eminent Gold Corp.,EMNT.V,196.78,1.491,2.839,No
+701,"Currency Exchange International, Corp.",CXI.TO,30.52,0.353,0.479,Yes
+702,BMO Global REIT Active ETF Series,ZGRT.NE,12.62,0.157,0.0,No
+703,Klondike Gold Corp.,KG.V,116.53,1.048,5.642,Yes
+704,Polaris Renewable Energy Inc.,PIF.TO,18.1,0.22,0.468,No
+705,Atha Energy Corp.,SASK.V,122.39,1.089,0.469,No
+706,PharmaCielo Ltd.,PCLO.V,191.02,1.475,1.716,No
+707,Goldmoney Inc.,XAU.TO,41.81,0.468,2.579,Yes
+708,Argo Gold Inc.,ARQ.CN,91.26,0.88,1.132,Yes
+709,Commerce Split Corp,YCM-PA.TO,4.13,0.054,0.235,Yes
+710,Kenorland Minerals Ltd.,KLD.V,36.24,0.415,0.116,Yes
+711,Ophir Metals Corp.,OPHR.V,70.48,0.723,0.284,No
+712,Nestlé S.A.,NEST.NE,17.11,0.211,1.448,Yes
+713,Navigator Acquisition Corp.,NAQ-P.V,93.85,0.903,1.546,No
+714,Allied Gold Corporation,AAUC.TO,70.85,0.728,0.925,Yes
+715,J2 Metals Inc.,JTWO.V,223.17,1.647,0.378,No
+716,Canadian Utilities Ltd,CU-PD.TO,5.68,0.074,0.264,Yes
+717,Northern Dynasty Minerals Ltd.,NDM.TO,109.9,1.023,0.092,No
+718,26 Metals Inc.,IRON.CN,123.58,1.116,0.054,Yes
+719,Avalon Advanced Materials Inc.,AVL.TO,192.91,1.509,1.998,Yes
+720,Rokmaster Resources Corp.,RKR.V,64.35,0.682,2.893,No
+721,ThreeD Capital Inc.,IDK.CN,56.15,0.611,2.991,No
+722,Western Copper and Gold Corporation,WRN.TO,49.46,0.551,3.261,Yes
+723,SmartCentres Real Estate Investment Trust,SRU-UN.TO,11.12,0.143,0.494,Yes
+724,BMO Global Infrastructure Active ETF Series,ZGIF.NE,9.37,0.121,0.439,Yes
+725,Vecima Networks Inc.,VCM.TO,24.49,0.299,0.822,Yes
+726,Angkor Resources Corp.,ANK.V,65.35,0.696,1.944,Yes
+727,Altrova Health Inc.,ROVA.CN,127.35,1.155,0.974,No
+728,Lion Copper Corp.,LCU.CN,108.5,1.03,2.554,Yes
+729,Denarius Metals Corp.,DMET.NE,127.03,1.154,5.003,Yes
+730,Sagicor Financial Company Ltd.,SFC.TO,18.3,0.23,0.161,No
+731,Fitzroy Minerals Inc.,FTZ.V,63.66,0.687,0.155,No
+732,International Prospect Ventures Ltd.,IZZ.V,97.7,0.959,0.339,Yes
+733,Diversified Royalty Corp.,DIV.TO,21.97,0.274,1.347,Yes
+734,Golden Pursuit Resources Ltd.,GDP.V,64.03,0.693,1.363,No
+735,Power Financial Corporation,PWF-PF.TO,5.77,0.077,0.163,Yes
+736,Algo Grande Copper Corp.,ALGR.V,100.34,0.989,1.593,No
+737,Sierra Madre Gold and Silver Ltd.,SM.V,86.72,0.887,2.394,Yes
+738,One World Lithium Inc.,OWLI.CN,94.65,0.953,0.448,Yes
+739,Glass House Brands Inc.,GLAS-A.NE,63.16,0.697,0.997,No
+740,Intact Financial Corporation,IFC-PE.TO,5.08,0.07,0.135,Yes
+741,Fairfax India Holdings Corporation,FIH-U.TO,12.51,0.166,0.981,Yes
+742,Lion Critical Minerals Corp.,LION.CN,165.72,1.432,6.316,Yes
+743,Real Estate Split Corp.,RS.TO,17.15,0.225,0.909,Yes
+744,Silver Valley Metals Corp.,SILV.V,131.64,1.232,0.534,No
+745,Kuya Silver Corporation,KUYA.CN,105.84,1.054,2.258,Yes
+746,Cascadero Copper Corporation,CCD.V,235.23,1.812,3.071,Yes
+747,Live Energy Minerals Corp.,LIVE.CN,152.07,1.37,0.082,Yes
+748,NVIDIA Corporation,NVDA.TO,21.75,0.283,0.217,No
+749,Tourmaline Oil Corp.,TOU.TO,9.79,0.134,0.313,No
+750,Goldhills Holding Ltd.,GHL.V,68.35,0.76,0.756,Yes
+751,Latin Metals Inc.,LMS.V,39.51,0.483,0.537,Yes
+752,Alliance Mining Corp.,ALM.V,42.18,0.511,0.425,No
+753,Apogee Minerals Ltd.,APMI.V,112.05,1.114,0.623,No
+754,Reitmans (Canada) Limited,RET.V,19.87,0.263,1.321,Yes
+755,YANGAROO Inc.,YOO.V,137.89,1.297,1.435,Yes
+756,Altura Energy Corp.,ALTU.V,121.7,1.192,3.376,No
+757,Generation Uranium Inc.,GEN.CN,116.22,1.155,0.073,Yes
+758,Fox Tungsten Ltd.,FOXT.V,66.27,0.754,4.489,Yes
+759,AGF Energy Transition and Adaptation ETF,ATAP.NE,10.32,0.143,0.793,Yes
+760,Syntholene Energy Corp.,ESAF.V,125.06,1.219,4.3,Yes
+761,D2 Lithium Corp.,DTWO.V,73.46,0.822,0.93,No
+762,Evergold Corp.,EVER.V,158.34,1.444,3.416,Yes
+763,Fennec Pharmaceuticals Inc.,FRX.TO,72.01,0.814,3.719,Yes
+764,Go Metals Corp.,GOCO.CN,100.5,1.051,0.721,Yes
+765,Solitario Resources Corp.,SLR.TO,22.2,0.297,0.866,No
+766,Petrolympic Ltd.,PCQ.V,109.1,1.119,4.704,Yes
+767,Sharc International Systems Inc.,SHRC.CN,109.35,1.122,6.289,Yes
+768,Sprott Physical Gold Trust,PHYS.TO,18.23,0.248,1.557,Yes
+769,Hydro One Limited,H.TO,11.72,0.164,0.616,Yes
+770,T2 Metals Corp.,TWO.V,58.78,0.7,0.824,Yes
+771,Roscan Gold Corporation,ROS.V,72.06,0.827,3.726,Yes
+772,Capitan Silver Corp.,CAPT.V,46.73,0.582,3.307,Yes
+773,Comet Lithium Corporation,CLIC.V,37.0,0.478,1.271,Yes
+774,Eloro Resources Ltd.,ELO.TO,75.67,0.865,2.981,Yes
+775,Sleeping Giant Capital Corp.,SSX.V,95.21,1.035,4.115,No
+776,Kinross Gold Corporation,K.TO,42.63,0.543,3.402,Yes
+777,PMET Resources Inc.,PMET.TO,64.92,0.772,2.788,Yes
+778,Canfor Corporation,CFP.TO,26.39,0.359,0.681,No
+779,Aurbis Resources Corp.,AURR.CN,71.68,0.841,0.945,Yes
+780,Lupaka Gold Corp.,LPK.V,90.03,1.004,3.002,Yes
+781,Quantum Secure Encryption Corp.,QSE.CN,104.75,1.134,0.254,Yes
+782,Equity Metals Corporation,EQTY.V,94.74,1.055,5.785,Yes
+783,Aimia Inc.,AIM-PA.TO,9.07,0.135,0.438,Yes
+784,iMetal Resources Inc.,IMR.V,136.93,1.384,0.932,Yes
+785,NAVCO Pharmaceuticals Inc.,NAV.V,184.09,1.7,0.696,Yes
+786,Lomiko Metals Inc.,LMR.V,68.92,0.835,1.655,No
+787,Quebec Rare Earth Elements Corp.,QREE.CN,246.37,2.047,1.958,No
+788,George Weston Limited,WN-PE.TO,4.49,0.069,0.05,Yes
+789,Refined Energy Corp.,RUU.CN,142.16,1.439,1.787,Yes
+790,Vault Strategic Mining Corp.,KNOX.V,247.76,2.069,7.672,Yes
+791,ZEB Nickel Corp.,ZBNI.V,155.54,1.538,2.932,No
+792,Roots Corporation,ROOT.TO,30.04,0.419,1.117,No
+793,Wildsky Resources Inc.,WSK.V,93.18,1.072,4.889,No
+794,Hydaway Digital Corp.,HIDE.V,145.0,1.475,0.698,No
+795,Stroud Resources Ltd.,SDR.V,68.58,0.847,3.54,Yes
+796,Yorbeau Resources Inc.,YRB.TO,35.34,0.486,0.151,Yes
+797,Spartan Metals Corp.,W.V,71.91,0.881,5.214,Yes
+798,Medaro Mining Corp.,MEDA.CN,125.41,1.341,2.9,No
+799,Mobio Technologies Inc.,MBO.V,94.52,1.093,1.529,No
+800,Condor Resources Inc.,CN.V,56.67,0.731,1.43,No
+801,Eddy Smart Home Solutions Ltd.,EDY.V,44.32,0.596,0.296,Yes
+802,BMO Broad Commodity ETF Hedged Units,ZCOM-F.NE,22.45,0.327,5.075,Yes
+803,Terrace Energy Corp.,TZR-H.V,63.49,0.805,0.324,No
+804,Brookfield Global Infrastructure Securities Income Fund,BGI-UN.TO,16.55,0.247,0.256,Yes
+805,Eastern Platinum Limited,ELR.TO,89.05,1.05,5.206,Yes
+806,Alphabet Inc.,ZGOO.NE,28.59,0.409,1.32,Yes
+807,Cassius Ventures Ltd.,CZ-H.V,52.9,0.696,5.021,Yes
+808,Heliostar Metals Ltd.,HSTR.V,56.58,0.736,3.182,Yes
+809,Miata Metals Corp.,MMET.V,67.74,0.851,3.355,Yes
+810,Medical Facilities Corporation,DR.TO,15.44,0.234,1.076,Yes
+811,Lundin Gold Inc.,LUG.TO,39.61,0.551,3.672,Yes
+812,SRQ Resources Inc.,SRQ.V,73.8,0.922,4.259,No
+813,Denison Mines Corp.,DML.TO,48.72,0.663,0.657,Yes
+814,Sun Peak Metals Corp.,PEAK.V,29.96,0.439,0.161,Yes
+815,AsiaBaseMetals Inc.,ABZ.V,107.75,1.255,2.359,Yes
+816,Birchcliff Energy Ltd.,BIR.TO,23.64,0.357,1.207,No
+817,Cariboo Rose Resources Ltd.,CRB.V,67.12,0.881,2.292,Yes
+818,Acceleware Ltd.,AXE.V,104.16,1.235,4.559,Yes
+819,"Coeur Mining, Inc.",CDE.TO,52.8,0.726,7.838,Yes
+820,Alimentation Couche-Tard Inc.,ATD.TO,18.89,0.294,1.331,Yes
+821,Largo Physical Vanadium Corp.,VAND.V,35.81,0.524,2.271,Yes
+822,Fireweed Metals Corp.,FWZ.V,41.29,0.594,2.27,Yes
+823,Aztec Minerals Corp.,AZT.V,49.02,0.687,2.109,Yes
+824,Resouro Strategic Metals Inc.,RSM.V,29.98,0.451,2.364,Yes
+825,Aldebaran Resources Inc.,ALDE.V,52.84,0.736,2.526,Yes
+826,Leading Edge Materials Corp.,LEM.V,53.66,0.745,1.274,Yes
+827,CIBC 2031 Investment Grade Bond Fund ETF Series,CTBG.NE,1.57,0.027,0.161,Yes
+828,Mazarin Inc.,MAZ-H.V,55.45,0.768,1.303,No
+829,George Weston Limited,WN-PC.TO,3.13,0.053,0.158,Yes
+830,Santacruz Silver Mining Ltd.,SCZ.V,64.0,0.866,3.263,Yes
+831,Dundee Corporation,DC-A.TO,55.4,0.771,3.738,Yes
+832,Light AI Inc.,ALGO.NE,174.61,1.814,5.091,Yes
+833,FNX Inc.,FNX.CN,32.24,0.488,1.119,Yes
+834,Nexus Industrial REIT,NXR-UN.TO,8.86,0.147,0.551,Yes
+835,Automotive Finco Corp.,AFCC-H.V,14.88,0.242,0.403,No
+836,Keel Infrastructure Corp.,KEEL.TO,112.09,1.346,1.45,Yes
+837,Celestica Inc.,CLS.TO,46.99,0.681,0.265,Yes
+838,Ross River Minerals Inc.,RRM-H.V,95.51,1.2,2.963,No
+839,Pasinex Resources Limited,PSE.CN,37.38,0.56,1.177,No
+840,GR Silver Mining Ltd.,GRSL.V,65.32,0.899,3.611,Yes
+841,Absolutely Critical Resources Corp.,ABC.V,100.76,1.256,1.964,No
+842,Tinka Resources Limited,TK.V,44.83,0.659,0.357,Yes
+843,Argentina Metals Corp.,VLLC.V,48.9,0.71,,
+844,Elemental Royalty Corporation,ELE.TO,42.91,0.636,1.54,Yes
+845,Microbix Biosystems Inc.,MBX.TO,15.35,0.252,1.208,Yes
+846,Vital Infrastructure Property Trust,VITL-UN.TO,13.16,0.218,1.056,Yes
+847,Skull Ridge Gold Corp.,SKUL.CN,48.21,0.704,0.074,Yes
+848,"Amazon.com, Inc.",AMZN.TO,25.35,0.403,0.357,No
+849,Acadian Timber Corp.,ADN.TO,11.7,0.197,0.257,Yes
+850,North Arrow Minerals Inc.,NAR.V,67.49,0.946,5.751,Yes
+851,Big Banc Split Corp.,BNK-PA.TO,4.2,0.074,0.3,No
+852,Brompton Energy Split Corp.,ESP-PA.TO,3.82,0.068,0.218,No
+853,Cameco Corporation,CCO.TO,34.64,0.546,0.217,No
+854,District Copper Corp.,DCOP.V,48.84,0.734,2.273,No
+855,Electrovaya Inc.,ELVA.TO,75.5,1.046,3.508,No
+856,Urbanfund Corp.,UFC.V,9.24,0.162,0.727,Yes
+857,Plaintree Systems Inc.,NPT.CN,48.1,0.731,0.538,No
+858,Africa Energy Corp.,AFE.V,87.24,1.179,6.233,Yes
+859,Pantera Silver Corp.,PNTR.V,79.07,1.096,5.612,Yes
+860,Omega Pacific Resources Inc.,OMGA.CN,65.29,0.943,1.678,No
+861,NexGen Energy Ltd.,NXE.TO,29.91,0.487,0.422,Yes
+862,Tartisan Nickel Corp.,TN.CN,138.96,1.663,2.748,No
+863,Heritage Mining Ltd.,HML.CN,48.96,0.747,0.522,Yes
+864,Ares Strategic Mining Inc.,ARS.CN,44.16,0.686,0.599,No
+865,Brunswick Exploration Inc.,BRW.V,47.32,0.731,3.096,Yes
+866,South Pacific Metals Corp.,SPMC.V,71.53,1.036,2.267,Yes
+867,NexLiving Communities Inc.,NXLV.V,18.69,0.324,1.365,No
+868,IDEX Metals Corp.,IDEX.V,92.14,1.26,3.846,Yes
+869,Bell Copper Corporation,BCU.V,33.64,0.551,1.871,Yes
+870,Gold Hart Copper Corp.,HART.V,66.34,0.985,3.218,Yes
+871,Northland Power Inc,NPI-PB.TO,7.86,0.144,1.057,No
+872,Life & Banc Split Corp,LBS-PA.TO,3.26,0.061,0.145,Yes
+873,Starcore International Mines Ltd.,SAM.TO,56.92,0.88,4.008,Yes
+874,Centenario Gold Corp.,CTG.CN,87.2,1.241,4.781,Yes
+875,CoTec Holdings Corp.,CTH.V,36.2,0.605,2.162,Yes
+876,Serabi Gold plc,SBI.TO,33.69,0.569,4.177,Yes
+877,Luxxfolio Holdings Inc.,LUXX.CN,62.49,0.959,0.248,No
+878,Metalite Resources Inc.,METL.CN,90.64,1.285,5.523,Yes
+879,Mustang Minerals Limited,MMX.V,57.93,0.904,4.314,No
+880,Blast Resources Inc.,BLST.CN,45.3,0.737,0.143,No
+881,AuMEGA Metals Ltd,AUM.V,31.79,0.543,1.88,Yes
+882,Oceanic Wind Energy Inc.,NKW-H.V,67.59,1.032,0.91,Yes
+883,Rain City Resources Inc.,RAIN.CN,70.48,1.067,0.164,No
+884,JZR Gold Inc.,JZR.V,71.63,1.082,0.253,Yes
+885,DFR Gold Inc.,DFR.V,38.17,0.643,1.114,No
+886,Helix BioPharma Corp.,HBP.TO,28.82,0.502,1.081,Yes
+887,Goldquest Mining Corp.,GQC.V,87.18,1.264,2.4,No
+888,RE Royalties Ltd.,RE.V,29.29,0.511,1.797,Yes
+889,"Curaleaf Holdings, Inc.",CURA.TO,43.54,0.727,1.929,Yes
+890,Rogers Communications Inc.,RCI-B.TO,14.3,0.266,0.505,Yes
+891,Nations Royalty Corp.,NRC.V,29.85,0.526,0.975,No
+892,Eagle Plains Resources Ltd.,EPL.V,19.13,0.351,0.935,Yes
+893,Juggernaut Exploration Ltd.,JUGR.V,32.15,0.563,0.943,Yes
+894,Ridgeline Minerals Corp.,RDG.V,55.25,0.895,0.315,No
+895,Silver Range Resources Ltd.,SNG.V,29.4,0.522,1.3,Yes
+896,Route 109 Resources Inc.,RTE.V,62.97,1.001,3.612,No
+897,Trisura Group Ltd.,TSU.TO,11.41,0.221,1.27,Yes
+898,Silver One Resources Inc.,SVE.V,45.39,0.775,2.151,Yes
+899,CAT Strategic Metals Corporation,CAT.CN,153.29,1.972,0.942,Yes
+900,Berkshire Hathaway Inc.,ZBRK.NE,6.13,0.122,0.557,Yes
+901,Torrent Capital Ltd.,TORR.V,16.63,0.317,1.134,No
+902,Mayo Lake Minerals Inc.,MLKM.CN,75.92,1.196,1.208,No
+903,Rogers Communications Inc.,RCI-A.TO,12.57,0.248,0.726,Yes
+904,Advanced Gold Exploration Inc.,AUEX.CN,114.93,1.649,2.402,No
+905,Kraken Robotics Inc.,PNG.V,32.58,0.596,0.074,No
+906,Thermal Energy International Inc.,TMG.V,30.46,0.563,0.115,Yes
+907,New Break Resources Ltd.,NBRK.CN,26.56,0.5,1.466,Yes
+908,MCAN Mortgage Corporation,MKP.TO,11.4,0.229,1.254,Yes
+909,DMG Blockchain Solutions Inc.,DMGI.V,72.54,1.192,1.517,No
+910,Principal Technologies Inc.,PTEC.V,84.74,1.346,1.766,Yes
+911,Unigold Inc.,UGD.V,56.44,0.975,1.222,Yes
+912,FPX Nickel Corp.,FPX.V,42.96,0.78,1.516,Yes
+913,Viridian Metals Inc.,VRDN.CN,43.76,0.796,0.37,No
+914,Eupraxia Pharmaceuticals Inc.,EPRX.TO,14.49,0.294,0.827,Yes
+915,Atrium Mortgage Investment Corporation,AI.TO,5.15,0.109,0.586,Yes
+916,Eli Lilly and Company,ZLLY.NE,24.43,0.482,1.669,Yes
+917,Tantalus Systems Holding Inc.,GRID.TO,37.76,0.713,1.103,No
+918,Three Crowns Critical Metals Inc.,TCCM.V,64.64,1.118,1.098,Yes
+919,Newport Exploration Ltd.,NWX.V,40.66,0.763,3.123,No
+920,The Boeing Company,ZBA.NE,20.06,0.407,1.257,Yes
+921,Hemisphere Energy Corporation,HME.V,17.78,0.364,0.583,No
+922,Fort Technology Inc.,FORT.V,229.05,2.775,16.411,Yes
+923,Mastercard Inc,ZMAS.NE,12.26,0.258,0.22,No
+924,Boston Pizza Royalties Income Fund,BPF-UN.TO,8.55,0.183,0.891,Yes
+925,Galway Metals Inc.,GWM.V,36.2,0.696,1.907,Yes
+926,Sable Resources Ltd.,SAE.V,74.86,1.279,1.392,Yes
+927,Infrastructure Dividend Split Corp.,IS-PA.TO,3.37,0.074,0.508,Yes
+928,Inventus Mining Corp.,IVS.V,35.33,0.687,2.081,Yes
+929,Nexcel Metals Corp.,NEXX.CN,38.84,0.748,0.857,Yes
+930,Hydreight Technologies Inc.,NURS.V,49.93,0.927,0.016,Yes
+931,Progressive Planet Solutions Inc.,PLAN.V,22.37,0.458,1.021,No
+932,DLP Resources Inc.,DLP.V,40.55,0.778,0.428,Yes
+933,Groupe Dynamite Inc.,GRGD.TO,29.81,0.595,3.563,Yes
+934,Fjordland Exploration Inc.,FEX.V,56.23,1.028,2.053,Yes
+935,Li-FT Power Ltd.,LIFT.V,50.88,0.949,2.092,Yes
+936,IsoEnergy Ltd.,ISO.TO,21.97,0.455,0.694,Yes
+937,Galore Resources Inc.,GRI.V,102.6,1.659,4.265,Yes
+938,Mayfair Gold Corp.,MFG.V,23.81,0.495,2.017,Yes
+939,Grown Rogue International Inc.,GRIN.CN,46.15,0.886,0.987,No
+940,Gabriel Resources Ltd.,GBU.V,32.91,0.667,1.267,No
+941,Zoglo's Food Corp.,ZOG-X.CN,98.83,1.651,0.424,Yes
+942,Arya Resources Ltd.,RBZ.V,52.22,1.026,1.769,Yes
+943,Green Bridge Metals Corporation,GRBM.CN,86.14,1.537,2.359,No
+944,Thomson Reuters Corp,TRI-PB.TO,3.23,0.077,0.173,No
+945,Enbridge Inc.,ENB.TO,7.54,0.177,0.497,Yes
+946,Asarian Energy Limited,ARN.TO,43.58,0.891,2.196,No
+947,Legend Power Systems Inc.,LPS.V,40.62,0.844,0.353,Yes
+948,Giyani Metals Corp.,EMM.V,49.82,1.008,0.805,Yes
+949,Advent-AWI Holdings Inc.,AWI.V,34.17,0.731,1.508,Yes
+950,Kirkland Lake Discoveries Corp.,KLDC.V,103.78,1.818,4.997,Yes
+951,Red White & Bloom Brands Inc.,RWB.CN,81.67,1.52,5.056,No
+952,BE Resources Inc.,BER-H.V,39.72,0.849,5.016,Yes
+953,Stillwater Critical Minerals Corp.,PGE.V,41.05,0.874,4.966,Yes
+954,Boba Mint Holdings Ltd.,TNJ.CN,52.1,1.069,3.496,Yes
+955,Boreal Gold Inc.,BGLD.CN,50.52,1.047,0.06,Yes
+956,Global Copper Corp.,CUCU.V,43.08,0.915,4.462,Yes
+957,Mineral Road Discovery Inc.,ROAD.CN,95.91,1.762,2.916,Yes
+958,Kolibri Global Energy Inc.,KEI.TO,27.1,0.62,3.582,No
+959,Frequency Exchange Corp.,FREQ.V,19.18,0.454,0.252,Yes
+960,Dorel Industries Inc.,DII-A.TO,43.87,0.953,0.7,Yes
+961,Meryllion Resources Corp.,MYR.CN,104.37,1.904,4.664,No
+962,Bengal Energy Ltd.,BNG.TO,56.23,1.179,6.477,No
+963,RESAAS Services Inc.,RSS.V,18.13,0.438,2.413,Yes
+964,Defense Metals Corp.,DEFN.V,63.73,1.317,0.396,No
+965,Belmont Resources Inc.,BEA.V,38.11,0.859,1.781,Yes
+966,Neural Therapeutics Inc.,NURL.CN,38.11,0.869,2.155,Yes
+967,Helium Evolution Incorporated,HEVI.V,37.99,0.872,3.444,No
+968,Richelieu Hardware Ltd.,RCH.TO,8.84,0.228,0.77,Yes
+969,Fiddlehead Resources Corp.,FHR.V,38.35,0.885,0.055,Yes
+970,NRED Intelligent Mining Inc.,NRED.CN,83.47,1.676,1.578,No
+971,Alaska Hydro Corporation,AKH-H.V,35.34,0.845,1.733,No
+972,IMPACT Silver Corp.,IPT.V,34.93,0.839,2.752,Yes
+973,Metasphere Labs Inc.,LABZ.CN,76.6,1.612,0.649,No
+974,Spin Master Corp.,TOY.TO,10.39,0.275,0.76,Yes
+975,NorthPalm Capital Corp,NP.CN,24.1,0.611,1.773,Yes
+976,Zephyr Minerals Ltd.,ZFR.V,32.86,0.807,0.296,Yes
+977,Omineca Mining and Metals Ltd.,OMM.V,28.21,0.707,4.476,Yes
+978,Pacific Arc Resources Ltd.,PAV-H.V,38.11,0.925,0.244,No
+979,Hannan Metals Ltd.,HAN.V,19.42,0.506,0.899,No
+980,Firm Capital Mortgage Investment Corporation,FC.TO,3.68,0.104,0.539,Yes
+981,"Enterprise Group, Inc.",E.TO,13.57,0.368,0.699,No
+982,Grounded Lithium Corp.,GRD.V,30.07,0.769,2.203,No
+983,NVIDIA Corporation,ZNVD.NE,14.21,0.387,0.457,Yes
+984,Blue Ant Media Corporation,BAMI.TO,24.6,0.644,0.728,No
+985,"Super Micro Computer, Inc.",ZSMC.NE,46.19,1.122,5.043,Yes
+986,Mackenzie Master Limited Partnership,MKZ-UN.TO,10.69,0.297,0.301,No
+987,Appili Therapeutics Inc.,APLI.TO,33.3,0.847,3.358,No
+988,Lion Rock Resources Inc.,ROAR.V,30.87,0.796,0.19,Yes
+989,Irving Resources Inc.,IRV.CN,32.12,0.832,3.646,Yes
+990,Pharmadrug Inc.,PHRX.CN,85.9,1.899,0.952,Yes
+991,Canadian Large Cap Leaders Split Corp.,NPS-PA.TO,2.01,0.06,0.242,No
+992,The Precision Peptide Company Inc.,BPC.CN,21.92,0.601,0.098,Yes
+993,Clean Energy Transition Inc.,TRAN.V,33.3,0.878,0.775,Yes
+994,Chartwell Retirement Residences,CSH-UN.TO,8.21,0.239,1.043,Yes
+995,Theralase Technologies Inc.,TLT.V,31.5,0.84,0.697,No
+996,Ovation Science Inc.,OVAT.CN,51.28,1.286,2.176,Yes
+997,Energy Fuels Inc.,EFR.TO,34.42,0.917,0.005,No
+998,FuelPositive Corporation,NHHH.V,42.64,1.104,3.955,Yes
+999,BCE Inc.,BCE.TO,7.06,0.21,0.331,Yes
+1000,Collective Mining Ltd.,CNL.TO,21.71,0.611,3.247,Yes
+1001,Dios Exploration Inc.,DOS.V,26.37,0.731,3.621,No
+1002,RTG Mining Inc.,RTG.TO,26.37,0.731,0.415,Yes
+1003,Nevada King Gold Corp.,NKG.V,26.22,0.73,3.009,Yes
+1004,Blue Lagoon Resources Inc.,BLLG.CN,20.53,0.591,0.198,Yes
+1005,The Becker Milk Company Limited,BEK-B.TO,2.54,0.079,0.102,Yes
+1006,Bri-Chem Corp.,BRY.TO,20.83,0.599,0.995,Yes
+1007,Vortex Metals Inc.,VMS.V,24.77,0.713,1.001,No
+1008,Latam Lithium Corp.,LALI.V,72.45,1.782,12.731,No
+1009,Mercado Minerals Ltd.,MERC.CN,44.58,1.199,4.022,Yes
+1010,Intellabridge Technology Corp.,KASH.CN,26.37,0.765,3.695,No
+1011,Gold Orogen Resources Corp.,OROG.CN,38.7,1.073,16.285,No
+1012,Voyageur Pharmaceuticals Ltd.,VM.V,25.52,0.743,1.636,Yes
+1013,DIRTT Environmental Solutions Ltd.,DRT.TO,14.02,0.429,0.957,Yes
+1014,Killam Apartment REIT,KMP-UN.TO,5.33,0.17,0.181,Yes
+1015,Kits Eyecare Ltd.,KITS.TO,16.71,0.515,0.029,No
+1016,EGR Exploration Ltd.,EGR.V,24.67,0.737,0.977,Yes
+1017,"iAnthus Capital Holdings, Inc.",IAN.CN,70.48,1.809,2.587,No
+1018,Tribeca Resources Corporation,TRBC.V,13.49,0.422,1.404,Yes
+1019,SouthGobi Resources Ltd.,SGQ.V,27.54,0.818,1.352,No
+1020,Tesoro Minerals Corp.,TES.V,25.2,0.756,5.164,Yes
+1021,Argo Graphene Solutions Corp.,ARGO.CN,20.15,0.624,1.829,No
+1022,Argentina Lithium & Energy Corp.,LIT.V,30.81,0.918,4.206,Yes
+1023,CopAur Minerals Inc.,CPAU.V,22.3,0.691,3.555,Yes
+1024,The North West Company Inc.,NWC.TO,6.62,0.221,1.282,Yes
+1025,Power Metallic Mines Inc.,PNPN.V,23.06,0.72,1.979,Yes
+1026,Goodfellow Inc.,GDL.TO,3.38,0.115,0.167,Yes
+1027,ONGold Resources Ltd.,ONAU.V,37.73,1.118,4.811,Yes
+1028,First Andes Silver Ltd.,FAS.V,31.46,0.957,2.434,Yes
+1029,Euro Sun Mining Inc.,ESM.TO,31.86,0.969,3.992,Yes
+1030,Gold Finder Resources Ltd.,GLD.V,21.01,0.667,1.664,Yes
+1031,Bold Ventures Inc.,BOL.V,22.45,0.71,0.645,Yes
+1032,Great Red Lake Gold Corp.,RLGC.CN,61.85,1.717,23.726,Yes
+1033,QMC Quantum Minerals Corp.,QMC.V,51.6,1.483,2.656,No
+1034,Trican Well Service Ltd.,TCW.TO,11.55,0.386,0.797,No
+1035,BrandPilot AI Inc.,BPAI.CN,19.78,0.643,0.321,Yes
+1036,Ventripoint Diagnostics Ltd.,VPT.V,22.67,0.734,1.533,No
+1037,"Amazon.com, Inc.",ZAMZ.NE,13.16,0.448,0.029,No
+1038,Integra Resources Corp.,ITR.V,20.7,0.69,5.122,Yes
+1039,Origen Resources Inc.,ORGN.CN,27.65,0.905,5.323,No
+1040,Costco Wholesale Corporation,ZCOS.NE,5.15,0.185,0.349,Yes
+1041,Canada Packers Inc.,CPKR.TO,8.41,0.3,0.145,Yes
+1042,Orex Minerals Inc.,REX.V,28.5,0.943,6.303,Yes
+1043,Grid Metals Corp.,GRDM.V,12.5,0.44,0.441,Yes
+1044,Microsoft Corporation,ZMSF.NE,14.14,0.495,0.957,Yes
+1045,Minehub Technologies Inc.,MHUB.V,26.37,0.885,3.597,Yes
+1046,Definity Financial Corporation,DFY.TO,8.3,0.3,0.554,Yes
+1047,American Pacific Mining Corp.,USGD.CN,22.23,0.76,1.475,Yes
+1048,Rockpoint Gas Storage Inc.,RGSI.TO,4.67,0.173,0.586,Yes
+1049,Outcrop Silver & Gold Corporation,OCG.TO,22.01,0.759,3.792,Yes
+1050,Highland Copper Company Inc.,HI.V,20.89,0.725,1.551,Yes
+1051,Sitka Gold Corp.,SIG.V,14.4,0.53,4.174,Yes
+1052,Northern Lion Gold Corp.,NL.V,26.68,0.937,0.79,Yes
+1053,Rhelion Life Sciences Corp.,RHEL.CN,31.96,1.102,4.761,No
+1054,Sekur Private Data Ltd.,SKUR.CN,28.84,1.021,4.035,Yes
+1055,Guanajuato Silver Company Ltd.,GSVR.V,22.31,0.829,3.011,Yes
+1056,Precious Metals and Mining Trust,MMP-UN.TO,11.71,0.454,3.198,Yes
+1057,Steppe Gold Ltd.,STGO.TO,17.51,0.664,1.221,Yes
+1058,Infinico Metals Corp.,INFM.V,25.81,0.954,1.522,Yes
+1059,Empress Royalty Corp.,EMPR.V,10.06,0.4,2.535,Yes
+1060,Helios Fairfax Partners Corporation,HFPC-U.TO,14.95,0.589,2.828,No
+1061,Metalero Mining Corp.,MLO.V,22.23,0.852,2.851,Yes
+1062,EMERGE Commerce Ltd.,ECOM.V,13.74,0.55,0.503,Yes
+1063,North Atlantic Titanium Corp.,NATO.CN,18.5,0.731,0.174,Yes
+1064,Onyx Gold Corp.,ONYX.V,20.63,0.81,4.931,Yes
+1065,Kodiak Copper Corp.,KDK.V,18.02,0.722,2.57,Yes
+1066,Q-Gold Resources Ltd.,QGR.V,32.46,1.248,6.326,Yes
+1067,Brixton Metals Corporation,BBB.V,29.69,1.165,1.391,No
+1068,BRP Inc.,DOO.TO,7.41,0.318,0.698,No
+1069,Laramide Resources Ltd.,LAM.TO,18.89,0.775,1.19,Yes
+1070,Sonoro Gold Corp.,SGO.V,14.42,0.603,1.179,Yes
+1071,ADENTRA Inc.,ADEN.TO,6.29,0.273,0.658,Yes
+1072,Pender Growth Fund Inc.,PTF.V,2.34,0.104,0.489,Yes
+1073,Puma Exploration Inc.,PUMA.V,12.03,0.514,0.068,No
+1074,Arch Biopartners Inc.,ARCH.V,27.03,1.096,1.152,Yes
+1075,Greenland Resources Inc.,MOLY.TO,8.91,0.391,1.71,Yes
+1076,Volcanic Gold Mines Inc.,VG.V,11.68,0.515,0.083,Yes
+1077,Genesis AI Corp.,AIG.CN,36.06,1.454,1.338,Yes
+1078,PPX Mining Corp.,PPX.V,10.57,0.478,0.494,Yes
+1079,Avricore Health Inc.,AVCR.V,16.62,0.735,0.145,Yes
+1080,Fathom Nickel Inc.,FNI.CN,21.94,0.968,0.758,Yes
+1081,Haivision Systems Inc.,HAI.TO,18.15,0.813,1.998,Yes
+1082,Sankamap Metals Inc.,SCU.CN,10.57,0.494,1.17,Yes
+1083,Borealis Mining Company Limited,BOGO.V,18.24,0.832,5.307,Yes
+1084,Tocvan Ventures Corp.,TOC.CN,12.83,0.601,0.333,No
+1085,Mene Inc.,MENE.V,17.83,0.82,2.665,No
+1086,Modern Plant Based Foods Inc.,MEAT.CN,34.59,1.502,4.148,Yes
+1087,Gossan Resources Limited,GSS.V,9.48,0.456,1.424,Yes
+1088,Boardwalktech Software Corp.,BWLK.V,23.74,1.088,0.196,Yes
+1089,Fintech Select Ltd.,FTEC.V,28.32,1.283,0.769,Yes
+1090,West Vault Mining Inc.,WVM.V,11.04,0.542,1.356,Yes
+1091,Copper Quest Exploration Inc.,CQX.CN,25.56,1.213,0.466,No
+1092,Adyton Resources Corporation,ADY.V,17.23,0.85,2.055,Yes
+1093,Broadcom Inc.,ZAVG.NE,11.64,0.59,2.105,Yes
+1094,AGT Food and Ingredients Inc.,AGTF.TO,5.39,0.286,1.522,No
+1095,Atico Mining Corporation,ATY.V,17.59,0.887,0.714,Yes
+1096,Purpose Shopify SHOP Yield Shares ETF CAD Income,SHPY.NE,8.41,0.441,0.284,No
+1097,POSaBIT Systems Corporation,PBIT.CN,17.42,0.881,1.501,Yes
+1098,Beckett's Inc.,BKTS.CN,56.23,2.498,1.604,Yes
+1099,Doseology Sciences Inc.,MOOD.CN,45.13,2.097,4.973,Yes
+1100,Fortune Bay Corp.,FOR.V,12.9,0.681,3.382,Yes
+1101,Marksmen Energy Inc.,MAH.V,33.39,1.652,0.947,Yes
+1102,V Ten Metals Corp.,VTEN.V,13.22,0.715,8.652,No
+1103,Headwater Gold Inc.,HWG.CN,11.67,0.644,1.076,Yes
+1104,Peloton Minerals Corporation,PMC.CN,6.63,0.375,1.772,Yes
+1105,Bausch Health Companies Inc.,BHC.TO,9.26,0.518,0.285,Yes
+1106,Starr Peak Mining Ltd.,STE.V,13.22,0.732,0.398,Yes
+1107,AC/DC Battery Metals Inc.,ACDC.V,19.72,1.074,0.574,Yes
+1108,Millennial Potash Corp.,MLP.V,11.44,0.646,2.9,Yes
+1109,KO Gold Inc.,KOG.CN,13.85,0.785,0.1,Yes
+1110,Northern Graphite Corporation,NGC.V,18.5,1.032,0.405,No
+1111,West Fraser Timber Co. Ltd.,WFG.TO,3.72,0.223,0.177,No
+1112,EonX Technologies Inc.,EONX.CN,10.41,0.607,0.587,No
+1113,Green Thumb Industries Inc.,GTII.CN,9.28,0.55,0.268,Yes
+1114,CleanTech Vanadium Mining Corp.,CTV.V,21.43,1.209,1.978,Yes
+1115,Apex Critical Metals Corp.,APXC.CN,17.59,1.019,3.493,No
+1116,Century Global Commodities Corporation,CNT.TO,5.59,0.35,1.587,No
+1117,Terra Clean Energy Corp.,TCEC.CN,17.65,1.078,0.545,Yes
+1118,Barranco Gold Mining Corp.,BAR.CN,14.18,0.891,2.85,No
+1119,Shopify Inc.,SHOP.TO,6.32,0.413,0.329,No
+1120,Copper Lake Resources Ltd.,CPL.V,25.26,1.566,1.908,No
+1121,SuperQ Quantum Computing Inc.,QBTQ.CN,29.38,1.808,0.689,Yes
+1122,Skyharbour Resources Ltd.,SYH.V,9.6,0.656,0.207,Yes
+1123,Intact Financial Corporation,IFC.TO,3.35,0.236,1.043,Yes
+1124,Verano Holdings Corp.,VRNO.NE,9.97,0.686,0.105,No
+1125,Cineplex Inc.,CGX.TO,4.25,0.301,0.695,Yes
+1126,West Red Lake Gold Mines Ltd.,WRLG.V,9.65,0.67,2.744,Yes
+1127,HIVE Digital Technologies Ltd.,HIVE.TO,18.23,1.246,0.026,Yes
+1128,PetroTal Corp.,TAL.TO,10.01,0.71,3.176,No
+1129,Rio Grande Resources Ltd.,RGR.CN,13.3,0.949,1.749,Yes
+1130,Pelangio Exploration Inc.,PX.V,10.33,0.79,3.443,Yes
+1131,North American Niobium and Critical Minerals Corp.,NIOB.CN,31.24,2.224,3.989,Yes
+1132,"Robinhood Markets, Inc.",ZHOO.NE,8.17,0.638,0.045,No
+1133,Bravo Mining Corp.,BRVO.V,10.26,0.801,4.493,Yes
+1134,Ostrom Climate Solutions Inc.,COO.V,11.47,0.901,1.521,Yes
+1135,Resverlogix Corp.,RVX.TO,3.24,0.266,0.057,Yes
+1136,Kingman Minerals Ltd.,KGS.V,11.99,0.971,1.454,No
+1137,Canterra Minerals Corporation,CTM.V,6.59,0.552,2.092,Yes
+1138,Maxus Mining Inc.,MAXM.CN,13.58,1.114,2.701,Yes
+1139,Vizsla Silver Corp.,VZLA.TO,6.7,0.569,2.18,Yes
+1140,Docebo Inc.,DCBO.TO,5.14,0.444,0.846,No
+1141,Luxor Metals Ltd.,LUXR.V,8.09,0.693,2.618,Yes
+1142,Apotex Health Corp.,APTX.TO,7.07,0.628,,
+1143,Metalore Resources Limited,MET.V,5.17,0.473,1.502,No
+1144,KORE Mining Ltd.,KORE.V,12.21,1.084,1.771,No
+1145,Kinaxis Inc.,KXS.TO,3.39,0.319,0.479,No
+1146,Noram Lithium Corp.,NRM.V,9.91,0.923,0.497,Yes
+1147,New Destiny Mining Corp.,NED.V,9.48,0.899,2.166,Yes
+1148,Integral Metals Corp.,INTG.CN,13.4,1.288,2.503,No
+1149,Signature Resources Ltd.,SGU.V,9.94,0.984,3.65,No
+1150,Silver47 Exploration Corp.,AGA.V,6.67,0.679,3.959,Yes
+1151,Palamina Corp.,PA.V,5.53,0.609,1.505,Yes
+1152,Lightning Resource Corp.,LTNG.V,5.99,0.659,2.003,Yes
+1153,Brookfield Renewable Corporation,BEPC.TO,3.63,0.405,0.161,Yes
+1154,Roland Mineral Enterprises Corp.,RME.V,6.38,0.709,1.597,No
+1155,Ivanhoe Electric Inc.,IE.TO,5.12,0.581,2.921,Yes
+1156,Titan Logix Corp.,TLA.V,1.61,0.189,0.244,Yes
+1157,Freegold Limited,FVL.TO,5.2,0.605,3.909,Yes
+1158,Minsud Resources Corp.,MSR.V,4.16,0.492,2.256,Yes
+1159,Dorel Industries Inc.,DII-B.TO,3.95,0.471,2.08,No
+1160,Microsoft Corporation,MSFT.TO,3.44,0.415,0.433,Yes
+1161,Andean Precious Metals Corp.,APM.TO,6.21,0.745,5.256,Yes
+1162,PharmaCorp Rx Inc.,PCRX.V,2.2,0.271,0.031,Yes
+1163,Cogeco Communications Inc.,CCA.TO,1.74,0.216,1.06,Yes
+1164,Eastport Critical Metals Corp.,EVI.V,9.42,1.14,1.41,No
+1165,Black Mammoth Metals Corporation,BMM.V,5.32,0.662,1.267,Yes
+1166,BeWhere Holdings Inc.,BEW.V,2.92,0.368,1.159,Yes
+1167,Zedcor Inc.,ZDC.V,4.46,0.565,0.475,Yes
+1168,Decibel Cannabis Company Inc.,DB.V,4.09,0.533,1.831,No
+1169,North Shore Uranium Ltd.,NSU.V,4.66,0.622,2.603,Yes
+1170,Almaden Minerals Ltd.,AMM.V,4.67,0.634,4.997,Yes
+1171,StrategX Elements Corp.,STGX.CN,2.57,0.357,1.486,Yes
+1172,Lithium Chile Inc.,LITH.V,2.79,0.391,0.359,Yes
+1173,A & W Food Services of Canada Inc.,AW.TO,0.65,0.092,0.11,Yes
+1174,Gold Springs Resource Corp.,GRC.TO,4.55,0.638,0.363,No
+1175,GoldMining Inc.,GOLD.TO,4.2,0.619,3.033,Yes
+1176,PreveCeutical Medical Inc.,PREV.CN,5.59,0.83,1.213,Yes
+1177,Bronco Resources Corp.,BRON.V,3.64,0.559,0.22,No
+1178,Tiernan Gold Corp.,TNGD.V,3.68,0.567,2.89,Yes
+1179,Brookfield Infrastructure Corporation,BIPC.TO,2.28,0.354,1.425,Yes
+1180,Pacific Ridge Exploration Ltd.,PEX.V,2.44,0.383,2.547,Yes
+1181,Ameriwest Critical Metals Inc.,AWCM.CN,8.55,1.322,1.053,No
+1182,Royal Road Minerals Limited,RYR.V,2.77,0.476,0.525,Yes
+1183,Cogeco Inc.,CGO.TO,1.22,0.237,1.272,Yes
+1184,Quantum Critical Metals Corp.,LEAP.V,8.2,1.601,0.538,No
+1185,Cizzle Brands Corporation,CZZL.NE,4.59,0.985,0.942,No
+1186,Discovery Harbour Resources Corp.,DHR-H.V,4.05,0.902,3.191,No
+1187,Rise Gold Corp.,RISE.CN,5.33,1.203,3.148,Yes
+1188,Aftermath Silver Ltd.,AAG.V,2.97,0.738,5.29,Yes
+1189,Kingsmen Resources Ltd.,KNG.V,2.48,0.639,1.475,Yes
+1190,Invesque Inc.,IVQ-U.TO,0.32,0.084,0.045,Yes
+1191,Spartacus Metals Inc.,SPAR.V,3.21,0.86,4.492,Yes
+1192,Alset AI Ventures Inc.,GPUS.V,9.02,2.465,4.421,Yes
+1193,Blue Jay Gold Corp.,JAY.V,0.46,0.136,,
+1194,Cymat Technologies Ltd.,CYM.V,2.18,0.735,0.573,No
+1195,Hybrid Power Solutions Inc.,HPSS.CN,2.43,0.818,0.579,Yes
+1196,Moss Genomics Inc.,MOSS.CN,5.52,2.021,17.268,No
+1197,Angel Wing Metals Inc.,AWM.V,1.83,0.767,0.836,Yes
+1198,Plurilock Security Inc.,PLUR.V,1.99,0.856,1.197,Yes
+1199,TAG Oil Ltd.,TAO.V,1.53,0.671,2.624,No
+1200,Northland Power Inc.,NPI.TO,0.89,0.429,0.26,No
+1201,Opus One Gold Corporation,OOR.V,1.22,0.686,0.127,Yes
+1202,Cambria Gold Mines Inc.,CAMB.V,2.04,1.686,1.671,No
+1203,ASEP Medical Holdings Inc.,ASEP.CN,1.23,1.252,2.702,No
+1204,Wallbridge Mining Company Limited,WM.TO,0.41,0.668,2.67,Yes
+1205,Anaergia Inc.,ANRG.TO,0.28,0.471,1.401,No
+1206,Tsodilo Resources Limited,TSD.V,0.6,1.176,6.775,Yes
+1207,Inverite Insights Inc.,INVR.CN,0.2,0.731,1.083,Yes
+1208,BMO Market+ International Equity Fund ETF Series,ZMPI.NE,0.0,0.003,,
+1209,Stock Trend Capital Inc.,STCQ.CN,0.0,1.342,1.679,Yes
+1210,Voltage Metals Corp.,VOLT.CN,0.0,1.265,7.723,No
+1211,"Apollo Global Management, Inc.",ZAPO.NE,-0.2,0.46,1.693,No
+1212,AI/ML Innovations Inc.,AIML.CN,-0.4,0.722,2.345,Yes
+1213,WestGold Metals Corp.,WGM.CN,-0.58,1.036,1.8,Yes
+1214,Oceanic Iron Ore Corp.,FEO.V,-0.36,0.645,3.933,Yes
+1215,Western Metallica Resources Corp.,WMS.V,-0.64,1.052,1.173,Yes
+1216,Bitterroot Resources Ltd.,BTT.V,-0.96,0.934,2.886,No
+1217,Gold Hunter Resources Inc.,HUNT.CN,-0.84,0.749,2.562,No
+1218,Blue Star Gold Corp.,BAU.V,-0.71,0.6,1.366,Yes
+1219,Lake Winn Resources Corp.,LWR.V,-1.25,0.962,1.504,Yes
+1220,Twenty Mile Metals Inc.,MILE.V,-2.53,1.895,,
+1221,Richards Group Inc.,RIC.TO,-0.36,0.26,0.388,Yes
+1222,Abcourt Mines Inc.,ABI.V,-1.07,0.724,3.509,Yes
+1223,Cameo Resources Inc.,MEO.CN,-1.26,0.777,1.434,Yes
+1224,Volatus Capital Corp.,VC-X.CN,-1.8,0.991,2.805,No
+1225,Core Silver Corp.,CC.CN,-2.23,1.162,1.896,Yes
+1226,Empire Company Limited,EMP-A.TO,-0.46,0.216,0.472,Yes
+1227,First Hydrogen Corp.,FHYD.V,-0.82,0.374,1.724,Yes
+1228,Itafos Inc.,IFOS.V,-1.05,0.456,1.43,No
+1229,Nexus Gold Corp.,NXS.V,-3.27,1.421,1.268,No
+1230,Promino Nutritional Sciences Inc.,MUSL.CN,-2.67,1.056,4.779,No
+1231,Dream Office Real Estate Investment Trust,D-UN.TO,-0.53,0.207,0.092,Yes
+1232,Leef Brands Inc.,LEEF.CN,-1.26,0.475,1.335,No
+1233,ICG Silver & Gold Ltd.,ICG.CN,-2.34,0.866,13.474,Yes
+1234,Aston Bay Holdings Ltd.,BAY.V,-1.96,0.703,0.31,No
+1235,Taiga Building Products Ltd.,TBL.TO,-0.32,0.113,0.549,Yes
+1236,Dr. Phone Fix Canada Corporation,DPF.V,-2.33,0.78,1.256,No
+1237,Formation Metals Inc,FOMO.CN,-1.78,0.59,3.077,Yes
+1238,Full Metal Minerals Ltd.,FMM.V,-3.46,1.072,2.248,Yes
+1239,Perseverance Metals Inc.,PMI.V,-3.16,0.928,0.863,Yes
+1240,Defence Therapeutics Inc.,DTC.CN,-2.28,0.63,2.875,Yes
+1241,Black Swan Graphene Inc.,SWAN.V,-2.3,0.607,2.157,No
+1242,Canamera Energy Metals Corp.,EMET.CN,-4.66,1.233,0.715,Yes
+1243,VIQ Solutions Inc.,VQS.V,-4.11,1.019,4.844,Yes
+1244,Dollarama Inc.,DOL.TO,-1.23,0.278,1.832,Yes
+1245,Four Arrows Capital Corp.,AROW-P.V,-1.86,0.417,1.156,No
+1246,Great Atlantic Resources Corp.,GR.V,-5.98,1.349,1.3,No
+1247,Berkshire Hathaway Inc.,BRK.TO,-0.7,0.152,0.822,Yes
+1248,Nickel North Exploration Corp.,NNX.V,-4.41,0.912,1.378,No
+1249,Brookfield Renewable Partners LP,BEP-PS.TO,-0.19,0.039,,
+1250,Manning Ventures Inc.,MANN.CN,-5.74,1.128,9.0,Yes
+1251,Rocket Doctor AI Inc.,AIDR.CN,-2.78,0.507,1.956,No
+1252,Desert Mountain Energy Corp.,DME.V,-6.75,1.182,6.959,No
+1253,Golden Shield Resources Inc.,GSRI.CN,-2.73,0.455,0.551,Yes
+1254,Madison Pacific Properties Inc.,MPC-C.TO,-1.3,0.206,1.124,No
+1255,GreenFirst Forest Products Inc.,GFP.TO,-3.66,0.568,1.884,Yes
+1256,Rocky Mountain Liquor Inc.,RUM.V,-3.21,0.492,1.32,Yes
+1257,New Found Gold Corp.,NFGC.TO,-4.61,0.686,3.793,Yes
+1258,Silver Dollar Resources Inc.,SLV.CN,-5.71,0.847,1.419,Yes
+1259,Lodestar Metals Corp.,LSTR.V,-5.6,0.826,1.701,Yes
+1260,Aster Acquisition Corp.,ATR-P.V,-6.85,0.946,3.445,Yes
+1261,Gatekeeper Systems Inc.,GSI.V,-4.59,0.623,0.857,Yes
+1262,Battery X Metals Inc.,BATX.CN,-8.05,1.088,1.811,No
+1263,Blue Sky Uranium Corp.,BSK.V,-6.43,0.861,1.432,No
+1264,TinOne Resources Inc.,TORC.V,-8.25,1.112,3.616,Yes
+1265,Miivo AI Inc,MIVO.V,-4.41,0.545,2.944,Yes
+1266,Sony Group Corporation,SONY.NE,-2.64,0.316,1.453,Yes
+1267,Ultra Brands Ltd.,ULTA.CN,-11.7,1.45,7.951,No
+1268,Xtra-Gold Resources Corp.,XTG.TO,-3.0,0.35,0.131,Yes
+1269,POWR Lithium Corp.,POWR.CN,-10.11,1.2,1.002,Yes
+1270,Standard Lithium Ltd.,SLI.V,-5.58,0.642,3.506,Yes
+1271,Altamira Gold Corp.,ALTA.V,-6.05,0.664,3.306,Yes
+1272,Mercedes-Benz Group AG,MB.NE,-2.46,0.261,1.524,Yes
+1273,Coniagas Battery Metals Inc.,COS.V,-4.97,0.528,1.94,Yes
+1274,Churchill Resources Inc.,CRI.V,-12.45,1.327,2.901,Yes
+1275,Quartz Mountain Resources Ltd.,QZM.V,-9.52,0.99,2.72,Yes
+1276,Sandfire Resources America Inc.,SFR.V,-7.76,0.79,2.922,Yes
+1277,Magma Silver Corp.,MGMA.V,-9.35,0.934,1.218,Yes
+1278,Baylin Technologies Inc.,BYL.TO,-4.19,0.408,0.213,No
+1279,Lithium Ionic Corp.,LTH.V,-6.8,0.662,2.001,Yes
+1280,Golden Rapture Mining Corporation,GLDR.CN,-6.59,0.638,1.455,Yes
+1281,Pinnacle Silver and Gold Corp.,PINN.V,-6.72,0.645,1.683,Yes
+1282,Giga Metals Corporation,GIGA.V,-7.16,0.676,2.041,Yes
+1283,Lucara Diamond Corp.,LUC.TO,-5.47,0.509,1.77,Yes
+1284,Ximen Mining Corp.,XIM.V,-8.8,0.831,1.806,Yes
+1285,Jabbo Capital Corp.,JAB-P.V,-3.67,0.334,0.233,Yes
+1286,Regency Silver Corp.,RSMX.V,-15.02,1.441,1.077,Yes
+1287,NorthWest Copper Corp.,NWST.V,-9.19,0.854,1.427,Yes
+1288,VerticalScope Holdings Inc.,FORA.TO,-3.97,0.354,0.77,No
+1289,Pulse Seismic Inc.,PSD.TO,-4.95,0.441,0.441,Yes
+1290,Sun Summit Minerals Corp.,SMN.V,-6.97,0.622,3.133,Yes
+1291,COSCIENS Biopharma Inc.,CSCI.TO,-18.13,1.699,5.426,Yes
+1292,Apollo Silver Corp.,APGO.V,-6.67,0.588,2.851,Yes
+1293,JasperX Technologies Inc.,JSPX.V,-9.44,0.842,0.742,No
+1294,Viscount Mining Corp.,VML.V,-12.27,1.107,3.214,Yes
+1295,Ionik Corporation,INIK.V,-13.06,1.18,1.625,No
+1296,Grey Matters Health Inc.,GREY.CN,-9.04,0.796,2.803,No
+1297,Silver Viper Minerals Corp.,VIPR.V,-13.02,1.164,2.222,Yes
+1298,Alaska Energy Metals Corporation,AEMC.V,-10.96,0.964,0.301,No
+1299,MTY Food Group Inc.,MTY.TO,-3.25,0.276,0.963,Yes
+1300,dynaCERT Inc.,DYA.TO,-6.63,0.559,1.252,Yes
+1301,IC Group Holdings Inc.,ICGH.V,-5.71,0.476,1.536,Yes
+1302,One Bullion Limited,OBUL.V,-14.73,1.285,0.364,No
+1303,Star Diamond Corporation,DIAM.TO,-8.72,0.712,0.695,No
+1304,SP Strategic Acquisition Corp.,SPSA-P.V,-15.19,1.277,3.487,No
+1305,Red Lake Gold Inc.,RGLD.CN,-15.41,1.291,6.472,No
+1306,Blockmate Ventures Inc.,MATE.V,-14.41,1.168,1.379,No
+1307,Genesis Land Development Corp.,GDC.TO,-2.47,0.184,0.781,Yes
+1308,NextSource Materials Inc.,NEXT.TO,-11.03,0.84,1.399,No
+1309,Tecsys Inc.,TCS.TO,-6.22,0.461,0.151,Yes
+1310,Mary Agrotechnologies Inc.,MARY.CN,-18.25,1.433,5.44,Yes
+1311,Partners Value Investments LP,PVF-UN.V,-2.33,0.167,0.993,No
+1312,TerraVest Industries Inc.,TVK.TO,-7.0,0.49,1.458,Yes
+1313,Domestic Metals Corp.,DMCU.V,-9.09,0.632,1.116,Yes
+1314,Source Energy Services Ltd.,SHLE.TO,-7.71,0.52,0.612,Yes
+1315,Finlay Minerals Ltd.,FYL.V,-6.9,0.459,0.475,No
+1316,F3 Uranium Corp.,FUU.V,-11.89,0.801,0.97,No
+1317,Compass Gold Corporation,CVB.V,-8.05,0.518,3.727,No
+1318,Search Minerals Inc.,SMY.V,-12.7,0.834,0.413,No
+1319,Morien Resources Corp.,MOX.V,-6.54,0.413,1.851,Yes
+1320,Superior Plus Corp.,SPB.TO,-4.37,0.27,0.737,No
+1321,Cargojet Inc.,CJT.TO,-4.33,0.265,1.276,Yes
+1322,Visionary Metals Corp.,VIZ.V,-10.67,0.652,0.589,Yes
+1323,NEXE Innovations Inc.,NEXE.V,-12.99,0.779,0.961,Yes
+1324,Alpha Exploration Ltd.,ALEX.V,-9.9,0.577,4.57,Yes
+1325,FireFox Gold Corp.,FFOX.V,-12.31,0.726,1.709,Yes
+1326,Braille Energy Systems Inc.,BES.V,-12.4,0.731,0.361,No
+1327,Labrador Iron Ore Royalty Corporation,LIF.TO,-2.15,0.12,0.795,Yes
+1328,Canaf Investments Inc.,CAF.V,-3.93,0.22,1.024,Yes
+1329,Armada Mercantile Ltd.,ARM.CN,-19.16,1.147,4.103,No
+1330,C-Com Satellite Systems Inc.,CMI.V,-6.98,0.392,0.711,No
+1331,Hypercharge Networks Corp.,HC.V,-12.01,0.691,1.192,No
+1332,MustGrow Biologics Corp.,MGRO.V,-12.8,0.738,2.234,No
+1333,Steadright Critical Minerals Inc.,SCM.CN,-14.67,0.822,0.493,Yes
+1334,Ur-Energy Inc.,URE.TO,-9.96,0.543,0.516,Yes
+1335,ME Therapeutics Holdings Inc.,METX.CN,-14.87,0.801,0.101,No
+1336,Greenheart Gold Inc.,GHRT.V,-15.36,0.827,5.21,Yes
+1337,Gildan Activewear Inc.,GIL.TO,-5.61,0.286,1.631,Yes
+1338,Rock Tech Lithium Inc.,RCK.V,-11.58,0.601,0.048,Yes
+1339,Hardcore Discoveries Ltd.,HARD.CN,-17.56,0.939,4.745,Yes
+1340,Frontier Lithium Inc.,FL.V,-13.33,0.695,0.662,No
+1341,PDI Gold Limited,PDI.TO,-13.26,0.69,7.793,Yes
+1342,Northrop Grumman Corporation,ZNOC.NE,-6.96,0.349,0.25,Yes
+1343,Silver Acadia Exploration Inc.,SLA.CN,-13.26,0.682,2.671,Yes
+1344,Metro Inc.,MRU.TO,-3.65,0.178,0.696,Yes
+1345,North Peak Resources Ltd.,NPR.V,-9.17,0.458,1.461,Yes
+1346,LaFleur Minerals Inc.,LFLR.CN,-15.95,0.812,2.098,Yes
+1347,Mirasol Resources Ltd.,MRZ.V,-12.02,0.599,0.409,No
+1348,Premium Brands Holdings Corporation,PBH.TO,-7.67,0.372,2.483,Yes
+1349,Vinland Lithium Inc.,VLD.V,-12.16,0.593,0.488,No
+1350,Zentek Ltd.,ZEN.V,-16.21,0.807,0.95,No
+1351,Lightspeed Commerce Inc.,LSPD.TO,-6.24,0.288,1.299,No
+1352,RZOLV Technologies Inc.,RZL.V,-14.49,0.694,2.222,Yes
+1353,AetherGlbInnCo,AETH-X.CN,-17.2,0.818,0.064,Yes
+1354,BC Moly Ltd.,BM.V,-15.47,0.727,2.49,No
+1355,Dream Unlimited Corp.,DRM.TO,-6.86,0.304,1.804,Yes
+1356,Volatus Aerospace Inc.,FLT.TO,-12.37,0.56,3.096,Yes
+1357,Cresco Labs Inc.,CL.CN,-19.3,0.906,0.337,Yes
+1358,Redwood AI Corp.,AIRX.CN,-32.03,1.567,1.162,Yes
+1359,Future Mineral Resources Inc.,FMR.TO,-16.59,0.737,1.857,No
+1360,"Comprehensive Healthcare Systems, Inc.",CHS.V,-18.18,0.814,1.802,No
+1361,Kobrea Exploration Corp.,KBX.CN,-18.89,0.848,0.213,No
+1362,Bessor Minerals Inc.,BST.V,-16.74,0.74,0.157,Yes
+1363,Scotch Creek Ventures Inc.,SCV.CN,-11.93,0.513,0.285,No
+1364,Neptune Digital Assets Corp.,NDA.V,-18.24,0.807,1.164,Yes
+1365,Boardwalk Real Estate Investment Trust,BEI-UN.TO,-4.29,0.177,0.094,No
+1366,Pine Cliff Energy Ltd.,PNE.TO,-7.96,0.332,0.055,Yes
+1367,Rumbu Holdings Ltd.,RMB.V,-19.05,0.83,0.622,No
+1368,Silver Elephant Mining Corp.,ELEF.TO,-15.62,0.659,1.323,Yes
+1369,Silver Spruce Resources Inc.,SSE.V,-32.47,1.496,1.308,Yes
+1370,Volkswagen AG,VWA.NE,-7.06,0.281,1.447,Yes
+1371,Cipher Pharmaceuticals Inc.,CPH.TO,-8.19,0.328,1.582,No
+1372,Global Atomic Corporation,GLO.TO,-14.73,0.607,1.589,Yes
+1373,Westport Fuel Systems Inc.,WPRT.TO,-11.96,0.483,0.892,Yes
+1374,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",LV.NE,-8.31,0.329,1.213,Yes
+1375,BULGOLD Inc.,ZLTO.V,-21.31,0.903,0.303,No
+1376,Clean Seed Capital Group Ltd.,CSX.V,-10.71,0.416,0.857,No
+1377,Mink Ventures Corporation,MINK.V,-13.95,0.545,2.166,Yes
+1378,Western Exploration Inc.,WEX.V,-17.56,0.698,2.065,Yes
+1379,adidas AG,ADI.NE,-9.25,0.351,1.406,Yes
+1380,Diamond Estates Wines & Spirits Inc.,DWS.V,-7.03,0.262,0.732,No
+1381,Reflex Advanced Materials Corp.,RFLX.CN,-25.71,1.048,0.446,No
+1382,Rapid Dose Therapeutics Corp.,DOSE.CN,-14.85,0.57,2.092,Yes
+1383,Onex Corporation,ONEX.TO,-6.51,0.236,0.689,No
+1384,Snipp Interactive Inc.,SPN.V,-16.93,0.647,3.983,Yes
+1385,Avant Brands Inc.,AVNT.TO,-16.84,0.643,1.337,Yes
+1386,Ivanhoe Mines Ltd.,IVN.TO,-11.79,0.437,1.471,Yes
+1387,Mkango Resources Ltd.,MKA.V,-19.22,0.732,1.224,Yes
+1388,Adobe Inc.,ZADB.NE,-14.97,0.557,1.564,No
+1389,Novo Resources Corp.,NVO.TO,-18.31,0.692,0.448,Yes
+1390,Zeus North America Mining Corp.,ZEUS.CN,-23.05,0.888,1.676,No
+1391,Transatlantic Mining Corp.,TCO.V,-31.2,1.231,5.133,Yes
+1392,GPM Metals Inc.,GPM.V,-32.55,1.29,4.817,Yes
+1393,SAP SE,SAPG.NE,-11.74,0.411,1.448,Yes
+1394,Nord Precious Metals Mining Inc.,NTH.V,-17.23,0.619,3.688,Yes
+1395,Dynamite Blockchain Corp.,KAS.CN,-28.55,1.069,0.46,Yes
+1396,City View Green Holdings Inc.,CVGR.CN,-26.23,0.967,5.399,Yes
+1397,E Split Corp.,ENS-PA.TO,-2.38,0.077,0.045,No
+1398,Grit Metals Corp.,FIN.V,-18.78,0.657,0.226,No
+1399,H&R Real Estate Investment Trust,HR-UN.TO,-6.51,0.212,0.033,No
+1400,Inspiration Mining Corp.,ISP.CN,-25.01,0.892,1.511,Yes
+1401,Sienna Resources Inc.,SIEN.V,-22.85,0.786,0.266,No
+1402,Purepoint Uranium Group Inc.,PTU.V,-22.38,0.765,1.275,No
+1403,Kane Biotech Inc.,KNE.V,-22.69,0.776,4.102,Yes
+1404,Beaumont Exploration Corp.,BEAU.CN,-34.61,1.265,10.059,No
+1405,SATO Technologies Corp.,SATO.V,-22.52,0.762,0.976,Yes
+1406,Nexus Uranium Corp.,NEXU.CN,-25.72,0.885,3.525,No
+1407,Prince Silver Corp.,PRNC.CN,-26.38,0.905,4.579,Yes
+1408,Golden Sky Minerals Corp.,AUEN.V,-16.48,0.529,0.854,Yes
+1409,Global Tactical Metals Corp.,MONI.CN,-25.64,0.864,1.634,No
+1410,Spectral Medical Inc.,EDT.TO,-8.36,0.256,0.288,No
+1411,Soma Gold Corp.,SOMA.V,-22.99,0.761,2.669,Yes
+1412,ValOre Metals Corp.,VO.V,-17.39,0.557,2.065,Yes
+1413,CANPR Technology Ltd.,WPR.V,-34.84,1.236,0.631,Yes
+1414,Stamper Oil & Gas Corp.,STMP.V,-19.79,0.638,1.611,Yes
+1415,Falcon Gold Corp.,FG.V,-20.5,0.662,2.938,No
+1416,Brookfield Corporation,BAM.TO,-5.69,0.169,0.228,Yes
+1417,Amarc Resources Ltd.,AHR.V,-14.5,0.446,2.506,Yes
+1418,Vertiqal Studios Corp.,VRTS.TO,-42.78,1.544,2.878,No
+1419,International Metals Mining Corp.,IMM.V,-26.73,0.869,0.08,No
+1420,Lancaster Resources Inc.,LCR.CN,-30.54,1.01,2.643,Yes
+1421,Power Metals Corp.,PWM.V,-23.13,0.716,0.22,Yes
+1422,District Metals Corp.,DMX.V,-28.62,0.912,5.791,No
+1423,Terra Rossa Gold Ltd.,TRR.V,-12.22,0.355,0.359,Yes
+1424,Argentum Silver Corp.,ASL.V,-32.61,1.053,0.443,No
+1425,Contango Silver & Gold Inc.,CTGO.TO,-22.44,0.676,12.135,Yes
+1426,"Tesla, Inc.",TSLA.TO,-14.25,0.408,0.647,Yes
+1427,Xtract One Technologies Inc.,XTRA.TO,-18.21,0.53,0.184,Yes
+1428,Clarke Inc.,CKI.TO,-11.76,0.328,0.333,Yes
+1429,Relevant Gold Corp.,RGC.V,-14.17,0.397,0.533,No
+1430,Alma Gold Inc.,ALMA.CN,-27.4,0.827,1.815,No
+1431,ESGold Corp.,ESAU.CN,-21.79,0.635,2.065,Yes
+1432,Electric Metals (USA) Limited,EML.V,-20.39,0.584,2.884,No
+1433,Constellation Software Inc.,CSU.TO,-12.93,0.355,0.576,Yes
+1434,Vitalist Inc.,VITA.V,-34.36,1.065,5.508,Yes
+1435,Burcon NutraScience Corporation,BU.TO,-22.81,0.657,2.291,Yes
+1436,Edge Total Intelligence Inc.,CTRL.V,-17.93,0.499,0.449,No
+1437,DLC Holdings Corp.,DLC.V,-33.97,1.037,5.005,Yes
+1438,Aimia Inc.,AIM.TO,-9.46,0.249,0.78,Yes
+1439,Centaurus Energy Inc.,CTA.V,-31.05,0.915,4.089,No
+1440,BSR Real Estate Investment Trust,HOM-UN.TO,-7.44,0.192,1.122,Yes
+1441,Transoceanic Investments Inc.,OCEN.V,-17.29,0.467,0.866,Yes
+1442,Wilton Resources Inc.,WIL.V,-25.63,0.72,1.117,No
+1443,The Fresh Factory B.C. Ltd.,FRSH.V,-17.97,0.482,1.896,Yes
+1444,Baru Gold Corporation,BARU.V,-18.37,0.494,1.543,No
+1445,Noble Plains Uranium Corp.,NOBL.V,-21.88,0.6,1.793,No
+1446,Claren Energy Corp.,CEN-H.V,-19.06,0.512,1.94,Yes
+1447,Atomic Minerals Corporation,ATOM.V,-31.09,0.891,0.192,No
+1448,VVT Med Inc.,VVTM.V,-29.07,0.822,0.96,No
+1449,Transat A.T. Inc.,TRZ.TO,-12.01,0.305,1.255,Yes
+1450,Medicenna Therapeutics Corp.,MDNA.TO,-32.52,0.925,2.485,Yes
+1451,Powermax Minerals Inc.,PMAX.CN,-48.03,1.521,3.363,No
+1452,New Age Metals Inc.,NAM.V,-23.21,0.624,0.044,No
+1453,ReeXploration Inc.,REE.V,-38.24,1.128,2.165,No
+1454,Sucro Limited,SUGR.V,-12.6,0.318,0.028,No
+1455,Molten Metals Corp.,MOLT.CN,-29.86,0.83,1.752,Yes
+1456,BTQ Technologies Corp.,BTQ.NE,-37.19,1.056,1.789,Yes
+1457,GuideAI Health Corp.,GDAI.NE,-40.88,1.19,,
+1458,Nuvau Minerals Inc.,NMC.V,-23.91,0.622,3.028,Yes
+1459,Strategic Resources Inc.,SR.V,-19.02,0.48,2.22,Yes
+1460,DiagnosTear Technologies Inc.,DTR.CN,-27.16,0.715,0.253,No
+1461,Aurum Lake Mining Corporation,ARL.V,-16.42,0.405,0.4,Yes
+1462,Western Pacific Trust Company,WP.V,-12.03,0.29,0.651,No
+1463,Gold Strike Resources Corp.,GSR.V,-20.77,0.524,2.246,Yes
+1464,Delota Corp.,NIC.CN,-16.16,0.397,2.288,Yes
+1465,Colibri Resource Corporation,CBI.V,-31.28,0.839,1.122,Yes
+1466,Cult Food Science Corp.,CULT.CN,-42.22,1.216,0.329,Yes
+1467,CareRx Corporation,CRRX.TO,-9.87,0.234,0.551,No
+1468,Cannabix Technologies Inc.,BLO.CN,-16.48,0.403,1.398,No
+1469,The Canadian Chrome Company Inc.,CACR-A.CN,-37.61,1.044,0.891,Yes
+1470,Yukon Metals Corp.,YMC.CN,-26.55,0.683,1.668,Yes
+1471,Vertex Resource Group Ltd.,VTX.V,-18.22,0.446,1.427,No
+1472,Maple Leaf Foods Inc.,MFI.TO,-11.33,0.268,0.026,Yes
+1473,Oracle Commodity Holding Corp.,ORCL.V,-23.78,0.601,0.805,Yes
+1474,Canadian Goldfields Discovery Corp.,CGM.V,-38.13,1.046,6.322,Yes
+1475,Lumina Metals Corp.,LMCU.TO,-24.71,0.623,12.462,Yes
+1476,Base Carbon Inc.,BCBN.NE,-19.28,0.469,2.211,Yes
+1477,NameSilo Technologies Corp.,URL.CN,-13.52,0.318,1.329,Yes
+1478,CVW Sustainable Royalties Inc.,CVW.V,-18.19,0.438,1.083,Yes
+1479,Auriginal Mining Corp.,AUME.V,-21.25,0.514,0.798,Yes
+1480,Tuktu Resources Ltd.,TUK.V,-33.42,0.866,1.477,Yes
+1481,Hemostemix Inc.,HEM.V,-19.36,0.459,0.597,Yes
+1482,Harvest Gold Corporation,HVG.V,-34.4,0.887,4.117,Yes
+1483,BluMetric Environmental Inc.,BLM.V,-19.28,0.451,0.096,Yes
+1484,Vitalhub Corp.,VHI.TO,-18.12,0.421,1.431,Yes
+1485,Osiris One Metals Ltd.,OSM.V,-30.32,0.753,0.722,Yes
+1486,The Descartes Systems Group Inc.,DSG.TO,-12.77,0.287,1.361,No
+1487,Adcore Inc.,ADCO.TO,-32.93,0.83,1.44,No
+1488,Alaska Silver Corp.,WAM.V,-24.23,0.579,1.532,Yes
+1489,NanoSphere Health Sciences Inc.,NSHS.CN,-24.11,0.575,2.172,Yes
+1490,Aurora Royalties Inc.,AUR-H.V,-39.64,1.036,4.578,Yes
+1491,Telo Genomics Corp.,TELO.V,-22.65,0.53,0.521,Yes
+1492,Murchison Minerals Ltd.,MUR.V,-33.28,0.829,2.697,Yes
+1493,Silverstock Metals Inc.,STK.CN,-38.59,0.994,2.317,No
+1494,Metallic Minerals Corp.,MMG.V,-28.74,0.693,4.507,Yes
+1495,Vertical Exploration Inc.,VERT.V,-24.48,0.575,0.539,Yes
+1496,Sorrento Resources Ltd.,SRS.CN,-30.78,0.745,0.034,Yes
+1497,Enthusiast Gaming Holdings Inc.,EGLX.TO,-30.17,0.726,0.503,Yes
+1498,Kleen HY-DRO-GEN Inc.,KLN.CN,-33.44,0.818,4.429,Yes
+1499,American Lithium Corp.,LI.V,-25.65,0.597,0.999,Yes
+1500,Mainstreet Equity Corp.,MEQ.TO,-8.53,0.179,0.838,Yes
+1501,CGI Inc.,GIB-A.TO,-13.28,0.283,1.131,No
+1502,Kidoz Inc.,KDOZ.V,-32.91,0.779,0.137,No
+1503,Keek Social Inc.,KEEK.V,-45.0,1.156,2.974,Yes
+1504,Troubadour Resources Inc.,TR.V,-42.62,1.074,3.706,No
+1505,Avaron Mining Corp.,AVR.V,-32.68,0.762,1.339,Yes
+1506,Molson Coors Canada Inc.,TPX-B.TO,-6.48,0.13,0.43,Yes
+1507,Atlas Energy Corp.,ATLE.V,-23.05,0.505,0.463,Yes
+1508,abrdn Asia-Pacific Income Fund VCC Ord,FAP.TO,-3.51,0.07,0.289,Yes
+1509,Astra Exploration Inc.,ASTR.V,-21.92,0.476,0.069,No
+1510,URZ3 Energy Corp.,URZ.V,-23.39,0.511,2.588,Yes
+1511,EQ Inc.,EQ.V,-3.2,0.063,0.12,No
+1512,Mammoth Resources Corp.,MTH.V,-33.88,0.784,1.672,No
+1513,Biosenta Inc.,ZRO.CN,-38.14,0.908,1.721,Yes
+1514,NowVertical Group Inc.,NOW.V,-36.93,0.867,0.39,No
+1515,Stella-Jones Inc.,SJ.TO,-11.08,0.224,0.109,No
+1516,Kootenay Silver Inc.,KTN.V,-26.7,0.586,3.383,Yes
+1517,Fairchild Gold Corp.,FAIR.V,-32.78,0.743,3.535,Yes
+1518,Champion Iron Limited,CIA.TO,-14.77,0.299,0.178,No
+1519,Enghouse Systems Limited,ENGH.TO,-10.47,0.206,0.553,Yes
+1520,Fab-Form Industries Ltd.,FBF.V,-10.87,0.213,0.695,Yes
+1521,Kestrel Gold Inc.,KGC.V,-36.97,0.837,1.195,Yes
+1522,Christina Lake Cannabis Corp.,CLC.CN,-33.6,0.742,1.016,Yes
+1523,"RB Global, Inc.",RBA.TO,-17.82,0.357,0.905,No
+1524,E-Power Resources Inc,EPR.CN,-29.46,0.631,4.412,Yes
+1525,Geodrill Limited,GEO.TO,-17.22,0.343,1.839,Yes
+1526,Masivo Silver Corp.,MASS.V,-41.45,0.949,5.184,Yes
+1527,Crossroads Gold Corp.,CRG.V,-22.99,0.466,3.135,No
+1528,Armor Minerals Inc.,A-H.V,-22.38,0.452,1.756,Yes
+1529,Thinkific Labs Inc.,THNC.TO,-22.34,0.451,1.062,Yes
+1530,Tiny Ltd.,TINY.TO,-27.17,0.564,0.431,Yes
+1531,Agereh Technologies Inc.,AUTO.V,-38.07,0.843,0.792,Yes
+1532,Largo Inc.,LGO.TO,-37.34,0.818,4.844,Yes
+1533,Moon River Moly Ltd.,MOO.V,-22.65,0.452,1.479,No
+1534,"Coinbase Global, Inc.",ZCOI.NE,-24.25,0.487,1.411,No
+1535,American Critical Minerals Corp.,KCLI.CN,-29.31,0.602,1.45,No
+1536,Black Iron Inc.,BKI.TO,-21.06,0.411,0.841,Yes
+1537,Sanu Gold Corp.,SANU.CN,-18.54,0.354,0.749,Yes
+1538,Pulse Oil Corp.,PUL.V,-37.08,0.789,2.182,Yes
+1539,Kobo Resources Inc.,KRI.V,-29.4,0.59,0.547,No
+1540,Klondike Silver Corp.,KS.V,-40.07,0.859,0.44,No
+1541,Getchell Gold Corp.,GTCH.CN,-22.63,0.431,1.904,Yes
+1542,"Ascend Wellness Holdings, Inc.",AAWH-U.CN,-32.33,0.65,0.937,Yes
+1543,Arizona Metals Corp.,AMC.TO,-47.38,1.053,1.156,Yes
+1544,West High Yield (W.H.Y.) Resources Ltd.,WHY.V,-23.13,0.438,0.78,No
+1545,Glow Lifetech Corp.,GLOW.CN,-17.62,0.321,1.599,No
+1546,Nicola Mining Inc.,NIM.V,-26.04,0.497,1.579,Yes
+1547,UraniumX Discovery Corp.,STMN.CN,-44.61,0.947,1.56,No
+1548,The Ether Fund,QETH-UN.TO,-31.73,0.615,2.194,No
+1549,FendX Technologies Inc.,FNDX.CN,-56.09,1.299,0.511,Yes
+1550,Lion One Metals Limited,LIO.V,-31.38,0.604,0.797,Yes
+1551,Lithium Americas Corp.,LAC.TO,-35.63,0.7,3.389,Yes
+1552,Everyday People Financial Corp.,EPF.V,-30.18,0.571,1.08,No
+1553,Geomega Resources Inc.,GMA.V,-28.33,0.529,2.223,Yes
+1554,Solution Financial Inc.,SFI.TO,-3.03,0.049,0.186,Yes
+1555,Verisante Technology Inc.,VER-H.V,-48.0,1.019,0.44,Yes
+1556,Onco-Innovations Limited,ONCO.NE,-54.1,1.202,1.751,Yes
+1557,Questerre Energy Corporation,QEC.TO,-23.94,0.43,1.5,No
+1558,The Canadian Chrome Company Inc.,CACR.CN,-48.0,1.011,3.162,No
+1559,"Tesla, Inc.",ZTSL.NE,-23.24,0.413,0.985,Yes
+1560,Atlas Engineered Products Ltd.,AEP.V,-18.33,0.315,0.567,Yes
+1561,Innovotech Inc.,IOT.V,-44.66,0.878,2.674,Yes
+1562,A2ZCryptoCap Inc.,AZC-P.V,-43.98,0.858,1.526,Yes
+1563,Blossom Gold Inc.,BGAU.TO,-41.4,0.792,3.116,Yes
+1564,Shellron Capital Ltd.,SHLL-P.V,-41.55,0.788,1.566,No
+1565,Standard Uranium Ltd.,STND.V,-27.65,0.477,0.966,No
+1566,Kiplin Metals Inc.,KIP.V,-30.64,0.533,0.675,Yes
+1567,Erdene Resource Development Corporation,ERD.TO,-30.51,0.522,3.31,Yes
+1568,Anfield Energy Inc.,AEC.V,-45.61,0.861,0.662,No
+1569,US Critical Metals Corp.,USCM.CN,-44.09,0.815,1.415,Yes
+1570,"Nintendo Co., Ltd.",NTDO.NE,-24.09,0.388,0.736,No
+1571,ArcWest Exploration Inc.,AWX.V,-37.87,0.664,1.955,Yes
+1572,Brookfield Corporation,BN.TO,-9.89,0.147,0.469,Yes
+1573,Showcase Minerals Inc.,SHOW.CN,-39.61,0.699,0.649,Yes
+1574,Herbal Dispatch Inc.,HERB.CN,-48.44,0.908,1.317,No
+1575,Future Fuels Inc.,FTUR.V,-33.4,0.563,0.604,No
+1576,Unidoc Health Corp.,UDOC.CN,-44.34,0.801,0.221,No
+1577,Diagnamed Holdings Corp.,DMED.CN,-38.58,0.665,1.374,No
+1578,Labrador Gold Corp.,LAB.V,-37.59,0.642,4.556,Yes
+1579,Linear Minerals Corp.,LINE.CN,-37.09,0.632,0.881,Yes
+1580,Hawkeye Gold & Diamond Inc.,HAWK.V,-39.42,0.678,1.407,Yes
+1581,"Thiogenesis Therapeutics, Corp.",TTI.V,-21.03,0.321,0.232,Yes
+1582,AtkinsRéalis Group Inc.,ATRL.TO,-15.53,0.23,0.178,No
+1583,Paradigm Gold Corporation,PDQ.V,-28.17,0.445,2.67,Yes
+1584,TrustBIX Inc.,TBIX.V,-66.17,1.411,2.736,No
+1585,Silver Predator Corp.,SPD.V,-36.03,0.596,1.238,Yes
+1586,Pinetree Capital Ltd.,PNP.TO,-20.98,0.315,2.284,Yes
+1587,Kapa Gold Inc.,KAPA.V,-38.12,0.634,3.628,Yes
+1588,Majestic Gold Corp.,MJS.V,-30.61,0.485,1.555,Yes
+1589,Pizza Pizza Royalty Corp.,PZA.TO,-16.65,0.241,0.909,Yes
+1590,Goldcliff Resource Corporation,GCN.V,-40.64,0.678,0.756,No
+1591,Great Pacific Gold Corp.,GPAC.V,-40.2,0.66,5.57,Yes
+1592,Sangoma Technologies Corporation,STC.TO,-18.17,0.26,0.998,Yes
+1593,Excalibur Metals Corp.,EXCL.V,-36.95,0.588,0.314,Yes
+1594,Sernova Biotherapeutics Inc,SVA.TO,-33.5,0.518,0.8,No
+1595,StorageVault Canada Inc.,SVI.TO,-15.58,0.217,0.449,Yes
+1596,Daura Gold Corp.,DGC.V,-27.91,0.414,1.058,Yes
+1597,The Bitcoin Fund,QBTC.TO,-31.23,0.467,0.823,No
+1598,Turnium Technology Group Inc.,TTGI.V,-36.82,0.563,1.655,Yes
+1599,Nova Pacific Metals Corp.,NVPC.CN,-45.22,0.733,0.78,No
+1600,Pluto Ventures Inc.,PLTO.CN,-68.28,1.368,4.89,No
+1601,Bayerische Motoren Werke AG,BMWY.NE,-24.09,0.34,1.864,Yes
+1602,"Matachewan Consolidated Mines, Limited",MCM-A.V,-55.71,0.97,5.762,Yes
+1603,Marimaca Copper Corp.,MARI.TO,-24.86,0.345,0.71,Yes
+1604,Inventronics Limited,IVX.V,-26.16,0.364,1.588,No
+1605,Network Media Group Inc.,NTE.V,-38.3,0.575,3.116,No
+1606,Forge Resources Corp.,FRG.CN,-32.28,0.466,0.251,Yes
+1607,Kalo Gold Corp.,KALO.V,-40.16,0.608,0.913,Yes
+1608,Athena Gold Corporation,ATHA.CN,-43.34,0.664,0.41,Yes
+1609,CopperCorp Resources Inc.,CPER.V,-48.73,0.772,0.574,No
+1610,Vistra Corp.,ZVST.NE,-19.89,0.261,1.841,Yes
+1611,Custom Health Holdings Inc.,CHLT.TO,-46.45,0.715,,
+1612,Anonymous Intelligence Company Inc.,ANON.CN,-44.78,0.679,1.948,Yes
+1613,Argenta Silver Corp.,AGAG.V,-40.88,0.602,4.073,Yes
+1614,LQWD Technologies Corp.,LQWD.V,-38.66,0.56,0.336,Yes
+1615,Madison Pacific Properties Inc.,MPC.TO,-10.6,0.13,0.39,No
+1616,Chakana Copper Corp.,PERU.V,-45.81,0.694,4.246,Yes
+1617,Prospect Ridge Resources Corp.,PRR.CN,-47.21,0.72,0.883,Yes
+1618,Thomson Reuters Corporation,TRI.TO,-26.46,0.349,0.413,No
+1619,Euro Manganese Inc.,EMN.V,-42.14,0.614,0.285,Yes
+1620,Element One Hydrogen And Critical Minerals Corp.,EONE.CN,-52.57,0.828,1.354,Yes
+1621,55 North Gold Inc.,FFF.CN,-41.94,0.607,1.467,Yes
+1622,Etruscus Resources Corp.,ETR.CN,-38.12,0.536,1.122,No
+1623,Prairie Provident Resources Inc.,PPR.TO,-50.18,0.766,1.933,Yes
+1624,ReSolve Energie Inc.,RESO.CN,-42.11,0.605,0.174,No
+1625,Asante Gold Corporation,ASE.V,-48.9,0.738,4.568,Yes
+1626,Golden Minerals Company,AUMN.TO,-40.39,0.568,4.018,Yes
+1627,Vireo Growth Inc.,VREO.CN,-40.69,0.569,0.486,No
+1628,Cancambria Energy Corp.,CCEC.V,-33.98,0.454,1.499,No
+1629,Sterling Metals Corp.,SAG.V,-42.68,0.602,3.003,Yes
+1630,Altus Group Limited,AIF.TO,-19.57,0.238,0.241,No
+1631,Copper One Resources Corp.,CEXY.CN,-58.13,0.927,3.833,Yes
+1632,Syntheia Corp.,SYAI.CN,-66.99,1.161,0.566,No
+1633,Azimut Exploration Inc.,AZM.V,-27.98,0.355,0.297,No
+1634,Goliath Resources Limited,GOT.V,-37.52,0.502,3.056,Yes
+1635,Cruz Battery Metals Corp.,CRUZ.CN,-61.63,1.001,6.187,No
+1636,Bunker Hill Mining Corp.,BNKR.TO,-30.33,0.386,6.752,Yes
+1637,Platinum Group Metals Ltd.,PTM.TO,-37.91,0.507,3.461,Yes
+1638,Tempus Capital Inc.,TEMP.CN,-30.33,0.386,0.642,Yes
+1639,Micromem Technologies Inc.,MRM.CN,-58.87,0.927,0.236,No
+1640,NeoTerrex Minerals Inc.,NTX.V,-53.49,0.8,3.06,No
+1641,Bitcoin Treasury Corporation,BTCT.V,-42.19,0.578,0.959,No
+1642,Olympia Financial Group Inc.,OLY.TO,-18.58,0.22,0.274,Yes
+1643,NorthX Nickel Corp.,NIX.CN,-31.65,0.403,2.474,Yes
+1644,Pool Safe Inc.,POOL.V,-45.2,0.627,1.604,Yes
+1645,Silver Bullet Mines Corp.,SBMI.V,-43.8,0.599,0.877,No
+1646,Element Fleet Management Corp.,EFN.TO,-24.71,0.296,0.261,No
+1647,Military Metals Corp.,MILI.CN,-48.46,0.678,0.38,Yes
+1648,GURU Organic Energy Corp.,GURU.TO,-27.37,0.33,0.427,Yes
+1649,Kelso Technologies Inc.,KLS.TO,-36.8,0.469,1.12,No
+1650,Gamma Resources Ltd.,GAMA.V,-41.32,0.536,0.849,No
+1651,St. Augustine Gold and Copper Limited,SAU.TO,-45.94,0.615,1.659,No
+1652,Vior Gold Corporation Inc.,VIO.V,-22.64,0.257,0.427,No
+1653,Mongolia Growth Group Ltd.,YAK-H.V,-69.27,1.135,0.854,Yes
+1654,"Meta Platforms, Inc.",META.TO,-23.19,0.264,0.647,Yes
+1655,Maxim Power Corp.,MXG.TO,-9.79,0.104,0.267,Yes
+1656,East Africa Metals Inc.,EAM.V,-40.33,0.504,0.829,No
+1657,Provenance Gold Corp.,PAU.CN,-34.4,0.412,1.931,Yes
+1658,Railtown AI Technologies Inc.,RAIL.CN,-45.33,0.585,3.642,Yes
+1659,Alithya Group Inc.,ALYA.TO,-35.03,0.416,2.224,No
+1660,Homerun Resources Inc.,HMR.V,-34.0,0.401,0.61,Yes
+1661,Tucows Inc.,TC.TO,-38.61,0.469,1.133,No
+1662,MindBio Therapeutics Corp.,MBIO.CN,-72.41,1.194,3.865,No
+1663,The FUTR Corporation,FTRC.V,-42.44,0.526,0.945,Yes
+1664,RenoWorks Software Inc.,RW.V,-53.87,0.729,0.232,No
+1665,GMV Minerals Inc.,GMV.V,-43.75,0.547,2.367,Yes
+1666,Intellistake Technologies Corp.,ISTK.CN,-68.63,1.073,0.114,No
+1667,Thistle Resources Inc.,TRCG.V,-62.97,0.926,5.583,Yes
+1668,Transition Metals Corp.,XTM.V,-24.41,0.268,0.443,Yes
+1669,American Tungsten Corp.,TUNG.V,-62.83,0.919,14.642,Yes
+1670,CAE Inc.,CAE.TO,-18.68,0.197,0.017,No
+1671,Sona Nanotech Inc.,SONA.CN,-36.8,0.433,1.55,Yes
+1672,Topicus.com Inc.,TOI.V,-27.95,0.31,0.123,Yes
+1673,Nevada Lithium Resources Inc.,NVLH.V,-42.42,0.517,0.911,Yes
+1674,Reco International Group Inc.,RGI.V,-30.88,0.348,0.707,No
+1675,Noble Iron Inc.,NIR-H.V,-42.78,0.522,0.337,No
+1676,Bearclaw Capital Corp.,BRL-H.V,-27.08,0.298,0.358,Yes
+1677,Imagine Lithium Inc.,ILI.V,-30.88,0.348,2.392,Yes
+1678,Martello Technologies Group Inc.,MTLO.V,-42.78,0.522,3.274,No
+1679,Oa Capital Corp.,OAC-P.V,-24.11,0.261,1.794,Yes
+1680,Sranan Gold Corp.,SRAN.CN,-59.65,0.834,1.702,Yes
+1681,Mithril Silver and Gold Limited,MSG.V,-48.15,0.607,0.627,No
+1682,Dynasty Gold Corp.,DYG.V,-29.87,0.331,2.126,Yes
+1683,PowerBank Corporation,PBK.NE,-59.28,0.819,0.291,No
+1684,Optimi Health Corp.,OPTI.CN,-39.05,0.459,0.667,Yes
+1685,Greencastle Resources Ltd.,VGN.V,-44.92,0.548,2.24,No
+1686,Delivra Health Brands Inc.,DHB.V,-48.89,0.612,1.008,Yes
+1687,Ag Growth International Inc.,AFN.TO,-54.72,0.717,1.416,Yes
+1688,Sintana Energy Inc.,SEI.V,-32.65,0.363,0.077,Yes
+1689,Garibaldi Resources Corp.,GGI.V,-42.3,0.5,0.957,No
+1690,Tower Resources Ltd.,TWR.V,-24.61,0.258,0.021,No
+1691,Psyched Wellness Ltd.,PSYC.CN,-64.8,0.922,7.215,No
+1692,Open Text Corporation,OTEX.TO,-30.19,0.325,0.274,Yes
+1693,TelyRx Holdings Inc.,TELY.TO,-40.82,0.469,3.795,No
+1694,Realbotix Corp.,XBOT.V,-39.07,0.439,1.334,No
+1695,DelphX Capital Markets Inc.,DELX.V,-73.24,1.123,1.878,No
+1696,Quanta AI Inc.,QNTA.V,-54.1,0.677,4.714,Yes
+1697,Bayridge Resources Corp.,BYRG.CN,-46.24,0.543,3.14,No
+1698,Brookfield Business Corporation,BBUC.TO,-18.44,0.18,0.237,Yes
+1699,Midland Exploration Inc.,MD.V,-26.81,0.271,1.207,Yes
+1700,Organigram Global Inc.,OGI.TO,-39.32,0.43,0.987,Yes
+1701,Clarity Metals Corp.,CMET.CN,-59.27,0.756,2.319,Yes
+1702,Westbridge Renewable Energy S.A.,WEB.V,-53.22,0.642,0.547,No
+1703,Hermès International Société en commandite par actions,HERM.NE,-22.33,0.218,1.499,Yes
+1704,Simply Solventless Concentrates Ltd.,HASH.V,-67.2,0.924,0.44,Yes
+1705,CanAlaska Uranium Ltd.,CVV.V,-61.09,0.783,0.593,Yes
+1706,Inflection Resources Ltd.,AUCU.CN,-37.75,0.398,0.219,Yes
+1707,Graphano Energy Ltd.,GEL.V,-43.36,0.473,0.107,No
+1708,Torq Resources Inc.,TORQ.V,-46.54,0.519,1.696,Yes
+1709,GOAT Industries Ltd.,GOAT.CN,-69.01,0.946,3.189,No
+1710,Quest PharmaTech Inc.,QPT.V,-54.57,0.641,0.608,No
+1711,Canadian Gold Resources Ltd.,CAN.V,-63.23,0.798,0.114,Yes
+1712,Black Spruce Exploration Inc.,BARK.V,-32.37,0.319,0.199,No
+1713,C3 Metals Inc.,CCCM.V,-40.63,0.42,2.145,Yes
+1714,Global Education Communities Corp.,GEC.TO,-31.98,0.304,1.007,No
+1715,Big Rock Brewery Inc.,BR.TO,-32.56,0.311,1.42,Yes
+1716,Sonoro Energy Ltd.,SNV.V,-46.99,0.494,0.188,No
+1717,Prosper Gold Corp.,PGX.V,-46.99,0.494,0.928,No
+1718,D2L Inc.,DTOL.TO,-40.83,0.407,1.147,Yes
+1719,NexMetals Mining Corp.,NEXM.V,-50.84,0.546,3.803,Yes
+1720,FluroTech Ltd.,TEST-H.V,-76.09,1.067,1.388,Yes
+1721,KDA Group Inc.,KDA.V,-58.33,0.668,0.762,Yes
+1722,Leon's Furniture Limited,LNF.TO,-12.97,0.108,0.671,Yes
+1723,Stardust Solar Energy Inc.,SUN.V,-42.93,0.426,0.65,Yes
+1724,ZYUS Life Sciences Corporation,ZYUS.V,-23.42,0.201,0.636,No
+1725,enCore Energy Corp.,EU.V,-57.14,0.62,1.382,Yes
+1726,WSP Global Inc.,WSP.TO,-30.67,0.271,0.296,No
+1727,NetraMark Holdings Inc.,AIAI.TO,-49.84,0.501,1.201,Yes
+1728,EnWave Corporation,ENW.V,-32.11,0.284,1.269,Yes
+1729,Newcore Gold Ltd.,NCAU.V,-58.49,0.626,2.16,Yes
+1730,Accord Financial Corp.,ACD.TO,-67.18,0.783,0.459,Yes
+1731,St-Georges Eco-Mining Corp.,SX.CN,-59.27,0.634,3.031,No
+1732,Jackpot Digital Inc.,JJ.V,-50.78,0.503,2.053,Yes
+1733,Tribe Property Technologies Inc.,TRBE.V,-46.34,0.442,0.6,No
+1734,Electra Battery Materials Corporation,ELBM.V,-48.71,0.472,0.261,Yes
+1735,FLUENT Corp.,FNT-U.CN,-55.92,0.575,1.223,Yes
+1736,RecycLiCo Battery Materials Inc.,AMY.V,-56.54,0.585,0.508,Yes
+1737,Encore Technologies Corp.,ENCR.CN,-51.77,0.511,0.283,No
+1738,goeasy Ltd.,GSY.TO,-65.98,0.744,2.972,Yes
+1739,Seasif Exploration Inc.,SAF-H.V,-64.8,0.719,3.146,Yes
+1740,SCD Capital Corp.,SMCD-P.V,-34.86,0.303,3.463,Yes
+1741,Essex Resources Corp.,ESXR.V,-60.1,0.631,3.13,Yes
+1742,McCoy Global Inc.,MCB.TO,-37.46,0.326,0.785,Yes
+1743,McLaren Resources Inc.,MCL.CN,-53.73,0.528,1.547,Yes
+1744,Napoleon Resources Inc.,NAP.V,-68.45,0.776,,
+1745,Quest Critical Metals Inc.,BULL.CN,-48.21,0.45,3.076,Yes
+1746,Pacific Bay Minerals Ltd.,PBM.V,-48.23,0.449,0.931,No
+1747,BlockchainK2 Corp.,BITK.V,-61.72,0.643,0.909,Yes
+1748,Canadian GoldCamps Corp.,CAMP.CN,-47.65,0.434,2.128,No
+1749,EV Nickel Inc.,EVNI.V,-47.32,0.429,0.69,Yes
+1750,Grid Battery Metals Inc.,CELL.V,-62.58,0.647,1.487,No
+1751,Golcap Resources Corp.,GCP.CN,-72.17,0.832,0.557,No
+1752,Canary Gold Corp.,BRAZ.CN,-57.37,0.563,1.292,No
+1753,SalesCloser Technologies Ltd.,SCAI.V,-61.13,0.621,8.614,Yes
+1754,Rheinmetall AG,RHM.NE,-42.96,0.372,0.151,Yes
+1755,Thermopylae Capital Inc.,THY-P.V,-80.4,1.032,5.239,No
+1756,Lithium Africa Corp.,LAF.V,-50.64,0.458,1.772,No
+1757,Midnight Sun Mining Corp.,MMA.V,-57.22,0.542,1.284,Yes
+1758,Computer Modelling Group Ltd.,CMG.TO,-34.89,0.276,1.199,No
+1759,MCF Energy Ltd.,MCF.V,-69.4,0.737,1.927,No
+1760,World Blockchain Corp.,WBG-X.CN,-48.0,0.414,1.569,Yes
+1761,Bahia Metals Corp.,BMT.CN,-73.04,0.807,4.063,No
+1762,Surface Metals Inc.,SUR.CN,-40.74,0.332,1.007,Yes
+1763,Kadestone Capital Corp.,KDSX.V,-57.42,0.534,3.286,Yes
+1764,Homeland Uranium Corp.,HLU.V,-68.91,0.713,1.937,No
+1765,Intermap Technologies Corporation,IMP.TO,-62.99,0.609,1.327,No
+1766,TempraMed Technologies Ltd.,VIVI.CN,-68.14,0.694,1.406,No
+1767,InnoCan Pharma Corporation,INNO.CN,-79.31,0.937,2.948,No
+1768,Sylogist Ltd.,SYZ.TO,-52.56,0.457,0.772,Yes
+1769,Badlands Resources Inc.,BLDS.V,-59.56,0.55,0.671,Yes
+1770,Vanta Holdings Inc.,VNTA.CN,-67.62,0.671,0.629,No
+1771,Foremost Clean Energy Ltd.,FAT.CN,-59.33,0.539,2.656,Yes
+1772,Titiminas Silver Inc.,TITI.V,-63.98,0.606,11.773,Yes
+1773,Canadian Apartment Properties Real Estate Investment Trust,CAR-UN.TO,-17.83,0.121,0.252,Yes
+1774,Nouveau Monde Graphite Inc.,NOU.TO,-46.75,0.38,0.14,Yes
+1775,Stantec Inc.,STN.TO,-32.7,0.239,0.368,No
+1776,Evolve Royalties Ltd,EVR.CN,-28.46,0.202,1.401,Yes
+1777,NanoXplore Inc.,GRA.TO,-43.7,0.339,0.521,No
+1778,Temas Resources Corp.,TMAS.CN,-51.08,0.417,0.368,Yes
+1779,Nextech3D.AI Corporation,NTAR.CN,-47.38,0.373,0.59,Yes
+1780,East Side Games Group Inc.,EAGR.TO,-73.51,0.749,2.984,No
+1781,Silicon Metals Corp.,SI.CN,-67.32,0.635,1.046,Yes
+1782,Alzai Health Corp.,ALZI.V,-70.29,0.675,,
+1783,FRNT Financial Inc.,FRNT.V,-78.8,0.825,2.197,Yes
+1784,Harfang Exploration Inc.,HAR.V,-47.16,0.351,1.817,Yes
+1785,Japan Gold Corp.,JG.V,-50.96,0.39,0.543,Yes
+1786,Altiplano Metals Inc.,APN.V,-67.45,0.6,0.724,Yes
+1787,Boyd Group Services Inc.,BYD.TO,-48.19,0.358,2.17,Yes
+1788,GO Residential Real Estate Investment Trust,GO-U.TO,-33.13,0.221,0.453,Yes
+1789,Taranis Resources Inc.,TRO.V,-51.49,0.389,0.341,No
+1790,Bitcoin Well Inc.,BTCW.V,-72.18,0.666,1.889,No
+1791,NEO Battery Materials Ltd.,NBM.V,-68.89,0.607,2.227,Yes
+1792,Rua Gold Inc.,RUA.TO,-43.76,0.3,0.252,Yes
+1793,Planet 13 Holdings Inc.,PLTH.CN,-47.3,0.329,1.393,Yes
+1794,BriaCell Therapeutics Corp.,BCT.TO,-64.97,0.527,0.853,No
+1795,Pet Valu Holdings Ltd.,PET.TO,-47.05,0.322,1.554,Yes
+1796,Nevis Brands Inc.,NEVI.CN,-73.93,0.646,2.929,Yes
+1797,Fiera Capital Corporation,FSZ.TO,-25.29,0.146,0.57,Yes
+1798,Juno International Corporation,JUN-A.V,-35.85,0.213,0.395,Yes
+1799,Global Uranium Corp.,GURN.CN,-80.39,0.743,0.214,No
+1800,Armory Mining Corp.,ARMY.CN,-71.06,0.569,1.567,No
+1801,TenX Protocols Inc.,TNX.V,-90.63,1.035,3.754,No
+1802,Avicanna Inc.,AVCN.TO,-47.82,0.286,0.094,Yes
+1803,Colliers International Group Inc.,CIGI.TO,-37.12,0.204,0.623,No
+1804,Prismo Metals Inc.,PRIZ.CN,-55.71,0.344,1.194,Yes
+1805,XXL Energy Corp.,XL.V,-31.36,0.16,0.169,No
+1806,Rise Nano Optics Ltd.,EYE.CN,-80.23,0.652,13.133,Yes
+1807,Clinch Resources Ltd.,CLCH.TO,-58.53,0.364,5.336,Yes
+1808,CF Energy Corp.,CFY.V,-44.93,0.249,1.774,Yes
+1809,Real Matters Inc.,REAL.TO,-39.29,0.202,0.488,Yes
+1810,Eshbal Functional Food Inc.,ESBL.V,-57.91,0.343,0.325,No
+1811,Aureum Exploration Inc.,AURM.CN,-88.78,0.816,,
+1812,Apptly Health Technologies Corp.,APPT.CN,-86.23,0.742,8.493,Yes
+1813,Arizona Eagle Mining Corp.,AZEM.V,-73.07,0.503,7.415,Yes
+1814,BioNxt Solutions Inc.,BNXT.CN,-61.81,0.371,1.905,Yes
+1815,Nanalysis Scientific Corp.,NSCI.V,-31.25,0.145,0.675,Yes
+1816,EcoSynthetix Inc.,ECO.TO,-47.94,0.24,0.974,Yes
+1817,Sabio Holdings Inc.,SBIO.V,-73.07,0.467,0.695,Yes
+1818,Quimbaya Gold Inc.,QIM.CN,-64.17,0.365,1.236,Yes
+1819,OverActive Media Corp.,OAM.V,-68.19,0.403,0.876,No
+1820,Ventra Metals Corp.,VENT.V,-55.22,0.284,3.1,Yes
+1821,Matador Technologies Inc.,MATA.V,-88.82,0.731,0.001,No
+1822,Clara Technologies Corp.,CLTE.CN,-84.31,0.616,3.851,No
+1823,Laurion Mineral Exploration Inc.,LME.V,-58.78,0.296,1.425,No
+1824,Dark Star Minerals Inc.,BATT.CN,-86.53,0.635,4.648,No
+1825,TOTAL METALS CORP,TT.V,-81.36,0.517,0.627,No
+1826,Aduro Clean Technologies Inc.,ACT.TO,-53.99,0.247,2.723,Yes
+1827,Terra Balcanica Resources Corp.,TERA.CN,-76.74,0.449,2.632,Yes
+1828,NTG Clarity Networks Inc.,NCI.V,-73.2,0.404,0.539,Yes
+1829,Bedford Metals Corp.,BFM.V,-58.77,0.275,0.382,No
+1830,Canada Goose Holdings Inc.,GOOS.TO,-42.24,0.161,0.895,Yes
+1831,Max Resource Corp.,MAX.V,-61.28,0.274,0.459,Yes
+1832,Sendero Resources Corp.,SEND.V,-77.55,0.417,0.847,Yes
+1833,Metatek-Group Ltd.,MTEK.TO,-69.39,0.319,6.547,Yes
+1834,Else Nutrition Holdings Inc.,BABY.CN,-94.43,0.679,1.613,Yes
+1835,Ynvisible Interactive Inc.,YNV.V,-57.72,0.217,0.005,No
+1836,Conavi Medical Corp.,CNVI.V,-76.67,0.354,1.611,No
+1837,Auranova Resources Inc.,AURA.V,-79.53,0.382,2.124,Yes
+1838,Mustang Energy Corp.,MEC.CN,-87.87,0.492,1.181,No
+1839,Saltire Capital Ltd.,SLT-U.TO,-69.81,0.248,0.49,No
+1840,Good Purpose Investments Inc.,GPIN.CN,-95.69,0.417,6.283,No
+1841,Saltire Capital Ltd.,SLT.TO,-89.72,0.146,,
+1842,Atlantico Energy Metals Corp.,ATLA.CN,-99.67,0.273,,
+1843,The Westaim Corporation,WED.V,-82.48,,,
+1844,SQID Technologies Limited,SQID.CN,0.0,0.0,0.0,No
+1845,Secur3D Holdings Inc.,SRD.CN,-71.76,,,
+1846,Genesis Acquisition Corp.,REBL-P.V,0.0,0.0,0.0,No
+1847,Ni-Co Energy Inc.,NICE.V,113.43,,,
+1848,Phoenix Metals Corp.,PCA.TO,66.65,,,
+1849,Karus Mining Inc.,KARU.CN,-82.99,,,
+1850,Bighorn Metals Corp.,HRNY.CN,161.3,,,
+1851,Goldinxs Mining Corp.,INXS.V,213.84,,,
+1852,Irruptive Metals Corp.,IRR.V,0.0,,,
+1853,Fineqia International Inc.,FNQ.CN,0.0,0.0,0.0,No
+1854,Canamex Gold Corp.,CSQ.CN,0.0,0.0,0.0,No
+1855,Asiatel Outsourcing Inc.,ATOI.V,-92.43,,,
+1856,Blue Horizon Global Capital Corp.,BHCC.CN,0.0,0.0,0.0,No
+1857,AbbVie Inc.,ABBV.NE,18.43,,,
+1858,Abitibi Greenstone Gold Corp.,ABGO.CN,-25.64,,,
+1859,Alchemy Labs Inc.,ALCH.V,-95.27,,,
+1860,Amapá Minerals Holdings Inc.,AMAP.TO,40.22,,,

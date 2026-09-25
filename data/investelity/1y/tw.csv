@@ -1,0 +1,1504 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,"TS Financial Holding Co., Ltd.",2887G.TW,27.36,0.04,0.057,No
+2,"TS Financial Holding Co., Ltd.",2887H.TW,21.7,0.048,0.055,No
+3,"Supreme Electronics Co., Ltd.",8112A.TW,10.24,0.028,0.007,No
+4,"Yuanta Financial Holding Co., Ltd.",2885.TW,120.44,0.266,0.556,Yes
+5,"KGI Financial Holding Co., Ltd.",2883B.TW,11.82,0.043,0.035,No
+6,Epoch Chemtronics Corp.,3633.TWO,111.9,0.305,0.501,Yes
+7,Hung Ching Development & Construction Co. Ltd,2527.TW,88.91,0.264,0.489,Yes
+8,"Da-Cin Construction Co.,Ltd.",2535.TW,73.32,0.234,0.522,Yes
+9,"Eurocharm Holdings Co., Ltd.",5288.TW,88.7,0.277,0.282,Yes
+10,Central Reinsurance Corporation,2851.TW,129.35,0.374,0.02,No
+11,"Reliance Securities Co.,Ltd.",6027.TWO,81.17,0.266,0.471,Yes
+12,"O-Bank Co., Ltd.",2897.TW,22.97,0.093,0.061,No
+13,"Jing-Jan Retail Business Co., Ltd.",2942.TWO,36.1,0.14,0.16,No
+14,Afastor Corporation,6707.TWO,162.54,0.453,0.726,Yes
+15,Taiwan Semiconductor Manufacturing Company Limited,2330.TW,106.2,0.336,0.907,Yes
+16,President Securities Corporation,2855.TW,156.54,0.445,0.893,Yes
+17,Tah Kong Chemical Industrial Corporation,4706.TWO,21.43,0.089,0.115,Yes
+18,Pegatron Corporation,4938.TW,39.57,0.154,0.246,Yes
+19,"Cathay Financial Holding Co., Ltd.",2882.TW,91.24,0.315,0.407,Yes
+20,Mega Union Technology Inc.,6944.TW,99.3,0.337,0.544,Yes
+21,TWSE Capitalization Weighted Stock Index,^TWII,97.04,0.331,1.0,Yes
+22,"TS Financial Holding Co., Ltd.",2887I.TW,4.09,0.019,0.027,No
+23,"Advantech Co., Ltd.",2395.TW,152.42,0.47,0.656,Yes
+24,"Fubon Financial Holding Co., Ltd.",2881.TW,83.88,0.311,0.356,Yes
+25,"Bank of Kaohsiung Co., Ltd.",2836A.TW,7.73,0.038,0.064,No
+26,Waste Recovery Technology Inc.,6894.TWO,97.62,0.363,0.612,Yes
+27,Flavor Full Foods Inc.,1260.TWO,119.35,0.422,0.145,Yes
+28,"Grand Fortune Securities Co.,Ltd",6026.TWO,53.13,0.231,0.452,Yes
+29,"P-Duke Technology Co.,Ltd.",8109.TWO,40.99,0.188,0.452,Yes
+30,"Shih-Kuen Plastics Co., Ltd.",4305.TWO,17.44,0.088,0.011,Yes
+31,SinoPac Financial Holdings Company Limited,2890.TW,91.25,0.378,0.028,No
+32,"CTBC Financial Holding Co., Ltd.",2891.TW,69.37,0.307,0.354,Yes
+33,IEI Integration Corp.,3022.TW,48.92,0.231,0.244,Yes
+34,"NANTEX Industry Co., Ltd.",2108.TW,40.9,0.201,0.144,Yes
+35,"Good Finance Securities Co., Ltd.",6021.TWO,121.19,0.475,1.269,Yes
+36,Formosa Plastics Corporation,1301.TW,94.45,0.396,0.391,Yes
+37,"Winstek Semiconductor Co., Ltd.",3265.TWO,119.74,0.473,0.873,Yes
+38,"Shinkong Insurance Co., Ltd.",2850.TW,46.13,0.228,0.064,Yes
+39,"L&K Engineering Co., Ltd.",6139.TW,159.92,0.593,1.319,Yes
+40,Promate Solutions Corporation,6577.TWO,22.99,0.126,0.019,Yes
+41,"Test-Rite International Co., Ltd.",2908.TW,13.57,0.077,0.115,Yes
+42,"CTBC Financial Holding Co., Ltd.",2891C.TW,5.74,0.034,0.019,No
+43,Formosan Rubber Group Inc.,2107.TW,21.48,0.119,0.091,Yes
+44,"Hi-Yes International Co., Ltd.",2348A.TW,11.49,0.067,0.012,Yes
+45,"Bull Will Co., Ltd.",6259.TWO,125.72,0.521,0.82,Yes
+46,"POYA International Co., Ltd.",5904.TWO,85.02,0.393,0.248,Yes
+47,Chernan Metal Industrial Corp.,3631.TWO,149.34,0.599,1.187,Yes
+48,Kinik Company,1560.TW,154.96,0.62,1.45,Yes
+49,Marketech International Corp.,6196.TW,143.84,0.59,1.51,Yes
+50,Synnex Technology International Corporation,2347.TW,54.85,0.284,0.031,No
+51,Feedback Technology Corp.,8091.TWO,143.66,0.593,1.375,Yes
+52,"Study King Co., Ltd.",6780.TWO,77.28,0.379,0.659,Yes
+53,"Hanpin Electron Co., Ltd.",2488.TW,17.7,0.108,0.198,Yes
+54,"Test Rite Retail Co., Ltd.",7867.TWO,24.26,0.145,0.323,Yes
+55,Sesoda Corporation,1708.TW,95.5,0.458,0.336,No
+56,"Cathay Financial Holding Co., Ltd.",2882A.TW,3.74,0.024,0.04,No
+57,Airtac International Group,1590.TW,134.13,0.597,1.373,Yes
+58,"Fullerton Technology Co., Ltd.",6136.TW,9.86,0.064,0.058,Yes
+59,"Yankey Engineering Co., Ltd.",6691.TW,77.25,0.401,0.804,Yes
+60,"TS Financial Holding Co., Ltd.",2887E.TW,5.9,0.039,0.008,Yes
+61,"Taiwan Oasis Technology Co., Ltd.",3066.TWO,97.28,0.481,0.022,Yes
+62,"Mikobeaute International Co., Ltd.",6574.TWO,97.75,0.483,0.585,No
+63,Accton Technology Corporation,2345.TW,139.96,0.626,1.184,Yes
+64,"Mercuries & Associates Holding, Ltd.",2905.TW,59.66,0.329,0.091,No
+65,Ennoconn Corporation,6414.TW,45.32,0.263,0.383,Yes
+66,"GEM Services, Inc.",6525.TW,109.62,0.531,1.0,Yes
+67,JPC Connectivity Inc.,6197.TW,133.65,0.613,1.321,Yes
+68,"Chin Hsin Environ Engineering Co., Ltd.",6951.TW,16.28,0.106,0.01,Yes
+69,Shinkong Synthetic Fibers Corporation,1409.TW,115.53,0.556,0.608,Yes
+70,HanchorBio Inc.,7827.TW,155.03,0.685,1.104,Yes
+71,"Weikeng Industrial Co., Ltd.",3033.TW,86.02,0.449,0.795,Yes
+72,"Topco Scientific Co.,Ltd.",5434.TW,93.61,0.486,1.224,Yes
+73,AUO Corporation,2409.TW,157.8,0.705,1.287,Yes
+74,Union Bank of Taiwan,2838.TW,25.93,0.167,0.095,No
+75,HannsTouch Holdings Company,3049.TW,161.74,0.719,0.599,Yes
+76,"Fubon Financial Holding Co., Ltd.",2881B.TW,2.65,0.019,0.024,No
+77,"Farcent Enterprise Co.,Ltd",1730.TW,4.8,0.034,0.011,No
+78,"Infortrend Technology, Inc.",2495.TW,113.81,0.569,0.845,Yes
+79,Sincere Navigation Corporation,2605.TW,79.12,0.435,0.824,No
+80,"Wonderful Hi-tech Co., Ltd.",6190.TWO,114.4,0.577,1.339,Yes
+81,"Taiwan Navigation Co., Ltd.",2617.TW,21.93,0.147,0.017,Yes
+82,GeoVision Inc.,3356.TW,43.22,0.268,0.48,Yes
+83,"Chen Nan Iron Wire Co.,Ltd",2071.TWO,119.19,0.595,1.4,No
+84,"Tong Ming Enterprise Co., Ltd.",5538.TW,41.9,0.264,0.356,Yes
+85,eGalax_eMPIA Technology Inc.,3556.TWO,91.76,0.498,1.123,Yes
+86,"Kaulin Mfg. Co., Ltd.",1531.TW,16.02,0.112,0.068,No
+87,Ju Teng International Holdings Limited,9136.TW,129.92,0.646,0.721,Yes
+88,Novatek Microelectronics Corp.,3034.TW,39.32,0.252,0.329,Yes
+89,"Far EasTone Telecommunications Co., Ltd.",4904.TW,21.67,0.149,0.047,Yes
+90,"Yuan Jen Enterprises Co.,Ltd.",1725.TW,26.52,0.183,0.159,Yes
+91,"Chen Full International Co., Ltd.",8383.TWO,84.08,0.485,0.595,Yes
+92,WPG Holdings Limited,3702.TW,77.18,0.454,0.107,No
+93,INTAI Technology Corporation,4163.TWO,45.65,0.297,0.224,Yes
+94,"Lingsen Precision Industries, Ltd.",2369.TW,93.59,0.53,1.001,Yes
+95,AOPEN Incorporated,3046.TW,43.25,0.285,0.407,Yes
+96,"Hua Nan Financial Holdings Co., Ltd.",2880.TW,59.7,0.373,0.066,No
+97,Baotek Industrial Materials Ltd.,5340.TWO,154.54,0.762,1.097,Yes
+98,OFCO Industrial Corporation,5011.TWO,111.65,0.607,1.005,Yes
+99,World Gym Corporation,2762.TW,28.6,0.2,0.118,Yes
+100,"Sonix Technology Co.,Ltd.",5471.TW,90.26,0.523,1.128,Yes
+101,"Concord Securities Co., Ltd.",6016.TWO,127.9,0.677,1.47,Yes
+102,Trans-Sun Materials Technology Company Limited,6967.TWO,44.36,0.301,0.52,Yes
+103,APCB Inc.,6108.TW,90.33,0.537,0.673,Yes
+104,Leadtek Research Inc.,2465.TW,109.71,0.622,1.155,Yes
+105,Forcelead Technology Corp.,6996.TWO,30.66,0.221,0.546,Yes
+106,Shuang-Bang Industrial Corp.,6506.TWO,21.5,0.161,0.191,Yes
+107,Kao Hsing Chang Iron & Steel Corp.,2008.TW,20.8,0.156,0.071,Yes
+108,"Chun Yuan Steel Industry Co., Ltd.",2010.TW,24.54,0.181,0.193,No
+109,Grand Pacific Petrochemical Corporation,1312.TW,92.67,0.554,0.103,Yes
+110,Sino-American Silicon Products Inc.,5483.TWO,80.36,0.497,1.29,Yes
+111,"SINBON Electronics Co., Ltd.",3023.TW,52.7,0.355,0.523,Yes
+112,"King Yuan Electronics Co., Ltd.",2449.TW,105.05,0.609,1.381,Yes
+113,"Fu Chun Shin Machinery Manufacture Co., Ltd.",6603.TWO,74.61,0.473,0.424,Yes
+114,Nova Technology Corporation,6613.TWO,93.34,0.566,0.644,Yes
+115,"Kinpo Electronics, Inc.",2312.TW,106.68,0.625,1.609,Yes
+116,Tripod Technology Corporation,3044.TW,113.38,0.655,1.655,Yes
+117,"Davicom Semiconductor, Inc.",3094.TW,74.32,0.48,1.029,Yes
+118,"Kuen Ling Machinery Refrigerating Co., Ltd.",4527.TWO,17.84,0.139,0.125,Yes
+119,"Sun Brothers Development Co., Limited",3489.TWO,37.09,0.272,0.568,No
+120,"Test Research, Inc.",3030.TW,105.31,0.631,0.889,Yes
+121,"Axiomtek Co., Ltd.",3088.TWO,81.06,0.518,1.279,Yes
+122,"TPK Holding Co., Ltd.",3673.TW,134.78,0.755,1.468,Yes
+123,"Hi-Lai Foods Co., Ltd",1268.TWO,14.23,0.114,0.112,Yes
+124,Wellell Inc.,4106.TW,17.3,0.138,0.118,Yes
+125,Harmony Electronics Co. Ltd,8182.TWO,81.76,0.526,1.249,Yes
+126,Chang Wah Electromaterials Inc.,8070.TW,42.04,0.306,0.624,Yes
+127,Wah Lee Industrial Corporation,3010.TW,53.02,0.372,0.632,Yes
+128,San Shing Fastech Corp.,5007.TW,15.6,0.126,0.147,Yes
+129,"Formosa Taffeta Co., Ltd.",1434.TW,27.33,0.211,0.015,Yes
+130,"Gseven Co., Ltd.",2937.TWO,21.96,0.173,0.119,Yes
+131,Greatek Electronics Inc.,2441.TW,155.95,0.848,1.324,Yes
+132,"MARTAS Precision Slide Co.,Ltd",6705.TWO,79.5,0.52,0.467,Yes
+133,"Great China Metal Ind. Co., Ltd.",9905.TW,9.9,0.082,0.044,No
+134,"Flytech Technology Co., Ltd.",6206.TW,49.11,0.354,0.564,Yes
+135,QST International Corp.,8349A.TWO,4.78,0.041,0.038,No
+136,Hiwin Technologies Corporation,2049.TW,98.68,0.619,1.325,Yes
+137,Hiwin Mikrosystem Corporation,4576.TW,151.41,0.842,1.702,Yes
+138,"Concord Medical Co., Ltd.",6518.TWO,25.92,0.205,0.384,Yes
+139,Steminent Biotherapeutics Inc.,7729.TWO,87.65,0.572,0.111,Yes
+140,Inforcom Technology Inc.,7868.TWO,140.15,0.809,0.449,Yes
+141,Adlink Technology Inc.,6166.TW,158.96,0.883,1.705,Yes
+142,HwaCom Systems Inc.,6163.TWO,132.06,0.78,0.288,No
+143,Trigold Holdings Limited,3709.TWO,87.3,0.577,1.183,Yes
+144,"Nyquest Technology Co., Ltd.",6494.TWO,78.49,0.532,1.396,Yes
+145,Dacome International Ltd.,9960.TWO,66.44,0.468,0.532,Yes
+146,Interactive Digital Technologies Inc.,6486.TWO,16.39,0.137,0.005,Yes
+147,"Chi Hua Fitness Co., Ltd.",1593.TWO,23.59,0.192,0.026,No
+148,"Horizon Securities Co., Ltd.",6015.TWO,83.23,0.563,1.272,Yes
+149,"Zeng Hsing Industrial Co., Ltd.",1558.TW,25.38,0.207,0.042,No
+150,"Gogolook Co., Ltd.",6902.TW,91.21,0.604,1.172,Yes
+151,Desiccant Technology Corporation,5292.TW,96.38,0.633,0.317,No
+152,"Epileds Technologies, Inc.",4956.TW,136.36,0.813,1.035,Yes
+153,Scientech Corporation,3583.TW,158.24,0.9,1.562,Yes
+154,Golden Bridge Electech Inc.,6133.TW,52.08,0.39,0.389,Yes
+155,"Cathay Financial Holding Co., Ltd.",2882B.TW,1.82,0.017,0.019,No
+156,Alltek Technology Corporation,3209.TW,95.87,0.636,0.895,Yes
+157,"Taiwan Hopax Chemicals Manufacturing Co., Ltd.",6509.TWO,53.47,0.403,0.035,No
+158,"Calitech Co., Ltd.",6532.TWO,113.87,0.725,0.654,Yes
+159,"WUS Printed Circuit Co., Ltd.",2316.TW,127.32,0.791,1.352,Yes
+160,"Aten International Co., Ltd",6277.TW,38.28,0.308,0.424,No
+161,Dimerco Express Corporation,5609.TWO,6.2,0.057,0.019,Yes
+162,Wistron Corporation,3231.TW,41.17,0.329,0.357,Yes
+163,"Trinity Precision Technology Co., Ltd.",4534.TWO,123.56,0.783,1.096,Yes
+164,"Goldtek Technology Co., Ltd.",6638.TWO,80.44,0.569,0.035,No
+165,"Ultra Chip, Inc.",3141.TWO,138.08,0.854,1.62,Yes
+166,Bryton Inc.,7558.TWO,119.54,0.772,0.033,Yes
+167,"Unitech Computer Co., Ltd.",2414.TW,32.98,0.274,0.19,Yes
+168,"Jih Lin Technology Co., Ltd.",5285.TW,121.44,0.784,1.523,Yes
+169,Highlight Tech Corp.,6208.TWO,119.54,0.777,1.608,Yes
+170,"Chieftek Precision Co., Ltd.",1597.TW,141.19,0.879,1.806,Yes
+171,"Chi Cheng Enterprise Co., Ltd.",3095.TWO,51.42,0.406,0.865,Yes
+172,Tainet Communication System Corp.,4905.TWO,69.11,0.518,0.369,No
+173,"Chi Yi Hsin Technology Co., Ltd",7848.TWO,37.88,0.314,0.394,Yes
+174,Axis Corporation,6292.TWO,90.4,0.642,0.577,Yes
+175,"King's Metal Fiber Technologies Co., Ltd.",6832.TWO,87.15,0.628,0.785,Yes
+176,"GEM Terminal Industry Co.,Ltd.",2460.TW,90.5,0.653,1.223,Yes
+177,Young Optics Inc.,3504.TW,83.87,0.617,1.5,Yes
+178,Grand Process Technology Corporation,3131.TWO,101.54,0.713,0.199,No
+179,"YFC-Boneagle Electric Co., Ltd.",6220.TWO,57.59,0.46,0.465,Yes
+180,"V5 Technologies Co., Ltd.",7822.TW,139.87,0.901,0.34,Yes
+181,"Dura Tek, Inc.",8098.TWO,68.93,0.532,0.054,Yes
+182,Walsin Lihwa Corporation,1605.TW,89.35,0.653,1.03,Yes
+183,CTCI Corporation,9933.TW,36.9,0.317,0.044,Yes
+184,Genie Networks Limited,8298.TWO,92.08,0.674,0.279,No
+185,Capital Securities Corporation,6005.TW,65.41,0.517,0.962,Yes
+186,"Cen Link Co., Ltd.",5254.TWO,59.18,0.477,0.875,Yes
+187,"Sunonwealth Electric Machine Industry Co., Ltd.",2421.TW,73.3,0.568,0.908,Yes
+188,"The First Insurance Co., Ltd.",2852.TW,13.69,0.131,0.078,Yes
+189,Tingyi (Cayman Islands) Holding Corp.,910322.TW,37.79,0.329,0.313,No
+190,"Evermore Chemical Industry Co., Ltd.",1735.TW,65.19,0.52,0.105,No
+191,"Chunghwa Telecom Co., Ltd.",2412.TW,6.56,0.065,0.027,Yes
+192,"Chunghwa Chemical Synthesis & Biotech Co., Ltd.",1762.TW,54.6,0.452,0.53,Yes
+193,"Horizon Fixture Group Co., Ltd.",6957.TW,41.87,0.364,0.057,No
+194,"LNC Technology Co., Ltd",4587.TWO,126.64,0.872,1.385,Yes
+195,Inventec Corporation,2356.TW,77.97,0.609,1.203,Yes
+196,AcBel Polytech Inc.,6282.TW,87.69,0.674,1.312,Yes
+197,"Taiwan Fructose Co., Ltd.",4207.TWO,20.15,0.193,0.06,Yes
+198,Parpro Corporation,4916.TW,139.32,0.945,1.446,Yes
+199,Wowprime Corp.,2727.TW,11.61,0.115,0.127,No
+200,"Everest Textile Co., Ltd.",1460.TW,14.22,0.14,0.058,No
+201,"Taiwan Wax Company,Ltd.",1742.TWO,29.93,0.277,0.079,No
+202,NAK Sealing Technologies Corporation,9942.TW,12.85,0.128,0.167,Yes
+203,"Regal Holding Co., Ltd.",4807.TW,100.22,0.751,1.339,Yes
+204,"Gallant Micro. Machining Co., LTD.",6640.TWO,138.59,0.947,0.489,No
+205,KMC (Kuei Meng) International Inc.,5306.TW,14.08,0.14,0.036,No
+206,"Advanced Analog Technology, Inc.",3438.TWO,69.37,0.568,1.027,Yes
+207,Gigastone Corporation,5262.TWO,54.76,0.469,0.578,No
+208,"Associated Industries China, Inc.",9912.TW,9.67,0.098,0.086,No
+209,Silergy Corp.,6415.TW,133.15,0.927,2.035,Yes
+210,"Micro-Star International Co., Ltd.",2377.TW,54.52,0.469,0.805,Yes
+211,ENNOSTAR Inc.,3714.TW,114.37,0.834,1.235,Yes
+212,"An-Shin Food Services Co.,Ltd.",1259.TWO,11.29,0.114,0.006,No
+213,"Sunko Ink Co., Ltd.",1721.TW,97.69,0.745,1.367,Yes
+214,Axcen Photonics Corporation,6530.TWO,88.99,0.694,0.778,Yes
+215,"Gudeng Precision Industrial Co., Ltd.",3680.TWO,73.16,0.6,1.472,Yes
+216,"Fortune Electric Co., Ltd.",1519.TW,66.1,0.555,1.16,Yes
+217,"Chunghwa Precision Test Tech. Co., Ltd.",6510.TWO,86.11,0.684,0.764,Yes
+218,"Auras Technology Co., Ltd.",3324.TWO,95.82,0.745,1.413,Yes
+219,"ICP Das Co., Ltd.",3577.TWO,132.94,0.946,1.048,Yes
+220,Sitronix Technology Corporation,8016.TW,59.47,0.514,1.123,Yes
+221,"Hunya Foods Co., Ltd.",1236.TW,14.13,0.144,0.022,Yes
+222,"Catcher Technology Co., Ltd.",2474.TW,25.64,0.25,0.323,Yes
+223,Jiin Yeeh Ding Enterprises Corp.,8390.TWO,79.57,0.651,0.559,Yes
+224,"WT Microelectronics Co., Ltd.",3036.TW,71.6,0.6,0.339,Yes
+225,Clevo Co.,2362.TW,25.43,0.249,0.285,Yes
+226,Solar Applied Materials Technology Corporation,1785.TWO,158.12,1.078,1.136,Yes
+227,Intelligene Inc.,7832.TWO,46.33,0.423,0.15,No
+228,Prime Electronics & Satellitics Inc.,6152.TW,86.08,0.699,0.784,Yes
+229,"Cathay Consolidated, Inc.",1342.TW,39.18,0.369,0.536,Yes
+230,Cal-Comp Electronics (Thailand) Public Company Limited,9105.TW,68.85,0.59,1.122,Yes
+231,"Compal Electronics, Inc.",2324.TW,40.18,0.378,0.739,Yes
+232,Vanguard International Semiconductor Corporation,5347.TWO,103.63,0.812,1.449,Yes
+233,"Simple Mart Retail Co., Ltd.",2945.TW,14.35,0.15,0.2,Yes
+234,Mildef Crete Inc.,3213.TWO,22.07,0.223,0.3,Yes
+235,United Alloy-Tech Company,3162.TWO,60.21,0.534,1.217,Yes
+236,"Juoku Technology Co., Ltd.",6604.TWO,54.74,0.494,0.473,Yes
+237,Da Da Broadband Ltd.,7901.TWO,35.51,0.342,0.672,No
+238,Harvatek Corporation,6168.TW,60.28,0.535,0.616,Yes
+239,VisEra Technologies Company Ltd.,6789.TW,139.75,1.012,2.062,Yes
+240,"I Jang Industrial Co.,Ltd.",8342.TWO,9.14,0.098,0.013,No
+241,"GLOBAL TEK FABRICATION CO., Ltd.",4566.TW,28.31,0.283,0.55,Yes
+242,"Gemtek Technology Co., Ltd.",4906.TW,84.23,0.704,0.229,Yes
+243,"Apex International Co., Ltd.",4927.TW,143.44,1.037,1.561,Yes
+244,Gigastorage Corporation,2406.TW,58.9,0.531,0.323,Yes
+245,CMC Magnetics Corporation,2323.TW,28.42,0.285,0.174,Yes
+246,Niching Industrial Corporation,3444.TWO,101.4,0.817,1.583,Yes
+247,"New Smart Technology Co., Ltd.",7825.TWO,154.31,1.102,0.426,Yes
+248,Savior Lifetec Corporation,4167.TWO,31.17,0.312,0.258,No
+249,Holtek Semiconductor Inc.,6202.TW,69.82,0.616,1.406,Yes
+250,"Andros Pharmaceuticals Co.,Ltd",6917.TWO,116.91,0.91,0.991,Yes
+251,"Ginar Technology Co.,Ltd.",6151.TWO,37.44,0.368,0.574,Yes
+252,"Dynamic Holding Co., Ltd.",3715.TW,73.52,0.645,0.231,Yes
+253,"Jochu Technology Co., Ltd.",3543.TW,104.68,0.85,0.14,Yes
+254,"Sheh Fung Screws Co.,Ltd",2065.TWO,36.58,0.364,0.269,Yes
+255,Excelliance MOS Corporation,5299.TWO,50.48,0.481,1.134,Yes
+256,Yeedex Electronic Corporation,7556.TWO,119.1,0.937,1.765,Yes
+257,"Praise Victor Industrial Co., Ltd.",7768.TW,107.65,0.875,0.628,Yes
+258,"Hotron Precision Electronic Industrial Co.,Ltd.",3092.TW,106.91,0.872,0.748,Yes
+259,"Fuzetec Technology Co., Ltd.",6642.TWO,75.76,0.672,1.104,Yes
+260,Ingentec Corporation,4768.TWO,144.43,1.088,0.991,Yes
+261,"Uwell Biopharma, Inc.",7902.TWO,137.49,1.065,0.965,Yes
+262,"Bestec Power Electronics Co., Ltd.",3308.TW,52.72,0.513,0.623,Yes
+263,"Nexora Technology Co., LTD.",6842.TWO,108.69,0.906,1.064,Yes
+264,"PCL Technologies, Inc.",4977.TW,87.5,0.771,0.941,Yes
+265,Generalplus Technology Inc.,4952.TW,39.63,0.405,1.017,Yes
+266,"Sirtec International Co.,Ltd.",5356.TWO,15.39,0.172,0.334,Yes
+267,Motech Industries Inc.,6244.TWO,69.49,0.651,1.066,Yes
+268,"Hua Eng Wire & Cable Co., Ltd.",1608.TW,36.35,0.382,0.468,Yes
+269,"Chitec Technology Co., Ltd.",3430.TWO,136.67,1.089,2.874,Yes
+270,"SuperAlloy Industrial Co., Ltd.",1563.TW,83.16,0.757,0.879,Yes
+271,ADO Optronics Corporation,3516.TWO,38.06,0.399,0.716,Yes
+272,"Joy Industrial Co., Ltd.",4559.TWO,46.04,0.469,0.47,Yes
+273,"Good Will Instrument Co., Ltd.",2423.TW,56.25,0.557,1.017,Yes
+274,Machvision Inc.,3563.TW,53.05,0.533,0.006,Yes
+275,"Finesse Technology Co., Ltd",7704.TWO,56.61,0.564,0.954,Yes
+276,"Sinkang Industries Co., Ltd.",2032.TW,26.81,0.296,0.219,Yes
+277,Quanta Computer Inc.,2382.TW,30.21,0.331,0.727,Yes
+278,Topco Technologies Corp.,3388.TWO,105.77,0.924,1.641,Yes
+279,Chailease Holding Company Limited,5871.TW,15.48,0.18,0.147,No
+280,Phoenix Silicon International Corporation,8028.TW,60.6,0.602,1.423,Yes
+281,Innovision FlexTech Corporation,6673.TWO,154.78,1.212,2.033,Yes
+282,"Fittech Co., Ltd.",6706.TW,133.21,1.094,1.445,Yes
+283,"Group Up Industrial Co., Ltd.",6664.TWO,71.59,0.69,1.346,Yes
+284,"Fubon Financial Holding Co., Ltd.",2881A.TW,2.08,0.026,0.044,No
+285,Grade Upon Technology Corp,6739.TWO,80.44,0.757,1.058,Yes
+286,Highwealth Construction Corp.,2542.TW,20.29,0.233,0.416,Yes
+287,Cheng Mei Materials Technology Corporation,4960.TW,130.63,1.087,0.111,Yes
+288,"Weltrend Semiconductor, Inc.",2436.TW,46.31,0.486,1.084,Yes
+289,Litemax Electronics Inc.,4995.TWO,17.06,0.199,0.314,Yes
+290,China Bills Finance Corporation,2820.TW,8.08,0.098,0.033,Yes
+291,Brillian Network & Automation Integrated System Co. Ltd.,6788.TWO,100.21,0.901,0.691,Yes
+292,"UVAT Technology Co., Ltd.",3580.TWO,46.47,0.491,1.07,Yes
+293,Edison Opto Corporation,3591.TW,33.84,0.375,0.686,Yes
+294,"Nano Electronics and Micro System Technologies, Inc.",7730.TW,107.57,0.958,0.544,No
+295,"Shiny Chemical Industrial Co., Ltd.",1773.TW,35.5,0.392,1.13,Yes
+296,"Tbi Motion Technology Co., Ltd.",4540.TW,107.93,0.963,2.237,Yes
+297,Thunder Tiger Corp.,8033.TW,41.39,0.448,0.172,Yes
+298,"Lumax International Corp., Ltd.",6192.TW,24.96,0.288,0.641,Yes
+299,Turn Cloud Technology Service Inc.,6870.TWO,59.13,0.608,0.393,Yes
+300,"Am-Power Machine International Enterprise Co., Ltd.",7792.TWO,123.41,1.067,1.213,Yes
+301,"Tekcore Co., Ltd",3339.TWO,90.26,0.852,0.638,Yes
+302,Tera Autotech Corporation,6234.TWO,131.07,1.121,1.976,Yes
+303,Oriental System Technology Inc.,6819.TWO,122.37,1.07,1.841,Yes
+304,Wah Hong Industrial Corp.,8240.TWO,59.33,0.615,0.474,Yes
+305,"Loop Telecommunication International, Inc.",3025.TW,47.15,0.509,0.617,Yes
+306,U.D. Electronic Corp.,3689.TWO,40.13,0.444,0.983,Yes
+307,"I-Hwa Industrial Co.,Ltd",1456.TW,15.55,0.19,0.19,No
+308,"Sunf Pu Technology Co., Ltd.",5488.TWO,23.36,0.278,0.377,Yes
+309,Ushine Photonics Corporation,3678.TWO,52.91,0.569,0.313,Yes
+310,Pro-Hawk Corporation,8083.TWO,13.98,0.174,0.251,Yes
+311,"Yem Chio Distribution Co., Ltd.",3171.TWO,31.72,0.368,0.38,No
+312,"PSS Co.,Ltd.",6914.TW,8.46,0.108,0.116,No
+313,"Microcosm Technology Co., Ltd.",3354.TWO,92.37,0.895,0.865,Yes
+314,Yu-Chen SYSTEM Technology CORP.,7813.TWO,63.12,0.667,1.167,Yes
+315,Basso Industry Corp.,1527.TW,5.89,0.077,0.071,Yes
+316,"Yuen Foong Yu Consumer Products Co., Ltd.",6790.TW,5.95,0.077,0.087,No
+317,"Ion Electronic Materials Co., Ltd.",6959.TWO,92.44,0.901,1.396,Yes
+318,evertex fabrinology limited,1470.TW,16.02,0.201,0.052,Yes
+319,Uniforce Technology Corporation,7714.TWO,47.42,0.531,0.013,Yes
+320,Macnica Galaxy Inc.,6227.TWO,47.57,0.533,0.789,Yes
+321,"Chin-Poon Industrial Co., Ltd.",2355.TW,58.91,0.642,0.587,Yes
+322,"Hotai Finance Co., Ltd.",6592A.TW,2.13,0.029,0.023,No
+323,"VIA Technologies, Inc.",2388.TW,48.78,0.551,0.895,Yes
+324,Jorjin Technologies Inc.,4980.TWO,54.43,0.605,1.215,Yes
+325,"AnnJi Pharmaceutical Co., Ltd.",7754.TWO,30.05,0.364,0.243,No
+326,"Nytex Composites Co., Ltd.",8058.TWO,57.63,0.635,0.681,No
+327,"Hengs Technology Co., Ltd.",4582.TW,52.15,0.587,0.005,Yes
+328,"Wendell Industrial Co., Ltd",6761.TWO,64.57,0.699,1.341,Yes
+329,"Ligitek Electronics Co.,Ltd",8111.TWO,41.35,0.484,0.503,Yes
+330,Zyxel Group Corporation,3704.TW,35.98,0.432,0.728,Yes
+331,"United Purification Technology Co., Ltd.",6977.TWO,66.33,0.726,0.11,No
+332,Yang Ming Marine Transport Corporation,2609.TW,23.19,0.294,0.264,Yes
+333,"Hua Hsuan Real Estate Co.,Ltd.",2740.TWO,54.94,0.627,0.41,Yes
+334,Ledtech Electronics Corp.,6164.TW,32.36,0.4,0.339,Yes
+335,Far Eastern International Bank Ltd.,2845.TW,10.14,0.137,0.063,No
+336,W&B Technology Ltd.,7744.TWO,83.71,0.885,1.396,Yes
+337,"Hsin Yung Chien Co., Ltd.",2114.TW,5.42,0.076,0.124,Yes
+338,"Lemtech Holdings Co., Limited",4912.TW,51.53,0.608,0.535,Yes
+339,"Triocean Industrial Corporation Co., Ltd.",1472.TW,8.91,0.124,0.183,No
+340,WITS Corp.,4953.TWO,13.26,0.181,0.37,Yes
+341,Chaintech Technology Corporation,2425.TW,36.84,0.462,0.381,Yes
+342,Morn Sun Feed Mill Corp.,1240.TWO,4.99,0.071,0.042,No
+343,Chinese Maritime Transport Ltd.,2612.TW,24.88,0.328,0.533,Yes
+344,Solomon Data International Corporation,5432.TWO,82.27,0.902,0.616,Yes
+345,"Tradetool Auto Co., Ltd.",3685.TWO,60.84,0.716,0.391,Yes
+346,"Taiwan Taxi Co.,Ltd.",2640.TWO,49.08,0.602,1.128,No
+347,AAEON Technology Inc.,6579.TW,44.95,0.559,0.911,Yes
+348,"Giga-Byte Technology Co., Ltd.",2376.TW,40.34,0.51,1.029,Yes
+349,Planet Technology Corporation,6263.TWO,30.58,0.402,0.643,Yes
+350,Giga Solar Materials Corp.,3691.TWO,69.6,0.807,1.602,Yes
+351,"Kuangli Bio-Tech Holdings Co., Ltd.",6431.TW,44.55,0.561,0.443,No
+352,T3EX Global Holdings Corp.,2636.TW,7.09,0.103,0.14,No
+353,"Bon Fame Co., Ltd.",8433.TWO,15.49,0.218,0.39,No
+354,"Li Peng Enterprise Co., Ltd.",1447.TW,27.96,0.375,0.418,Yes
+355,Partner Tech Corp.,3097.TWO,12.65,0.181,0.031,No
+356,"China Steel Structure Co., Ltd.",2013.TW,4.6,0.068,0.08,No
+357,Bright LED Electronics Corp.,3031.TW,51.36,0.638,1.211,Yes
+358,United Fiber Optic Communication Inc.,4903.TWO,30.16,0.403,0.043,No
+359,Shihlin Development Company Limited,5324.TWO,22.77,0.313,0.33,No
+360,"Kanpai Co., Ltd",1269.TWO,23.37,0.324,0.11,Yes
+361,"Wanshih Electronic Co., Ltd.",6134.TWO,40.44,0.528,1.022,Yes
+362,iSTART-TEK INC.,6786.TWO,82.86,0.95,1.274,Yes
+363,"United Integrated Services Co., Ltd.",2404.TW,44.61,0.578,1.26,Yes
+364,"Neweb Information Co., Ltd.",6938.TWO,14.21,0.207,0.191,Yes
+365,"Integrated Solutions Technology, Inc.",6927.TWO,79.77,0.93,1.024,Yes
+366,Panram International Corp.,8088.TWO,56.92,0.711,1.046,Yes
+367,"Cincon Electronics Co., Ltd.",3332.TWO,32.81,0.445,0.909,Yes
+368,"LFA Co., Ltd.",3226.TWO,33.06,0.454,0.322,Yes
+369,"Paragon Technologies Co., Ltd.",3518.TW,58.56,0.739,1.548,Yes
+370,"Alltop Technology Co., Ltd.",3526.TWO,32.44,0.45,1.024,Yes
+371,"Y.C.C. Parts Mfg. Co., Ltd.",1339.TW,12.92,0.193,0.282,Yes
+372,EVA Airways Corp.,2618.TW,22.44,0.324,0.192,Yes
+373,Ever-Clear Environmental Eng. Corp.,6624.TWO,56.86,0.73,0.592,No
+374,"Tech-Top Engineering Co., Ltd.",6750.TWO,30.26,0.426,0.661,Yes
+375,"G-SHANK Enterprise Co., Ltd.",2476.TW,38.81,0.535,1.117,Yes
+376,UPC Technology Corporation,1313.TW,27.65,0.398,0.251,No
+377,Airoha Technology Corp.,6526.TW,34.35,0.484,1.169,Yes
+378,"Promise Technology, Inc.",3057.TW,54.06,0.714,0.754,Yes
+379,Tex Year Industries Inc.,4720.TW,46.52,0.631,1.159,Yes
+380,Anderson Industrial Corporation,1528.TW,62.0,0.804,0.025,Yes
+381,Ve Wong Corporation,1203.TW,14.04,0.217,0.095,Yes
+382,"Les Enphants Co., Ltd.",2911.TW,57.98,0.767,0.82,Yes
+383,"Taiwan Hon Chuan Enterprise Co., Ltd.",9939.TW,10.55,0.166,0.062,Yes
+384,Advanced Optoelectronic Technology Inc.,3437.TW,42.4,0.592,0.332,Yes
+385,Materials Analysis Technology Inc.,3587.TWO,52.64,0.711,1.559,Yes
+386,"Xxtechec Co., Ltd.",8477.TWO,38.94,0.552,0.684,Yes
+387,Sporton International Inc.,6146.TWO,20.29,0.309,0.636,Yes
+388,Shin Shin Natural Gas Company Limited,9918.TW,13.62,0.214,0.493,No
+389,Grand Pacific Petrochemical Corporation,1312A.TW,11.43,0.181,0.044,No
+390,"Grand-Tek Technology Co., Ltd.",3684.TWO,37.6,0.543,0.44,Yes
+391,"VIA Labs, Inc.",6756.TW,25.27,0.382,0.937,Yes
+392,"Hon Hai Precision Industry Co., Ltd.",2317.TW,38.38,0.555,1.245,Yes
+393,Dexin Corporation,3349.TWO,42.14,0.602,0.789,No
+394,"Career Technology (Mfg.) Co., Ltd.",6153.TW,38.44,0.557,0.731,Yes
+395,Taiwan-Asia Semiconductor Corporation,2340.TW,55.05,0.755,1.606,Yes
+396,"SYN-TECH Chem. & Pharm. Co., Ltd.",1777.TWO,6.9,0.113,0.071,No
+397,Mustang Industrial Corp.,5460.TWO,8.26,0.135,0.004,Yes
+398,Univacco Technology Inc.,3303.TWO,16.64,0.263,0.267,Yes
+399,ABICO Asia Capital Corporation,7777.TWO,65.06,0.877,1.349,Yes
+400,"Yi Shin Textile Industrial Co., Ltd.",4440.TW,10.4,0.17,0.082,Yes
+401,Luminescence Technology Corp.,6729.TWO,39.0,0.573,0.582,Yes
+402,"Fulin Plastic Industry (Cayman) Holding Co., Ltd.",1341.TW,8.28,0.137,0.207,Yes
+403,"M-POWER INFORMATION Co., LTD.",6874.TWO,24.24,0.378,0.519,No
+404,Taiwan Cogeneration Corporation,8926.TW,43.85,0.642,1.119,Yes
+405,"Taiwan Secom Co., Ltd.",9917.TW,5.91,0.1,0.185,No
+406,Sinew Pharma Inc.,6634.TWO,63.42,0.874,1.636,Yes
+407,Taiwan Sakura Corporation,9911.TW,3.21,0.056,0.008,No
+408,"YC Inox Co.,Ltd",2034.TW,12.74,0.212,0.122,Yes
+409,Easy Field Corporation,6425.TWO,52.02,0.753,1.292,Yes
+410,Ruby Tech Corporation,8048.TWO,41.42,0.622,0.46,Yes
+411,"O'Pay Electronic Payment Co., Ltd.",6878.TWO,67.12,0.934,0.565,No
+412,Brogent Technologies Inc.,5263.TWO,19.52,0.32,0.506,Yes
+413,"Ichia Technologies, Inc.",2402.TW,43.61,0.656,1.242,Yes
+414,"Alchip Technologies, Limited",3661.TW,66.55,0.933,2.268,Yes
+415,UNIC Technology Corp.,5452.TWO,31.08,0.491,0.413,Yes
+416,China Petrochemical Development Corporation,1314.TW,17.89,0.3,0.122,No
+417,AVer Information Inc.,3669.TW,23.49,0.385,0.265,Yes
+418,"Excellence Optoelectronics Holding Co., Inc.",3717.TW,28.9,0.464,0.158,No
+419,Potens Semiconductor Corp.,7712.TWO,58.53,0.852,1.447,Yes
+420,Avalue Technology Incorporation,3479.TWO,36.27,0.569,0.942,Yes
+421,IBASE Technology Inc.,8050.TWO,31.26,0.501,0.644,Yes
+422,"Great Wall Enterprise Co., Ltd.",1210.TW,5.9,0.105,0.192,No
+423,"Tailyn Technologies, Inc.",5353.TWO,14.05,0.243,0.484,Yes
+424,"Leo Systems, Inc.",5410.TWO,22.04,0.369,0.753,Yes
+425,"Sunflex Tech Co., Ltd.",3390.TWO,28.71,0.473,1.157,Yes
+426,"Green Solution Technology Co., Ltd.",7872.TWO,62.71,0.922,0.199,Yes
+427,"Patec Precision Industry Co., Ltd.",2236.TW,23.97,0.403,0.39,Yes
+428,Eminent Luggage Corporation,9950.TWO,4.09,0.075,0.002,No
+429,Shih Her Technologies Inc.,3551.TWO,30.23,0.499,1.052,Yes
+430,"Qbic Technology Co., Ltd.",6825.TWO,27.19,0.456,0.465,Yes
+431,Ruentex Industries Ltd.,2915.TW,15.74,0.276,0.024,No
+432,"Space Shuttle Hi-Tech Co., Ltd.",2440.TW,25.96,0.439,0.971,Yes
+433,Da Hui Limited,5276.TWO,16.99,0.298,0.433,Yes
+434,"Zig Sheng Industrial Co., Ltd.",1455.TW,22.49,0.387,0.05,Yes
+435,"Depo Auto Parts Industrial Co., Ltd.",6605.TW,14.51,0.258,0.156,Yes
+436,Aplex Technology Inc.,6570.TWO,39.43,0.644,0.833,Yes
+437,"Apex International Financial Engineering Res. & Tech. Co., Ltd",5210.TWO,19.68,0.347,0.3,Yes
+438,"LinkCom Manufacturing Co.,LTD.",6821.TWO,50.26,0.795,0.119,No
+439,"Xxentria Technology Materials Co., Ltd.",8942.TWO,17.84,0.319,0.398,Yes
+440,"Aethertek technology co., Ltd.",3219.TWO,54.59,0.858,0.74,Yes
+441,"Superior Plating Technology Co., Ltd.",8431.TWO,41.66,0.686,0.541,Yes
+442,GTM Holdings Corporation,1437.TW,9.81,0.183,0.119,No
+443,Voltronic Power Technology Corp.,6409.TW,47.05,0.763,0.545,Yes
+444,ARBOR Technology Corp.,3594.TWO,24.07,0.427,0.774,Yes
+445,"Action Electronics Co., Ltd.",3024.TW,29.32,0.51,0.794,Yes
+446,"Everlight Electronics Co., Ltd.",2393.TW,18.78,0.341,0.053,No
+447,Certain Micro Application Technology Inc.,7899.TWO,85.96,1.255,0.333,No
+448,Sanlien Technology Corp.,5493.TWO,20.98,0.379,0.787,Yes
+449,Advanced Ceramic X Corporation,3152.TWO,37.72,0.642,1.484,Yes
+450,"Jhen Vei Electronic Co., Ltd.",3520.TWO,17.03,0.313,0.017,Yes
+451,General Interface Solution (GIS) Holding Limited,6456.TW,45.63,0.758,1.167,Yes
+452,Sunplus Innovation Technology Inc.,5236.TW,25.27,0.453,1.157,Yes
+453,"Syntek Semiconductor Co., Ltd.",5302.TWO,25.56,0.46,0.73,Yes
+454,"Senao International Co.,Ltd.",2450.TW,4.27,0.084,0.153,Yes
+455,"Shieh Yih Machinery Industry Co., Ltd.",4533.TWO,47.67,0.796,0.739,Yes
+456,TTY Biopharm Company Limited,4105.TWO,6.6,0.129,0.194,Yes
+457,Amazing Microelectronic Corp.,6411.TWO,44.12,0.75,1.616,Yes
+458,"Eagle Cold Storage Enterprise Co., Ltd.",8905.TWO,21.81,0.403,0.215,No
+459,"Chien Shing Stainless Steel Co., Ltd.",2025.TW,25.62,0.468,0.357,Yes
+460,"Heran Co., Ltd.",5283.TW,11.83,0.229,0.178,Yes
+461,"Wiselink Co., Ltd.",8932.TWO,29.01,0.53,1.042,Yes
+462,Shihlin Electric & Engineering Corp.,1503.TW,31.53,0.573,1.273,Yes
+463,CKM Applied Materials Corp.,8930.TWO,11.51,0.226,0.36,No
+464,"Sunfar Computer Co., Ltd",6154.TWO,5.45,0.11,0.004,Yes
+465,"TWi Biotechnology, Inc.",6610.TWO,65.0,1.059,1.665,Yes
+466,"Huaku Development Co., Ltd.",2548.TW,12.81,0.252,0.166,No
+467,Far Eastern New Century Corporation,1402.TW,9.33,0.188,0.031,Yes
+468,"Kenturn Nano. Tec. Co., Ltd.",4561.TWO,45.15,0.798,1.608,Yes
+469,"TaiSol Electronics Co., Ltd.",3338.TW,22.19,0.431,0.891,Yes
+470,"San Fang Chemical Industry Co., Ltd.",1307.TW,11.25,0.229,0.057,Yes
+471,"Young Shine Electric Co., Ltd.",2249.TWO,24.23,0.47,0.147,Yes
+472,"New Best Wire Industrial Co.,Ltd",5013.TWO,12.55,0.257,0.119,Yes
+473,Yen Sun Technology Corporation,6275.TWO,18.43,0.372,0.676,Yes
+474,"Sunjuice Holdings Co., Limited",1256.TW,20.41,0.411,0.622,Yes
+475,Chung-Hsin Electric and Machinery Manufacturing Corp.,1513.TW,15.68,0.322,0.75,Yes
+476,Nextronics Engineering Corp.,8147.TWO,33.67,0.646,1.263,Yes
+477,"Lotes Co., Ltd.",3533.TW,27.24,0.537,0.643,Yes
+478,"Favite, Inc.",3535.TW,32.19,0.625,1.295,Yes
+479,"MARX Biotech Co., Ltd.",7731.TWO,27.78,0.549,0.655,Yes
+480,"Sixxon Tech. Co., Ltd.",4569.TW,28.41,0.561,1.345,Yes
+481,Evergreen Aviation Technologies Corporation,2645.TW,15.75,0.335,0.538,Yes
+482,"My Humble House Hospitality Management Consulting Co., Ltd.",2739.TW,6.84,0.152,0.018,Yes
+483,Avid Electronics Corp.,6103.TWO,35.03,0.704,0.259,No
+484,Power Wind Health Industry Incorporated,8462.TW,11.86,0.263,0.081,No
+485,"Giant Manufacturing Co., Ltd.",9921.TW,16.88,0.368,0.003,No
+486,"RDC Semiconductor Co., Ltd.",3228.TWO,33.26,0.687,1.281,Yes
+487,Weblink International Inc.,6776.TW,9.28,0.212,0.098,Yes
+488,"Keding Enterprises Co., Ltd.",6655.TW,8.48,0.198,0.206,Yes
+489,AHOKU Electronic Company,3002.TW,28.76,0.619,0.483,Yes
+490,Enermax Technology Corporation,8093.TWO,21.69,0.481,0.218,No
+491,"BASO Precision Optics Co., LTD",6517.TWO,18.22,0.414,0.33,Yes
+492,"Yong Shun Chemical Co., Ltd",4711.TWO,6.43,0.154,0.099,Yes
+493,"King Polytechnic Engineering Co., Ltd.",6122.TWO,8.02,0.192,0.024,Yes
+494,BenQ Materials Corporation,8215.TW,18.82,0.432,0.715,Yes
+495,Dynapack International Technology Corporation,3211.TWO,30.14,0.663,0.493,Yes
+496,Hitron Technologies Inc.,2419.TW,17.82,0.413,0.279,Yes
+497,"Singatron Enterprise Co.,Ltd",6126.TWO,20.12,0.464,1.122,Yes
+498,Neousys Technology Inc.,6922.TWO,17.27,0.406,0.618,Yes
+499,"Far Eastern Department Stores, Ltd.",2903.TW,7.29,0.179,0.175,No
+500,"U-MEDIA Communications, Inc.",6470.TWO,14.88,0.356,0.393,Yes
+501,RITEK Corporation,2349.TW,39.17,0.856,0.56,Yes
+502,Auden Techno Corp.,3138.TW,41.85,0.908,1.143,Yes
+503,Huikwang Corporation,6508.TWO,10.34,0.253,0.626,No
+504,"Hyweb Technology Co., Ltd.",5212.TWO,4.44,0.112,0.242,No
+505,China Steel Chemical Corporation,1723.TW,13.7,0.332,0.412,No
+506,"Top Bright Holding Co., Ltd.",8499.TW,22.51,0.531,0.946,Yes
+507,Chung Hung Steel Corporation,2014.TW,12.92,0.32,0.143,Yes
+508,"Gallant Precision Machining Co., Ltd.",5443.TWO,24.96,0.591,0.835,Yes
+509,"Kindom Development Co., Ltd.",2520.TW,9.56,0.241,0.265,No
+510,Eti Ca Battery Inc.,7890.TWO,27.26,0.652,0.094,No
+511,Merdury Biopharmaceutical Corporation,6932.TWO,31.37,0.743,0.344,Yes
+512,Adda Corporation,3071.TWO,12.08,0.312,0.464,Yes
+513,Nam Liong Global Corporation,5450.TWO,9.74,0.254,0.228,No
+514,ACTi Corporation,5240.TWO,29.44,0.719,0.271,No
+515,"Sofiva Genomics Co.,Ltd.",6615.TWO,11.2,0.296,0.225,Yes
+516,Kian Shen Corporation,1525.TW,6.19,0.168,0.058,Yes
+517,"Tainan Spinning Co., Ltd.",1440.TW,9.01,0.243,0.093,Yes
+518,Advanced Wireless & Antenna Inc.,6818.TWO,30.28,0.761,0.801,No
+519,"Green World Hotels Co., Ltd.",8077.TWO,8.53,0.237,0.349,Yes
+520,Scan-D Corporation,6195.TWO,6.33,0.179,0.004,Yes
+521,Prolific Technology Inc.,6233.TWO,19.0,0.515,0.619,Yes
+522,Union Bank of Taiwan,2838A.TW,0.46,0.014,0.004,No
+523,"TCC Group Holdings Co., Ltd.",1101.TW,8.53,0.243,0.301,Yes
+524,Optimax Technology Corporation,3051.TW,25.7,0.685,1.483,Yes
+525,"Rafael Microelectronics, Inc.",6568.TWO,24.89,0.672,0.121,Yes
+526,MiTAC Holdings Corporation,3706.TW,9.75,0.28,0.522,Yes
+527,Acer Gadget Inc.,2432.TW,8.1,0.236,0.183,No
+528,"Nien Hsing Textile Co., Ltd.",1451.TW,3.92,0.117,0.045,No
+529,"FIC Global, Inc.",3701.TW,33.67,0.901,0.59,Yes
+530,"Min Aik Technology Co., Ltd.",3060.TW,20.6,0.581,0.313,Yes
+531,"Horng Tong Enterprise Co., Ltd.",5271.TWO,53.81,1.358,1.214,No
+532,Atech OEM Inc.,6109.TWO,10.4,0.311,0.374,Yes
+533,"Linkage Electric Co., Ltd.",7927.TWO,31.49,0.867,,
+534,Yield Microelectronics Corp.,6423.TWO,19.12,0.555,0.955,Yes
+535,momo.com Inc.,8454.TW,20.06,0.58,0.553,Yes
+536,Winmate Inc.,3416.TW,10.02,0.303,0.623,Yes
+537,"AVerMedia Technologies, Inc.",2417.TW,17.91,0.525,1.18,Yes
+538,"Trio Technology International Group Co., Ltd.",6862.TW,28.18,0.798,1.88,Yes
+539,TST Group Holding Ltd.,4439.TW,12.27,0.37,0.039,Yes
+540,"Grand Hall Enterprise Co., Ltd.",8941.TWO,3.76,0.119,0.078,No
+541,"Saultech Technology Co., Ltd",6812.TWO,31.54,0.893,1.188,Yes
+542,"ASolid Technology Co., Ltd.",6485.TWO,26.65,0.769,1.431,Yes
+543,Acer Incorporated,2353.TW,12.44,0.383,0.593,Yes
+544,"BoYen Therapeutics, Inc.",7891.TWO,9.15,0.286,0.498,No
+545,Carnival Industrial Corporation,1417.TW,4.89,0.157,0.283,No
+546,Mechema Chemicals International Corp.,4721.TWO,12.27,0.382,0.759,Yes
+547,"Allis Electric Co.,Ltd.",1514.TW,14.98,0.468,1.19,Yes
+548,"IBF Financial Holdings Co., Ltd.",2889.TW,5.58,0.186,0.035,Yes
+549,General Biologicals Corporation,4117.TWO,69.58,1.875,0.791,Yes
+550,Kingstate Electronics Corp.,3206.TWO,11.86,0.393,0.106,Yes
+551,"Promate Electronic Co.,Ltd.",6189.TW,4.88,0.167,0.362,Yes
+552,"Proxene Tools Co., Ltd.",6904.TWO,5.9,0.201,0.041,No
+553,Spec Products Corp.,7718.TWO,3.3,0.114,0.115,No
+554,"WE & WIN Development Co., LTD",2537.TW,7.8,0.266,0.145,No
+555,Chang-Ho Fibre Corporation,1468.TW,8.08,0.281,0.072,Yes
+556,"Advanced Lithium Electrochemistry (Cayman) Co., Ltd.",5227.TWO,15.44,0.524,0.088,No
+557,Lee Chi Enterprises Company Ltd.,1517.TW,6.73,0.239,0.01,No
+558,Chung Fu Tex-International Corporation,1435.TW,43.15,1.335,0.031,Yes
+559,"Fukuta Electric & Machinery Co., Ltd.",4590.TW,9.56,0.337,0.057,Yes
+560,"Farglory Free Trade Zone Investment Holding Co., Ltd.",5607.TW,9.96,0.352,0.592,Yes
+561,"Orient EuroPharma Co., Ltd.",4120.TWO,5.65,0.204,0.324,No
+562,TaiGen Biopharmaceuticals Holdings Limited,4157.TWO,13.75,0.487,0.121,No
+563,"Chain Chon Industrial Co., Ltd.",5014.TWO,7.77,0.283,0.282,Yes
+564,ShinHsiung Natural Gas Inc.,8908.TWO,3.83,0.142,0.11,No
+565,"Pancolour Ink Co., Ltd.",4765.TWO,28.66,0.964,0.356,No
+566,"Microprogram Information Co.,Ltd",7721.TW,14.31,0.514,0.126,No
+567,"Jiin Ming Industry Co., Ltd.",3230.TWO,31.06,1.052,0.235,Yes
+568,Solytech Enterprise Corporation,1471.TW,14.17,0.518,0.546,Yes
+569,Taiwan IC Packaging Corporation,3372.TWO,16.63,0.602,1.175,Yes
+570,"Gordon Auto Body Parts Co., Ltd.",1524.TW,11.41,0.423,0.628,Yes
+571,"Super Qin Enterprise Co., Ltd.",8345.TWO,5.71,0.218,0.087,No
+572,"PlexBio Co., Ltd.",6572.TWO,38.48,1.291,2.364,Yes
+573,"Feng Hsin Steel Co., Ltd.",2015.TW,4.1,0.159,0.088,Yes
+574,"Sunny Friend Environmental Technology Co., Ltd.",8341.TW,3.01,0.119,0.052,Yes
+575,Avision Inc.,2380.TW,9.69,0.379,0.159,No
+576,"Radbon Electronics Co., Ltd.",7893.TWO,18.1,0.685,0.807,Yes
+577,"Allied Industrial Corp., Ltd.",4702.TWO,2.33,0.096,0.058,No
+578,Welldone Company,6170.TWO,2.5,0.104,0.003,Yes
+579,"Cherng Tay Technology Co., Ltd.",4767.TWO,4.26,0.178,0.124,Yes
+580,,7812.TW,8.43,0.346,0.355,Yes
+581,TMY Technology Inc.,7812.TWO,8.43,0.346,0.355,Yes
+582,Climax Technology Co. Ltd.,7689.TW,11.93,0.484,1.074,Yes
+583,"Ching Feng Home Fashions Co.,Ltd",9935.TW,3.58,0.153,0.26,No
+584,"Sunty Development Co., LTD",3266.TW,3.53,0.152,0.009,Yes
+585,"Gudeng Equipment Co., LTD.",6953.TWO,13.32,0.551,1.0,Yes
+586,Acer Synergy Tech Corp.,6751.TWO,10.61,0.445,0.136,Yes
+587,"Calin Technology Co., Ltd.",4976.TW,7.32,0.318,0.43,Yes
+588,San Far Property Limited,9946.TW,6.92,0.302,0.245,No
+589,"YoungQin International Co., Ltd.",2755.TWO,6.64,0.294,0.082,No
+590,Yeh Chiang Technology Corporation,6124.TWO,7.13,0.315,0.597,Yes
+591,Lanner Electronics Inc.,6245.TWO,7.41,0.33,0.483,Yes
+592,"Zhong Yang Technology Co.,Ltd",6668.TW,8.29,0.368,0.622,Yes
+593,"Puriblood Medical Co., Ltd.",6847.TWO,9.2,0.414,0.518,Yes
+594,"Solidwizard Technology Co., Ltd.",8416.TWO,3.15,0.151,0.159,Yes
+595,"WeLeader Biomedical Co., Ltd.",7713.TWO,2.14,0.106,0.05,No
+596,"Kao Fong Machinery Co., Ltd",4510.TWO,10.82,0.524,0.638,Yes
+597,Taiwan Mask Corporation,2338.TW,11.36,0.553,1.236,Yes
+598,Reward Wool Industry Corporation,1423.TW,1.77,0.09,0.062,Yes
+599,"King Chou Marine Technology Co., Ltd.",4417.TWO,3.7,0.189,0.053,No
+600,"Phihong Technology Co., Ltd.",2457.TW,10.68,0.535,1.026,Yes
+601,Kingcan Holdings Limited,8411.TW,2.44,0.127,0.12,No
+602,"China Airlines, Ltd.",2610.TW,7.1,0.367,0.308,Yes
+603,"Tze Shin International Co., Ltd.",2611.TW,2.91,0.154,0.037,No
+604,"Chia Her Industrial Co., Ltd.",1449.TW,6.14,0.32,0.462,Yes
+605,AmCad BioMed Corporation,4188.TWO,12.91,0.664,0.337,Yes
+606,"Megawin Technology Co., Ltd.",3122.TWO,10.39,0.556,1.336,Yes
+607,"Ascent Development Co., Ltd.",1439.TW,4.61,0.253,0.051,No
+608,"AMIDA Technology, Inc.",6735.TWO,27.91,1.404,2.82,Yes
+609,ASMedia Technology Inc.,5269.TW,7.6,0.43,1.177,Yes
+610,Coplus Inc.,2254.TW,4.06,0.241,0.0,Yes
+611,"WINSON Machinery Co., LTD.",4538.TWO,2.99,0.179,0.1,Yes
+612,Alpha Networks Inc.,3380.TW,6.04,0.374,0.255,Yes
+613,"Hotai Finance Co., Ltd.",6592B.TW,0.55,0.035,0.046,No
+614,Tianyi Water Energy Solutions Inc.,4530.TWO,5.11,0.325,0.126,No
+615,Uni-President Enterprises Corp.,1216.TW,1.82,0.118,0.026,No
+616,"Major-Power Technology Co., Ltd.",6720.TWO,5.5,0.36,0.219,Yes
+617,"Sino Tactful Co., Ltd.",5481.TWO,4.28,0.288,0.29,No
+618,"San Fu Chemical Co., Ltd.",4755.TW,6.25,0.42,0.711,Yes
+619,"Infinite Finance Co., Ltd.",6958.TW,5.05,0.352,0.155,Yes
+620,Chang Jia M&E Engineering Corp.,4550.TWO,1.81,0.129,0.209,Yes
+621,TSH Biopharm Corporation Limited,8432.TWO,2.06,0.148,0.067,Yes
+622,"Chainqui Construction Development Co., Ltd.",2509.TW,4.04,0.288,0.174,No
+623,Dynamic Precision Industry Corporation,8928.TWO,3.11,0.223,0.034,No
+624,Transtouch Technology Inc.,3623.TWO,5.54,0.399,0.709,Yes
+625,"Sheng Yu Steel Co., Ltd.",2029.TW,1.74,0.129,0.08,Yes
+626,"V-TAC Technology Co.,Ltd.",6229.TWO,4.75,0.352,0.939,Yes
+627,ECOVE Environment Corp.,6803.TWO,0.72,0.055,0.062,Yes
+628,"Kingray Technology Co., Ltd.",6787.TWO,8.71,0.65,0.539,Yes
+629,"Jetway Information Co., Ltd.",6161.TWO,7.1,0.54,0.913,Yes
+630,"Tai Twun Enterprise Co., Ltd.",3432.TW,5.84,0.454,0.696,Yes
+631,"Wellpool Co., Ltd.",8424.TWO,0.66,0.054,0.003,No
+632,"First Hi-tec Enterprise Co., Ltd.",5439.TWO,9.11,0.76,1.497,Yes
+633,"Transart Graphics Co., Ltd.",8481.TW,0.92,0.084,0.057,No
+634,"Shiny Brands Group Co., Ltd.",6703.TWO,1.92,0.176,0.289,No
+635,"Collins Co., Ltd.",2906.TW,2.59,0.24,0.084,No
+636,"Taiwan Printed Circuit Board Techvest Co.,Ltd.",8213.TW,3.86,0.363,1.01,Yes
+637,"Falcon Power Co., Ltd.",1516.TW,4.4,0.42,0.394,Yes
+638,"Shih Wei Navigation Co., Ltd.",5608.TW,3.64,0.37,0.141,Yes
+639,"Gish International Co., Ltd",8067.TWO,3.01,0.319,0.129,Yes
+640,Fitipower Integrated Technology Inc.,4961.TW,2.23,0.238,0.217,Yes
+641,Solteam Incorporation,3484.TWO,2.4,0.259,0.224,Yes
+642,Sun Race Sturmey-Archer Corporation,1526.TW,4.13,0.459,0.094,No
+643,"Sumeeko Industries Co., Ltd.",2066.TWO,3.71,0.444,0.638,Yes
+644,"ATE Energy International Co., Ltd.",6179.TWO,3.13,0.391,0.047,Yes
+645,"Jason Co., Ltd.",4570.TWO,1.16,0.153,0.197,Yes
+646,Chia Hsin Cement Corporation,1103.TW,0.84,0.116,0.023,No
+647,"Thai Kin Co., Ltd.",6629.TWO,2.24,0.318,0.416,Yes
+648,"E-Lead Electronic Co., Ltd.",2497.TW,2.91,0.419,0.454,Yes
+649,WiseChip Semiconductor Inc.,5245.TWO,4.1,0.605,0.941,Yes
+650,"Orient Semiconductor Electronics, Limited",2329.TW,2.82,0.433,0.944,Yes
+651,"Best Precision Industrial Co., Ltd.",6859.TWO,2.28,0.363,0.513,Yes
+652,Standard Foods Corporation,1227.TW,0.83,0.134,0.224,No
+653,"JSL Construction & Development Co., Ltd.",2540.TW,1.54,0.261,0.019,No
+654,Level Biotechnology Inc.,3118.TWO,0.19,0.033,0.053,Yes
+655,"Sheng Yi Development Co.,Ltd",5455.TWO,1.59,0.288,0.097,Yes
+656,"Shen's Art Printing Co., Ltd.",8921.TWO,0.65,0.119,0.191,Yes
+657,Taho Pharmaceuticals Ltd.,6467.TWO,3.74,0.676,0.004,No
+658,"Tong Yang Industry Co., Ltd.",1319.TW,2.52,0.482,0.686,Yes
+659,Acer Cyber Security Inc.,6690.TWO,0.54,0.107,0.142,Yes
+660,"Cica-Huntek Chemical Technology Taiwan Co., Ltd.",6725.TWO,3.16,0.627,1.062,Yes
+661,"Hong Tai Electric Industrial Co., Ltd.",1612.TW,1.34,0.273,0.542,Yes
+662,Bioteque Corporation,4107.TWO,0.46,0.1,0.039,Yes
+663,"Keelgoal Energy Co., Ltd",7758.TWO,1.56,0.368,0.001,No
+664,"King Shing Industrial Co, LTD.",7732.TW,0.97,0.261,0.304,Yes
+665,ETREND Hightech Corp.,3567.TWO,0.84,0.238,0.61,Yes
+666,"Ruentex Development Co.,Ltd.",9945.TW,0.87,0.259,0.05,Yes
+667,"Golden Long Teng Development Co., Ltd.",3188.TWO,0.98,0.294,0.171,No
+668,"Ampire Co., Ltd.",8049.TWO,0.48,0.149,0.321,Yes
+669,"Young Fast Optoelectronics Co., Ltd.",3622.TW,0.77,0.283,0.075,Yes
+670,Apex Science & Engineering Corp.,3052.TW,0.37,0.138,0.028,No
+671,Hu Lane Associate Inc.,6279.TWO,0.57,0.228,0.298,Yes
+672,"Eclatorq Technology Co., Ltd.",6855.TWO,0.66,0.271,0.237,Yes
+673,"ThroughTek Co., Ltd.",6565.TWO,1.36,0.574,1.012,Yes
+674,"Vate Technology Co., Ltd.",5344.TWO,0.79,0.377,0.546,Yes
+675,Santa Phoenix Technology Co. Ltd.,7880.TWO,1.27,0.622,0.711,Yes
+676,Wholetech System Hitech Limited,3402.TWO,0.78,0.384,0.891,Yes
+677,Taiwan Puritic Corp.,6826.TWO,0.66,0.35,0.523,Yes
+678,"Silicon Optronics, Inc.",3530.TW,0.65,0.449,0.742,Yes
+679,"Asia Optical Co., Inc.",3019.TW,0.34,0.425,1.061,Yes
+680,DFI Inc.,2397.TW,0.17,0.32,0.682,Yes
+681,"International CSRC Investment Holdings Co., Ltd.",2104.TW,0.05,0.285,0.015,Yes
+682,"Lungteh Shipbuilding Co., Ltd.",6753.TW,0.03,0.352,0.413,Yes
+683,"Taihan Precision Technology Co., Ltd.",1336.TWO,0.01,0.257,0.151,Yes
+684,"Far East Bio-Tec Co., Ltd.",6886.TWO,-0.0,0.128,0.135,No
+685,"Zero One Technology Co., Ltd.",3029.TW,-0.1,0.302,0.309,Yes
+686,"Lion Travel Service Co., Ltd.",2731.TW,-0.08,0.206,0.276,Yes
+687,"Jioushun Construction Co., Ltd.",5547.TWO,-0.08,0.198,0.253,No
+688,"Sunder Biomedical Tech. Co., Ltd.",4115.TWO,-0.38,0.469,0.609,Yes
+689,"AP Biosciences, Inc.",6945.TWO,-0.58,0.621,0.721,No
+690,Darfon Electronics Corp.,8163.TW,-0.68,0.639,1.158,Yes
+691,Emerging Display Technologies Corp.,3038.TW,-0.31,0.252,0.482,Yes
+692,"Foxconn Technology Co., Ltd.",2354.TW,-0.45,0.353,0.539,Yes
+693,"Transcene Co., Ltd",6969.TW,-0.68,0.469,0.181,No
+694,Twinhead International Corp.,2364.TW,-0.3,0.207,0.202,Yes
+695,"Tien Li Offshore Wind Technology Co., Ltd.",6793.TWO,-0.87,0.529,0.303,Yes
+696,Chander Electronics Corp.,8068.TWO,-1.23,0.746,0.426,Yes
+697,"Foresee Pharmaceuticals Co., Ltd.",6576.TWO,-0.35,0.146,0.214,Yes
+698,Gin Hwa Biotech Incorporation,7806.TWO,-0.66,0.262,0.27,No
+699,"FineTek Co., Ltd.",4549.TWO,-1.32,0.468,0.977,Yes
+700,Reallusion Inc.,6882.TWO,-1.83,0.6,1.467,Yes
+701,"TSG Development Co., Ltd.",3521.TWO,-1.1,0.349,0.055,Yes
+702,"Tan De Tech Co., Ltd",6867.TWO,-1.23,0.36,0.584,Yes
+703,"SCI Pharmtech, Inc.",4119.TW,-1.33,0.347,0.113,No
+704,"Southeast Cement Co., Ltd.",1110.TW,-0.58,0.151,0.021,Yes
+705,"FullHope Biomedical Co.,Ltd.",7773.TWO,-1.78,0.448,0.705,Yes
+706,Zimmite Taiwan Ltd.,8435.TWO,-0.93,0.231,0.034,Yes
+707,"Alcor Micro,Corp.",8054.TWO,-2.73,0.634,0.957,Yes
+708,CyberTAN Technology Inc.,3062.TW,-2.26,0.519,0.313,Yes
+709,Sunrex Technology Corporation,2387.TW,-0.97,0.207,0.249,Yes
+710,Groundhog Inc.,6906.TW,-4.44,0.939,1.286,Yes
+711,"Hakers Enterprise Co., Ltd.",4432.TWO,-1.5,0.296,0.036,No
+712,"Posiflex Technology, Inc.",8114.TW,-2.57,0.494,0.731,Yes
+713,Bafang Yunji International Company Limited,2753.TW,-0.92,0.157,0.051,No
+714,"Tongtai Machine & Tool Co., Ltd.",4526.TW,-2.72,0.447,0.878,Yes
+715,Federal Corporation,2102.TW,-0.99,0.152,0.06,No
+716,"Forward Graphic Enterprise Co., Ltd.",8906.TWO,-3.87,0.568,0.06,No
+717,"ChainSea Information Integration Co.,Ltd.",6898.TWO,-2.42,0.345,0.473,Yes
+718,"Min Aik Precision Industrial Co., Ltd.",4545.TW,-3.29,0.456,0.649,Yes
+719,"Taiwan FamilyMart Co., Ltd.",5903.TWO,-0.39,0.053,0.035,Yes
+720,"Inmax Holding Co., Ltd.",1591.TWO,-7.22,0.991,1.033,Yes
+721,Honlynn Co. Ltd,7885.TWO,-5.02,0.672,0.956,Yes
+722,CVC Technologies Inc.,4744.TWO,-3.5,0.46,0.643,No
+723,"B'in Live Co., Ltd.",6625.TW,-1.74,0.226,0.208,Yes
+724,"King House CO., Ltd.",4419.TWO,-3.66,0.466,0.683,No
+725,Gloria Material Technology Corp.,5009.TWO,-1.89,0.233,0.423,Yes
+726,Cubtek Inc.,2252.TWO,-3.72,0.457,0.247,No
+727,National Aerospace Fasteners Corporation,3004.TW,-3.18,0.39,0.612,Yes
+728,"iCatch Technology, Inc.",6695.TW,-3.86,0.471,1.138,Yes
+729,Cathay Chemical Works Inc.,1713.TW,-1.54,0.186,0.323,Yes
+730,"Navicare Biotech Co., Ltd.",8472.TWO,-4.7,0.572,0.735,No
+731,"JMC Electronics Co., Ltd.",6552.TW,-4.17,0.5,1.183,Yes
+732,"Center Laboratories, Inc.",4123.TWO,-2.08,0.244,0.059,No
+733,China Times Publishing Comp.,8923.TWO,-0.83,0.095,0.002,No
+734,Acer E-Enabling Service Business Inc.,6811.TWO,-1.92,0.219,0.393,Yes
+735,"Nien Made Enterprise Co., LTD.",8464.TW,-3.27,0.358,0.135,Yes
+736,"International Games System Co.,Ltd.",3293.TWO,-1.66,0.169,0.293,No
+737,"Arizon RFID Technology (Cayman) Co., Ltd.",6863.TW,-6.62,0.681,0.209,Yes
+738,BH Global Corporation Limited,911608.TW,-2.01,0.202,0.031,Yes
+739,Diamond Biofund Inc.,6901.TW,-6.36,0.644,0.33,Yes
+740,RiTdisplay Corporation,8104.TW,-5.72,0.574,1.081,Yes
+741,Silitech Technology Corporation,3311.TW,-2.87,0.279,0.511,Yes
+742,"Kintech Electronics Co., Ltd.",6210.TWO,-1.6,0.152,0.331,Yes
+743,Lang Inc.,6165.TW,-3.1,0.276,0.177,Yes
+744,Carbon-Based Technology Inc.,7719.TWO,-6.04,0.546,0.157,Yes
+745,"TienPin United Enterprise CO., LTD.",6199.TWO,-3.83,0.342,0.523,No
+746,Andes Technology Corporation,6533.TW,-6.23,0.547,0.702,Yes
+747,U-Tech Media Corporation,3050.TW,-2.91,0.248,0.2,Yes
+748,"TEH SENG Pharmaceutical Mfg. Co., Ltd.",7860.TWO,-4.9,0.409,0.144,No
+749,Sampo Corporation,1604.TW,-0.84,0.067,0.117,No
+750,Luhai Holding Corp.,2115.TW,-2.38,0.193,0.152,Yes
+751,"QNAP Systems, Inc.",7805.TWO,-5.96,0.486,0.183,Yes
+752,"Tycoons Group Enterprise Co.,Ltd.",2022.TW,-2.3,0.182,0.159,No
+753,"J.D Development Co., LTD",4402.TWO,-8.43,0.679,0.375,No
+754,Taipei Star Bank,5863.TWO,-1.43,0.109,0.09,Yes
+755,"AboCom Systems, Inc.",2444.TW,-3.79,0.285,0.575,Yes
+756,Vectorite Biomedical Inc.,4170.TWO,-3.83,0.285,0.592,Yes
+757,Dah San Electric Wire & Cable Corp.,1615.TW,-2.09,0.154,0.053,Yes
+758,Pan-International Industrial Corp.,2328.TW,-5.67,0.421,1.116,Yes
+759,"Jarllytec Co. , Ltd.",3548.TWO,-6.66,0.497,0.977,Yes
+760,"Laien Parts Technology Co., Ltd.",7907.TWO,-7.94,0.596,0.774,Yes
+761,"Compucase Enterprise Co., Ltd.",3032.TW,-7.58,0.547,0.901,Yes
+762,Insyde Software Corp.,6231.TWO,-7.42,0.534,0.124,Yes
+763,Bionime Corporation,4737.TW,-4.98,0.343,0.685,No
+764,"Yeou Yih Steel Co., Ltd.",9962.TWO,-3.72,0.254,0.014,No
+765,"NeoCore Technology Co., Ltd.",4131.TWO,-4.35,0.297,0.177,No
+766,104 Corporation,3130.TW,-0.85,0.057,0.072,Yes
+767,"Family International Gourmet Co., Ltd",7708.TWO,-1.14,0.076,0.047,No
+768,DuoGenic StemCells corporation,7607.TWO,-7.18,0.488,0.487,No
+769,"Gravity Co., Ltd.",3629.TWO,-10.14,0.698,0.315,No
+770,"Ever Supreme Bio Technology Co., Ltd",6712.TWO,-5.02,0.336,0.103,Yes
+771,"Camellia Metal Co., Ltd.",2064.TWO,-4.43,0.285,0.476,Yes
+772,"Axman Enterprise Co., Ltd.",6804.TWO,-3.68,0.236,0.31,No
+773,"Fine Blanking & Tool Co., Ltd",4535.TWO,-1.73,0.109,0.063,No
+774,"Nan Pao Resins Chemical Co., Ltd.",4766.TW,-4.7,0.299,0.652,Yes
+775,Metaage Corporation,6112.TW,-5.17,0.322,0.562,Yes
+776,Asia Cement Corporation,1102.TW,-2.38,0.144,0.063,No
+777,"Hotai Motor Co.,Ltd.",2207.TW,-5.65,0.346,0.027,No
+778,Founding Construction Development Corp.,5533.TW,-1.4,0.082,0.087,No
+779,GlycoNex Incorporation,4168.TWO,-6.12,0.367,0.548,Yes
+780,"Chi Sheng Pharma & Biotech Co., Ltd",4111.TWO,-0.94,0.054,0.138,Yes
+781,"Orient Pharma Co., Ltd.",4166.TWO,-2.5,0.144,0.114,Yes
+782,"Farglory Life Insurance Co., Ltd.",5859.TWO,-2.43,0.136,0.17,No
+783,"Senhwa Biosciences, Inc.",6492.TWO,-8.57,0.493,0.211,Yes
+784,Sil-More Industrial Limited,7896.TWO,-14.83,0.87,0.825,Yes
+785,"Chicony Power Technology Co., Ltd.",6412.TW,-8.96,0.505,1.018,Yes
+786,"Carry International Co., Ltd",7779.TWO,-9.3,0.517,0.557,Yes
+787,"Fubon Financial Holding Co., Ltd.",2881C.TW,-0.97,0.051,0.052,No
+788,"Tainergy Tech Co., Ltd.",4934.TW,-9.17,0.489,0.82,Yes
+789,"Li Hsuan Development & Construction Co., Ltd.",6222.TWO,-2.65,0.135,0.042,No
+790,SIM Technology Group Limited,912000.TW,-5.13,0.262,0.165,Yes
+791,"GoMax Electronics Co., Ltd.",6512.TWO,-1.74,0.087,0.009,Yes
+792,"Joinsoon Electronics Manufacturing CO., LTD.",3322.TWO,-9.3,0.474,0.851,Yes
+793,Princeton Technology Corporation,6129.TWO,-7.65,0.387,0.805,Yes
+794,Daxin Materials Corporation,5234.TW,-12.18,0.616,1.419,Yes
+795,Syong Shun Metal Co. Ltd.,2073.TWO,-2.82,0.135,0.23,No
+796,"Sakura Development Co.,Ltd",2539.TW,-5.35,0.253,0.448,No
+797,Soft-World International Corporation,5478.TWO,-2.78,0.128,0.016,No
+798,"Z-Com, Inc.",8176.TWO,-3.07,0.139,0.055,No
+799,Stark Technology Inc.,2480.TW,-5.29,0.242,0.079,Yes
+800,"Golden Insurance Brokers Co.,Ltd.",6028.TWO,-9.51,0.43,0.582,Yes
+801,Obigen Pharma Inc.,7876.TWO,-3.18,0.139,0.254,No
+802,"USERJOY Technology Co.,Ltd.",3546.TWO,-5.58,0.245,0.08,Yes
+803,BIONET Corp.,1784.TWO,-11.46,0.517,0.671,Yes
+804,GlobalSat WorldCom Corporation,3499.TWO,-10.51,0.468,0.43,No
+805,"Cowealth Medical Holding Co., Ltd.",4745.TWO,-15.68,0.713,0.11,No
+806,United Radiant Technology Corporation,5315.TWO,-5.46,0.234,0.144,Yes
+807,Connection Technology Systems Inc.,3672.TWO,-7.37,0.318,0.251,Yes
+808,Sysgration Ltd.,5309.TWO,-11.0,0.482,0.98,Yes
+809,"Hold-Key Electric Wire & Cable Co., Ltd",1618.TW,-6.81,0.292,0.665,Yes
+810,"Forward Electronics Co., Ltd.",8085.TWO,-13.85,0.603,0.148,Yes
+811,Champion Microelectronic Corporation,3257.TW,-13.47,0.581,1.122,Yes
+812,E Ink Holdings Inc.,8069.TWO,-17.8,0.783,1.201,Yes
+813,Iscom Online International Information Inc.,6868.TWO,-10.73,0.453,0.676,Yes
+814,"H.H.Galaxy Co., Ltd.",2949.TWO,-7.3,0.297,0.499,Yes
+815,"GSD Technologies Co., Ltd.",6641.TW,-7.09,0.279,0.469,Yes
+816,"Koryo Electronics Co., Ltd.",8032.TWO,-9.56,0.379,0.901,Yes
+817,"Senao Networks, Inc.",3558.TWO,-12.85,0.51,1.089,Yes
+818,GFC. LTD.,4506.TWO,-3.74,0.141,0.127,No
+819,TaiMed Biologics Inc.,4147.TWO,-11.64,0.457,0.004,Yes
+820,Taiwan Speciality Chemicals Corporation,4772.TWO,-11.1,0.428,0.989,Yes
+821,"Symtek Automation Asia Co., Ltd.",6438.TW,-9.28,0.343,0.29,Yes
+822,New Asia Construction & Development Corp.,2516.TW,-4.65,0.168,0.093,Yes
+823,"Vetnostrum Animal Health Co., Ltd.",6936.TW,-3.08,0.11,0.098,Yes
+824,HannStar Board Corporation,5469.TW,-11.01,0.407,0.581,Yes
+825,Aurotek Corporation,6215.TW,-13.14,0.485,1.213,Yes
+826,"EFUN Technology Co.,Ltd",3523.TWO,-11.38,0.415,0.097,Yes
+827,"Hotai Finance Co., Ltd.",6592.TW,-4.81,0.168,0.25,No
+828,"Yao I Fabric Co., Ltd.",4430.TWO,-3.86,0.134,0.093,Yes
+829,Mosa Industrial Corporation,4564.TW,-9.25,0.329,0.202,No
+830,Qisda Corporation,2352.TW,-13.25,0.477,0.8,Yes
+831,Taiwan Auto-Design Co.,6791.TWO,-11.72,0.417,0.811,Yes
+832,"Lai Yih Footwear Co., Ltd.",6890.TW,-12.99,0.461,0.182,Yes
+833,"Genesys Logic, Inc.",6104.TWO,-9.16,0.318,0.766,Yes
+834,Sun Rise E&T Corporation,1343.TWO,-14.73,0.521,0.687,No
+835,"Better Life Group Co., LTD.",1805.TW,-7.11,0.236,0.008,No
+836,"Quaser Machine Tools, Inc.",4563.TWO,-16.71,0.581,1.155,Yes
+837,"Luxe Green Energy Technology Co., Ltd.",1529.TW,-11.84,0.4,0.552,Yes
+838,Chyunn Environment Corporation,6911.TWO,-6.73,0.219,0.333,Yes
+839,Prince Housing & Development Corp.,2511.TW,-5.19,0.166,0.095,No
+840,Mars Semiconductor Corp.,6708.TWO,-4.56,0.145,0.278,Yes
+841,"Gia Tzoong Enterprise Co.,Ltd",5355.TWO,-15.89,0.531,0.874,Yes
+842,"Powercom Co., Ltd",3043.TW,-7.32,0.232,0.518,Yes
+843,Medimaging Integrated Solution Inc.,6796.TW,-11.8,0.379,0.005,Yes
+844,"Merida Industry Co., Ltd.",9914.TW,-11.98,0.385,0.21,Yes
+845,Kdan Mobile Software Ltd.,7737.TWO,-11.6,0.37,0.519,Yes
+846,Mildex Optical Inc.,4729.TWO,-14.47,0.465,0.693,Yes
+847,"Lotus Pharmaceutical Co., Ltd.",1795.TW,-17.12,0.555,0.643,Yes
+848,"Algoltek, Inc.",6684.TWO,-15.96,0.51,0.737,Yes
+849,"Toplus Global Co., Ltd.",3522.TWO,-14.03,0.443,0.184,Yes
+850,Synmosa Biopharma Corporation,4114.TWO,-3.28,0.096,0.035,Yes
+851,"I-Sheng Electric Wire & Cable Co., Ltd.",6115.TW,-2.89,0.084,0.055,Yes
+852,"PharmaEngine, Inc.",4162.TWO,-7.67,0.227,0.017,Yes
+853,Sinon Corporation,1712.TW,-4.35,0.126,0.22,No
+854,"Newmax Technology Co., Ltd.",3630.TWO,-14.63,0.445,0.641,Yes
+855,"Ten Ren Tea Co., Ltd.",1233.TW,-6.17,0.178,0.175,Yes
+856,Sun-Sea Construction Corporation,5516.TWO,-8.9,0.26,0.096,Yes
+857,All Cosmos Bio-Tech Holding Corporation,4148.TW,-11.4,0.336,0.872,No
+858,"ICARES Medicus, Inc.",6612.TWO,-10.81,0.316,0.06,Yes
+859,"New Era Electronics Co., Ltd",4909.TWO,-18.62,0.564,0.707,Yes
+860,"meimaii Technology Co., Ltd",6473.TWO,-14.08,0.412,0.72,Yes
+861,Lungyen Life Service Corporation,5530.TWO,-7.87,0.222,0.261,Yes
+862,Data Image Corporation,3168.TW,-7.15,0.199,0.176,Yes
+863,"Rich Honour International Designs Co., Ltd.",6754.TW,-4.81,0.132,0.091,No
+864,"Foxtron Vehicle Technologies Co., Ltd.",2258.TW,-14.44,0.414,0.74,Yes
+865,Brinno Incorporated,7402.TWO,-14.65,0.416,0.134,Yes
+866,"Formosa Optical Technology Co.,Ltd.",5312.TWO,-3.59,0.096,0.021,Yes
+867,Taiwan Thick-Film Ind. Corp,6246.TWO,-15.22,0.43,0.384,No
+868,"Ability Enterprise Co., Ltd.",2374.TW,-13.77,0.384,1.027,Yes
+869,Asia Tech Image Inc.,4974.TWO,-7.98,0.215,0.491,Yes
+870,"Taiwan Bio Therapeutics Co., Ltd",6892.TWO,-6.37,0.169,0.247,Yes
+871,Sagittarius Life Science Corp,3205.TWO,-12.72,0.348,0.39,No
+872,"Lytone Enterprise, Inc.",1293.TWO,-6.22,0.164,0.173,Yes
+873,Mediera Corporation,5398.TWO,-20.21,0.573,0.638,No
+874,"Motion Technology Electric & Machinery Co., Ltd.",4589.TWO,-9.09,0.243,0.525,Yes
+875,"AEWIN Technologies Co.,Ltd.",3564.TWO,-11.92,0.323,0.679,Yes
+876,Egis Technology Inc.,6462.TWO,-16.06,0.444,1.19,Yes
+877,"Macroblock, Inc.",3527.TWO,-15.05,0.411,0.783,Yes
+878,"Tecom Co., Ltd.",2321.TW,-10.89,0.285,0.163,Yes
+879,ALi Corporation,3041.TW,-14.98,0.399,0.924,Yes
+880,"Jeilin Technology Co., Ltd.",8102.TWO,-13.85,0.365,0.059,Yes
+881,Intelligo Technology Inc.,7749.TW,-19.68,0.531,1.375,Yes
+882,Wellysun Inc.,6988.TW,-22.85,0.622,0.903,Yes
+883,Dyaco International Inc.,1598.TW,-6.67,0.166,0.011,Yes
+884,TRK Corporation,1432.TW,-3.05,0.073,0.026,No
+885,Adimmune Corporation,4142.TW,-5.98,0.146,0.101,No
+886,"Trusval Technology Co., Ltd.",6667.TWO,-13.74,0.348,0.803,Yes
+887,"Kuo Yang Construction Co., Ltd.",2505.TW,-5.11,0.124,0.194,No
+888,GrandTech Cloud Services Inc.,7747.TWO,-8.99,0.222,0.268,Yes
+889,Chenming Electronic Tech. Corp.,3013.TW,-18.53,0.48,0.923,Yes
+890,CS Group Investment Holding Limited,1463.TW,-9.88,0.244,0.109,No
+891,"Handa Pharmaceuticals, Inc.",6620.TWO,-19.71,0.512,0.38,Yes
+892,"Chun Yu Works & Co., Ltd.",2012.TW,-11.43,0.283,0.009,Yes
+893,NatureWise Biotech & Medicals Corporation,4732.TWO,-9.23,0.226,0.037,Yes
+894,Apex Biotechnology Corp.,1733.TW,-7.24,0.174,0.016,No
+895,"Thermaltake Technology Co., Ltd.",3540.TWO,-19.11,0.483,0.723,Yes
+896,"Hi-Yes International Co., Ltd.",2348.TW,-7.06,0.167,0.393,No
+897,PixArt Imaging Inc.,3227.TWO,-13.94,0.342,0.941,Yes
+898,"Chun Zu Machinery Industry Co., Ltd.",4544.TWO,-10.55,0.251,0.077,Yes
+899,PChome Online Inc.,8044.TWO,-18.75,0.465,0.9,Yes
+900,"UHT Unitech Co., Ltd.",6618.TWO,-19.63,0.489,0.164,Yes
+901,"Advanced International Multitech Co., Ltd.",8938.TWO,-9.16,0.216,0.294,No
+902,"Meiloon Industrial Co., Ltd.",2477.TW,-4.37,0.1,0.029,No
+903,"eCloudvalley Digital Technology Co., Ltd.",6689.TW,-12.44,0.296,0.257,No
+904,Raydium Semiconductor Corporation,3592.TW,-14.01,0.335,0.666,Yes
+905,"CH Biotech R&D Co., Ltd.",6534.TW,-12.36,0.293,0.029,No
+906,"MEGA International Development Co.,Ltd.",5529.TWO,-12.8,0.303,0.013,No
+907,Mayer Steel Pipe Corporation,2020.TW,-4.15,0.094,0.034,No
+908,"Enjoy Warmth Co., Ltd.",7760.TW,-9.1,0.211,0.259,No
+909,"Taiwan Line Tek Electronic Co., Ltd.",2462.TW,-14.76,0.347,0.617,Yes
+910,"Quang Viet Enterprise Co., Ltd.",4438.TW,-12.95,0.302,0.31,Yes
+911,HTM International Holding Ltd.,4924.TWO,-18.68,0.447,0.654,Yes
+912,Chien Shing Harbour Service Company Limited,8367.TW,-3.92,0.087,0.149,No
+913,HIM International Music Inc.,8446.TWO,-5.65,0.125,0.168,No
+914,Tycoons Worldwide Group (Thailand) Public Company Limited,911622.TW,-7.68,0.169,0.161,No
+915,Yoda Pharmaceuticals Inc.,7829.TWO,-14.83,0.337,0.354,Yes
+916,"Tofu Restaurant Co., Ltd.",2752.TWO,-6.29,0.137,0.17,No
+917,Arch Meter Corporation,4588.TW,-11.2,0.248,0.535,Yes
+918,CSBC Corporation,2208.TW,-16.47,0.372,0.095,Yes
+919,"Cameo Communications, Inc.",6142.TW,-10.51,0.227,0.06,No
+920,Creative Sensor Inc.,8249.TW,-19.59,0.44,0.973,Yes
+921,Nidec Chaun-Choung Technology Corporation,6230.TW,-21.3,0.481,0.795,Yes
+922,Airmate (Cayman) International Co Limited,1626.TW,-17.24,0.378,0.516,Yes
+923,"Goldsun Building Materials Co., Ltd.",2504.TW,-7.24,0.15,0.084,Yes
+924,"H2, Inc.",7851.TWO,-32.97,0.786,1.724,Yes
+925,In Win Development Inc.,6117.TW,-18.35,0.395,0.824,Yes
+926,Altek Corporation,3059.TW,-19.34,0.418,0.887,Yes
+927,Tontek Design Technology Ltd.,5487.TWO,-6.64,0.134,0.025,Yes
+928,"Shian Yih Electronic Industry Co.,Ltd",3531.TWO,-6.4,0.129,0.136,Yes
+929,Crystalvue Medical Corporation,6527.TWO,-8.94,0.18,0.118,Yes
+930,Cub Elecparts Inc.,2231.TW,-19.46,0.413,0.671,No
+931,Heron Neutron Medical Corp.,7799.TW,-32.45,0.739,1.207,Yes
+932,"Brightek Optoelectronic Co., Ltd.",5244.TW,-15.45,0.318,0.354,Yes
+933,China Motor Corporation,2204.TW,-8.75,0.173,0.007,No
+934,"China Metal Products Co., Ltd.",1532.TW,-11.44,0.228,0.068,Yes
+935,"Yieh Hsing Enterprise Co., Ltd.",2007.TW,-12.31,0.244,0.01,No
+936,"Taiwan Taffeta Fabric Co., Ltd.",1454.TW,-12.38,0.246,0.183,Yes
+937,"Bonraybio Co., Ltd.",6955.TW,-18.23,0.372,0.261,Yes
+938,"Ying Han Technology Co., Ltd.",4562.TW,-23.5,0.489,1.276,Yes
+939,Argosy Research Inc.,3217.TWO,-14.98,0.297,0.701,Yes
+940,"Soonest Express Co., Ltd.",2643.TWO,-5.86,0.111,0.007,Yes
+941,"UniPharma Co., Ltd.",6621.TWO,-9.71,0.186,0.293,No
+942,Mercuries Data Systems Ltd.,2427.TW,-13.18,0.257,0.028,No
+943,Ton Yi Industrial Corp.,9907.TW,-8.05,0.153,0.077,No
+944,"Sheh Kai Precision Co., Ltd.",2063.TWO,-8.32,0.158,0.031,Yes
+945,"Kingwaytek Technology Co., Ltd.",6516.TWO,-7.8,0.148,0.087,Yes
+946,ACULA Technology Corp.,3434.TWO,-7.67,0.145,0.172,Yes
+947,"Bin Chuan Enterprise Co., Ltd.",1569.TWO,-21.47,0.434,0.896,Yes
+948,"Kojem International Co., Ltd.",7886.TWO,-34.66,0.757,0.505,Yes
+949,"Intumit, Inc.",7547.TWO,-32.41,0.697,1.008,No
+950,"De Licacy Industrial Co., Ltd.",1464.TW,-5.93,0.109,0.011,No
+951,Maxigen Biotech Inc.,1783.TW,-9.16,0.168,0.105,No
+952,"Qing Song Health Co.,Ltd.",6931.TW,-17.13,0.327,0.136,No
+953,"Kenmec Mechanical Engineering Co., Ltd.",6125.TWO,-24.48,0.487,0.962,Yes
+954,"Ruentex Materials Co.,Ltd.",8463.TW,-11.16,0.206,0.287,Yes
+955,"Tacheng Real Estate Co.,Ltd.",6171.TWO,-10.81,0.197,0.108,No
+956,"Forcecon Technology Co., Ltd.",3483.TWO,-23.14,0.448,1.183,Yes
+957,T-Conn Precision Corporation,6833.TWO,-13.96,0.257,0.429,Yes
+958,Trade-Van Information Services Co.,6183.TW,-4.61,0.081,0.009,No
+959,Yulon Motor Company Ltd.,2201.TW,-12.23,0.22,0.053,Yes
+960,"Swancor Holding Co., LTD.",3708.TW,-16.08,0.294,0.447,Yes
+961,"SHUI-MU International Co., Ltd.",8443.TW,-6.59,0.114,0.061,No
+962,Hai Kwang Enterprise Corporation,2038.TW,-13.48,0.242,0.056,No
+963,"Hong Pu Real Estate Development Co., Ltd.",2536.TW,-15.42,0.276,0.053,No
+964,"Sea Mild Biotechnology Co., Ltd.",7516.TWO,-11.22,0.197,0.349,Yes
+965,Pou Chen Corporation,9904.TW,-8.9,0.154,0.026,No
+966,"YeaShin International Development Co., Ltd.",5213.TWO,-7.57,0.13,0.119,No
+967,AGV Products Corporation,1217.TW,-3.1,0.052,0.044,No
+968,DaBomb Protein Biotech Corp.,6578.TWO,-13.11,0.23,0.003,No
+969,"Her Chee Industrial Co., Ltd.",8937.TWO,-25.35,0.474,0.012,No
+970,"Everbrite Technology Co., Ltd.",4523.TWO,-19.45,0.349,0.707,Yes
+971,Sintrones Technology Corp.,6680.TWO,-21.62,0.393,0.264,Yes
+972,Ideal Bike Corporation,8933.TWO,-20.31,0.363,0.166,No
+973,"Greenet Co., Ltd.",7842.TWO,-27.59,0.513,0.021,Yes
+974,Lien Hwa Industrial Holdings Corporation,1229.TW,-8.42,0.141,0.242,No
+975,Wan Hwa Enterprise Company Ltd.,2701.TW,-4.63,0.076,0.002,Yes
+976,"Singtex Industrial Co., Ltd.",4433.TWO,-9.23,0.154,0.112,Yes
+977,"MacroWell OMG Digital Entertainment Co., Ltd.",3687.TWO,-14.73,0.253,0.424,Yes
+978,First Hotel Company Ltd.,2706.TW,-5.74,0.093,0.031,Yes
+979,HsinLi Chemical Industrial Corp.,4303.TWO,-23.73,0.422,0.11,Yes
+980,"Chian Hsing Forging Industrial Co., Ltd.",4528.TWO,-18.01,0.308,0.1,Yes
+981,"Health & Life Co., Ltd.",1781.TWO,-16.86,0.283,0.061,No
+982,Taiwan Acceptance Corporation,9941.TW,-13.59,0.224,0.261,No
+983,Arcadyan Technology Corporation,3596.TW,-21.3,0.365,0.835,Yes
+984,QST International Corp.,8349.TWO,-12.74,0.208,0.063,No
+985,Zenithtek Inc.,7912.TWO,-43.68,0.862,2.615,Yes
+986,"Tigerair Taiwan Co., Ltd.",6757.TW,-20.88,0.356,0.533,Yes
+987,"Wha Yu Industrial Co., Ltd.",3419.TW,-14.56,0.24,0.207,Yes
+988,"Roo Hsing Co., Ltd",4414.TW,-23.42,0.404,0.929,No
+989,Continental Holdings Corporation,3703.TW,-9.54,0.151,0.221,No
+990,Shihlin Paper Corporation,1903.TW,-9.36,0.148,0.156,Yes
+991,"Ji-Haw Industrial Co.,Ltd.",3011.TW,-26.12,0.449,0.537,Yes
+992,Megaforce Company Limited,3294.TWO,-28.87,0.504,0.99,Yes
+993,Franbo Lines Corp.,2641.TWO,-12.16,0.193,0.342,Yes
+994,Global Brands Manufacture Ltd.,6191.TW,-24.6,0.41,0.689,Yes
+995,"We Can Medicines Co., Ltd.",6929.TWO,-22.76,0.375,0.681,No
+996,"Pet Pharm Biotech Co., Ltd.",7762.TWO,-25.62,0.429,0.666,Yes
+997,"Bora Pharmaceuticals Co., Ltd.",6472.TW,-30.22,0.518,0.125,Yes
+998,"Tatung Co., Ltd.",2371.TW,-24.45,0.404,0.577,Yes
+999,"Ubiqconn Technology, Inc.",6928.TW,-18.46,0.294,0.455,Yes
+1000,President Chain Store Corporation,2912.TW,-9.29,0.141,0.143,No
+1001,KYE Systems Corp.,2365.TW,-25.25,0.417,1.061,Yes
+1002,"A Plus Biotechnology Co., Ltd.",6918.TW,-9.17,0.138,0.11,No
+1003,"Chicony Electronics Co., Ltd.",2385.TW,-17.24,0.271,0.35,Yes
+1004,Healthconn Corp.,6665.TWO,-19.49,0.31,0.345,Yes
+1005,Jiyuan Packaging Holdings Limited,8488.TW,-7.0,0.104,0.071,Yes
+1006,"Ocean Plastics Co., Ltd.",1321.TW,-10.65,0.161,0.319,No
+1007,"E&E Recycling,Inc.",8440.TWO,-17.87,0.28,0.578,Yes
+1008,ITH Corporation,6962.TW,-20.81,0.33,0.708,Yes
+1009,"Tayih Kenmos Auto parts Co., Ltd.",8107.TWO,-17.33,0.268,0.458,Yes
+1010,Powertip Technology Corporation,6167.TWO,-15.29,0.233,0.018,No
+1011,TMP Steel Corporation,6248.TWO,-14.81,0.224,0.126,Yes
+1012,"Seetel New Energy Co., Ltd.",7740.TW,-26.6,0.426,0.381,Yes
+1013,"Tidehold Development Co., Ltd.",9902.TW,-12.86,0.191,0.278,Yes
+1014,Yusin Holding Corp.,4557.TW,-22.2,0.344,0.296,No
+1015,"China Wire & Cable Co., Ltd.",1603.TW,-17.13,0.258,0.448,Yes
+1016,Array Inc.,3664.TWO,-50.25,0.937,0.265,Yes
+1017,"Super Dragon Technology Co., Ltd",9955.TW,-20.08,0.306,0.176,Yes
+1018,Juic International Corporation,6114.TWO,-14.95,0.22,0.195,Yes
+1019,"Cashbox Partyworld Co., Ltd.",8359.TWO,-13.64,0.199,0.286,No
+1020,"Makalot Industrial Co., Ltd.",1477.TW,-25.28,0.39,0.228,Yes
+1021,3D Global Biotech Inc.,6808.TWO,-28.87,0.455,0.167,No
+1022,"Shun On Electronic Co., Ltd.",6283.TW,-18.56,0.276,0.555,Yes
+1023,"TYC Brother Industrial Co., Ltd.",1522.TW,-26.69,0.415,0.708,Yes
+1024,"Formosa Oilseed Processing Co., Ltd.",1225.TW,-13.12,0.189,0.06,Yes
+1025,"SHINE TREND International Multimedia Technology CO., LTD.",6856.TWO,-11.75,0.168,0.061,No
+1026,Kenda Rubber Industrial Co. Ltd.,2106.TW,-12.4,0.175,0.057,No
+1027,Accordance Systems Inc.,7870.TWO,-27.77,0.424,0.567,Yes
+1028,"StemCyte International, Ltd.",4178.TW,-27.13,0.413,0.443,No
+1029,"Jesper Co., Ltd.",7831.TWO,-15.94,0.226,0.138,Yes
+1030,MetaTech (AP) Inc.,3224.TWO,-23.75,0.352,0.242,Yes
+1031,"TCC Group Holdings Co., Ltd.",1101B.TW,-1.15,0.015,0.023,No
+1032,MetaEdge Corporation,6816.TWO,-11.68,0.16,0.067,No
+1033,BenQ Medical Technology Corporation,4116.TWO,-11.92,0.163,0.073,Yes
+1034,Munsin Garment Corporation,2916.TWO,-8.84,0.119,0.075,No
+1035,World Known MFG (Cayman) Limited,4581.TW,-5.5,0.073,0.023,Yes
+1036,"Hota Industrial Mfg. Co., Ltd.",1536.TW,-20.09,0.285,0.582,Yes
+1037,High Performance Information Co. Ltd.,7767.TWO,-18.3,0.257,0.2,No
+1038,"Aeontek Co., Ltd.",1599.TWO,-19.64,0.277,0.037,Yes
+1039,Shuttle Inc.,2405.TW,-18.21,0.254,0.356,Yes
+1040,Han.biomedical Inc.,6999.TWO,-20.55,0.291,0.426,Yes
+1041,"Yulon Nissan Motor Co., Ltd",2227.TW,-13.07,0.177,0.201,Yes
+1042,Crowell Development Corp.,2528.TW,-15.43,0.211,0.188,No
+1043,"Eclat Textile Co., Ltd.",1476.TW,-24.0,0.342,0.274,Yes
+1044,"FarGlory Hotel Co.,Ltd",2712.TW,-26.38,0.38,0.502,Yes
+1045,"Oneness Biotech Co., Ltd.",4743.TWO,-28.82,0.419,0.486,Yes
+1046,"Provision Information Co.,Ltd.",6590.TWO,-9.02,0.117,0.068,No
+1047,"Tainan Enterprise (Cayman) Co., Limited",5906.TW,-20.8,0.286,0.153,Yes
+1048,Abnova (Taiwan) Corporation,4133.TW,-17.74,0.239,0.212,Yes
+1049,"Anxo Pharmaceutical Co., Ltd.",6677.TWO,-23.74,0.33,0.411,Yes
+1050,Panion & Bf Biotech Inc.,1760.TW,-15.29,0.203,0.08,Yes
+1051,Tons Lightology Inc.,4972.TWO,-6.66,0.084,0.091,No
+1052,PlayNitride Inc.,6854.TW,-34.39,0.505,1.008,Yes
+1053,"Anli International Co., Ltd.",5223.TWO,-15.82,0.209,0.255,Yes
+1054,Sinyi Realty Inc.,9940.TW,-13.44,0.175,0.036,No
+1055,"Raku Co., Ltd",4154.TWO,-26.03,0.361,0.428,No
+1056,"Caliway Biopharmaceuticals Co., Ltd.",6919.TW,-39.76,0.6,1.062,Yes
+1057,MiTAC Digital Technology Corporation,7821.TW,-29.72,0.42,0.922,No
+1058,"Art Emperor Technology And Culture Co., Ltd.",6650.TWO,-26.32,0.364,0.13,Yes
+1059,TFBS Bioscience Inc.,6939.TWO,-23.88,0.325,0.45,Yes
+1060,Pro360 Inc.,7839.TWO,-25.81,0.355,0.08,Yes
+1061,"Kee Tai Properties Co., Ltd.",2538.TW,-12.26,0.157,0.09,No
+1062,"Chiu Ting Machinery Co., Ltd.",1539.TW,-11.68,0.148,0.224,Yes
+1063,"Yong Yi International Group Co., Ltd",2939.TW,-23.23,0.313,0.323,No
+1064,"Great Giant Fibre Garment Co., Ltd.",4441.TW,-26.53,0.363,0.72,Yes
+1065,Universal Cement Corporation,1104.TW,-7.38,0.091,0.069,No
+1066,"TaiwanJ Pharmaceuticals Co., Ltd.",6549.TWO,-12.4,0.156,0.158,Yes
+1067,EirGenix Inc.,6589.TW,-28.75,0.396,0.236,No
+1068,"General Plastic Industrial Co., Ltd.",6128.TW,-24.97,0.333,0.572,Yes
+1069,"Gus Technology Co., Ltd.",6940.TWO,-38.35,0.554,0.108,Yes
+1070,"Shine Passion Engineering Co., Ltd.",7849.TWO,-36.59,0.522,1.083,Yes
+1071,"Inventec Besta Co.,Ltd",8201.TW,-23.42,0.307,0.664,Yes
+1072,"Well Shin Technology Co., Ltd.",3501.TW,-17.98,0.228,0.171,Yes
+1073,Hsin Ba Ba Corporation,9906.TW,-27.59,0.369,0.404,No
+1074,Allmind Holdings Corporation,2718.TWO,-21.09,0.272,0.252,Yes
+1075,Giant Heavy Machinery Service Corporation,7783.TWO,-33.69,0.466,0.598,Yes
+1076,Neith Corporation,6236.TWO,-38.59,0.549,0.008,Yes
+1077,Syncomm Technology Corp.,3150.TW,-22.3,0.284,0.468,Yes
+1078,"91APP, Inc.",6741.TWO,-20.08,0.251,0.229,Yes
+1079,"Taiwan Lamination Industries, Inc.",8999.TWO,-9.78,0.116,0.022,No
+1080,"Falcon Machine Tools Co., Ltd.",4513.TWO,-18.99,0.235,0.055,No
+1081,Sunspring Metal Corporation,2062.TW,-14.02,0.169,0.154,Yes
+1082,"Gamania Digital Entertainment Co., Ltd.",6180.TWO,-28.9,0.375,0.449,Yes
+1083,"Yieh Phui Enterprise Co., Ltd.",2023.TW,-9.58,0.111,0.046,No
+1084,Kuang Hong Arts Management Incorporation,6596.TWO,-24.91,0.312,0.584,Yes
+1085,Sensortek Technology Corp.,6732.TWO,-28.46,0.364,0.708,Yes
+1086,"La Kaffa International Co., Ltd.",2732.TWO,-8.9,0.101,0.065,No
+1087,Neo-Neon Holdings Limited,911868.TW,-11.06,0.126,0.127,Yes
+1088,"Nankang Rubber Tire Corp.,Ltd.",2101.TW,-14.71,0.17,0.384,No
+1089,"Nice Garden Industrial Co., Ltd.",7840.TWO,-10.17,0.115,0.048,No
+1090,Formosa Electronic Industries Inc.,8171.TWO,-26.64,0.327,0.435,Yes
+1091,Ipevo Corporation,6858.TWO,-25.85,0.315,0.151,No
+1092,"The Landis Taipei Hotel Co., Ltd",5703.TWO,-10.43,0.117,0.247,Yes
+1093,LabTurbo Biotech Corporation,7725.TWO,-13.69,0.155,0.17,Yes
+1094,"Hung Sheng Construction Co., Ltd.",2534.TW,-12.28,0.138,0.208,No
+1095,"New Advanced Electronics Technologies Co., Ltd.",3465.TWO,-35.31,0.453,0.067,Yes
+1096,Up Young Cornerstone Corp.,6728.TWO,-17.13,0.196,0.284,Yes
+1097,"Liying Environmental Protection Technology Co., Ltd.",7820.TWO,-34.28,0.433,0.154,Yes
+1098,"Merry Electronics Co., Ltd.",2439.TW,-18.11,0.208,0.48,Yes
+1099,Primax Electronics Ltd.,4915.TW,-19.1,0.22,0.435,Yes
+1100,"Advagene Biopharma Co., Ltd.",6709.TWO,-27.04,0.325,0.515,Yes
+1101,"HeXun Biosciences Co., Ltd.",6986.TWO,-30.24,0.368,0.114,Yes
+1102,"Grand Green Energy Co., LTD.",6639.TWO,-38.62,0.496,0.317,Yes
+1103,ASRock Industrial Computer Corporation,7710.TWO,-18.63,0.211,0.309,Yes
+1104,Eastern Media International Corporation,2614.TW,-16.98,0.19,0.277,No
+1105,ATW Technology Inc.,8097.TWO,-22.9,0.264,0.146,Yes
+1106,"Acmepoint Energy Services Co.,LTD",6692.TWO,-25.13,0.293,0.37,Yes
+1107,"Nan Liu Enterprise Co., Ltd.",6504.TW,-15.9,0.176,0.202,No
+1108,"Bossdom Digiinnovation Co., Ltd.",6622.TWO,-28.25,0.335,0.522,Yes
+1109,"Donutes International Co., Ltd.",7756.TWO,-15.06,0.166,0.041,No
+1110,"Life Travel & Tourist Service Co., Ltd.",2745.TWO,-14.09,0.154,0.247,Yes
+1111,Hypersonic Inc.,7894.TWO,-62.56,0.959,,
+1112,WW Holding Inc.,8442.TW,-30.1,0.358,0.068,Yes
+1113,"Yi Jinn Industrial Co., Ltd.",1457.TW,-8.83,0.093,0.13,No
+1114,Poindus Systems Corp.,6599.TWO,-26.92,0.311,0.055,Yes
+1115,"Yi Chun Green Technology Co., Ltd.",6912.TWO,-27.37,0.316,0.098,No
+1116,Universal Incorporation,1325.TW,-16.98,0.185,0.063,No
+1117,"Macauto Industrial Co., Ltd.",9951.TWO,-7.42,0.077,0.109,Yes
+1118,"Loyalty Founder Enterprise Co.,Ltd.",5465.TWO,-24.29,0.272,0.441,Yes
+1119,"Global View Co., Ltd.",3040.TW,-39.29,0.483,0.985,No
+1120,Pershing Technology Services Corporation,7785.TWO,-40.64,0.504,0.331,No
+1121,"Kunyue Development Co., Ltd.",5206.TWO,-27.38,0.309,0.293,No
+1122,"Nang Kuang Pharmaceutical Co., Ltd.",1752.TW,-10.18,0.104,0.042,No
+1123,"Shangya Technology Co., Ltd.",6130.TWO,-34.76,0.407,0.12,Yes
+1124,Dexatek Technology Ltd.,7455.TWO,-22.71,0.244,0.362,Yes
+1125,"Genomics BioSci & Tech. Co.,Ltd.",4195.TW,-41.31,0.498,0.305,No
+1126,"WebComm Technology Co., Ltd.",6865.TWO,-41.81,0.505,0.868,No
+1127,Formosa Saint Jose Corporation,7764.TWO,-28.37,0.313,0.392,Yes
+1128,"Sunfun Info Co., Ltd.",5278.TWO,-23.14,0.248,0.134,Yes
+1129,Pan German Universal Motors Ltd.,2247.TW,-18.81,0.196,0.055,Yes
+1130,Hotel Royal Chihpen,5704.TWO,-16.17,0.166,0.044,No
+1131,"Newretail Co., Ltd",3085.TWO,-20.95,0.22,0.323,No
+1132,Taiwan Paiho Limited,9938.TW,-17.41,0.178,0.085,Yes
+1133,"Namchow Holdings Co., Ltd.",1702.TW,-13.57,0.135,0.166,No
+1134,AV TECH Corporation,8072.TW,-22.26,0.232,0.42,Yes
+1135,Excelsior Biopharma Inc.,6496.TWO,-17.71,0.18,0.257,No
+1136,"CHT Security Co., Ltd.",7765.TW,-22.76,0.237,0.284,Yes
+1137,"Green World Fintech Service Co., Ltd.",6763.TWO,-23.21,0.242,0.314,Yes
+1138,"Roundtop Machinery Industries Co., Ltd.",1540.TW,-18.23,0.185,0.16,Yes
+1139,"Sunfon Construction Co., Ltd.",5514.TWO,-14.82,0.147,0.084,No
+1140,"JG Environmental Technology Co.,Ltd.",6723.TWO,-23.7,0.246,0.392,Yes
+1141,"Vigor Kobo Co.,Ltd.",2733.TWO,-22.63,0.234,0.219,No
+1142,"Century Wind Power Co., Ltd.",2072.TW,-42.33,0.486,0.69,Yes
+1143,"Carilex Medical, Inc.",7726.TWO,-18.68,0.184,0.025,Yes
+1144,"Phoenix Tours International, Inc.",5706.TW,-7.94,0.074,0.01,Yes
+1145,"Hsing Ta Cement Co.,Ltd",1109.TW,-9.17,0.085,0.031,Yes
+1146,"ADDCN Technology Co., Ltd",5287.TWO,-12.05,0.114,0.139,No
+1147,"Dawushan Farm Technology Co., Ltd.",6952.TW,-17.6,0.17,0.211,Yes
+1148,"Fulgent Sun International (Holding) Co., Ltd.",9802.TW,-26.35,0.267,0.058,Yes
+1149,Anya Biopharm Inc.,7776.TWO,-36.83,0.396,0.312,No
+1150,CHUNGTAI RESOURCE Technology CORP.,6923.TW,-29.38,0.301,0.288,Yes
+1151,"CHANG TYPE Industrial Co., Ltd.",1541.TW,-16.28,0.154,0.172,No
+1152,Taiwan Allied Container Terminal Corp.,5601.TWO,-19.23,0.183,0.148,Yes
+1153,"Sweeten Real Estate Development Co.,Ltd.",5525.TW,-18.79,0.178,0.246,No
+1154,Pharmosa Biopharm Inc.,6875.TWO,-28.94,0.291,0.071,Yes
+1155,Speed Tech Corp.,5457.TWO,-33.65,0.347,0.295,Yes
+1156,"ACpay Co., Ltd.",6984.TWO,-39.15,0.418,0.459,Yes
+1157,Tatung System Technologies Inc.,8099.TWO,-23.99,0.232,0.287,Yes
+1158,Bioptik Technology Incorporation,4161.TWO,-17.91,0.168,0.078,Yes
+1159,"Whetron Electronics Co.,Ltd.",6722.TW,-32.09,0.325,0.12,Yes
+1160,"Changs Ascending Enterprise Co., Ltd.",8038.TWO,-35.6,0.365,0.656,Yes
+1161,Protrade Applied Materials Corp.,6972.TWO,-21.65,0.203,0.208,No
+1162,"HD Renewable Energy Co., Ltd.",6873.TW,-40.72,0.43,0.937,Yes
+1163,Lida Holdings Limited,4552.TW,-23.71,0.224,0.184,Yes
+1164,Eyecare Tech Inc.,7881.TWO,-19.4,0.178,0.331,Yes
+1165,Taiwan Green Environment Technology Inc.,5205.TWO,-33.03,0.328,0.386,No
+1166,"Jason's Entertainment Co., Ltd.",6583.TWO,-33.25,0.33,0.127,No
+1167,"I Yuan Precision Industrial Co., Ltd.",2235.TWO,-19.82,0.181,0.253,Yes
+1168,"Kim Forest Enterprise Co., Ltd.",6645.TW,-45.3,0.488,0.322,Yes
+1169,Galaxy Software Services Corporation,6752.TWO,-23.43,0.219,0.392,Yes
+1170,"Susen Green Energy Co., Ltd.",7931.TWO,-23.91,0.223,,
+1171,"Kemflo International Co., Ltd.",7818.TW,-40.78,0.422,0.44,No
+1172,"Trust-Search Corp.,Ltd.",3115.TWO,-28.2,0.269,0.063,No
+1173,"Lian Hong Art. Co., Ltd.",6755.TWO,-45.42,0.486,0.537,Yes
+1174,1 Production Film Co.,8458.TWO,-33.04,0.325,0.429,No
+1175,"Tainan Enterprises Co., Ltd.",1473.TW,-20.57,0.188,0.014,Yes
+1176,GrandTech C.G. Systems Inc.,6123.TWO,-14.17,0.125,0.119,Yes
+1177,"Pacific Hospital Supply Co., Ltd",4126.TWO,-7.58,0.064,0.019,Yes
+1178,"Wiltrom Co., Ltd.",6767.TWO,-17.92,0.16,0.192,Yes
+1179,Grand Ocean Retail Group Ltd.,5907.TW,-17.01,0.151,0.212,No
+1180,NewSoft Technology Corporation,5202.TWO,-37.09,0.366,0.424,Yes
+1181,"Uni Travel Services Co., Ltd.",6961.TWO,-30.17,0.284,0.053,No
+1182,"Jinan Acetate Chemical Co., Ltd.",4763.TW,-26.59,0.245,0.109,Yes
+1183,"Cypress Technology Co.,Ltd.",3541.TWO,-19.4,0.171,0.093,Yes
+1184,"Li Ming Development Construction Co., Ltd.",6212.TWO,-28.2,0.261,0.242,Yes
+1185,"Long Time Technology Co., Ltd.",6555.TWO,-45.05,0.466,0.908,Yes
+1186,"Ta Jiang Co., Ltd.",1453.TW,-16.63,0.144,0.097,Yes
+1187,"Billion Electric Co., Ltd.",3027.TW,-28.36,0.262,0.487,Yes
+1188,"A-SPINE Asia Co., Ltd.",6758.TWO,-29.41,0.271,0.288,No
+1189,"Syngen Biotech Co.,Ltd.",8279.TWO,-32.05,0.3,0.166,Yes
+1190,HTC Corporation,2498.TW,-31.37,0.292,0.482,Yes
+1191,"J&V Energy Technology Co., Ltd.",6869.TW,-40.64,0.4,0.772,Yes
+1192,"Cayman Engley Industrial Co., Ltd.",2239.TW,-41.18,0.406,0.078,No
+1193,"Shin Tai Industry Co., Ltd.",1235.TW,-28.95,0.261,0.512,Yes
+1194,International Ocean Group,7583.TWO,-57.89,0.643,0.259,No
+1195,"We & Win Diversification Co., Ltd.",4113.TWO,-36.64,0.345,0.11,No
+1196,"Iron Force Industrial Co., Ltd.",2228.TW,-25.23,0.221,0.029,Yes
+1197,"Jong Shyn Shipbuilding Co., Ltd.",2644.TWO,-17.88,0.15,0.067,Yes
+1198,Advanced Material Systems Corporation,7879.TWO,-65.78,0.784,0.341,Yes
+1199,FDC International Hotels Corporation,2748.TW,-11.87,0.096,0.023,Yes
+1200,"Chih Lien Industrial Co., Ltd.",2024.TW,-21.13,0.179,0.08,Yes
+1201,"Microbio Co., Ltd.",4128.TWO,-34.33,0.314,0.145,Yes
+1202,Wonder Pets Enterprises Corporation,6968.TWO,-27.8,0.244,0.093,No
+1203,Enimmune Corporation,6564.TWO,-21.17,0.179,0.031,No
+1204,"Haiwan International Development Co., Ltd",3252.TWO,-20.94,0.176,0.07,No
+1205,"Taiming Assurance Broker Co.,Ltd.",5878.TWO,-8.38,0.066,0.012,Yes
+1206,Xander International Corp.,6118.TWO,-25.29,0.217,0.384,Yes
+1207,"DV Biomed Co., Ltd.",6539.TWO,-26.54,0.229,0.056,Yes
+1208,"CJW International Co., Ltd.",5301.TWO,-47.64,0.471,0.42,Yes
+1209,Sincere Security Corp. Ltd.,6721.TWO,-10.85,0.085,0.129,Yes
+1210,JSW Pacific Corporation,5251.TWO,-40.46,0.378,0.341,Yes
+1211,Twister5 Co. Ltd.,7826.TWO,-23.57,0.197,0.488,Yes
+1212,"MedFirst Healthcare Services, Inc.",4175.TWO,-10.03,0.078,0.014,Yes
+1213,"Hsinjing Holding Co., Ltd.",3713.TWO,-35.77,0.322,0.358,Yes
+1214,"BRIM Biotechnology, Inc.",6885.TW,-28.39,0.244,0.065,Yes
+1215,"Genesis Technology, Inc.",6221.TWO,-33.51,0.297,0.46,Yes
+1216,Rodex Fasteners Corp.,5015.TWO,-23.43,0.194,0.128,Yes
+1217,"Hi Sharp Intelligence Technology Co.,Ltd.",3128.TWO,-30.65,0.264,0.304,Yes
+1218,LINE Pay Taiwan Limited,7722.TW,-48.08,0.467,0.266,Yes
+1219,"King's Town Construction Co., Ltd.",2524.TW,-25.45,0.212,0.024,Yes
+1220,"Kwong Lung Enterprise Co., Ltd.",8916.TWO,-12.35,0.096,0.056,No
+1221,Redwood Group Ltd,8426.TWO,-23.55,0.193,0.186,No
+1222,"SanDi Properties Co.,Ltd.",1438.TW,-39.18,0.351,0.127,No
+1223,Skardin Industrial Corporation,3466.TWO,-43.04,0.394,0.437,Yes
+1224,Waffer Technology Corporation,6235.TW,-37.03,0.325,0.538,Yes
+1225,RichWave Technology Corporation,4968.TW,-37.41,0.328,0.875,Yes
+1226,"Good Way Technology Co., Ltd.",3272.TWO,-39.0,0.346,0.901,Yes
+1227,"Ever Fortune.AI Co., Ltd.",6841.TWO,-25.25,0.205,0.014,No
+1228,"EDIMAX Technology Co., Ltd.",3047.TW,-27.53,0.226,0.385,Yes
+1229,GenMont Biotech Incorporation,3164.TW,-13.65,0.104,0.12,No
+1230,Hey Song Corporation,1234.TW,-9.22,0.067,0.033,No
+1231,"Champion Building Materials Co.,Ltd.",1806.TW,-14.19,0.106,0.053,Yes
+1232,Feng Chi Biotech Corp.,6744.TWO,-26.65,0.214,0.345,Yes
+1233,"aetherAI Co., Ltd.",7803.TW,-43.97,0.394,1.235,Yes
+1234,Top Union Electronics Corp.,6266.TWO,-11.9,0.088,0.107,Yes
+1235,"Sun Yad Construction Co.,Ltd",1316.TW,-28.55,0.231,0.029,Yes
+1236,"Timing Pharmaceutial Co.,Ltd.",6659.TWO,-27.32,0.219,0.318,Yes
+1237,EBM Technologies Incorporated,8409.TWO,-19.61,0.15,0.108,Yes
+1238,"Chateau International Development Co., Ltd.",2722.TW,-22.63,0.175,0.215,Yes
+1239,Victory New Materials Limited Company,1340.TW,-36.46,0.306,0.261,No
+1240,"Chung Lien Co., Ltd",5604.TWO,-13.88,0.102,0.074,No
+1241,Dimerco Data System Corporation,5403.TWO,-20.13,0.152,0.124,No
+1242,"Jean Co.,Ltd",2442.TW,-23.86,0.183,0.29,No
+1243,"Tung Thih Electronic Co., Ltd.",3552.TWO,-34.81,0.285,0.152,No
+1244,"Tung Mung Development Co., Ltd.",1480.TWO,-19.91,0.149,0.089,Yes
+1245,Shin Shin Co Ltd.,2901.TW,-8.0,0.056,0.031,No
+1246,Huxen Corporation,2433.TW,-10.3,0.073,0.015,No
+1247,Yonggu Group Inc.,5546.TW,-35.63,0.291,0.655,Yes
+1248,NaviFUS Corp.,6872.TWO,-31.78,0.253,0.544,Yes
+1249,"Toung Loong Textile Mfg.Co.,Ltd.",4401.TWO,-17.24,0.126,0.048,No
+1250,Global Lighting Technologies Inc.,4935.TW,-25.21,0.192,0.321,Yes
+1251,Uniform Industrial Corporation,2482.TW,-16.04,0.116,0.153,Yes
+1252,"STARLUX Airlines Co., Ltd.",2646.TW,-16.12,0.116,0.044,Yes
+1253,"Yungshin Construction & Development Co.,Ltd.",5508.TWO,-36.27,0.294,0.153,No
+1254,Julien's International Entertainment Group,6595.TWO,-13.59,0.097,0.025,Yes
+1255,"BioGend Therapeutics Co., Ltd.",6733.TWO,-35.43,0.285,0.168,No
+1256,"Information Technology Total Services Co., Ltd",6697.TWO,-14.8,0.106,0.082,Yes
+1257,"Johnson Health Tech .Co., Ltd.",1736.TW,-25.61,0.193,0.124,Yes
+1258,S-Tech Corp.,1584.TWO,-31.28,0.243,0.143,Yes
+1259,Taiwan Benefit Company,3379.TWO,-45.97,0.395,0.719,Yes
+1260,Lian Fa International Dining Business Corp.,2756.TWO,-30.28,0.234,0.052,Yes
+1261,"Fu Hua Innovation Co., Ltd.",3056.TW,-27.1,0.205,0.023,Yes
+1262,Papago Inc.,3632.TWO,-25.09,0.188,0.088,No
+1263,"Spirit Scientific Co., Ltd.",7790.TWO,-36.8,0.294,0.106,Yes
+1264,Genetics Generation Advancement Corp.,4160.TWO,-26.37,0.197,0.189,Yes
+1265,Digital China Holdings Limited,910861.TW,-36.26,0.288,0.539,Yes
+1266,"Sports Gear Co., Ltd.",6768.TW,-32.56,0.252,0.245,Yes
+1267,"Jhu Jian Catering Co., Ltd.",7723.TWO,-47.14,0.404,0.208,No
+1268,Radiant Innovation Inc.,3373.TWO,-14.98,0.104,0.138,Yes
+1269,"Kwang Ming Silk Mill Co., Ltd.",4420.TWO,-22.55,0.163,0.002,Yes
+1270,Leader Electronics Inc.,3058.TW,-27.62,0.205,0.173,Yes
+1271,Cryomax Cooling System Corp.,1587.TW,-42.66,0.347,0.272,Yes
+1272,"Tai Roun Products Co.,Ltd.",1220.TW,-15.96,0.11,0.092,Yes
+1273,Penpower Technology LTD.,5211.TWO,-38.67,0.305,0.081,Yes
+1274,"Taiwan Sanyo Electric Co.,Ltd.",1614.TW,-16.1,0.11,0.152,Yes
+1275,Microelectronics Technology Inc.,2314.TW,-50.22,0.427,0.122,No
+1276,BIONET Therapeutics Corp.,7808.TWO,-42.68,0.342,0.482,Yes
+1277,"M.J. International Co., Ltd.",8466.TW,-34.39,0.261,0.212,Yes
+1278,"Bai Sha Technology Co., Ltd.",8401.TWO,-17.63,0.121,0.143,Yes
+1279,"Energenesis Biomedical CO.,LTD.",6657.TW,-43.56,0.351,0.48,Yes
+1280,"Sentien Printing Factory Co., Ltd.",8410.TWO,-23.1,0.163,0.198,Yes
+1281,Kerry TJ Logistics Company Limited,2608.TW,-12.82,0.085,0.083,No
+1282,"Wieson Technologies Co., Ltd.",6272.TW,-48.47,0.402,0.842,Yes
+1283,"Hong Ho Precision Textile Co.,Ltd.",1446.TW,-24.76,0.175,0.069,No
+1284,"Chia Yi Steel Co., Ltd.",2067.TWO,-43.16,0.343,0.24,Yes
+1285,"Taiwan Numerical Powers Co., Ltd.",6593.TWO,-32.78,0.243,0.237,Yes
+1286,"Formosa Laboratories, Inc.",4746.TW,-21.79,0.15,0.075,Yes
+1287,"Bioray Biotech Co., Ltd",7561.TWO,-34.82,0.259,0.172,No
+1288,"Walrus Pump Co., Ltd.",6982.TWO,-30.75,0.223,0.523,Yes
+1289,"Pacific Construction Co., Ltd",2506.TW,-9.7,0.062,0.105,No
+1290,"Jufan Industrial Co., Ltd.",4584.TWO,-22.72,0.156,0.184,Yes
+1291,"Dr. Wu Skincare Co., Ltd.",6523.TWO,-22.61,0.153,0.244,No
+1292,Paiho Shih Holdings Corporation,8404.TW,-33.84,0.245,0.247,Yes
+1293,Mao Bao Inc.,1732.TW,-12.12,0.077,0.046,Yes
+1294,Chinese Gamer International Corporation,3083.TWO,-30.04,0.211,0.259,Yes
+1295,"Pharmigene, Inc.",7595.TWO,-40.47,0.304,0.041,No
+1296,"Anbogen Therapeutics, Inc.",7784.TWO,-27.16,0.187,0.497,Yes
+1297,PhytoHealth Corporation,4108.TW,-24.37,0.165,0.243,Yes
+1298,Mister International Enterprise Corp.,2941.TWO,-49.08,0.392,0.36,No
+1299,"Casing Macron Technology Co., Ltd.",3325.TWO,-38.36,0.283,0.285,Yes
+1300,Astro Corporation,3064.TWO,-58.28,0.503,0.293,Yes
+1301,"U-ARK Technology Co., Ltd",7724.TWO,-45.93,0.354,0.291,Yes
+1302,EPS Bio Technology Corp.,4183.TWO,-26.41,0.178,0.314,No
+1303,"Abonmax Co., Ltd",2429.TW,-69.22,0.657,1.408,Yes
+1304,"Right Way Industrial Co.,Ltd",1506.TW,-23.84,0.157,0.006,No
+1305,EASYCARD Corporation,6035.TWO,-20.42,0.132,0.189,No
+1306,"Hsin Tai Gas Co., Ltd.",8917.TWO,-11.91,0.073,0.101,No
+1307,"Tanvex BioPharma, Inc.",6541.TW,-34.79,0.243,0.372,Yes
+1308,"Universal Textile Co., Ltd.",1445.TW,-29.86,0.202,0.217,Yes
+1309,"U-Best Innovative Technology Co., Ltd.",4714.TWO,-46.39,0.35,0.667,Yes
+1310,TongHwa Corporation,1418.TW,-18.55,0.117,0.106,Yes
+1311,"Netronix, Inc.",6143.TWO,-35.46,0.247,0.343,Yes
+1312,"Deltamac(Taiwan)Co.,Ltd",6144.TWO,-33.76,0.233,0.083,Yes
+1313,"KNST Co., Ltd.",7836.TWO,-37.92,0.269,0.322,Yes
+1314,"Greenyn Biotechnology Co., Ltd",6846.TWO,-21.23,0.135,0.026,No
+1315,Dynamic Medical Technologies Inc.,4138.TWO,-21.11,0.133,0.161,No
+1316,Nada Holdings Corp,7824.TWO,-49.96,0.381,0.387,Yes
+1317,"Polylite Taiwan Co., Ltd.",1813.TWO,-18.07,0.111,0.092,No
+1318,CyberLink Corp.,5203.TW,-37.09,0.255,0.193,Yes
+1319,Arima Communications Corp.,8101.TW,-31.18,0.206,0.106,Yes
+1320,"Acepodia, Inc.",6976.TWO,-34.2,0.231,0.287,Yes
+1321,Libo Pharma Corp.,7888.TWO,-49.28,0.37,0.023,Yes
+1322,"Raytek Semiconductor, Inc",7873.TWO,-87.8,1.078,3.828,Yes
+1323,"Long Bon International Co.,Ltd",2514.TW,-22.18,0.138,0.135,Yes
+1324,"Shine-On BioMedical Co.,Ltd.",6926.TWO,-19.13,0.117,0.26,No
+1325,BiOptic Inc.,6850.TWO,-32.34,0.214,0.144,Yes
+1326,"Shining Building Business Co.,Ltd.",5531.TW,-21.63,0.134,0.223,No
+1327,"San Neng Group Holdings Co., LTD.",6671.TW,-34.93,0.234,0.316,Yes
+1328,"Formosa Pharmaceuticals, Inc.",6838.TW,-25.84,0.162,0.026,No
+1329,"Tekom Technologies, Inc",6294.TWO,-38.88,0.264,0.236,No
+1330,SYNergy ScienTech Corp.,6558.TW,-49.36,0.361,0.758,Yes
+1331,C-Tech United Corp.,3625.TWO,-49.35,0.36,0.105,Yes
+1332,Radiant Opto-Electronics Corporation,6176.TW,-49.27,0.358,0.814,Yes
+1333,Jourdeness Group Limited,4190.TW,-22.24,0.135,0.049,No
+1334,"Ezfly International Travel Agent Co., Ltd.",2734.TWO,-25.65,0.159,0.18,Yes
+1335,Alar Pharmaceuticals Inc.,6785.TWO,-58.54,0.46,0.228,Yes
+1336,K WAY Information Corporation,5201.TWO,-36.5,0.24,0.434,No
+1337,"Full Wang International Development Co., Ltd.",6219.TWO,-41.95,0.284,0.028,No
+1338,"Jia Wei Lifestyle, Inc.",3557.TW,-41.17,0.277,0.039,Yes
+1339,Evertop Wire Cable Corporation,1616.TW,-40.94,0.275,0.586,Yes
+1340,"Diamond Biotechnology Co., Ltd",6815.TWO,-56.66,0.429,0.384,Yes
+1341,"Hwang Chang General Contractor Co., Ltd",2543.TW,-44.66,0.306,0.067,No
+1342,"Tait Marketing & Distribution Co., Ltd.",5902.TWO,-22.64,0.133,0.129,No
+1343,"Jui Li Enterprise Co., Ltd.",1512.TW,-24.33,0.144,0.034,No
+1344,"Dimension Computer Technology Co., Ltd.",6140.TWO,-48.73,0.34,0.599,Yes
+1345,"Shanyuan Co., Ltd.",4416.TWO,-74.73,0.679,0.972,Yes
+1346,Prime Oil Chemical Service Corporation,2904.TW,-23.78,0.14,0.139,No
+1347,Bonny Worldwide Limited,8467.TW,-44.85,0.303,0.205,Yes
+1348,Louisa Professional Coffee Ltd.,2758.TWO,-31.85,0.197,0.394,No
+1349,"GeneFerm Biotechnology Co., Ltd.",1796.TWO,-47.35,0.326,0.556,Yes
+1350,Fortune Information Systems Corp,2468.TW,-35.64,0.225,0.107,Yes
+1351,"St.Shine Optical Co.,Ltd.",1565.TWO,-30.28,0.185,0.143,Yes
+1352,DrayTek Corporation,6216.TW,-23.43,0.137,0.126,Yes
+1353,"OBI Pharma, Inc.",4174.TWO,-51.28,0.362,0.207,No
+1354,Kingland Property Corporation Ltd.,6264.TWO,-18.63,0.105,0.105,Yes
+1355,"Samebest Co., LTD.",8489.TWO,-44.76,0.297,0.291,Yes
+1356,"Tsann Kuen Enterprise Co.,Ltd",2430.TW,-25.82,0.15,0.011,No
+1357,HOYA Resort Hotel Group,2736.TWO,-23.19,0.132,0.181,Yes
+1358,"Architectural Aesthetics Global Development CO.,LTD.",2724.TWO,-44.06,0.286,0.294,No
+1359,"KNH Enterprise Co., Ltd.",9919.TW,-20.91,0.117,0.046,No
+1360,P-Two Industries Inc.,6158.TWO,-33.33,0.199,0.33,Yes
+1361,"HEP Tech Co., Ltd.",3609.TWO,-64.14,0.491,0.249,Yes
+1362,"Compal Broadband Networks, Inc.",6674.TW,-28.82,0.167,0.371,Yes
+1363,"BE Epitaxy Semiconductor Technology Co., Ltd.",7415.TWO,-61.88,0.462,,
+1364,"Nan Ren Lake Leisure Amusement Co., Ltd.",5905.TWO,-28.92,0.167,0.238,Yes
+1365,"BORETECH Resource Recovery Engineering CO., LTD.",6887.TW,-46.05,0.297,0.473,No
+1366,Azion Corporation,6148.TWO,-39.55,0.243,0.058,No
+1367,"Castles Technology Co., Ltd.",5258.TW,-40.25,0.248,0.162,Yes
+1368,"ShareHope Medicine Co., Ltd.",8403.TWO,-22.63,0.125,0.035,No
+1369,XAVi Technologies Corporation,3447.TW,-54.71,0.377,0.42,Yes
+1370,China Ecotek Corporation,1535.TW,-12.25,0.064,0.073,No
+1371,"Nan Yang Dyeing & Finishing Co.,Ltd",1410.TW,-29.87,0.171,0.19,No
+1372,Lucky Cement Co.,1108.TW,-18.0,0.096,0.077,Yes
+1373,"TaiRx, Inc.",6580.TWO,-53.8,0.365,0.529,Yes
+1374,"Das Technology Co., Ltd.",6648.TWO,-43.98,0.276,0.377,Yes
+1375,Wei Chuan Foods Corporation,1201.TW,-20.2,0.109,0.032,No
+1376,"Feng Tay Enterprises Co., Ltd.",9910.TW,-43.15,0.268,0.102,No
+1377,"Rich Circle Development Co., Ltd.",6198.TWO,-33.31,0.193,0.34,Yes
+1378,Acer Gaming Inc.,6908.TW,-51.43,0.339,0.641,Yes
+1379,"Fu Burg Industrial Co., Ltd.",8929.TWO,-27.59,0.154,0.232,No
+1380,Hiroca Holdings Ltd.,1338.TW,-34.31,0.199,0.404,Yes
+1381,"Pili International Multimedia Co.,Ltd.",8450.TWO,-17.16,0.09,0.097,No
+1382,"Century Huaxin Wind Energy Co., Ltd.",7752.TWO,-61.68,0.441,0.395,No
+1383,Sinmag Equipment Corporation,1580.TWO,-18.27,0.096,0.097,No
+1384,"Renjie Oldsichuan Catering Management Consultant Co., Ltd.",2741.TWO,-44.7,0.276,0.298,No
+1385,"Tai Tung Communication Co., Ltd.",8011.TW,-26.71,0.146,0.061,Yes
+1386,Acer Medical Inc.,6857.TWO,-25.78,0.14,0.173,Yes
+1387,"Jenn Feng Industrial Tools Co., Ltd.",1538.TW,-64.06,0.467,0.788,Yes
+1388,"Minson Integration, Inc.",7811.TWO,-41.64,0.251,0.269,Yes
+1389,XALLOY Advanced Materials Corporation,7918.TWO,-77.9,0.675,2.341,Yes
+1390,E-Life Corporation,6281.TW,-22.63,0.121,0.188,No
+1391,InterServ International Inc.,6169.TWO,-38.75,0.227,0.025,No
+1392,"Holiday Entertainment Co.,Ltd",9943.TW,-18.27,0.095,0.019,No
+1393,"Alexander Marine Co., Ltd.",8478.TW,-35.42,0.203,0.106,Yes
+1394,"New Palace International Co., Ltd.",8940.TW,-25.5,0.137,0.114,Yes
+1395,"G-Yen Hutong Co., Ltd.",2761.TWO,-33.24,0.186,0.198,Yes
+1396,U-LEAM Inc.,7915.TWO,-82.74,0.761,0.809,Yes
+1397,"Delpha Construction Co.,Ltd.",2530.TW,-37.02,0.21,0.309,No
+1398,FY Group Ltd.,6807.TW,-31.66,0.173,0.145,No
+1399,"C.T.I. Traffic Industries Co., Ltd.",2230.TWO,-73.99,0.582,0.038,No
+1400,"Solid State System Co., Ltd.",3259.TWO,-39.76,0.225,0.092,Yes
+1401,Sinher Technology Inc.,4999.TW,-27.3,0.143,0.249,Yes
+1402,"Shin Ruenn development Co., LTD",6186.TWO,-44.01,0.256,0.157,Yes
+1403,"Teamphon Energy Co., Ltd.",3073.TWO,-46.21,0.272,0.068,No
+1404,"Ya Horng Electronic Co., Ltd.",6201.TW,-18.26,0.089,0.041,Yes
+1405,"Li Yu Chu Co., Ltd.",7847.TWO,-55.65,0.35,0.308,Yes
+1406,"Century Iron and Steel Industrial Co.,Ltd.",9958.TW,-47.37,0.278,0.085,Yes
+1407,"Nextlink Technology Co., Limited",6997.TWO,-30.77,0.161,0.132,Yes
+1408,Protect Animal Health Inc.,7850.TWO,-62.2,0.416,0.561,Yes
+1409,Green River Holding Co. Ltd.,8444.TWO,-66.34,0.462,0.67,No
+1410,"Texture Maker Enterprise Co., Ltd",6963.TWO,-22.2,0.11,0.053,No
+1411,"Ye Siang Enterprise Co., Ltd.",7909.TWO,-73.34,0.552,0.175,Yes
+1412,Taiwan Tea Corporation,2913.TW,-21.86,0.107,0.083,No
+1413,"Mercuries F&B Co., Ltd.",7705.TW,-25.79,0.129,0.005,Yes
+1414,"JDV Control Valves Co., Ltd.",6843.TWO,-32.16,0.167,0.004,No
+1415,"Norbel Baby Co., Ltd",6844.TWO,-30.38,0.156,0.054,No
+1416,"Hua Yu Lien Development Co., Ltd",1436.TW,-41.49,0.228,0.148,No
+1417,Polaris Group,6550.TW,-69.63,0.492,0.728,Yes
+1418,TOPBI International Holdings Limited,2929.TW,-40.64,0.219,0.187,Yes
+1419,Grape King Bio Ltd,1707.TW,-28.72,0.142,0.186,No
+1420,"Hung Chou Fiber Ind. Co., Ltd",1413.TW,-13.59,0.062,0.042,No
+1421,"Pacific Image Electronics Co., Ltd.",6228.TWO,-43.32,0.235,0.067,Yes
+1422,"Excelsior Medical Co., Ltd.",4104.TW,-13.11,0.059,0.05,No
+1423,"Perfect Medical Industry Co., Ltd.",6543.TWO,-38.85,0.198,0.062,Yes
+1424,Medical Imaging Corporation,6637.TWO,-25.45,0.119,0.029,Yes
+1425,"Anti-Microbial Savior BioteQ Co., Ltd.",6864.TWO,-51.26,0.286,0.057,Yes
+1426,"JET Optoelectronics Co., Ltd.",2255.TWO,-52.46,0.292,0.434,Yes
+1427,"Red Sunrise Co., Ltd.",7745.TWO,-65.77,0.414,0.578,Yes
+1428,"Acegreen Eco-Material Technology Co., Ltd.",7862.TWO,-59.74,0.354,0.344,No
+1429,"Taiwan Fu Hsing Industrial Co.,Ltd.",9924.TW,-28.64,0.133,0.049,No
+1430,Quanta Storage Inc.,6188.TWO,-41.04,0.205,0.353,Yes
+1431,"China Fineblanking Technology Co.,Ltd.",1586.TWO,-33.91,0.161,0.127,Yes
+1432,United Orthopedic Corporation,4129.TWO,-31.67,0.147,0.168,Yes
+1433,"Feei Cherng Develop Technology Co., Ltd.",3313.TWO,-45.41,0.228,0.035,No
+1434,Hushan Autoparts Inc.,7736.TW,-22.68,0.098,0.123,Yes
+1435,"Chung Hwa Food Industrial Co., Ltd.",4205.TWO,-18.56,0.078,0.164,No
+1436,Eastech Holding Limited,5225.TW,-44.14,0.216,0.087,Yes
+1437,"Jia Jie Biomedical Co., Ltd.",4109.TWO,-37.6,0.175,0.194,No
+1438,"Hunt Electronic Co., Ltd.",3297.TWO,-50.59,0.257,0.26,Yes
+1439,"Solid Year Co., Ltd.",6737.TWO,-56.4,0.3,0.341,Yes
+1440,Cybersoft Digital Services Corporation,7841.TWO,-42.14,0.199,0.006,Yes
+1441,"Tah Tong Textile Co., Ltd.",1441.TW,-24.06,0.1,0.044,Yes
+1442,"Arich Enterprise Co., Ltd.",4173.TWO,-29.4,0.125,0.125,Yes
+1443,TTFB Company Limited,2729.TWO,-14.86,0.058,0.114,No
+1444,"G&E Herbal Biotechnology Co., Ltd.",4911.TWO,-38.95,0.176,0.068,No
+1445,"Taiwan Pelican Express Co., Ltd.",2642.TW,-32.08,0.138,0.098,Yes
+1446,Dafeng TV Ltd.,6184.TW,-13.18,0.051,0.031,Yes
+1447,"Lucky Royal Co., Ltd.",7791.TW,-29.93,0.127,0.224,Yes
+1448,"Foxwell Power Co., Ltd.",6994.TW,-63.61,0.349,0.521,Yes
+1449,Mycenax Biotech Inc.,4726.TWO,-38.37,0.169,0.043,Yes
+1450,"Kura Sushi Asia Co., Ltd.",2754.TWO,-30.2,0.125,0.048,Yes
+1451,Sea & Land Integrated Corp.,5603.TWO,-27.56,0.112,0.09,No
+1452,"TWOWAY Communications, Inc.",8045.TW,-42.13,0.187,0.182,Yes
+1453,InnoPharmax Inc.,4172.TWO,-47.4,0.218,0.118,Yes
+1454,"LAUNXP Biomedical Co., Ltd",6876.TWO,-56.07,0.274,0.225,No
+1455,"O-TA Precision Industry Co., Ltd.",8924.TWO,-27.76,0.111,0.139,Yes
+1456,Lifestyle Global Enterprise Inc.,8066.TWO,-34.91,0.144,0.034,No
+1457,Systex Fintech Corporation,7819.TWO,-72.52,0.415,0.011,Yes
+1458,"Greenrock Energy Co., Ltd.",7833.TWO,-60.02,0.295,0.036,No
+1459,Dadi Early-Childhood Education Group Limited,8437.TWO,-49.54,0.221,0.359,Yes
+1460,"Li Cheng Enterprise Co., Ltd.",4426.TW,-27.19,0.103,0.15,No
+1461,"Meribank Biotech Co., Ltd",4724.TWO,-55.43,0.257,0.292,Yes
+1462,Jinli Group Holdings Limited,8429.TW,-25.27,0.094,0.016,No
+1463,"Gwo Xi Stem Cell Applied Technology Co. , Ltd",6704.TWO,-39.5,0.159,0.142,Yes
+1464,"Richmond International Travel & Tours Co.,Ltd",2743.TWO,-35.9,0.141,0.336,Yes
+1465,Yummy Town (Cayman) Holdings Corporation,2726.TWO,-50.62,0.219,0.364,Yes
+1466,SciVision Biotech Inc.,1786.TW,-53.26,0.233,0.28,Yes
+1467,"TSA International Co., Ltd.",7889.TWO,-37.42,0.145,0.04,No
+1468,CHC Healthcare Group,4164.TW,-46.4,0.189,0.132,Yes
+1469,"Channel Well Technology Co.,Ltd.",3078.TWO,-37.51,0.143,0.169,Yes
+1470,Enrestec Inc.,7507.TWO,-53.41,0.228,0.254,No
+1471,Tehmag Foods Corporation,1264.TWO,-12.0,0.039,0.018,No
+1472,"Lung Hwa Electronics Co., Ltd.",2424.TW,-85.78,0.546,0.262,Yes
+1473,"Oceanic Beverages Co., Inc.",1213.TW,-42.06,0.161,0.006,No
+1474,Sun Max Tech Limited,6591.TW,-45.76,0.179,0.29,Yes
+1475,Eslite Spectrum Corporation,2926.TWO,-32.82,0.116,0.121,Yes
+1476,Greenbase Technology Corp,7771.TWO,-47.19,0.183,0.047,No
+1477,"Argo Yachts Development Co.,Ltd.",7566.TWO,-43.43,0.164,0.024,No
+1478,"Star Comgistic Capital Co., Ltd.",4930.TW,-30.48,0.104,0.095,Yes
+1479,Changing Information Technology Inc.,8272.TWO,-31.28,0.105,0.168,Yes
+1480,"Winston Medical Supply Co., Ltd.",6817.TWO,-57.85,0.233,0.329,Yes
+1481,"InPsytech, Inc.",7898.TWO,-90.05,0.581,1.297,Yes
+1482,Altasec Technology Corporation,7919.TWO,-90.62,0.588,1.864,Yes
+1483,"Sunhawk Vision Biotech, Inc.",7759.TWO,-60.69,0.246,0.096,Yes
+1484,"Lealea Hotels & Resorts Co., Ltd.",5364.TWO,-52.64,0.198,0.268,No
+1485,Antec Inc.,6276.TWO,-55.82,0.214,0.116,Yes
+1486,Comtrend Corporation,8089.TWO,-51.36,0.188,0.155,Yes
+1487,"Lumosa Therapeutics Co., Ltd.",6535.TWO,-75.38,0.354,0.259,Yes
+1488,"SynCore Biotechnology Co.,Ltd",4192.TWO,-34.32,0.107,0.119,Yes
+1489,"eLand Information Co., Ltd",6925.TWO,-63.86,0.243,0.109,No
+1490,"Linco Technology Co., Ltd.",3644.TWO,-80.53,0.357,,
+1491,"Fun Yours Technology Co.,Ltd.",6482.TWO,-46.74,0.125,0.001,Yes
+1492,TSG Star Travel Corp.,2719.TWO,-45.13,0.117,0.283,Yes
+1493,"ZEITEC Semiconductor Co., LTD.",7770.TWO,-57.37,0.163,0.176,No
+1494,Synbio Tech Inc.,1295.TWO,-63.48,0.175,0.022,Yes
+1495,QBit Semiconductor Ltd.,7913.TWO,-64.26,0.166,0.289,Yes
+1496,EVOASIS INC.,7922.TWO,-62.09,0.132,0.411,Yes
+1497,Acerpure Inc.,7794.TWO,26.03,,,
+1498,H2U Corporation,7835.TW,-54.64,,,
+1499,"Citiesocial Co., Ltd.",7904.TWO,-76.68,,,
+1500,"Weblisher Data Tech Co., Ltd.",7933.TWO,-60.63,,,
+1501,"SMOBiO Technology, Inc",7422.TWO,-51.84,,,
+1502,"Jollify Creative, Ltd.",7748.TWO,-85.6,,,
+1503,"Chyi Ding Technologies Co., Ltd",6849.TWO,-19.89,,,

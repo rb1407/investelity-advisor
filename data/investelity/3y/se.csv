@@ -1,0 +1,537 @@
+Rank,Name,Ticker,Return (%),Risk
+1,Volati AB (publ),VOLO-PREF.ST,8.79,0.029
+2,Xtrackers Euro Stoxx Quality Dividend UCITS ETF 1D,XD3E.ST,28.81,0.104
+3,Ambea AB (publ),AMBEA.ST,82.51,0.268
+4,Xtrackers MSCI World ex USA UCITS ETF 1C USD,EXUS.ST,23.93,0.097
+5,Swedbank AB (publ),SWED-A.ST,36.41,0.145
+6,Xtrackers MSCI Nordic UCITS ETF 1C,XMN1.ST,28.03,0.117
+7,Attendo AB (publ),ATT.ST,71.92,0.27
+8,Xtrackers MSCI World Small Cap UCITS ETF 1C,XSWC.ST,31.85,0.14
+9,Avarda Bank AB (publ),AVARDA.ST,72.11,0.284
+10,Cloetta AB (publ),CLA-B.ST,59.14,0.26
+11,Skandinaviska Enskilda Banken AB (publ),SEB-A.ST,30.83,0.153
+12,Xtrackers MSCI Emerging Markets UCITS ETF 1C,XMME.ST,43.52,0.213
+13,Skandinaviska Enskilda Banken AB (publ),SEB-C.ST,31.25,0.16
+14,Svenska Handelsbanken AB (publ),SHB-A.ST,32.62,0.167
+15,Veteranpoolen AB (publ),VPAB-B.ST,46.1,0.227
+16,Telia Company AB (publ),TELIA.ST,35.49,0.183
+17,Besqab AB (publ),BESQAB-PREF-B.ST,20.44,0.112
+18,Xtrackers Russell 2000 UCITS ETF 1C,XRS2.ST,25.98,0.139
+19,Tele2 AB (publ),TEL2-B.ST,37.81,0.195
+20,NP3 Fastigheter AB (publ),NP3-PREF.ST,16.01,0.091
+21,Xtrackers S&P 500 UCITS ETF 4C - USD,XDPU.ST,21.75,0.123
+22,Scandic Hotels Group AB (publ),SHOT.ST,42.5,0.227
+23,Clas Ohlson AB (publ),CLAS-B.ST,72.09,0.356
+24,Tingsvalvet Fastighets AB (publ),TINGS-PREF.ST,22.39,0.131
+25,Svenska Handelsbanken AB (publ),SHB-B.ST,42.18,0.231
+26,Tele2 AB (publ),TEL2-A.ST,34.19,0.193
+27,AB Sagax (publ),SAGA-D.ST,16.45,0.1
+28,Saab AB (publ),SAAB-B.ST,80.83,0.4
+29,Kallebäck Property Invest AB (publ),KAPIAB.ST,12.69,0.079
+30,Nordrest Holding AB (publ),NREST.ST,56.83,0.311
+31,Securitas AB (publ),SECU-B.ST,27.2,0.171
+32,ScandBook Holding AB (publ),SBOK-B.ST,37.16,0.226
+33,AQ Group AB (publ),AQ.ST,45.07,0.269
+34,Fastighetsbolaget Emilshus AB (publ),EMIL-PREF.ST,15.62,0.106
+35,Xtrackers Artificial Intelligence & Big Data UCITS ETF 1C,XAIX.ST,55.09,0.326
+36,FastPartner AB (publ),FPAR-D.ST,21.43,0.144
+37,Storytel AB (publ),STORY-B.ST,68.26,0.392
+38,Klimator AB (publ),KLIMAT.ST,52.53,0.318
+39,AcadeMedia AB (publ),ACAD.ST,37.97,0.243
+40,Unlimited Travel Group UTG AB (publ),UTG.ST,50.43,0.31
+41,Cedergrenska AB (publ),CEDER.ST,77.97,0.442
+42,Vertiseit AB (publ),VERT-B.ST,65.55,0.401
+43,Nordea Bank Abp,NDA-SE.ST,20.44,0.148
+44,Avanza Bank Holding AB (publ),AZA.ST,40.0,0.281
+45,Xtrackers NASDAQ 100 UCITS ETF 1C,XNAS.ST,29.78,0.22
+46,Skanska AB (publ),SKA-B.ST,22.08,0.17
+47,TalkPool AG,TALK.ST,67.83,0.449
+48,Lundin Mining Corporation,LUMI.ST,61.42,0.434
+49,Observit AB,OBSE.ST,85.8,0.566
+50,HomeMaid AB (publ),HOME-B.ST,36.55,0.284
+51,Sandvik AB (publ),SAND.ST,31.62,0.252
+52,Sampo Oyj,SAMPO-SEK.ST,17.62,0.151
+53,Zinzino AB (publ),ZZ-B.ST,83.1,0.573
+54,Loomis AB (publ),LOOMIS.ST,33.01,0.269
+55,Berner Industrier AB,BERNER-B.ST,56.0,0.423
+56,Bokusgruppen AB (publ),BOKUS.ST,46.59,0.37
+57,NCC AB (publ),NCC-B.ST,24.96,0.214
+58,Sibek AB (publ),SIBEK.ST,64.69,0.491
+59,Svedbergs Group AB (publ),SVED-B.ST,40.43,0.335
+60,Asmodee Group AB (publ),ASMDEE-B.ST,40.82,0.339
+61,MilDef Group AB (publ),MILDEF.ST,70.28,0.533
+62,Invoicery Group AB (publ),FRILAN.ST,32.01,0.277
+63,AddLife AB (publ),ALIF-B.ST,50.32,0.409
+64,Lagercrantz Group AB (publ),LAGR-B.ST,34.1,0.296
+65,Haypp Group AB (publ),HAYPP.ST,66.68,0.521
+66,Alimak Group AB (publ),ALIG.ST,34.94,0.305
+67,Fastighetsbolaget Emilshus AB (publ),EMIL-B.ST,34.14,0.299
+68,NCC AB (publ),NCC-A.ST,25.21,0.229
+69,Solnaberg Property AB (publ),SOLNA.ST,17.1,0.162
+70,VALOUR BITCOIN ZERO ETN,BTC-ZERO-EUR.ST,70.24,0.553
+71,Idun Industrier AB (publ),IDUN-B.ST,25.74,0.236
+72,AB SKF (publ),SKF-A.ST,21.65,0.203
+73,ALM Equity AB (publ),ALM-PREF.ST,17.42,0.17
+74,AB SKF (publ),SKF-B.ST,21.72,0.208
+75,Xtrackers MSCI World Health Care UCITS ETF 1C,XDWH.ST,18.28,0.178
+76,Addtech AB (publ.),ADDT-B.ST,31.41,0.293
+77,ASSA ABLOY AB (publ),ASSA-B.ST,19.03,0.187
+78,Alfa Laval AB (publ),ALFA.ST,20.03,0.198
+79,Telefonaktiebolaget LM Ericsson (publ),ERIC-B.ST,31.95,0.303
+80,Telefonaktiebolaget LM Ericsson (publ),ERIC-A.ST,31.25,0.301
+81,Heimstaden AB (publ),HEIM-PREF.ST,45.55,0.418
+82,Karnell Group AB (publ),KARNEL-B.ST,43.56,0.403
+83,ByggPartner Gruppen AB (publ),BYGGP.ST,56.35,0.501
+84,Siljansvik AB (publ),SIVI.ST,47.0,0.433
+85,Lifco AB (publ),LIFCO-B.ST,22.99,0.236
+86,Dynavox Group AB (publ),DYVOX.ST,49.24,0.464
+87,RaySearch Laboratories AB (publ),RAY-B.ST,43.6,0.42
+88,Unibap Space Solutions AB (publ),UNIBAP.ST,74.66,0.663
+89,Byggmax Group AB (publ),BMAX.ST,29.21,0.307
+90,Björn Borg AB (publ),BORG.ST,27.91,0.295
+91,CoinShares XBT Bitcoin Tracker EUR ETN,BITCOIN-XBTE.ST,60.29,0.574
+92,Calviks AB (publ),CALVIK.ST,57.82,0.565
+93,Norion Bank AB (publ),NORION.ST,31.58,0.341
+94,Concejo AB (publ),CNCJO-B.ST,35.59,0.378
+95,Hanza AB (publ),HANZA.ST,44.29,0.457
+96,Synsam AB (publ),SYNSAM.ST,27.51,0.303
+97,Safe at Sea AB (publ),SAFE.ST,37.76,0.401
+98,Inwido AB (publ),INWI.ST,27.33,0.302
+99,CoinShares XBT Bitcoin Tracker One ETN,BITCOIN-XBT.ST,59.59,0.595
+100,Freja eID Group AB (publ),FREJA.ST,55.71,0.565
+101,Sustainion Group AB,SUSG.ST,59.7,0.606
+102,Beijer Alma AB (publ),BEIA-B.ST,23.88,0.278
+103,Acrinova AB (publ),ACRI-B.ST,32.42,0.366
+104,Carasent AB (publ),CARA.ST,30.82,0.355
+105,Hultstrom Group AB (publ),SPACEN-B.ST,21.86,0.261
+106,MedCap AB (publ),MCAP.ST,42.15,0.467
+107,Studsvik AB (publ),SVIK.ST,40.89,0.456
+108,Viking Supply Ships AB (publ),VSSAB-B.ST,21.79,0.261
+109,Dextech Medical AB,DEX.ST,54.44,0.581
+110,Atlas Copco AB (publ),ATCO-B.ST,16.94,0.209
+111,Proact IT Group AB (publ),PACT.ST,31.21,0.366
+112,Implantica AG,IMP-A-SDB.ST,71.63,0.737
+113,mySafety Group AB,SAFETY-B.ST,46.96,0.525
+114,VBG Group AB (publ),VBG-B.ST,27.3,0.33
+115,Atlas Copco AB (publ),ATCO-A.ST,17.27,0.225
+116,Karnov Group AB (publ),KAR.ST,25.81,0.328
+117,Acrinova AB (publ),ACRI-A.ST,25.54,0.326
+118,Rederiaktiebolaget Gotland (publ),GOTL-B.ST,16.5,0.221
+119,Envirologic AB (publ),ENVI-B.ST,59.41,0.686
+120,Saniona AB (publ),SANION.ST,83.71,0.907
+121,Lappland Guldprospektering AB (publ),LGOLD-B.ST,74.65,0.83
+122,Rejlers AB (publ),REJL-B.ST,18.16,0.245
+123,Modern Times Group MTG AB,MTG-B.ST,31.06,0.399
+124,Modern Times Group MTG AB,MTG-A.ST,31.52,0.404
+125,Bonesupport Holding AB (publ),BONEX.ST,29.45,0.382
+126,Rederiaktiebolaget Gotland (publ),GOTL-A.ST,15.02,0.206
+127,Medicover AB (publ),MCOV-B.ST,26.59,0.349
+128,Careium AB (Publ),CARE.ST,28.71,0.38
+129,Aixia Group AB (publ),AIXIA-B.ST,73.79,0.855
+130,BIMobject AB,BIM.ST,28.15,0.379
+131,L E Lundbergföretagen AB (publ),LUND-B.ST,11.6,0.17
+132,Paxman AB (publ),PAX.ST,29.79,0.417
+133,Abera Bioscience AB,ABERA.ST,49.64,0.666
+134,Bure Equity AB (publ),BURE.ST,18.8,0.285
+135,Advenica AB (publ),ADVE.ST,57.95,0.769
+136,Arion banki hf.,ARION-SDB.ST,13.96,0.218
+137,Essity AB (publ),ESSITY-B.ST,11.51,0.183
+138,White Pearl Technology Group AB,WPTG-B.ST,62.04,0.822
+139,Coor Service Management Holding AB,COOR.ST,16.09,0.251
+140,OncoZenge AB (publ),ONCOZ.ST,64.24,0.85
+141,Swedish Logistic Property AB,SLP-B.ST,14.19,0.224
+142,ITAB Group AB (publ),ITAB.ST,41.1,0.588
+143,Essity AB (publ),ESSITY-A.ST,11.45,0.187
+144,Clavister Holding AB (publ.),CLAV.ST,49.16,0.698
+145,District Metals Corp.,DMXSE-SDB.ST,82.29,1.058
+146,Boozt AB (publ),BOOZT.ST,31.26,0.475
+147,Vimian Group AB (publ),VIMIAN.ST,20.17,0.331
+148,Momentum Group AB (publ),MMGR-B.ST,21.23,0.35
+149,RVRC Holding AB (publ),RVRC.ST,25.0,0.408
+150,Xtrackers Europe Defence Technologies UCITS ETF 1C EUR,XDEF.ST,10.15,0.178
+151,Candles Scandinavia AB (publ),CANDLE-B.ST,41.13,0.644
+152,NCAB Group AB (publ),NCAB.ST,26.18,0.435
+153,Novotek AB,NTEK-B.ST,18.73,0.324
+154,Case Group AB (publ),CASE.ST,28.03,0.47
+155,BioGaia AB (publ),BIOG-B.ST,13.12,0.234
+156,Opter AB (publ),OPTER.ST,15.93,0.286
+157,Alligo AB (publ),ALLIGO-B.ST,17.9,0.319
+158,Dlaboratory Sweden AB (publ),DLAB.ST,34.06,0.572
+159,Eastnine AB (publ),EAST.ST,9.36,0.177
+160,Ratos AB (publ),RATO-B.ST,12.9,0.242
+161,Preservium Property AB,PRESRV.ST,38.94,0.662
+162,Sweco AB (publ),SWEC-A.ST,15.05,0.281
+163,SynAct Pharma AB,SYNACT.ST,53.14,0.87
+164,CombinedX AB (publ),CX.ST,18.36,0.341
+165,Angler Gaming plc,ANGL.ST,24.13,0.439
+166,Enity Holding AB (publ),ENITY.ST,19.6,0.364
+167,Elicera Therapeutics AB (publ),ELIC.ST,85.39,1.281
+168,Cereno Scientific AB (publ),CRNO-B.ST,38.58,0.67
+169,Waystream Holding AB (publ),WAYS.ST,29.76,0.534
+170,Storskogen Group AB (publ),STOR-B.ST,28.28,0.511
+171,Sweco AB (publ),SWEC-B.ST,15.12,0.288
+172,Getinge AB (publ),GETI-B.ST,16.17,0.308
+173,BHG Group AB (publ),BHG.ST,26.05,0.477
+174,Systemair AB (publ),SYSR.ST,14.19,0.272
+175,Eniro Group AB (publ),ENRO.ST,18.79,0.361
+176,Nolato AB (publ),NOLA-B.ST,12.41,0.245
+177,Slottsviken Fastighetsaktiebolag (publ),SLOTT-B.ST,15.16,0.301
+178,Nattaro Labs AB (publ),NATTA.ST,50.08,0.876
+179,Westpay AB,WPAY.ST,32.68,0.608
+180,Nyorda AB,NYOR.ST,22.19,0.431
+181,Gomero Group AB (publ),GOMERO.ST,26.39,0.505
+182,Litium AB (publ),LITI.ST,19.88,0.393
+183,RugVista Group AB (publ),RUG.ST,19.43,0.386
+184,CoinShares XBT Ether Tracker Euro ETN,ETHEREUM-XBTE.ST,47.73,0.858
+185,Leading Edge Materials Corp.,LEMSE.ST,74.78,1.236
+186,Grangex AB,GRANGX.ST,79.38,1.31
+187,Arla Plast AB,ARPL.ST,12.52,0.26
+188,CoinShares XBT Ether Tracker One ETN,ETHEREUM-XBT.ST,46.66,0.857
+189,Viva Wine Group AB,VIVA.ST,11.57,0.243
+190,Svolder AB (publ),SVOL-B.ST,9.29,0.199
+191,BioInvent International AB (publ),BINV.ST,34.74,0.673
+192,Altra Fastigheter AB (publ),ALTRA.ST,18.52,0.389
+193,Indutrade AB (publ),INDT.ST,13.92,0.304
+194,HMS Networks AB (publ),HMS.ST,16.92,0.367
+195,Studentbostäder i Norden AB (publ),STUDBO.ST,18.24,0.398
+196,H & M Hennes & Mauritz AB (publ),HM-B.ST,13.45,0.299
+197,Perpetua Medical AB (publ),PERP-B.ST,42.37,0.856
+198,Ferronordic AB (publ),FNM.ST,20.71,0.458
+199,Smart Eye AB (publ),SEYE.ST,33.9,0.715
+200,Athanase Innovation AB,ATIN.ST,16.68,0.379
+201,Enea AB (publ),ENEA.ST,19.22,0.437
+202,Midsummer AB (publ),MIDS.ST,67.44,1.318
+203,KB Components AB (publ),KBC.ST,18.47,0.429
+204,Ratos AB (publ),RATO-A.ST,8.71,0.214
+205,Stockwik AB (publ),STWK.ST,19.24,0.465
+206,Castellum AB (publ),CAST.ST,9.6,0.243
+207,HAKI Safety AB (publ),HAKI-B.ST,10.17,0.261
+208,Munters Group AB (publ),MTRS.ST,19.53,0.484
+209,Instalco AB (publ),INSTAL.ST,16.33,0.419
+210,SinterCast AB (publ),SINT.ST,9.77,0.261
+211,Amido AB (publ),AMIDO.ST,28.94,0.746
+212,Acconeer AB (publ),ACCON.ST,33.32,0.846
+213,Invisio AB (publ),IVSO.ST,12.99,0.357
+214,Lyckegård Group AB (publ),LYGRD.ST,23.55,0.636
+215,Online Brands Nordic AB (publ),OBAB.ST,18.65,0.516
+216,Sdiptech AB (publ),SDIP-B.ST,10.68,0.306
+217,Sleep Cycle AB (publ),SLEEP.ST,18.94,0.535
+218,HEXPOL AB (publ),HPOL-B.ST,8.97,0.265
+219,C-Rad AB (publ),CRAD-B.ST,13.47,0.396
+220,BioArctic AB (publ),BIOA-B.ST,16.69,0.488
+221,Adtraction Group AB,ADTR.ST,12.47,0.382
+222,Kentima Holding AB (publ),KENH.ST,15.69,0.477
+223,Skolon AB (publ),SKOLON.ST,15.75,0.484
+224,Infant Bacterial Therapeutics AB (publ),IBT-B.ST,21.28,0.64
+225,CellaVision AB (publ),CEVI.ST,13.19,0.415
+226,Corline Biomedical AB,CLBIO.ST,16.45,0.515
+227,Samhällsbyggnadsbolaget i Norden AB (publ),SBB-B.ST,20.84,0.656
+228,Precise Biometrics AB (publ),PREC.ST,39.38,1.168
+229,Immunovia AB (publ),IMMNOV.ST,58.03,1.622
+230,Verve Group Media SE,VER.ST,23.54,0.746
+231,Mips AB (publ),MIPS.ST,18.14,0.589
+232,Hacksaw AB (publ),HACK.ST,14.79,0.492
+233,Kambi Group plc,KAMBI.ST,13.47,0.457
+234,VNV Global AB (publ),VNV.ST,13.06,0.447
+235,Wihlborgs Fastigheter AB (publ),WIHL.ST,6.96,0.246
+236,Wallenstam AB (publ),WALL-B.ST,7.95,0.287
+237,NOTE AB (publ),NOTE.ST,9.03,0.33
+238,Investment AB Latour (publ),LATO-B.ST,6.17,0.23
+239,Orrön Energy AB (publ),ORRON.ST,14.26,0.516
+240,Spotlight Group AB (publ),SPGR.ST,17.89,0.646
+241,Safello Group AB (publ),SFL.ST,15.98,0.582
+242,Intea Fastigheter AB (publ),INTEA-D.ST,4.66,0.178
+243,Alcadon Group AB (publ),ALCA.ST,8.66,0.333
+244,KlaraBo Sverige AB (publ),KLARA-B.ST,6.83,0.265
+245,Diös Fastigheter AB (publ),DIOS.ST,6.27,0.246
+246,Xvivo Perfusion AB (publ),XVIVO.ST,13.65,0.535
+247,Serstech AB,SERT.ST,16.4,0.642
+248,Gruvaktiebolaget Viscaria,VISC.ST,14.57,0.576
+249,Hexagon AB (publ),HEXA-B.ST,7.96,0.331
+250,AAK AB (publ.),AAK.ST,5.3,0.226
+251,PExA AB (publ),PEXA-B.ST,19.45,0.783
+252,Metacon AB (publ),META.ST,54.57,1.973
+253,WS WeSports Group AB (publ),WSG.ST,7.24,0.316
+254,Fastighets AB Balder (publ),BALD-B.ST,7.59,0.331
+255,Active Biotech AB (publ),ACTI.ST,55.1,2.025
+256,Neovici Holding AB (publ),NEO-B.ST,42.32,1.636
+257,Nepa AB (publ),NEPA.ST,9.15,0.402
+258,FastPartner AB (publ),FPAR-A.ST,7.5,0.335
+259,Loyal Solutions A/S,LOYAL.ST,13.6,0.605
+260,Flat Capital AB (publ),FLAT-B.ST,12.85,0.574
+261,AVTECH Sweden AB (publ),AVT-B.ST,12.59,0.569
+262,Nordic Flanges Group AB (publ),NFGAB.ST,17.45,0.778
+263,Sedana Medical AB (publ),SEDANA.ST,16.12,0.762
+264,Net Insight AB (publ),NETI-B.ST,13.75,0.661
+265,Kjell Group AB (publ),KJELL.ST,11.73,0.573
+266,Lime Technologies AB (publ),LIME.ST,7.13,0.356
+267,AstraZeneca PLC,AZN.ST,4.65,0.241
+268,Oncopeptides AB (publ),ONCO.ST,44.72,1.996
+269,Modus Therapeutics Holding AB (publ),MODTX.ST,32.6,1.52
+270,Troax Group AB (publ),TROAX.ST,8.69,0.446
+271,Flowscape Technology AB (publ),FLOWS.ST,7.82,0.411
+272,K2A Knaust & Andersson Fastigheter AB (publ),K2A-B.ST,17.95,0.91
+273,Nicoccino Holding AB (publ),NICO.ST,26.86,1.328
+274,Vimab Group AB (publ),VIMAB.ST,16.11,0.835
+275,Mendus AB (publ),IMMU.ST,11.21,0.594
+276,Genova Property Group AB (publ),GPG.ST,5.41,0.297
+277,Lammhults Design Group AB (publ),LAMM-B.ST,5.77,0.321
+278,INQ Group AB (publ),INQ.ST,26.27,1.347
+279,ODI Pharma AB (publ),ODI.ST,21.64,1.16
+280,Alzinova AB (publ),ALZ.ST,28.63,1.503
+281,Yubico AB,YUBICO.ST,12.15,0.685
+282,Polygiene Group AB,POLYG.ST,12.23,0.691
+283,Bulten AB (publ),BULTEN.ST,6.13,0.36
+284,Hufvudstaden AB (publ),HUFV-A.ST,2.69,0.162
+285,Simris Group AB (PUBL),SIMRIS-B.ST,23.3,1.298
+286,Alpcot Holding AB (publ),ALPCOT-B.ST,7.76,0.475
+287,Nilsson Special Vehicles AB (publ),NILS.ST,11.18,0.712
+288,BICO Group AB (publ),BICO.ST,9.77,0.688
+289,Newbury Pharmaceuticals AB (publ),NEWBRY.ST,9.27,0.676
+290,Modelon AB (publ),MODEL.ST,7.52,0.574
+291,Guldbrev Holding AB (publ),GULD.ST,4.29,0.36
+292,M.O.B.A. Network AB,MOBA.ST,22.65,1.859
+293,Enzymatica AB (publ),ENZY.ST,10.48,0.951
+294,Cantargia AB (publ),CANTA.ST,11.06,1.032
+295,Devyser Diagnostics AB (publ),DVYSR.ST,4.01,0.396
+296,IDL Diagnostics AB (publ),IDLDX.ST,5.7,0.56
+297,Annehem Fastigheter AB,ANNE-B.ST,2.77,0.276
+298,Tourn International AB (publ),TOURN.ST,6.18,0.624
+299,JM AB (publ),JM.ST,3.48,0.365
+300,K-Fast Holding AB (publ),KFAST-B.ST,4.52,0.501
+301,Tellusgruppen AB (publ),TELLUS.ST,2.97,0.34
+302,NanoCap Group AB (publ),NANOC-B.ST,4.4,0.517
+303,Xintela AB (publ),XINT.ST,5.62,0.713
+304,Subgen AI AB (publ),SUBGEN.ST,14.5,1.847
+305,Lyko Group AB (publ),LYKO-A.ST,3.82,0.515
+306,MTI Investment AB (publ),MTI.ST,5.79,0.871
+307,Gapwaves AB (publ),GAPW-B.ST,4.17,0.638
+308,Electrolux Professional AB (publ),EPRO-B.ST,1.98,0.328
+309,NextCell Pharma AB,NXTCL.ST,4.04,0.908
+310,edyoutec AB,EDYOU.ST,5.18,1.201
+311,Image Systems AB,IS.ST,2.76,0.672
+312,Safeture AB (publ),SFTR.ST,1.42,0.355
+313,Integrum AB (publ),INTEG-B.ST,3.68,0.939
+314,Scandinavian Real Heart AB (Publ),HEART.ST,3.85,0.997
+315,NOBA Bank Group AB (publ),NOBA.ST,1.39,0.381
+316,VEF AB (publ),VEFAB.ST,1.08,0.348
+317,Billerud AB (publ),BILL.ST,0.91,0.35
+318,Infrea AB,INFREA.ST,0.61,0.316
+319,Photocat A/S,PCAT.ST,1.91,1.134
+320,Agtira AB,AGTIRA-B.ST,1.32,0.82
+321,K2A Knaust & Andersson Fastigheter AB (publ),K2A-PREF.ST,0.87,0.552
+322,Ortivus AB (publ),ORTI-A.ST,1.31,0.933
+323,OptiCept Technologies AB (publ),OPTI.ST,1.01,0.819
+324,Duni AB (publ),DUNI.ST,0.22,0.205
+325,Diamyd Medical AB (publ),DMYD-B.ST,0.57,0.902
+326,Lindab International AB (publ),LIAB.ST,0.07,0.29
+327,Enad Global 7 AB (publ),EG7.ST,0.02,0.431
+328,Q-linea AB (publ),QLINEA.ST,-0.63,1.697
+329,Knowit AB (publ),KNOW.ST,-0.29,0.37
+330,KABE Group AB (publ.),KABE-B.ST,-0.35,0.262
+331,Exsitec Holding AB (publ),EXS.ST,-0.52,0.297
+332,Asker Healthcare Group AB (publ),ASKER.ST,-0.71,0.337
+333,Generic Sweden AB,GENI.ST,-0.7,0.306
+334,Prisma Properties AB (publ),PRISMA.ST,-0.41,0.176
+335,Vidhance AB (publ),VIDH.ST,-2.09,0.789
+336,Tempest Security AB (publ),TSEC.ST,-1.39,0.477
+337,Afry AB,AFRY.ST,-0.7,0.235
+338,Netel Holding AB (publ),NETEL.ST,-2.62,0.721
+339,Drillcon AB (publ),DRIL.ST,-1.13,0.28
+340,Ogunsen AB (publ),OGUN-B.ST,-0.97,0.227
+341,BTS Group AB (publ),BTS-B.ST,-1.64,0.378
+342,BPC Instruments AB,BPCINS.ST,-2.53,0.528
+343,Double Bond Pharmaceutical International AB (publ),DBP-B.ST,-4.78,0.965
+344,PowerCell Sweden AB (publ),PCELL.ST,-4.25,0.855
+345,EatGood Sweden AB (Publ),EATG.ST,-6.52,1.317
+346,Qliro AB (publ),QLIRO.ST,-2.17,0.413
+347,Cavotec Group AB,CCC.ST,-1.67,0.302
+348,Embracer Group AB (publ),EMBRAC-B.ST,-3.32,0.588
+349,Prevas AB,PREV-B.ST,-1.94,0.317
+350,Skåne-möllan AB (publ),SKMO.ST,-1.81,0.296
+351,Meko AB (publ),MEKO.ST,-1.7,0.275
+352,Vivesto AB,VIVE.ST,-5.35,0.799
+353,Aquaticus Real Estate AB (publ),AQUAT.ST,-2.22,0.273
+354,Catella AB (publ),CAT-A.ST,-2.9,0.349
+355,4C Group AB (publ),4C.ST,-6.91,0.842
+356,Africa Energy Corp.,AEC.ST,-6.38,0.775
+357,Thule Group AB (publ),THULE.ST,-2.74,0.323
+358,Addnode Group AB (publ),ANOD-B.ST,-3.37,0.389
+359,Tieto Oyj,TIETOS.ST,-1.83,0.206
+360,Bioextrax AB (publ),BIOEX.ST,-4.58,0.519
+361,Precio Fishbone AB (publ),PRCO-B.ST,-1.97,0.208
+362,Betsson AB (publ),BETS-B.ST,-2.85,0.298
+363,OssDsign AB (publ),OSSD.ST,-5.17,0.53
+364,Stora Enso Oyj,STE-R.ST,-2.86,0.27
+365,Greater Than AB (publ),GREAT.ST,-13.71,1.366
+366,Neola Medical AB (publ),NEOLA.ST,-7.42,0.694
+367,Irisity AB (publ),IRIS.ST,-17.22,1.658
+368,Teqnion AB (publ),TEQ.ST,-2.92,0.253
+369,Sociallite US AB (publ),SOCIAL.ST,-12.15,1.099
+370,XANO Industri AB (publ),XANO-B.ST,-5.08,0.433
+371,CDON AB,CDON.ST,-7.74,0.648
+372,Sensys Gatso Group AB (publ),SGG.ST,-5.1,0.416
+373,AB Sagax (publ),SAGA-B.ST,-3.16,0.255
+374,Nosa Plugs AB,NOSA.ST,-7.13,0.554
+375,Nobia AB (publ),NOBI.ST,-6.31,0.486
+376,AGES Industri AB (publ),AGES-B.ST,-3.83,0.277
+377,AB Sagax (publ),SAGA-A.ST,-3.46,0.247
+378,Elekta AB (publ),EKTA-B.ST,-3.73,0.263
+379,IRLAB Therapeutics AB (publ),IRLAB-A.ST,-12.66,0.904
+380,CTT Systems AB (publ),CTT.ST,-5.14,0.353
+381,Surgical Science Sweden AB (publ),SUS.ST,-9.65,0.663
+382,Norditek Group AB (publ),NOTEK.ST,-6.45,0.436
+383,EasyFill AB (publ.),EASY-B.ST,-9.46,0.647
+384,Bonäsudden Holding AB (publ),BONAS.ST,-4.51,0.289
+385,CTEK AB (publ),CTEK.ST,-5.58,0.356
+386,Umida Group AB (publ),UMIDA-B.ST,-9.97,0.651
+387,Söder Sportfiske AB,SODER.ST,-5.81,0.363
+388,Stora Enso Oyj,STE-A.ST,-4.52,0.275
+389,Spago Nanomedical AB (publ),SPAGO.ST,-11.31,0.692
+390,Vitrolife AB (publ),VITR.ST,-6.63,0.394
+391,Evolution AB (publ),EVO.ST,-5.23,0.293
+392,Corem Property Group AB (publ),CORE-A.ST,-7.58,0.429
+393,Oneflow AB (publ),ONEF.ST,-8.23,0.462
+394,Meren Energy Inc.,MER.ST,-6.06,0.335
+395,Nederman Holding AB (publ),NMAN.ST,-5.1,0.28
+396,Pricer AB (publ),PRIC-B.ST,-9.8,0.543
+397,Tribox Group AB (publ),TRIBO-B.ST,-9.0,0.493
+398,InCoax Networks AB (publ),INCOAX.ST,-16.91,0.917
+399,Gaming Corps AB (publ),GCOR.ST,-9.8,0.5
+400,Catella AB (publ),CAT-B.ST,-5.59,0.277
+401,Eolus Aktiebolag (publ),EOLU-B.ST,-7.81,0.385
+402,Krona Public Real Estate AB (publ),KRONA.ST,-6.49,0.314
+403,Uswe Sports AB (publ),USWE.ST,-10.9,0.534
+404,Physitrack PLC,PTRK.ST,-11.47,0.557
+405,Malmbergs Elektriska AB (publ),MEAB-B.ST,-5.32,0.251
+406,Kinnevik AB,KINV-A.ST,-7.96,0.378
+407,Swedencare AB (publ),SECARE.ST,-9.31,0.429
+408,SolTech Energy Sweden AB (publ),SOLT.ST,-36.04,1.896
+409,Arjo AB (publ),ARJO-B.ST,-6.61,0.294
+410,Ferroamp AB (publ),FERRO.ST,-18.43,0.837
+411,Atrium Ljungberg AB (publ),ATRLJ-B.ST,-6.23,0.265
+412,Volvo Car AB (publ.),VOLCAR-B.ST,-13.23,0.582
+413,Scandinavian Enviro Systems AB (publ),SES.ST,-20.97,0.918
+414,Svenska Cellulosa Aktiebolaget SCA (publ),SCA-A.ST,-4.92,0.197
+415,Vaxxa AB,VAXXA.ST,-13.38,0.551
+416,Svenska Cellulosa Aktiebolaget SCA (publ),SCA-B.ST,-5.04,0.193
+417,Fasadgruppen Group AB (publ),FG.ST,-15.17,0.608
+418,SmartCraft Group AB (publ),SMCRT.ST,-7.71,0.293
+419,Paradox Interactive AB (publ),PDX.ST,-8.19,0.306
+420,Mentice AB (publ),MNTC.ST,-14.46,0.544
+421,EQL Pharma AB (publ),EQL.ST,-15.07,0.548
+422,W5 Solutions AB (publ),W5.ST,-14.53,0.522
+423,Maven Wireless Sweden AB (Publ),MAVEN.ST,-15.93,0.567
+424,Clemondo Group AB (publ),CLEM.ST,-8.2,0.281
+425,Elanders AB (publ),ELAN-B.ST,-10.08,0.342
+426,QleanAir AB (publ),QAIR.ST,-12.02,0.411
+427,Hemnet Group AB (publ),HEM.ST,-13.19,0.43
+428,SenzaGen AB,SENZA.ST,-10.13,0.317
+429,Senzime AB (publ),SEZI.ST,-13.73,0.415
+430,GiG Software p.l.c.,GIG-SDB.ST,-22.81,0.71
+431,G5 Entertainment AB (publ),G5EN.ST,-14.98,0.444
+432,Humble Group AB (publ),HUMBLE.ST,-11.09,0.319
+433,Ramlösa shipping AB (publ),RAMSH.ST,-9.89,0.282
+434,Exalt AB (publ),EXALT.ST,-13.66,0.397
+435,Aerowash AB (publ),AERW-B.ST,-25.56,0.784
+436,Katalysen Ventures AB (publ),KAV.ST,-19.14,0.558
+437,Intrum AB (publ),INTRUM.ST,-29.65,0.9
+438,Hexicon AB (publ),HEXI.ST,-26.57,0.774
+439,Promimic AB (publ),PRO.ST,-19.7,0.552
+440,Ework Group AB (publ),EWRK.ST,-11.03,0.293
+441,Holmen AB (publ),HOLM-A.ST,-5.17,0.131
+442,Corem Property Group AB (publ),CORE-B.ST,-16.69,0.445
+443,Holmen AB (publ),HOLM-B.ST,-5.12,0.125
+444,Wise Group AB (publ),WISE.ST,-13.56,0.341
+445,Vitec Software Group AB (publ),VIT-B.ST,-13.65,0.339
+446,Lucara Diamond Corp.,LUC.ST,-19.63,0.493
+447,NIBE Industrier AB (publ),NIBE-B.ST,-12.06,0.285
+448,Nordic LEVEL Group AB (publ.),LEVEL.ST,-18.8,0.455
+449,Absolent Air Care Group AB (publ),ABSO.ST,-14.29,0.335
+450,Divio Technologies AB (publ),DIVIO-B.ST,-25.62,0.636
+451,Invent Medic Sweden AB (publ),IMS.ST,-32.78,0.85
+452,Better Collective A/S,BETCO.ST,-15.81,0.369
+453,Rottneros AB (publ),RROS.ST,-22.31,0.539
+454,Nidhogg Resources Holding AB (publ),NIDHOG.ST,-41.75,1.134
+455,Sveafastigheter AB (publ),SVEAF-B.ST,-9.38,0.202
+456,Sveafastigheter AB (publ),SVEAF.ST,-9.38,0.202
+457,Mangold Fondkommission AB,MANG.ST,-11.54,0.252
+458,Beyond Frames Entertainment AB (publ),BEYOND.ST,-31.91,0.774
+459,ES Group AB (publ),ESGR-B.ST,-22.69,0.509
+460,Enersize Oyj,ENERS.ST,-32.42,0.755
+461,Moment Group AB,MOMENT.ST,-19.8,0.42
+462,NAXS AB (publ),NAXS.ST,-9.27,0.185
+463,Transtema Group AB,TRANS.ST,-21.96,0.469
+464,HF Reverse (RTO) AB,HFRTO-B.ST,-54.81,1.415
+465,Provide IT Sweden AB (publ),PROVIT.ST,-25.77,0.52
+466,EcoRub AB (publ),ECO-B.ST,-31.7,0.659
+467,Alligator Bioscience AB (publ),ATORX.ST,-58.55,1.459
+468,Dustin Group AB (publ),DUST.ST,-31.02,0.617
+469,Luxbright AB (publ),LXB.ST,-37.35,0.77
+470,Nimbus Group AB (Publ),BOAT.ST,-19.0,0.35
+471,Arctic Paper S.A.,ARP.ST,-18.35,0.329
+472,Iconovo AB (publ),ICO.ST,-39.18,0.77
+473,Redsense Medical AB (publ),REDS.ST,-26.2,0.464
+474,Xtrackers Harvest MSCI China Tech 100 UCITS ETF 1C,XCTE.ST,-7.69,0.12
+475,Dometic Group AB (publ),DOM.ST,-24.31,0.415
+476,ScandiDos AB (publ),SDOS.ST,-18.92,0.31
+477,Gasporox AB (publ),GPX.ST,-21.15,0.339
+478,LumenRadio AB (publ),LUMEN.ST,-20.48,0.323
+479,Husqvarna AB (publ),HUSQ-B.ST,-17.95,0.277
+480,DistIT AB (publ),DIST.ST,-51.05,0.973
+481,Husqvarna AB (publ),HUSQ-A.ST,-17.96,0.276
+482,Fenix Outdoor International AG,FOI-B.ST,-17.44,0.258
+483,First Venture Sweden AB (publ),FIRST-B.ST,-22.5,0.337
+484,Saxlund Group AB (publ),SAXG.ST,-37.35,0.607
+485,White Pebbles Ab,WHITE-B.ST,-15.17,0.216
+486,Boule Diagnostics AB (publ),BOUL.ST,-25.88,0.385
+487,Balco Group AB,BALCO.ST,-21.51,0.311
+488,AcouSort AB (publ),ACOU.ST,-40.54,0.649
+489,AB Electrolux (publ),ELUX-B.ST,-30.6,0.442
+490,Initiator Pharma A/S,INIT.ST,-27.48,0.388
+491,Alvotech,ALVO-SDB.ST,-38.67,0.578
+492,Silex Microsystems AB (publ),SILEX.ST,-26.1,0.36
+493,Salix Group AB (publ),SALIX.ST,-14.2,0.183
+494,Wästbygg Gruppen AB (publ),WBGR-B.ST,-44.26,0.68
+495,Realfiction Holding AB (publ),REALFI.ST,-51.31,0.812
+496,Qualisys Holding AB (publ),QSYS.ST,-19.67,0.251
+497,Zenicor Medical Systems AB (publ),ZENI.ST,-31.66,0.433
+498,Gabather AB (publ),GABA.ST,-57.51,0.95
+499,Nanologica AB (publ),NICA.ST,-52.17,0.822
+500,SpectraCure AB (publ),SPEC.ST,-64.37,1.111
+501,Flexion Mobile Plc,FLEXM.ST,-31.16,0.413
+502,Wall to Wall Group AB,WTW-A.ST,-27.0,0.339
+503,Prebona AB (publ),PREBON.ST,-41.71,0.575
+504,B3 Consulting Group AB (publ),B3.ST,-31.35,0.394
+505,KDventures AB,KDV-B.ST,-29.56,0.365
+506,Collaxio AB (publ),COLLAX.ST,-29.63,0.363
+507,Fagerhult Group AB,FAG.ST,-25.56,0.305
+508,CirChem AB (publ),CIRCHE.ST,-34.93,0.439
+509,Bong AB (publ),BONG.ST,-25.84,0.305
+510,JLT Mobile Computers AB (publ),JLT.ST,-29.8,0.351
+511,Västra Hamnen Corporate Finance AB (publ),VH.ST,-33.33,0.401
+512,Bactiguard Holding AB (publ),BACTI-B.ST,-31.85,0.378
+513,Svenska Aerogel Holding AB (publ),AERO.ST,-56.58,0.784
+514,Verisure plc,VSURE.ST,-43.01,0.527
+515,Green Landscaping Group AB (publ),GREEN.ST,-27.82,0.307
+516,BE Group AB (publ),BEGR.ST,-25.96,0.277
+517,AB Electrolux (publ),ELUX-A.ST,-34.74,0.373
+518,Aktiebolaget Gotland Art & Design,GAD.ST,-45.51,0.525
+519,NFO Drives AB (publ),NFO.ST,-33.86,0.355
+520,ShaMaran Petroleum Ltd.,SNM-SDB.ST,-28.46,0.274
+521,DevPort AB (publ),DEVP-B.ST,-24.37,0.228
+522,Gentoo Media Inc.,G2M.ST,-41.96,0.432
+523,Bergholm Holding AB,BHOLM.ST,-25.77,0.239
+524,Qlucore AB (publ),QCORE.ST,-56.49,0.646
+525,Profoto Holding AB (publ),PRFO.ST,-44.46,0.455
+526,Hedera Group AB (publ),HEGR.ST,-55.93,0.607
+527,Fram Skandinavien AB (publ),FRAM-B.ST,-45.48,0.436
+528,Checkin.Com Group AB (publ),CHECK.ST,-53.16,0.494
+529,PPI Public Property Invest AB (publ),PUBLI.ST,-30.23,0.23
+530,OrganoClick AB (publ),ORGC.ST,-49.5,0.384
+531,Inhalation Sciences Sweden AB (publ),ISAB.ST,-63.54,0.538
+532,Raketech Group Holding PLC,RAKE.ST,-54.21,0.415
+533,Meds Apotek AB,MEDS.ST,-53.97,0.388
+534,ALM Equity AB (publ),ALM.ST,-49.05,0.314
+535,Xtrackers Electrification Technologies & Smart Grid UCITS ETF 1C,WIRE.ST,-42.81,0.184
+536,Ellos Holding AB (publ),ELLOS.ST,6.39,

@@ -1,0 +1,90 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Orange Belgium S.A.,OBEL.BR,18.62,0.047,0.053,No
+2,ageas SA/NV,AGS.BR,40.86,0.113,0.173,Yes
+3,KBC Ancora SA,KBCA.BR,53.15,0.175,1.039,Yes
+4,Miko NV,MIKO.BR,37.0,0.134,0.294,Yes
+5,Sipef NV,SIP.BR,57.9,0.219,0.702,No
+6,KBC Group NV,KBC.BR,40.97,0.171,1.159,Yes
+7,Spadel SA,SPA.BR,70.77,0.305,1.355,Yes
+8,BEL 20,^BFX,23.99,0.123,1.0,Yes
+9,Lotus Bakeries NV,LOTB.BR,75.02,0.332,1.931,Yes
+10,Immo Mechelen City Center Naamloze vennootschap,MCC.BR,37.26,0.189,0.528,Yes
+11,Recticel SA/NV,RECT.BR,63.96,0.305,1.434,Yes
+12,Titan S.A.,TITC.BR,72.78,0.34,1.666,Yes
+13,Texaf S.A.,TEXF.BR,28.6,0.158,0.084,Yes
+14,TINC NV,TINC.BR,16.14,0.096,0.037,Yes
+15,Exmar NV,EXM.BR,22.79,0.133,0.557,Yes
+16,Ion Beam Applications SA,IBAB.BR,69.32,0.348,2.246,Yes
+17,Elia Group SA/NV,ELI.BR,39.45,0.231,0.88,Yes
+18,DEME Group NV,DEME.BR,54.82,0.309,1.298,Yes
+19,Anheuser-Busch InBev SA/NV,ABI.BR,45.73,0.28,1.431,Yes
+20,Moury Construct SA,MOUR.BR,32.23,0.22,0.757,Yes
+21,argenx SE,ARGX.BR,54.02,0.344,1.294,Yes
+22,Fluxys Belgium SA,FLUX.BR,30.23,0.211,0.35,No
+23,Ackermans & Van Haaren NV,ACKB.BR,33.79,0.244,1.169,Yes
+24,Deceuninck NV,DECB.BR,28.86,0.227,1.446,Yes
+25,Retail Estates N.V.,RET.BR,13.02,0.114,0.347,Yes
+26,Payton Planar Magnetics Ltd.,PAY.BR,38.5,0.319,0.633,Yes
+27,Jensen-Group NV,JEN.BR,34.45,0.295,1.131,Yes
+28,Fagron NV,FAGR.BR,17.1,0.161,0.92,Yes
+29,Ascencio SA,ASCE.BR,10.66,0.104,0.483,Yes
+30,EnergyVision NV,ENRGY.BR,40.39,0.363,1.963,No
+31,Monni NV,MONNI.BR,45.51,0.415,0.539,No
+32,Colruyt Group N.V.,COLR.BR,19.4,0.198,0.665,No
+33,Nextensa NV/SA,NEXTA.BR,16.92,0.189,0.783,Yes
+34,Compagnie du Bois Sauvage S.A.,COMB.BR,21.23,0.233,0.04,Yes
+35,Aedifica NV/SA,AED.BR,17.59,0.196,1.306,Yes
+36,Qrf Comm. VA,QRF.BR,14.42,0.174,0.71,Yes
+37,Compagnie d'Entreprises CFE SA,CFEB.BR,45.45,0.502,2.183,Yes
+38,Materialise NV,MTLS.BR,36.05,0.418,0.788,Yes
+39,Care Property Invest NV,CPINV.BR,16.63,0.228,0.869,Yes
+40,Immo-Zenobe Gramme SA,ZEN.BR,11.13,0.163,1.244,No
+41,Van de Velde NV,VAN.BR,6.92,0.113,0.447,Yes
+42,Warehouses Estates Belgium S.C.A.,WEB.BR,12.01,0.194,1.123,Yes
+43,Wereldhave Belgium,WEHB.BR,8.68,0.145,0.426,Yes
+44,D'Ieteren Group SA,DIE.BR,21.03,0.349,1.927,Yes
+45,Azelis Group NV,AZE.BR,22.45,0.482,0.503,No
+46,Solvay SA,SOLB.BR,6.84,0.17,0.198,Yes
+47,NV Bekaert SA,BEKB.BR,7.48,0.196,0.973,Yes
+48,Home Invest Belgium S.A.,HOMI.BR,5.31,0.143,0.499,Yes
+49,Immolease Trust NV,DIEG.BR,3.57,0.098,0.602,Yes
+50,Celyad Oncology SA,CYAD.BR,57.07,1.424,0.149,Yes
+51,Groupe Bruxelles Lambert SA,GBLB.BR,5.38,0.178,0.93,Yes
+52,Melexis NV,MELE.BR,16.05,0.533,2.415,Yes
+53,Vastned,VASTB.BR,3.65,0.131,0.582,Yes
+54,Solvac S.A.,SOLV.BR,7.83,0.283,0.582,Yes
+55,Inclusio SA,INCLU.BR,3.7,0.16,0.552,Yes
+56,Sofina Société Anonyme,SOF.BR,2.82,0.242,1.153,Yes
+57,Gimv NV,GIMB.BR,1.03,0.113,0.564,Yes
+58,Brederode SA,BREB.BR,0.61,0.078,0.333,Yes
+59,Nyrstar NV,NYR.BR,3.92,0.903,3.194,Yes
+60,Flowsparks NV,FLSP.BR,0.42,0.432,1.027,No
+61,Tessenderlo Group NV,TESB.BR,-2.02,0.372,2.162,Yes
+62,Accentis N.V.,ACCB.BR,-0.91,0.162,0.346,Yes
+63,Financière de Tubize SA,TUB.BR,-1.82,0.297,0.941,Yes
+64,Option NV,OPTI.BR,-8.65,0.92,4.096,Yes
+65,Quest for Growth NV,QFG.BR,-2.25,0.222,1.173,Yes
+66,Xior Student Housing NV,XIOR.BR,-2.26,0.198,0.756,Yes
+67,Banimmo SA,BANI.BR,-1.06,0.088,0.005,Yes
+68,UCB SA,UCB.BR,-5.3,0.269,0.394,Yes
+69,Biotalys NV,BTLS.BR,-22.06,1.032,5.358,Yes
+70,Floridienne S.A.,FLOB.BR,-6.37,0.256,0.175,Yes
+71,VGP NV,VGP.BR,-8.98,0.316,2.082,Yes
+72,Immo Moury SCA,IMMOU.BR,-7.59,0.232,0.182,Yes
+73,Hyloris Pharmaceuticals SA,HYL.BR,-18.2,0.498,2.915,Yes
+74,EVS SA,EVS.BR,-12.01,0.279,0.082,Yes
+75,Roularta Media Group NV,ROU.BR,-6.29,0.132,0.716,Yes
+76,Econocom Group SE,ECONB.BR,-11.03,0.231,1.224,Yes
+77,Banque nationale de Belgique SA,BNB.BR,-7.72,0.13,0.166,No
+78,Immobel SA,IMMO.BR,-18.48,0.314,1.872,Yes
+79,Newtree S.A.,NEWT.BR,-19.26,0.214,0.548,Yes
+80,Banqup Group SA,BANQ.BR,-40.19,0.365,0.724,Yes
+81,Nyxoah SA,NYXH.BR,-59.4,0.627,2.662,Yes
+82,Shurgard Self Storage Ltd,SHUR.BR,-27.85,0.215,1.122,Yes
+83,ABO-Group Environment NV,ABO.BR,-36.32,0.237,0.614,Yes
+84,Ontex Group NV,ONTEX.BR,-56.53,0.421,1.152,Yes
+85,bpost NV/SA,BPOST.BR,-44.83,0.288,1.117,Yes
+86,Atenor SA,ATEB.BR,-56.35,0.39,2.776,Yes
+87,Onward Medical N.V.,ONWD.BR,-52.51,0.332,0.964,Yes
+88,Barco NV,BAR.BR,-40.33,0.166,1.049,Yes
+89,Belysse Group NV,BELYS.BR,-53.24,0.229,1.462,Yes

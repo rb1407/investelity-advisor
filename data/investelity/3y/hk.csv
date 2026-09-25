@@ -1,0 +1,1405 @@
+Rank,Name,Ticker,Return (%),Risk
+1,Bank of China Limited,3988.HK,40.32,0.156
+2,Glorious Sun Enterprises Limited,0393.HK,26.87,0.113
+3,HSBC Holdings plc,0005.HK,51.82,0.2
+4,AEON Credit Service (Asia) Company Limited,0900.HK,28.64,0.126
+5,China Construction Bank Corporation,0939.HK,41.3,0.181
+6,Industrial and Commercial Bank of China Limited,1398.HK,37.04,0.165
+7,Tradelink Electronic Commerce Limited,0536.HK,21.45,0.107
+8,Agricultural Bank of China Limited,1288.HK,40.78,0.196
+9,China CITIC Bank Corporation Limited,0998.HK,45.02,0.217
+10,BOC Hong Kong (Holdings) Limited,2388.HK,47.84,0.231
+11,"Cofoe Medical Technology Co.,Ltd.",1187.HK,77.68,0.346
+12,"Chongqing Rural Commercial Bank Co., Ltd.",3618.HK,45.74,0.227
+13,Manulife Financial Corporation,0945.HK,36.35,0.187
+14,HK Electric Investments and HK Electric Investments Limited,2638.HK,19.73,0.109
+15,"Bank of Qingdao Co., Ltd.",3866.HK,45.88,0.23
+16,Kinetic Development Group Limited,1277.HK,104.96,0.453
+17,Dah Sing Banking Group Limited,2356.HK,59.37,0.294
+18,"Bank of Chongqing Co., Ltd.",1963.HK,40.73,0.221
+19,Standard Chartered PLC,2888.HK,55.92,0.296
+20,Natural Food International Holding Limited,1837.HK,70.0,0.356
+21,Dah Sing Financial Holdings Limited,0440.HK,59.17,0.313
+22,Peiport Holdings Ltd.,2885.HK,63.49,0.342
+23,Kimou Environmental Holding Limited,6805.HK,81.43,0.422
+24,CLP Holdings Limited,0002.HK,16.86,0.109
+25,Anhui Expressway Company Limited,0995.HK,35.45,0.216
+26,BOC Hong Kong (Holdings) Limited,82388.HK,44.47,0.263
+27,"Dynagreen Environmental Protection Group Co., Ltd.",1330.HK,52.9,0.305
+28,Lonking Holdings Limited,3339.HK,54.36,0.314
+29,HKT Trust and HKT Limited,6823.HK,25.09,0.161
+30,Infinity Development Holdings Company Limited,0640.HK,39.94,0.245
+31,"Bank of Communications Co., Ltd.",3328.HK,28.67,0.187
+32,Consun Pharmaceutical Group Limited,1681.HK,59.6,0.351
+33,"Contemporary Amperex Technology Co., Limited",3750.HK,93.48,0.499
+34,"Huaqin Co., Ltd.",3296.HK,103.33,0.538
+35,Launch Tech Company Limited,2488.HK,91.56,0.495
+36,Tai Ping Carpets International Limited,0146.HK,39.02,0.248
+37,Yip's Chemical Holdings Limited,0408.HK,29.85,0.197
+38,Sinotruk (Hong Kong) Limited,3808.HK,56.37,0.341
+39,Hong Kong Finance Group Limited,1273.HK,37.21,0.24
+40,WH Group Limited,0288.HK,37.33,0.241
+41,Herald Holdings Limited,0114.HK,29.0,0.194
+42,China XLX Fertiliser Ltd.,1866.HK,59.65,0.36
+43,G-Resources Group Limited,1051.HK,92.15,0.507
+44,PCCW Limited,0008.HK,26.36,0.178
+45,Jilin Province Huinan Changlong Bio-pharmacy Company Limited,8049.HK,39.37,0.255
+46,Jiangsu Innovative Ecological New Materials Limited,2116.HK,84.62,0.483
+47,Plover Bay Technologies Limited,1523.HK,74.96,0.44
+48,Shenzhen Investment Holdings Bay Area Development Company Limited,0737.HK,23.58,0.166
+49,Crystal International Group Limited,2232.HK,63.79,0.391
+50,China Everbright Environment Group Limited,0257.HK,33.19,0.229
+51,SmarTone Telecommunications Holdings Limited,0315.HK,16.05,0.118
+52,China Shenhua Energy Company Limited,1088.HK,35.06,0.242
+53,Sichuan Expressway Group Company Limited,0107.HK,38.06,0.261
+54,Wuxi Sunlit Science and Technology Company Limited,1289.HK,63.98,0.404
+55,"Datang International Power Generation Co., Ltd.",0991.HK,38.73,0.266
+56,King Fook Holdings Limited,0280.HK,29.13,0.21
+57,"Qinhuangdao Port Co., Ltd.",3369.HK,33.49,0.24
+58,Best Pacific International Holdings Limited,2111.HK,64.28,0.416
+59,Huishang Bank Corporation Limited,3698.HK,42.77,0.298
+60,Hanking Gold International Limited,3788.HK,107.62,0.623
+61,Zijin Mining Group Company Limited,2899.HK,62.56,0.411
+62,Golden Bridge Group Holdings Limited,0623.HK,62.53,0.411
+63,China Reinsurance (Group) Corporation,1508.HK,60.65,0.41
+64,CITIC Limited,0267.HK,34.37,0.256
+65,Hansoh Pharmaceutical Group Company Limited,3692.HK,66.99,0.449
+66,"Qingdao Port International Co., Ltd.",6198.HK,35.4,0.264
+67,"COSCO SHIPPING International (Hong Kong) Co., Ltd.",0517.HK,43.14,0.315
+68,Clifford Modern Living Holdings Limited,3686.HK,46.98,0.339
+69,"Yantai North Andre Juice Co., Ltd.",2218.HK,60.84,0.422
+70,CK Infrastructure Holdings Limited,1038.HK,30.35,0.233
+71,Jiangsu Expressway Company Limited,0177.HK,19.27,0.155
+72,Cathay Pacific Airways Limited,0293.HK,34.99,0.267
+73,"COSCO SHIPPING Holdings Co., Ltd.",1919.HK,53.57,0.385
+74,Newborn Town Inc.,9911.HK,92.5,0.595
+75,The People's Insurance Company (Group) of China Limited,1339.HK,40.13,0.304
+76,CSSC (Hong Kong) Shipping Company Limited,3877.HK,32.94,0.256
+77,China Hongqiao Group Limited,1378.HK,78.51,0.529
+78,Pico Far East Holdings Limited,0752.HK,27.82,0.222
+79,MS Group Holdings Limited,1451.HK,53.86,0.394
+80,Power Assets Holdings Limited,0006.HK,25.73,0.208
+81,Nameson Holdings Limited,1982.HK,53.91,0.396
+82,CK Hutchison Holdings Limited,0001.HK,27.99,0.226
+83,Sun Hung Kai & Co. Limited,0086.HK,27.85,0.226
+84,China Nonferrous Mining Corporation Limited,1258.HK,75.77,0.528
+85,China Life Insurance Company Limited,2628.HK,52.87,0.398
+86,CMOC Group Limited,3993.HK,77.68,0.542
+87,"Zylox-Tonbridge Medical Technology Co., Ltd.",2190.HK,52.08,0.394
+88,Jiangxi Copper Company Limited,0358.HK,70.87,0.508
+89,Ausupreme International Holdings Limited,2031.HK,60.88,0.451
+90,China Taiping Insurance Holdings Company Limited,0966.HK,59.97,0.447
+91,"The Bank of East Asia, Limited",0023.HK,35.05,0.284
+92,Vedan International (Holdings) Limited,2317.HK,37.55,0.302
+93,PICC Property and Casualty Company Limited,2328.HK,29.68,0.247
+94,Metasurface Technologies Holdings Limited,8637.HK,86.09,0.599
+95,VSTECS Holdings Limited,0856.HK,47.14,0.371
+96,"Shandong Extreme Vision Technology Co., Ltd.",6636.HK,109.64,0.725
+97,MMG Limited,1208.HK,88.35,0.618
+98,New China Life Insurance Company Ltd.,1336.HK,58.87,0.449
+99,"Quanzhou Huixin Micro-credit Co., Ltd.",1577.HK,44.96,0.36
+100,Tak Lee Machinery Holdings Limited,2102.HK,58.11,0.452
+101,Tai Hing Group Holdings Limited,6811.HK,38.95,0.324
+102,AAC Technologies Holdings Inc.,2018.HK,71.47,0.538
+103,JBB Builders International Limited,1903.HK,91.81,0.662
+104,Semiconductor Manufacturing International Corporation,0981.HK,82.65,0.611
+105,First Tractor Company Limited,0038.HK,53.34,0.435
+106,China Sinostar Group Company Limited,0485.HK,109.92,0.767
+107,The Hong Kong and China Gas Company Limited,0003.HK,17.55,0.164
+108,Success Dragon International Holdings Limited,1182.HK,103.02,0.734
+109,Lever Style Corporation,1346.HK,33.59,0.296
+110,New Hope Service Holdings Limited,3658.HK,25.99,0.236
+111,Shanghai Industrial Holdings Limited,0363.HK,22.79,0.21
+112,Baiying Holdings Group Limited,8525.HK,34.69,0.307
+113,Grand Brilliance Group Holdings Limited,8372.HK,31.37,0.282
+114,Hutchison Telecommunications Hong Kong Holdings Limited,0215.HK,10.1,0.099
+115,Asia Financial Holdings Limited,0662.HK,20.01,0.189
+116,Hygieia Group Limited,1650.HK,54.23,0.453
+117,JNBY Design Limited,3306.HK,48.99,0.418
+118,"Postal Savings Bank of China Co., Ltd.",1658.HK,19.2,0.183
+119,China Industrial Securities International Financial Group Limited,6058.HK,98.2,0.735
+120,"Zhejiang Tengy Environmental Technology Co., Ltd",1527.HK,69.22,0.562
+121,Xin Point Holdings Limited,1571.HK,28.13,0.264
+122,Vala Inc.,2051.HK,94.01,0.718
+123,PetroChina Company Limited,0857.HK,34.21,0.314
+124,"Biocytogen Pharmaceuticals (Beijing) Co., Ltd.",2315.HK,88.76,0.69
+125,Shougang Century Holdings Limited,0103.HK,48.44,0.426
+126,China Mobile Limited,0941.HK,15.16,0.151
+127,Migao Group Holdings Limited,9879.HK,57.58,0.493
+128,Tianjin Capital Environmental Protection Group Company Limited,1065.HK,21.26,0.207
+129,"Innovent Biologics, Inc.",1801.HK,58.38,0.5
+130,Abbisko Cayman Limited,2256.HK,81.9,0.656
+131,UNQ Holdings Limited,2177.HK,61.02,0.52
+132,Nanyang Holdings Limited,0212.HK,11.7,0.119
+133,"Vigonvita Life Sciences Co., Ltd.",2630.HK,105.87,0.803
+134,"Chongqing Machinery & Electric Co., Ltd.",2722.HK,95.9,0.75
+135,"China Merchants Bank Co., Ltd.",3968.HK,26.26,0.256
+136,Sinotrans Limited,0598.HK,35.24,0.335
+137,Midland Holdings Limited,1200.HK,73.41,0.618
+138,China Merchants Port Holdings Company Limited,0144.HK,30.25,0.293
+139,Yue Da International Holdings Limited,0629.HK,91.98,0.745
+140,China Foods Limited,0506.HK,24.57,0.247
+141,Ten Pao Group Holdings Limited,1979.HK,40.53,0.386
+142,First Pacific Company Limited,0142.HK,27.61,0.278
+143,West China Cement Limited,2233.HK,74.05,0.644
+144,Build King Holdings Limited,0240.HK,24.33,0.252
+145,"China Merchants Securities Co., Ltd.",6099.HK,54.47,0.507
+146,BHCC Holding Limited,1552.HK,57.25,0.531
+147,China Youran Dairy Group Limited,9858.HK,64.7,0.588
+148,"Bank of Tianjin Co., Ltd.",1578.HK,21.71,0.229
+149,Pegasus International Holdings Limited,0676.HK,17.34,0.186
+150,Vico International Holdings Limited,1621.HK,55.29,0.519
+151,Carpenter Tan Holdings Limited,0837.HK,17.73,0.191
+152,CStone Pharmaceuticals,2616.HK,106.11,0.866
+153,ITE (Holdings) Limited,8092.HK,35.19,0.357
+154,China Ruifeng Renewable Energy Holdings Limited,0527.HK,72.48,0.652
+155,Jacobson Pharma Corporation Limited,2633.HK,31.19,0.322
+156,Luyuan Group Holding (Cayman) Limited,2451.HK,37.61,0.383
+157,HKBN Ltd.,1310.HK,48.33,0.476
+158,"Zhongguancun Science-Tech Leasing Co., Ltd.",1601.HK,21.61,0.235
+159,Loco Hong Kong Holdings Limited,8162.HK,73.57,0.673
+160,Wing On Company International Limited,0289.HK,11.21,0.127
+161,GDS Holdings Limited,9698.HK,89.78,0.787
+162,Gold Peak Technology Group Limited,0040.HK,17.54,0.196
+163,YuanShengTai Dairy Farm Limited,1431.HK,58.69,0.566
+164,CTR Holdings Limited,1416.HK,63.9,0.607
+165,WuXi XDC Cayman Inc.,2268.HK,65.62,0.622
+166,Dongfang Electric Corporation Limited,1072.HK,63.4,0.606
+167,"Goldwind Science&Technology Co., Ltd.",2208.HK,60.02,0.58
+168,XD Inc.,2400.HK,84.09,0.758
+169,REM Group (Holdings) Limited,1750.HK,65.2,0.625
+170,"Guotai Haitong Securities Co., Ltd.",2611.HK,35.26,0.374
+171,Tianjin Development Holdings Limited,0882.HK,21.3,0.238
+172,Top Education Group Ltd,1752.HK,57.97,0.571
+173,China Tobacco International (HK) Company Limited,6055.HK,50.57,0.51
+174,"Huatai Securities Co., Ltd.",6886.HK,34.85,0.372
+175,Chuan Holdings Limited,1420.HK,67.56,0.65
+176,Global New Material International Holdings Limited,6616.HK,51.66,0.524
+177,Taste Gourmet Group Limited,8371.HK,23.15,0.26
+178,Xiaomi Corporation,1810.HK,46.44,0.482
+179,Chinney Kin Wing Holdings Limited,1556.HK,23.91,0.269
+180,Oi Wah Pawnshop Credit Holdings Limited,1319.HK,16.29,0.19
+181,Aluminum Corporation of China Limited,2600.HK,45.62,0.478
+182,CWT International Limited,0521.HK,85.42,0.795
+183,Legion Consortium Limited,2129.HK,38.01,0.41
+184,"China Minsheng Banking Corp., Ltd.",1988.HK,19.98,0.23
+185,"SINOPEC Engineering (Group) Co., Ltd.",2386.HK,26.01,0.293
+186,Wing Lee Development Construction Holdings Limited,9639.HK,84.25,0.79
+187,CNOOC Limited,80883.HK,32.21,0.358
+188,"Zhejiang Galaxis Technology Group Co., Ltd.",2729.HK,42.82,0.459
+189,Wonderful Sky Financial Group Holdings Limited,1260.HK,35.22,0.387
+190,"Huaneng Power International, Inc.",0902.HK,25.65,0.292
+191,"Shenwan Hongyuan Group Co., Ltd.",6806.HK,32.83,0.365
+192,Kerry Properties Limited,0683.HK,24.31,0.28
+193,Tysan Holdings Limited,0687.HK,54.57,0.565
+194,Swire Properties Limited,1972.HK,25.76,0.295
+195,3SBio Inc.,1530.HK,63.83,0.643
+196,FIH Mobile Limited,2038.HK,63.82,0.644
+197,"Xinjiang Xinxin Mining Industry Co., Ltd.",3833.HK,73.77,0.726
+198,Sinofert Holdings Limited,0297.HK,25.45,0.295
+199,"Akeso, Inc.",9926.HK,60.36,0.622
+200,Geely Automobile Holdings Limited,0175.HK,38.13,0.424
+201,Cheerwin Group Limited,6601.HK,24.07,0.282
+202,Cirrus Aircraft Limited,2507.HK,63.98,0.657
+203,BeOne Medicines AG,6160.HK,37.58,0.421
+204,SF Real Estate Investment Trust,2191.HK,11.61,0.144
+205,"Huaxin Building Materials Group Co., Ltd.",6655.HK,43.32,0.478
+206,InnoCare Pharma Limited,9969.HK,55.43,0.589
+207,Dickson Concepts (International) Limited,0113.HK,28.71,0.335
+208,ZCZL Industrial Technology Group Company Limited,0564.HK,43.24,0.479
+209,Zhaojin Mining Industry Company Limited,1818.HK,46.95,0.514
+210,"Fuyao Glass Industry Group Co., Ltd.",3606.HK,24.61,0.292
+211,"CGN Power Co., Ltd.",1816.HK,23.43,0.28
+212,Tianjin Port Development Holdings Limited,3382.HK,16.96,0.209
+213,BOC Aviation Limited,2588.HK,20.58,0.25
+214,CRRC Corporation Limited,1766.HK,22.19,0.268
+215,Ever Sunshine Services Group Limited,1995.HK,41.3,0.467
+216,Shenglong Splendecor International Limited,8481.HK,86.85,0.854
+217,Johnson Electric Holdings Limited,0179.HK,54.45,0.593
+218,Yue Yuen Industrial (Holdings) Limited,0551.HK,35.25,0.411
+219,Angelalign Technology Inc.,6699.HK,41.57,0.475
+220,Sino Biopharmaceutical Limited,1177.HK,39.84,0.458
+221,China Railway Signal & Communication Corporation Limited,3969.HK,18.51,0.23
+222,Lee & Man Paper Manufacturing Limited,2314.HK,34.56,0.405
+223,Symphony Holdings Limited,1223.HK,22.21,0.273
+224,"China Zheshang Bank Co., Ltd",2016.HK,14.4,0.183
+225,Sinomax Group Limited,1418.HK,61.82,0.665
+226,"China Galaxy Securities Co., Ltd.",6881.HK,45.59,0.518
+227,"Shenzhen Creality 3D Technology Co., Ltd.",3388.HK,104.59,1.002
+228,Hang Pin Living Technology Company Limited,1682.HK,92.84,0.917
+229,Hyfusin Group Holdings Limited,8512.HK,35.38,0.418
+230,Lam Soon (Hong Kong) Limited,0411.HK,18.02,0.23
+231,Shanghai HeartCare Medical Technology Corporation Limited,6609.HK,46.39,0.534
+232,HPC Holdings Limited,1742.HK,91.51,0.92
+233,Speedy Global Holdings Limited,0540.HK,88.02,0.894
+234,Binjiang Service Group Co. Ltd.,3316.HK,20.56,0.261
+235,"RemeGen Co., Ltd.",9995.HK,88.48,0.902
+236,Guangshen Railway Company Limited,0525.HK,21.99,0.279
+237,"WuXi AppTec Co., Ltd.",2359.HK,49.75,0.572
+238,E-Star Commercial Management Company Limited,6668.HK,12.53,0.166
+239,Mongolian Mining Corporation,0975.HK,84.25,0.877
+240,Goodbaby International Holdings Limited,1086.HK,52.61,0.603
+241,Sundart Holdings Limited,1568.HK,50.02,0.58
+242,Sino Land Company Limited,0083.HK,15.14,0.199
+243,Kwan Yong Holdings Limited,9998.HK,63.46,0.705
+244,Uni-President China Holdings Ltd,0220.HK,23.25,0.297
+245,Hong Kong Ferry (Holdings) Company Limited,0050.HK,8.25,0.112
+246,Mediwelcome Healthcare Management & Technology Inc.,2159.HK,84.86,0.892
+247,Far East Horizon Limited,3360.HK,25.45,0.324
+248,China Pipe Group Limited,0380.HK,39.55,0.48
+249,Zhong Ji Longevity Science Group Limited,0767.HK,86.08,0.909
+250,Genertec Universal Medical Group Company Limited,2666.HK,16.96,0.225
+251,Orient Overseas (International) Limited,0316.HK,32.54,0.408
+252,Cinda International Holdings Limited,0111.HK,61.43,0.7
+253,Leeport (Holdings) Limited,0387.HK,44.7,0.539
+254,Perennial International Limited,0725.HK,28.69,0.367
+255,TS Wonders Holding Limited,1767.HK,44.07,0.536
+256,Yunjing Digitech Group Limited,8147.HK,94.71,0.993
+257,Guangdong Investment Limited,0270.HK,31.08,0.398
+258,China Everbright Bank Company Limited,6818.HK,17.42,0.235
+259,Lerado Financial Group Company Limited,1225.HK,61.32,0.712
+260,Kwoon Chung Bus Holdings Limited,0306.HK,29.46,0.381
+261,China Suntien Green Energy Corporation Limited,0956.HK,16.6,0.226
+262,CITIC Resources Holdings Limited,1205.HK,25.88,0.34
+263,Simcere Pharmaceutical Group Limited,2096.HK,34.77,0.444
+264,Shanghai Jiaoda Withub Information Industrial Company Limited,8205.HK,67.95,0.779
+265,Dongwu Cement International Limited,0695.HK,85.05,0.931
+266,CTF Services Limited,0659.HK,23.35,0.312
+267,Pan Asia Environmental Protection Group Limited,0556.HK,79.52,0.886
+268,Seacon Shipping Group Holdings Limited,2409.HK,16.87,0.232
+269,China Environmental Resources Group Limited,1130.HK,90.1,0.98
+270,Anton Oilfield Services Group,3337.HK,40.89,0.517
+271,Goldstone Capital Group Limited,1160.HK,77.2,0.872
+272,"Xiamen Jihong Co., Ltd",2603.HK,46.19,0.579
+273,"Shandong Gold Mining Co., Ltd.",1787.HK,45.26,0.569
+274,Green International Holdings Limited,2700.HK,22.93,0.313
+275,Bosideng International Holdings Limited,3998.HK,20.69,0.286
+276,Lee & Man Chemical Company Limited,0746.HK,26.29,0.356
+277,BOSA Technology Holdings Limited,8140.HK,22.22,0.306
+278,Yeebo (International Holdings) Limited,0259.HK,55.74,0.682
+279,Fu Shek Financial Holdings Limited,2263.HK,33.61,0.444
+280,"China Pacific Insurance (Group) Co., Ltd.",2601.HK,32.06,0.428
+281,"GF Securities Co., Ltd.",1776.HK,42.21,0.544
+282,China Modern Dairy Holdings Ltd.,1117.HK,39.83,0.52
+283,AP Rentals Holdings Limited,1496.HK,26.58,0.365
+284,China PengFei Group Limited,3348.HK,14.8,0.213
+285,"JL Mag Rare-Earth Co., Ltd.",6680.HK,42.55,0.552
+286,Evergrande Property Services Group Limited,6666.HK,58.36,0.72
+287,RENHENG Enterprise Holdings Limited,3628.HK,33.67,0.452
+288,Yixin Group Limited,2858.HK,55.4,0.692
+289,Tencent Holdings Limited,0700.HK,19.9,0.282
+290,"Lens Technology Co., Ltd.",6613.HK,66.48,0.804
+291,"Datang Environment Industry Group Co., Ltd.",1272.HK,25.45,0.354
+292,QPL International Holdings Limited,0243.HK,82.7,0.958
+293,Vincent Medical Holdings Limited,1612.HK,50.4,0.644
+294,CSPC Pharmaceutical Group Limited,1093.HK,33.74,0.457
+295,Famous Tech International Holdings Limited,8100.HK,110.33,1.191
+296,Henderson Land Development Company Limited,0012.HK,21.59,0.307
+297,Z Fin Limited,1168.HK,80.81,0.945
+298,Wing Chi Holdings Limited,6080.HK,81.73,0.955
+299,Truly International Holdings Limited,0732.HK,23.12,0.327
+300,"Zoomlion Heavy Industry Science and Technology Co., Ltd.",1157.HK,29.91,0.413
+301,"MicroTech Medical (Hangzhou) Co., Ltd.",2235.HK,36.53,0.493
+302,Able Engineering Holdings Limited,1627.HK,22.34,0.319
+303,"Shanghai Dazhong Public Utilities(Group) Co.,Ltd.",1635.HK,47.83,0.623
+304,Asia Commercial Holdings Limited,0104.HK,18.19,0.264
+305,Fourace Industries Group Holdings Limited,1455.HK,20.5,0.295
+306,Courage Investment Group Limited,1145.HK,67.73,0.831
+307,Tian Ge Interactive Holdings Limited,1980.HK,24.38,0.347
+308,"InnoScience (Suzhou) Technology Holding Co., Ltd.",2577.HK,87.75,1.023
+309,"Jacobio Pharmaceuticals Group Co., Ltd.",1167.HK,81.73,0.974
+310,CITIC Securities Company Limited,6030.HK,37.08,0.508
+311,Hong Kong Exchanges and Clearing Limited,0388.HK,21.9,0.318
+312,"Beijing Yunji Technology Co., Ltd.",2670.HK,106.06,1.187
+313,China Communications Services Corporation Limited,0552.HK,14.86,0.223
+314,Vtech Holdings Limited,0303.HK,15.61,0.234
+315,Maike Tube Industry Holdings Limited,1553.HK,28.43,0.406
+316,InSilico Medicine Cayman TopCo,3696.HK,86.8,1.033
+317,Tomson Group Limited,0258.HK,20.86,0.308
+318,Zhejiang Shibao Company Limited,1057.HK,39.29,0.543
+319,China Isotope & Radiation Corporation,1763.HK,19.04,0.284
+320,Shenwan Hongyuan (H.K.) Limited,0218.HK,103.01,1.181
+321,Walnut Capital Limited,0905.HK,91.51,1.085
+322,China Tower Corporation Limited,0788.HK,14.52,0.222
+323,Kingsoft Cloud Holdings Limited,3896.HK,87.31,1.056
+324,IntelliMark AI International Limited,8041.HK,67.25,0.867
+325,Chow Sang Sang Holdings International Limited,0116.HK,32.74,0.475
+326,"Joinn Laboratories(China)Co.,Ltd.",6127.HK,49.01,0.673
+327,"JiaXing Gas Group Co., Ltd.",9908.HK,8.74,0.14
+328,Sino Gas Holdings Group Limited,1759.HK,48.03,0.665
+329,"Zhejiang Expressway Co., Ltd.",0576.HK,17.14,0.266
+330,China Telecom Corporation Limited,0728.HK,16.59,0.258
+331,Prosperous Future Holdings Limited,1259.HK,76.9,0.975
+332,Chuangxin Industries Holdings Limited,2788.HK,57.25,0.771
+333,Orient Securities Company Limited,3958.HK,29.54,0.437
+334,Vistar Holdings Limited,8535.HK,94.79,1.162
+335,Logan Group Company Limited,3380.HK,37.88,0.552
+336,JBM (Healthcare) Limited,2161.HK,40.96,0.591
+337,Vicon Holdings Limited,3878.HK,34.59,0.51
+338,Taung Gold International Limited,0621.HK,54.3,0.752
+339,Justin Allen Holdings Limited,1425.HK,13.49,0.217
+340,Dimmi Life Holdings Limited,1667.HK,68.81,0.912
+341,Max Sight Group Holdings Limited,8483.HK,86.75,1.102
+342,Gala Technology Holding Limited,2458.HK,31.82,0.481
+343,TK Group (Holdings) Limited,2283.HK,27.38,0.421
+344,XXF Group Holdings Limited,2473.HK,87.67,1.115
+345,Qingdao Holdings International Limited,0499.HK,55.76,0.779
+346,Persistence Resources Group Ltd,2489.HK,39.8,0.587
+347,Sun Hung Kai Properties Limited,80016.HK,26.52,0.41
+348,Ming Fai International Holdings Limited,3828.HK,16.69,0.268
+349,"Shanghai Electric Group Co., Ltd.",2727.HK,26.88,0.416
+350,Novautek Technologies Group Limited,0519.HK,71.84,0.963
+351,Haina Intelligent Equipment International Holdings Limited,1645.HK,92.89,1.174
+352,PATEO CONNECT Technology (Shanghai) Corporation,2889.HK,75.61,1.003
+353,Yunfeng Financial Group Limited,0376.HK,48.62,0.702
+354,Hang Lung Group Limited,0010.HK,16.14,0.262
+355,ManpowerGroup Greater China Limited,2180.HK,20.88,0.334
+356,Well Link Securities Holdings Limited,8350.HK,75.75,1.009
+357,Asia Energy Logistics Group Limited,0351.HK,60.78,0.848
+358,Changhong Jiahua Holdings Limited,3991.HK,21.82,0.348
+359,Shanghai Fudan Microelectronics Group Company Limited,1385.HK,44.87,0.66
+360,Great Eagle Holdings Limited,0041.HK,14.29,0.236
+361,"CSC Financial Co., Ltd.",6066.HK,31.69,0.489
+362,CARsgen Therapeutics Holdings Limited,2171.HK,62.04,0.868
+363,Accel Group Holdings Limited,1283.HK,29.82,0.465
+364,Huicheng International Holdings Limited,1146.HK,52.96,0.768
+365,Major Holdings Limited,1389.HK,54.12,0.782
+366,Blue Moon Group Holdings Limited,6993.HK,31.39,0.493
+367,Emperor Watch & Jewellery Limited,0887.HK,51.97,0.761
+368,Prosperity Real Estate Investment Trust,0808.HK,10.01,0.171
+369,China Nuclear Energy Technology Corporation Limited,0611.HK,19.45,0.321
+370,M&L Holdings Group Limited,8152.HK,31.74,0.501
+371,Daphne International Holdings Limited,0210.HK,25.64,0.414
+372,China Environmental Technology and Bioenergy Holdings Limited,1237.HK,52.42,0.773
+373,"China CITIC Financial Asset Management Co., Ltd.",2799.HK,35.94,0.561
+374,K & P International Holdings Limited,0675.HK,15.02,0.255
+375,FS.COM Limited,3355.HK,42.78,0.654
+376,China International Capital Corporation Limited,3908.HK,30.69,0.491
+377,Wai Yuen Tong Medicine Holdings Limited,0897.HK,32.55,0.52
+378,Enterprise Development Holdings Limited,1808.HK,58.52,0.859
+379,Tingyi (Cayman Islands) Holding Corp.,0322.HK,18.22,0.309
+380,"Ping An Insurance (Group) Company of China, Ltd.",2318.HK,20.49,0.345
+381,Sheen Tai Holdings Group Company Limited,1335.HK,87.26,1.192
+382,Ares Asia Limited,0645.HK,56.45,0.849
+383,XinKong International Capital Holdings Limited,0993.HK,82.07,1.147
+384,Extrawell Pharmaceutical Holdings Limited,0858.HK,48.97,0.757
+385,Beng Soon Machinery Holdings Limited,1987.HK,40.38,0.644
+386,Travel Expert (Asia) Enterprises Limited,1235.HK,18.54,0.321
+387,Keymed Biosciences Inc.,2162.HK,30.43,0.504
+388,Oriental Watch Holdings Limited,0398.HK,6.51,0.119
+389,Haosen Fintech Group Limited,3848.HK,57.86,0.875
+390,Computime Group Limited,0320.HK,22.8,0.391
+391,Lumina Group Limited,1162.HK,51.17,0.796
+392,S&P International Holding Limited,1695.HK,28.91,0.487
+393,Nine Dragons Paper (Holdings) Limited,2689.HK,33.7,0.558
+394,Beijing Enterprises Holdings Limited,0392.HK,15.76,0.28
+395,Baguio Green Group Limited,1397.HK,23.3,0.403
+396,China Healthwise Holdings Limited,0348.HK,73.92,1.082
+397,"Pharmaron Beijing Co., Ltd.",3759.HK,40.2,0.655
+398,Vanke Overseas Investment Holding Company Limited,1036.HK,17.32,0.308
+399,"WellCell Holdings Co., Limited",2477.HK,89.78,1.26
+400,K. H. Group Holdings Limited,1557.HK,58.66,0.906
+401,Chanjet Information Technology Company Limited,1588.HK,26.08,0.451
+402,Parkson Retail Group Limited,3368.HK,29.82,0.509
+403,SY Holdings Group Limited,6069.HK,26.71,0.463
+404,Honbridge Holdings Limited,8137.HK,44.67,0.728
+405,Zibuyu Group Limited,2420.HK,32.41,0.553
+406,International Entertainment Corporation,1009.HK,24.15,0.425
+407,"Central China Securities Co., Ltd.",1375.HK,32.64,0.559
+408,Hong Kong Robotics Group Holding Limited,0370.HK,89.49,1.286
+409,CCID Consulting Company Limited,2176.HK,27.36,0.479
+410,"Beijing Jingneng Clean Energy Co., Limited",0579.HK,12.42,0.231
+411,Prosper One International Holdings Company Limited,1470.HK,86.93,1.262
+412,Everbright Securities Company Limited,6178.HK,24.38,0.433
+413,"China ITS (Holdings) Co., Ltd.",1900.HK,29.2,0.51
+414,"China Motor Bus Company, Limited",0026.HK,7.03,0.134
+415,Uju Holding Limited,1948.HK,109.98,1.514
+416,China Wantian Holdings Limited,1854.HK,25.94,0.461
+417,Shougang Fushan Resources Group Limited,0639.HK,19.95,0.363
+418,"Luzhou Xinglu Water (Group) Co., Ltd.",2281.HK,10.89,0.206
+419,China Resources Mixc Lifestyle Services Limited,1209.HK,18.92,0.348
+420,Alphamab Oncology,9966.HK,74.07,1.133
+421,HM International Holdings Limited,8416.HK,31.15,0.549
+422,China Uptown Group Company Limited,2330.HK,95.5,1.395
+423,361 Degrees International Limited,1361.HK,18.72,0.35
+424,AB Builders Group Limited,1615.HK,23.26,0.428
+425,CSSC Offshore & Marine Engineering (Group) Company Limited,0317.HK,27.05,0.491
+426,China East Education Holdings Limited,0667.HK,32.35,0.576
+427,Miko International Holdings Limited,1247.HK,46.35,0.786
+428,FingerTango Inc.,6860.HK,24.58,0.451
+429,LC Group Holding Limited,2490.HK,72.76,1.137
+430,Greentown Service Group Co. Ltd.,2869.HK,17.77,0.336
+431,"China Development Bank Financial Leasing Co., Ltd.",1606.HK,29.23,0.53
+432,Hung Fook Tong Group Holdings Limited,1446.HK,29.55,0.536
+433,Shenzhen Expressway Corporation Limited,0548.HK,9.11,0.18
+434,SUNeVision Holdings Ltd.,1686.HK,54.26,0.912
+435,Keck Seng Investments (Hong Kong) Limited,0184.HK,14.92,0.289
+436,Prosperous Industrial (Holdings) Limited,1731.HK,10.43,0.206
+437,"Anjoy Foods Group Co., Ltd.",2648.HK,22.66,0.428
+438,"Sichuan Energy Investment Development Co., Ltd.",1713.HK,12.91,0.255
+439,Great China Holdings (Hong Kong) Limited,0021.HK,63.34,1.046
+440,"Hong Kong Johnson Holdings Co., Ltd.",1955.HK,28.27,0.526
+441,K W Nelson Interior Design and Contracting Group Limited,8411.HK,64.91,1.069
+442,Yan Tat Group Holdings Limited,1480.HK,14.06,0.277
+443,Prudential plc,2378.HK,13.6,0.269
+444,Guangdong Yueyun Transportation Company Limited,3399.HK,11.92,0.238
+445,Prinx Chengshan Holdings Limited,1809.HK,12.96,0.259
+446,China Aluminum Cans Holdings Limited,6898.HK,20.45,0.397
+447,Duiba Group Limited,1753.HK,71.64,1.171
+448,Zhong Ying International Group Limited,8516.HK,48.39,0.85
+449,Joyzyme Group Limited,8622.HK,67.81,1.121
+450,Tai Cheung Holdings Limited,0088.HK,7.78,0.159
+451,Feiyu Technology International Company Ltd.,1022.HK,43.41,0.777
+452,CK Asset Holdings Limited,1113.HK,11.11,0.226
+453,Morimatsu International Holdings Company Limited,2155.HK,34.29,0.638
+454,Grand Field Group Holdings Limited,0115.HK,55.42,0.962
+455,Nanjing Panda Electronics Company Limited,0553.HK,25.37,0.491
+456,"Tianjin Tianbao Energy Co., Ltd.",1671.HK,27.49,0.528
+457,Hysan Development Company Limited,0014.HK,14.45,0.293
+458,Maanshan Iron & Steel Company Limited,0323.HK,17.68,0.355
+459,Shuoao International Holdings Limited,2336.HK,38.71,0.725
+460,Nimble Holdings Company Limited,0186.HK,109.17,1.663
+461,Tiangong International Company Limited,0826.HK,21.82,0.435
+462,GDH Guangnan (Holdings) Limited,1203.HK,10.64,0.222
+463,Litu Holdings Limited,1008.HK,31.35,0.604
+464,Bojun Education Company Limited,1758.HK,85.75,1.394
+465,Minth Group Limited,0425.HK,26.28,0.517
+466,Lung Kee Group Holdings Limited,0255.HK,16.43,0.336
+467,Hua Medicine (Shanghai) Ltd.,2552.HK,25.82,0.51
+468,Sunny Optical Technology (Group) Company Limited,2382.HK,28.49,0.557
+469,Inspur Digital Enterprise Technology Limited,0596.HK,37.56,0.713
+470,Metropolis Capital Holdings Limited,8621.HK,42.31,0.792
+471,Emperor Capital Group Limited,0717.HK,56.64,1.012
+472,China Shineway Pharmaceutical Group Limited,2877.HK,11.83,0.249
+473,Mi Ming Mart Holdings Limited,8473.HK,21.22,0.431
+474,China Jinmao Holdings Group Limited,0817.HK,34.65,0.669
+475,China Shun Ke Long Holdings Limited,0974.HK,46.22,0.858
+476,New Silkroad Holding Group Limited,0472.HK,37.42,0.718
+477,First Shanghai Investments Limited,0227.HK,52.59,0.96
+478,Edensoft Holdings Limited,1147.HK,20.99,0.429
+479,Shenzhen International Holdings Limited,0152.HK,14.1,0.297
+480,Wine's Link International Holdings Limited,8509.HK,26.15,0.525
+481,China Aerospace International Holdings Limited,0031.HK,27.41,0.548
+482,China Display Optoelectronics Technology Holdings Limited,0334.HK,28.29,0.564
+483,Wanda Hotel Development Company Limited,0169.HK,30.59,0.607
+484,Grand Pharmaceutical Group Limited,0512.HK,20.32,0.423
+485,Fufeng Group Limited,0546.HK,15.95,0.339
+486,PW Medtech Group Limited,1358.HK,16.59,0.353
+487,Zijing International Financial Holdings Limited,8340.HK,91.09,1.529
+488,China Energy Engineering Corporation Limited,3996.HK,13.32,0.289
+489,Golden Wheel Tiandi Holdings Company Limited,1232.HK,79.54,1.382
+490,Wise Ally International Holdings Limited,9918.HK,41.8,0.819
+491,"Soho Holly Futures Co., Ltd.",3678.HK,38.19,0.759
+492,China BlueChemical Ltd.,3983.HK,11.05,0.244
+493,Xinda Investment Holdings Limited,1281.HK,57.46,1.075
+494,Link Real Estate Investment Trust,0823.HK,11.31,0.25
+495,Founder Holdings Limited,0418.HK,24.55,0.517
+496,AIA Group Limited,1299.HK,13.73,0.302
+497,Kinergy Corporation Ltd.,3302.HK,37.52,0.756
+498,Everest Medicines Limited,1952.HK,31.76,0.655
+499,Beijing Beida Jade Bird Universal Sci-Tech Company Limited,8095.HK,33.39,0.685
+500,China Conch Venture Holdings Limited,0586.HK,20.85,0.448
+501,"BaTeLab Co., Ltd.",2149.HK,21.67,0.466
+502,"PegBio Co., Ltd.",2565.HK,99.14,1.67
+503,IBI Group Holdings Limited,1547.HK,13.7,0.304
+504,UBA Investments Limited,0768.HK,39.14,0.79
+505,5100 Xizang Glacier Company Limited,1115.HK,22.91,0.496
+506,Alibaba Group Holding Limited,9988.HK,26.42,0.566
+507,Luk Fook Holdings (International) Limited,0590.HK,16.72,0.372
+508,"MeiG Smart Technology Co., Ltd",3268.HK,40.45,0.825
+509,Chow Tai Fook Jewellery Group Limited,1929.HK,17.83,0.397
+510,"Beijing Zhongke WengeAI Science and Technology Co., Ltd.",1956.HK,92.56,1.621
+511,CHTC Fong's International Company Limited,0641.HK,31.77,0.672
+512,Nexteer Automotive Group Limited,1316.HK,26.1,0.565
+513,Win Hanverky Holdings Limited,3322.HK,12.92,0.295
+514,Dadi Education Holdings Limited,8417.HK,26.07,0.567
+515,Sihuan Pharmaceutical Holdings Group Ltd.,0460.HK,21.7,0.483
+516,EFT Solutions Holdings Limited,8062.HK,18.57,0.418
+517,"Zhuzhou CRRC Times Electric Co., Ltd.",3898.HK,15.79,0.361
+518,Heng Hup Holdings Limited,1891.HK,35.58,0.758
+519,Risecomm Group Holdings Limited,1679.HK,49.55,1.008
+520,New Media Lab Limited,1284.HK,19.54,0.444
+521,Asia Cassava Resources Holdings Limited,0841.HK,56.6,1.13
+522,Medialink Group Limited,2230.HK,13.73,0.321
+523,Trip.com Group Limited,9961.HK,17.47,0.402
+524,FSE Lifestyle Services Limited,0331.HK,3.65,0.089
+525,Yues International Holdings Group Limited,1529.HK,73.88,1.41
+526,"Shenzhen Han's CNC Technology Co., Ltd.",3200.HK,59.24,1.184
+527,Cinese International Group Holdings Limited,1620.HK,32.33,0.714
+528,COSCO SHIPPING Ports Limited,1199.HK,13.67,0.326
+529,"China Cinda Asset Management Co., Ltd.",1359.HK,25.24,0.575
+530,China Cultural Tourism and Agriculture Group Limited,0542.HK,63.14,1.265
+531,Wei Yuan Holdings Limited,1343.HK,16.6,0.394
+532,Huabao International Holdings Limited,0336.HK,17.65,0.418
+533,China Golden Classic Group Limited,8281.HK,36.75,0.809
+534,CRCC High-Tech Equipment Corporation Limited,1786.HK,9.36,0.23
+535,Fortune Real Estate Investment Trust,0778.HK,9.11,0.224
+536,Deson Development International Holdings Limited,0262.HK,18.6,0.439
+537,Qinqin Foodstuffs Group (Cayman) Company Limited,1583.HK,10.9,0.266
+538,China-Hongkong Photo Products Holdings Limited,1123.HK,12.44,0.302
+539,Creative China Holdings Limited,8368.HK,95.85,1.776
+540,"Busy Ming Group Co., Ltd.",1768.HK,28.37,0.649
+541,"China Boqi Environmental (Holding) Co., Ltd.",2377.HK,13.7,0.334
+542,Hing Yip Holdings Limited,0132.HK,35.81,0.804
+543,Universal Health International Group Holding Limited,2211.HK,45.89,0.995
+544,IGG Inc,0799.HK,18.06,0.436
+545,"Safety Godown Company, Limited",0237.HK,6.76,0.171
+546,Jy Gas Limited,1407.HK,18.91,0.456
+547,Century Legend (Holdings) Limited,0079.HK,33.19,0.758
+548,Cosmo Lady (China) Holdings Company Limited,2298.HK,24.25,0.574
+549,"Harbin Bank Co., Ltd.",6138.HK,14.51,0.357
+550,"Lushang Life Services Co., Ltd.",2376.HK,25.75,0.607
+551,Viva Biotech Holdings,1873.HK,36.32,0.827
+552,Sam Woo Construction Group Limited,3822.HK,41.89,0.936
+553,Best Mart 360 Holdings Limited,2360.HK,7.67,0.196
+554,Lai Si Enterprise Holding Limited,2266.HK,14.67,0.365
+555,"COSCO SHIPPING Development Co., Ltd.",2866.HK,10.93,0.276
+556,Uni-Bio Science Group Limited,0690.HK,26.26,0.626
+557,China Aircraft Leasing Group Holdings Limited,1848.HK,11.04,0.28
+558,Chen Hsong Holdings Limited,0057.HK,8.04,0.207
+559,MiniMax Group Inc.,0100.HK,76.58,1.556
+560,Web3 Meta Limited,8093.HK,66.89,1.401
+561,Kanzhun Limited,2076.HK,21.81,0.534
+562,Nexion Technologies Limited,8420.HK,53.98,1.181
+563,Finet Group Limited,8317.HK,40.22,0.921
+564,WEILONG Delicious Global Holdings Ltd,9985.HK,21.39,0.525
+565,MTR Corporation Limited,0066.HK,9.35,0.241
+566,Shanghai Pioneer Holding Ltd,1345.HK,8.7,0.225
+567,BAIOO Family Interactive Limited,2100.HK,22.45,0.552
+568,Regent Pacific Group Limited,0575.HK,48.96,1.103
+569,"NetEase, Inc.",9999.HK,12.9,0.332
+570,CanSino Biologics Inc.,6185.HK,22.72,0.566
+571,Haitian International Holdings Limited,1882.HK,11.74,0.308
+572,TBK & Sons Holdings Limited,1960.HK,32.34,0.786
+573,"Asymchem Laboratories (Tianjin) Co., Ltd.",6821.HK,23.26,0.585
+574,Redco Healthy Living Company Limited,2370.HK,37.56,0.897
+575,Softcare Limited,2698.HK,19.81,0.506
+576,Automated Systems Holdings Limited,0771.HK,13.86,0.366
+577,H World Group Limited,1179.HK,13.01,0.346
+578,The United Laboratories International Holdings Limited,3933.HK,13.17,0.351
+579,Nanshan Aluminium International Holdings Limited,2610.HK,22.78,0.588
+580,China Power International Development Limited,2380.HK,9.64,0.262
+581,Winson Holdings Hong Kong Limited,6812.HK,25.1,0.644
+582,Wison Engineering Services Co. Ltd.,2236.HK,23.57,0.609
+583,Greenheart Group Limited,0094.HK,25.19,0.651
+584,Yoho Group Holdings Limited,2347.HK,14.18,0.383
+585,Hao Bai International (Cayman) Limited,8431.HK,42.02,1.023
+586,BExcellent Group Holdings Limited,1775.HK,34.17,0.858
+587,Ajisen (China) Holdings Limited,0538.HK,9.84,0.272
+588,"Miramar Hotel and Investment Company, Limited",0071.HK,4.0,0.114
+589,Zero2IPO Holdings Inc.,1945.HK,16.39,0.442
+590,ELL Environmental Holdings Limited,1395.HK,26.08,0.678
+591,Nissin Foods Company Limited,1475.HK,7.61,0.214
+592,Mongolia Energy Corporation Limited,0276.HK,23.5,0.619
+593,China Railway Construction Corporation Limited,1186.HK,6.16,0.174
+594,China Nature Energy Technology Holdings Limited,1597.HK,36.38,0.918
+595,Huasheng International Holding Limited,1323.HK,35.28,0.894
+596,Oriental Explorer Holdings Limited,0430.HK,7.66,0.217
+597,Texwinca Holdings Limited,0321.HK,18.41,0.499
+598,DLC Asia Limited,8210.HK,15.63,0.43
+599,Qian Xun Technology Limited,1640.HK,36.47,0.93
+600,Ulferts International Limited,1711.HK,24.85,0.664
+601,"SL Gemini Energy Co., Ltd",2481.HK,17.22,0.476
+602,Sinohealth Technology Holdings Limited,2361.HK,15.17,0.426
+603,"Laekna, Inc.",2105.HK,37.34,0.966
+604,WuXi Biologics (Cayman) Inc.,2269.HK,22.59,0.622
+605,"Zhejiang Leapmotor Technology Co., Ltd.",9863.HK,24.37,0.671
+606,"Shenzhen Hepalink Pharmaceutical Group Co., Ltd.",9989.HK,12.67,0.366
+607,EGL Holdings Company Limited,6882.HK,8.97,0.264
+608,Prime Intelligence Solutions Group Limited,8379.HK,45.92,1.176
+609,China State Construction International Holdings Limited,3311.HK,11.37,0.332
+610,Shenzhen Neptunus Interlong Bio-technique Company Limited,8329.HK,20.38,0.575
+611,Horizon Robotics,9660.HK,31.55,0.855
+612,CT Vision (International) Holdings Limited,0994.HK,57.07,1.419
+613,OOH Holdings Limited,8091.HK,17.71,0.508
+614,National United Resources Holdings Limited,0254.HK,38.88,1.032
+615,Man King Holdings Limited,2193.HK,16.87,0.489
+616,China Communications Construction Company Limited,1800.HK,7.67,0.231
+617,"CGN New Energy Holdings Co., Ltd.",1811.HK,10.23,0.307
+618,Vanov Holdings Company Limited,2260.HK,22.06,0.631
+619,Shandong Xinhua Pharmaceutical Company Limited,0719.HK,9.21,0.278
+620,Huayu Expressway Group Limited,1823.HK,29.15,0.814
+621,Chu Kong Petroleum and Natural Gas Steel Pipe Holdings Limited,1938.HK,19.8,0.574
+622,Tianjin Binhai Teda Logistics (Group) Corporation Limited,8348.HK,13.65,0.407
+623,Tsui Wah Holdings Limited,1314.HK,9.72,0.296
+624,"Xi'an Kingfar Property Services Co., Ltd.",1354.HK,58.09,1.483
+625,Mobicon Group Limited,1213.HK,20.07,0.586
+626,Jiangsu Horizon Chain Supermarket Company Limited,2625.HK,43.64,1.175
+627,China Kingstone Mining Holdings Limited,1380.HK,55.94,1.449
+628,"China Dongxiang (Group) Co., Ltd.",3818.HK,11.28,0.346
+629,MGM China Holdings Limited,2282.HK,13.73,0.418
+630,TI Cloud Inc.,2167.HK,37.82,1.052
+631,Min Xin Holdings Limited,0222.HK,19.78,0.589
+632,China Biotech Services Holdings Limited,8037.HK,29.35,0.845
+633,Beijing Enterprises Water Group Limited,0371.HK,11.16,0.345
+634,Cathay Group Holdings Inc.,1981.HK,16.75,0.507
+635,XiangXing Technology Holding Limited,1732.HK,19.9,0.595
+636,Sunlight Real Estate Investment Trust,0435.HK,7.53,0.238
+637,Noah Holdings Limited,6686.HK,12.77,0.394
+638,Dekon Food and Agriculture Group,2419.HK,20.71,0.62
+639,China Development Bank Intl Inv Ltd.,1062.HK,19.77,0.595
+640,ZTE Corporation,0763.HK,17.13,0.522
+641,Shirble Department Store Holdings (China) Limited,0312.HK,31.3,0.905
+642,Tan Chong International Limited,0693.HK,9.04,0.287
+643,Chervon Holdings Limited,2285.HK,19.56,0.594
+644,Star Group Asia Limited,1560.HK,35.42,1.014
+645,Shenzhen Dobot Corp Ltd,2432.HK,30.12,0.883
+646,Sau San Tong Holdings Limited,8200.HK,14.17,0.442
+647,"Nanjing Leads Biolabs Co., Ltd.",9887.HK,22.31,0.675
+648,"JD Logistics, Inc.",2618.HK,15.72,0.489
+649,Transport International Holdings Limited,0062.HK,5.76,0.188
+650,Future Data Group Limited,8229.HK,25.26,0.764
+651,Dawnrays Pharmaceutical (Holdings) Limited,2348.HK,5.41,0.178
+652,KE Holdings Inc.,2423.HK,15.72,0.499
+653,SMIT Holdings Limited,2239.HK,33.86,1.002
+654,Weigang Environmental Technology Holding Group Limited,1845.HK,25.19,0.772
+655,Directel Holdings Limited,8337.HK,27.0,0.822
+656,JS Global Lifestyle Company Limited,1691.HK,12.93,0.418
+657,"Hangzhou Tigermed Consulting Co., Ltd",3347.HK,18.68,0.59
+658,Sa Sa International Holdings Limited,0178.HK,11.1,0.362
+659,Universal Technologies Holdings Limited,1026.HK,40.81,1.192
+660,China First Capital Group Limited,1269.HK,23.33,0.727
+661,"Shanghai Junshi Biosciences Co., Ltd.",1877.HK,17.96,0.572
+662,Yestar Healthcare Holdings Company Limited,2393.HK,52.8,1.489
+663,"Ju Fu Tang Biotech Holdings Co., Ltd",8217.HK,31.57,0.958
+664,Jiahua Stores Holdings Limited,0602.HK,16.79,0.54
+665,Hengxin Technology Ltd.,1085.HK,18.64,0.596
+666,Edvance International Holdings Limited,1410.HK,18.46,0.591
+667,CSOP Tesla Daily (2x) Leveraged Product USD,7766.HK,31.0,0.949
+668,YNBY International Limited,0030.HK,22.24,0.707
+669,Chongqing Iron & Steel Company Limited,1053.HK,18.17,0.588
+670,Amuse Group Holding Limited,8545.HK,10.58,0.354
+671,Kontafarma China Holdings Limited,1312.HK,11.23,0.375
+672,Shengli Oil & Gas Pipe Holdings Limited,1080.HK,20.66,0.671
+673,Water Oasis Group Limited,1161.HK,8.33,0.285
+674,Daido Group Limited,0544.HK,34.39,1.061
+675,Dingyi Group Investment Limited,0508.HK,31.18,0.976
+676,Zai Lab Limited,9688.HK,15.91,0.529
+677,Lifestyle China Group Limited,2136.HK,16.16,0.537
+678,"Baidu, Inc.",89888.HK,20.46,0.67
+679,China Unicom (Hong Kong) Limited,0762.HK,9.96,0.34
+680,"Liaoning Port Co., Ltd.",2880.HK,6.73,0.234
+681,7Road Holdings Limited,0797.HK,33.41,1.062
+682,BYD Company Limited,1211.HK,11.36,0.394
+683,"United Company RUSAL, International Public Joint-Stock Company",0486.HK,14.62,0.501
+684,Zhongtai Futures Company Limited,1461.HK,12.57,0.437
+685,Leoch International Technology Limited,0842.HK,22.03,0.739
+686,NetEase Cloud Music Inc.,9899.HK,13.96,0.484
+687,China Shengmu Organic Milk Limited,1432.HK,9.84,0.351
+688,China Aluminum International Engineering Corporation Limited,2068.HK,9.04,0.325
+689,Shoucheng Holdings Limited,0697.HK,17.74,0.617
+690,Styland Holdings Limited,0211.HK,10.08,0.362
+691,China Resources Land Limited,1109.HK,9.39,0.34
+692,Capital Estate Limited,0193.HK,21.91,0.758
+693,China National Building Material Company Limited,3323.HK,14.56,0.52
+694,South China Financial Holdings Limited,0619.HK,27.18,0.928
+695,South Manganese Investment Limited,1091.HK,26.17,0.908
+696,China Medical System Holdings Limited,0867.HK,12.66,0.464
+697,"Zhejiang Sanhua Intelligent Controls Co.,Ltd",2050.HK,15.46,0.56
+698,Xingda International Holdings Limited,1899.HK,5.72,0.216
+699,Activation Group Holdings Limited,9919.HK,11.11,0.412
+700,"Qyuns Therapeutics Co., Ltd.",2509.HK,24.03,0.847
+701,Digital Domain Holdings Limited,0547.HK,21.2,0.766
+702,"Roiserv Lifestyle Services Co., Ltd.",2146.HK,11.54,0.436
+703,Le Saunda Holdings Limited,0738.HK,8.91,0.342
+704,Nan Nan Resources Enterprise Limited,1229.HK,12.5,0.477
+705,SPT Energy Group Inc.,1251.HK,30.87,1.098
+706,Metaspacex Limited,1796.HK,43.94,1.504
+707,Beijing Enterprises Environment Group Limited,0154.HK,9.72,0.379
+708,Prosper Construction Holdings Limited,6816.HK,26.75,0.977
+709,Champion Alliance International Holdings Limited,1629.HK,10.94,0.427
+710,Sunshine Insurance Group Company Limited,6963.HK,8.62,0.34
+711,"Lianhua Supermarket Holdings Co., Ltd.",0980.HK,18.58,0.704
+712,Zhejiang RuiYuan Intelligent Control Technology Company Limited,8249.HK,20.36,0.777
+713,Pengo Holdings Group Limited,1865.HK,22.67,0.864
+714,China Vanadium Titano-Magnetite Mining Company Limited,0893.HK,12.16,0.485
+715,Playmates Holdings Limited,0635.HK,3.32,0.14
+716,"Financial Street Property Co., Limited",1502.HK,3.96,0.166
+717,"Shanghai Chicmax Cosmetic Co., Ltd.",2145.HK,15.01,0.603
+718,JTF International Holdings Limited,9689.HK,20.52,0.806
+719,China Leon Inspection Holding Limited,1586.HK,9.77,0.401
+720,Scholar Education Group,1769.HK,24.39,0.947
+721,China Parenting Network Holdings Limited,1736.HK,30.3,1.161
+722,Standard Development Group Limited,1867.HK,13.6,0.561
+723,160 Health International Limited,2656.HK,38.63,1.459
+724,Onewo Inc.,2602.HK,10.54,0.446
+725,AustAsia Group Ltd.,2425.HK,13.27,0.556
+726,Times Neighborhood Holdings Limited,9928.HK,9.05,0.388
+727,Seazen Group Limited,1030.HK,13.74,0.579
+728,Yidu Tech Inc.,2158.HK,12.51,0.532
+729,CMON Limited,1792.HK,19.98,0.827
+730,Ying Kee Tea House Group Limited,8241.HK,12.19,0.523
+731,Value Partners Group Limited,0806.HK,10.73,0.466
+732,Zhong Hua International Holdings Limited,1064.HK,24.91,1.027
+733,Beijing Jingcheng Machinery Electric Company Limited,0187.HK,9.78,0.43
+734,Oriental University City Holdings (H.K.) Limited,8067.HK,12.45,0.542
+735,FAR International Holdings Group Company Limited,2516.HK,22.08,0.924
+736,Dufu Liquor Group Limited,0986.HK,20.26,0.855
+737,Yinsheng Digifavor Company Limited,3773.HK,9.48,0.418
+738,Everbright Grand China Assets Limited,3699.HK,4.69,0.212
+739,Adtiger Corporations Limited,1163.HK,10.37,0.465
+740,Century Plaza Hotel Group,8315.HK,33.9,1.387
+741,Hingtex Holdings Limited,1968.HK,12.43,0.554
+742,Towngas Smart Energy Company Limited,1083.HK,5.59,0.259
+743,China Overseas Grand Oceans Group Limited,0081.HK,11.97,0.542
+744,Doumob,1917.HK,17.28,0.767
+745,Green Tea Group Limited,6831.HK,10.12,0.467
+746,The Cross-Harbour (Holdings) Limited,0032.HK,4.62,0.219
+747,Beijing Media Corporation Limited,1000.HK,10.3,0.478
+748,K. Wah International Holdings Limited,0173.HK,6.36,0.302
+749,China New Town Development Company Limited,1278.HK,10.37,0.485
+750,Renrui Human Resources Technology Holdings Limited,6919.HK,8.17,0.387
+751,BII Railway Transportation Technology Holdings Company Limited,1522.HK,6.05,0.289
+752,Zhejiang United Investment Holdings Group Limited,8366.HK,13.45,0.624
+753,Kingdee International Software Group Company Limited,0268.HK,12.39,0.577
+754,Kwung's Aroma Holdings Limited,1925.HK,4.86,0.234
+755,Deep Source Holdings Limited,0990.HK,12.33,0.587
+756,Champion Real Estate Investment Trust,2778.HK,7.16,0.349
+757,Hans Group Holdings Limited,0554.HK,9.59,0.465
+758,"Yancheng Port International Co., Limited",8310.HK,10.11,0.493
+759,Broncus Holding Corporation,2216.HK,21.5,1.012
+760,KML Technology Group Limited,8065.HK,10.29,0.507
+761,"MemeStrategy, Inc.",2440.HK,27.72,1.276
+762,China Water Affairs Group Limited,0855.HK,8.09,0.403
+763,Byte Metaverse Holdings Limited,8645.HK,24.53,1.148
+764,Xinchen China Power Holdings Limited,1148.HK,10.67,0.53
+765,Tianqi Lithium Corporation,9696.HK,10.83,0.543
+766,Singamas Container Holdings Limited,0716.HK,7.38,0.376
+767,New Oriental Education & Technology Group Inc.,9901.HK,9.16,0.468
+768,Sun Art Retail Group Limited,6808.HK,11.89,0.604
+769,Futian Holdings Limited,8196.HK,18.72,0.928
+770,Ernest Borel Holdings Limited,1856.HK,11.86,0.607
+771,"Xi'an Haitian Antenna Technologies Co., Ltd.",8227.HK,13.78,0.702
+772,JD Health International Inc.,6618.HK,10.22,0.531
+773,Alibaba Group Holding Limited,89988.HK,13.74,0.705
+774,Elate Holdings Limited,0076.HK,14.52,0.745
+775,Tristate Holdings Limited,0458.HK,6.68,0.355
+776,Honghua Group Limited,0196.HK,11.03,0.584
+777,Lee Kee Holdings Limited,0637.HK,8.3,0.445
+778,Xinyi Glass Holdings Limited,0868.HK,7.02,0.379
+779,Ganglong China Property Group Limited,6968.HK,27.03,1.359
+780,Good Fellow Healthcare Holdings Limited,8143.HK,23.22,1.188
+781,China Financial International Investments Limited,0721.HK,14.37,0.774
+782,Ko Yo Chemical (Group) Limited,0827.HK,20.01,1.058
+783,"Shanghai Pharmaceuticals Holding Co., Ltd",2607.HK,3.83,0.217
+784,Dalipal Holdings Limited,1921.HK,11.75,0.648
+785,Sling Group Holdings Limited,8285.HK,10.11,0.572
+786,Lippo China Resources Limited,0156.HK,10.64,0.601
+787,Hengan International Group Company Limited,1044.HK,4.22,0.246
+788,"Nongfu Spring Co., Ltd.",9633.HK,4.99,0.293
+789,"Luzhou Bank Co., Ltd.",1983.HK,6.69,0.391
+790,China Travel International Investment Hong Kong Limited,0308.HK,6.96,0.409
+791,Prosperous Printing Company Limited,8385.HK,27.54,1.5
+792,China Tianbao Group Development Company Limited,1427.HK,9.1,0.537
+793,Genesis Scale Holdings Limited,0439.HK,18.13,1.04
+794,"Haier Smart Home Co., Ltd.",6690.HK,5.31,0.324
+795,Fusen Pharmaceutical Company Limited,1652.HK,16.56,0.971
+796,"IMAX China Holding, Inc.",1970.HK,4.9,0.312
+797,Harbour Equine Holdings Limited,8377.HK,10.81,0.678
+798,East Buy Holding Limited,1797.HK,12.81,0.808
+799,Chinese People Holdings Company Limited,0681.HK,5.77,0.377
+800,"Zhejiang Taimei Medical Technology Co., Ltd.",2576.HK,9.02,0.583
+801,Meilleure Health International Industry Group Limited,2327.HK,6.04,0.399
+802,Hilong Holding Limited,1623.HK,7.94,0.523
+803,Xinjiang Tianye Water Saving Irrigation System Company Limited,0840.HK,5.92,0.394
+804,Peijia Medical Limited,9996.HK,9.27,0.608
+805,"CALB Group Co., Ltd.",3931.HK,8.01,0.529
+806,"Poly Property Services Co., Ltd.",6049.HK,4.54,0.314
+807,Anchorstone Holdings Limited,1592.HK,16.29,1.079
+808,Success Universe Group Limited,0487.HK,13.8,0.925
+809,J&T Global Express Limited,1519.HK,7.94,0.551
+810,Marketingforce Management Ltd,2556.HK,9.94,0.684
+811,"Bank of Zhengzhou Co., Ltd.",6196.HK,3.68,0.262
+812,Shinelong Automotive Lightweight Application Limited,1930.HK,4.73,0.336
+813,YTO International Express and Supply Chain Technology Limited,6123.HK,5.2,0.382
+814,TL Natural Gas Holdings Limited,8536.HK,11.15,0.805
+815,Ching Lee Holdings Limited,3728.HK,15.1,1.075
+816,Greentown China Holdings Limited,3900.HK,7.05,0.525
+817,Perennial Energy Holdings Limited,2798.HK,5.25,0.395
+818,Greatime International Holdings Limited,0844.HK,8.3,0.617
+819,Star Plus Legend Holdings Limited,6683.HK,13.77,1.001
+820,"JINGDONG Industrials, Inc.",7618.HK,7.4,0.556
+821,Medicskin Holdings Limited,8307.HK,10.56,0.798
+822,Transcenta Holding Limited,6628.HK,20.8,1.509
+823,Prada S.p.A.,1913.HK,3.92,0.311
+824,Public Financial Holdings Limited,0626.HK,5.26,0.429
+825,"CK Life Sciences Int'l., (Holdings) Inc.",0775.HK,6.84,0.555
+826,Bloks Group Limited,0325.HK,9.72,0.782
+827,Zhonghua Gas Holdings Limited,8246.HK,6.4,0.538
+828,Comtec Solar Systems Group Limited,0712.HK,11.09,0.916
+829,Dynamic Holdings Limited,0029.HK,4.27,0.364
+830,CITIC Telecom International Holdings Limited,1883.HK,3.05,0.262
+831,Sino Hotels (Holdings) Limited,1221.HK,2.57,0.222
+832,"Wenzhou Kangning Hospital Co., Ltd.",2120.HK,4.04,0.351
+833,C-Link Squared Limited,1463.HK,15.51,1.293
+834,Damai Entertainment Holdings Limited,1060.HK,6.49,0.568
+835,Hin Sang Group (International) Holding Co. Ltd.,6893.HK,8.96,0.806
+836,Kingsoft Corporation Limited,3888.HK,4.7,0.433
+837,Kintor Pharmaceutical Limited,9939.HK,7.57,0.731
+838,Shineroad International Holdings Limited,1587.HK,3.49,0.351
+839,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",2196.HK,3.48,0.352
+840,Archosaur Games Inc.,9990.HK,6.19,0.62
+841,EPI (Holdings) Limited,0689.HK,7.62,0.765
+842,BBMG Corporation,2009.HK,3.34,0.342
+843,Green Power Group Limited,1870.HK,8.9,0.892
+844,"Auntea Jenny (Shanghai) Industrial Co., Ltd.",2589.HK,11.49,1.142
+845,"Nanhua Futures Co., Ltd.",2691.HK,3.62,0.373
+846,Alibaba Health Information Technology Limited,0241.HK,6.83,0.695
+847,Xiaocaiyuan International Holding Ltd.,0999.HK,3.91,0.406
+848,Tian An Medicare Limited,0383.HK,2.56,0.268
+849,Zhaoke Ophthalmology Limited,6622.HK,5.63,0.599
+850,Solomon Systech (International) Limited,2878.HK,4.73,0.508
+851,"Duality Biotherapeutics, Inc.",9606.HK,5.27,0.577
+852,Cosmos Machinery Enterprises Limited,0118.HK,4.36,0.482
+853,Kwong Man Kee Group Limited,8023.HK,3.36,0.374
+854,Runhua Living Service Group Holdings Limited,2455.HK,2.86,0.324
+855,Boltek Holdings Limited,8601.HK,2.58,0.295
+856,Xingfa Aluminium Holdings Limited,0098.HK,2.24,0.26
+857,Hong Kong Entertainment International Holdings Limited,8291.HK,8.06,0.924
+858,Essex Bio-Technology Limited,1061.HK,3.32,0.392
+859,China YuHua Education Corporation Limited,6169.HK,6.16,0.719
+860,China Resources Pharmaceutical Group Limited,3320.HK,2.47,0.296
+861,Congyu Intelligent Agricultural Holdings Limited,0875.HK,14.69,1.683
+862,Anhui Conch Cement Company Limited,0914.HK,2.71,0.33
+863,Dongjiang Environmental Company Limited,0895.HK,2.97,0.365
+864,China Longyuan Power Group Corporation Limited,0916.HK,3.23,0.399
+865,Beijing Health (Holdings) Limited,2389.HK,2.32,0.289
+866,Central Development Holdings Limited,0475.HK,5.2,0.65
+867,Namyue Holdings Limited,1058.HK,4.07,0.513
+868,Jutal Offshore Oil Services Limited,3303.HK,3.47,0.442
+869,Nanjing Sinolife United Company Limited,3332.HK,5.44,0.697
+870,China Overseas Land & Investment Limited,0688.HK,3.02,0.412
+871,ArtGo Holdings Limited,3313.HK,8.19,1.133
+872,Century Energy International Holdings Limited,8132.HK,4.73,0.672
+873,Zhengye International Holdings Company Limited,3363.HK,1.75,0.254
+874,"Shenzhen Hipine Precision Technology Co., Ltd.",2583.HK,7.23,1.025
+875,Da Yu Financial Holdings Limited,1073.HK,4.13,0.608
+876,Lapco Holdings Limited,8472.HK,6.91,1.007
+877,Fujian Holdings Limited,0181.HK,3.32,0.497
+878,"Giant Biogene Holding Co., Ltd.",2367.HK,2.81,0.423
+879,C&D International Investment Group Limited,1908.HK,2.81,0.427
+880,SenseTime Group Inc.,80020.HK,4.41,0.67
+881,Biosysen Limited,1355.HK,4.0,0.613
+882,Ngai Hing Hong Company Limited,1047.HK,2.4,0.379
+883,Renze Harvest International Limited,1282.HK,4.4,0.706
+884,Tian An China Investments Company Limited,0028.HK,1.31,0.221
+885,Madison Holdings Group Limited,8057.HK,5.84,1.005
+886,"Contiocean Environment Tech Group Co., Ltd.",2613.HK,1.18,0.224
+887,Country Garden Services Holdings Company Limited,6098.HK,2.24,0.426
+888,Net-A-Go Technology Company Limited,1483.HK,1.41,0.27
+889,Hony Media Group,0419.HK,4.56,0.895
+890,"Suxin Joyful Life Services Co., Ltd.",2152.HK,1.67,0.345
+891,Talent Property Group Limited,0760.HK,3.65,0.747
+892,Global Bio-chem Technology Group Company Limited,0809.HK,3.56,0.746
+893,MaxWin International Holdings Limited,8513.HK,4.7,1.103
+894,China Brilliant Global Limited,8026.HK,2.8,0.689
+895,Yangtzekiang Garment Limited,0294.HK,1.18,0.3
+896,XPeng Inc.,9868.HK,2.44,0.623
+897,MIE Holdings Corporation,1555.HK,2.43,0.632
+898,China Gas Holdings Limited,0384.HK,1.01,0.264
+899,Chong Fai Jewellery Group Holdings Company Limited,8537.HK,2.61,0.688
+900,KLN Logistics Group Limited,0636.HK,1.37,0.372
+901,ZTO Express (Cayman) Inc.,2057.HK,1.18,0.326
+902,New City Development Group Limited,0456.HK,1.91,0.537
+903,"Niraku GC Holdings, Inc.",1245.HK,1.17,0.351
+904,"OneRobotics (Shenzhen) Co., Ltd.",6600.HK,4.7,1.447
+905,ENN Energy Holdings Limited,2688.HK,1.03,0.33
+906,CEC International Holdings Limited,0759.HK,1.92,0.728
+907,Hainan Meilan International Airport Company Limited,0357.HK,1.28,0.504
+908,Peking University Resources (Holdings) Company Limited,0618.HK,1.38,0.559
+909,Vitasoy International Holdings Limited,0345.HK,1.28,0.545
+910,Hong Wei (Asia) Holdings Company Limited,8191.HK,1.37,0.598
+911,AMS Public Transport Holdings Limited,0077.HK,0.55,0.262
+912,China Anchu Energy Storage Group Limited,2399.HK,1.35,0.679
+913,Future Bright Mining Holdings Limited,2212.HK,1.3,0.683
+914,Cloud Factory Technology Holdings Limited,2512.HK,1.18,0.631
+915,AIA Group Limited,81299.HK,0.43,0.235
+916,Xingye Wulian Service Group Co. Ltd.,9916.HK,0.72,0.412
+917,"CNGR Advanced Material Co., Ltd.",2579.HK,1.02,0.668
+918,Sky Light Holdings Limited,3882.HK,1.13,0.889
+919,V.S. International Group Limited,1002.HK,0.44,0.465
+920,AK Medical Holdings Limited,1789.HK,0.36,0.396
+921,"Wynn Macau, Limited",1128.HK,0.29,0.334
+922,Zhongshen Jianye Holding Limited,2503.HK,0.71,1.176
+923,"Beijing Chunlizhengda Medical Instruments Co., Ltd.",1858.HK,0.25,0.476
+924,CR Construction Group Holdings Limited,1582.HK,0.1,0.187
+925,Zensun Enterprises Limited,0185.HK,0.37,0.881
+926,Diwang Industrial Holdings Limited,1950.HK,0.36,1.169
+927,"Xunfei Healthcare Technology Co., Ltd.",2506.HK,0.15,0.525
+928,Yee Hop Holdings Limited,1662.HK,0.08,0.666
+929,Luks Group (Vietnam Holdings) Company Limited,0366.HK,0.03,0.233
+930,China Health Group Limited,0673.HK,-0.23,1.071
+931,"FY Financial (Shenzhen) Co., Ltd.",8452.HK,-0.25,0.665
+932,"Robotphoenix Intelligent Technology Co., Ltd.",6871.HK,-1.13,1.178
+933,Man Sang International Limited,0938.HK,-1.03,0.971
+934,Wong's Kong King International (Holdings) Limited,0532.HK,-0.78,0.687
+935,Gaodi Holdings Limited,1676.HK,-1.0,0.834
+936,Coolpoint Innonism Holding Limited,8040.HK,-0.64,0.531
+937,Liu Chong Hing Investment Limited,0194.HK,-0.24,0.183
+938,"Mao Geping Cosmetics Co., Ltd.",1318.HK,-0.58,0.434
+939,Chinasoft International Limited,0354.HK,-0.66,0.483
+940,Besunyen Holdings Company Limited,0926.HK,-0.35,0.249
+941,"Baidu, Inc.",9888.HK,-0.74,0.482
+942,Overseas Chinese Town (Asia) Holdings Limited,3366.HK,-1.01,0.63
+943,Wenling Zhejiang Measuring and Cutting Tools Trading Centre Company Limited,1379.HK,-0.78,0.476
+944,Ka Shui International Holdings Limited,0822.HK,-0.7,0.372
+945,Beijing North Star Company Limited,0588.HK,-0.59,0.291
+946,Meituan,3690.HK,-1.05,0.512
+947,E. Bon Holdings Limited,0599.HK,-0.93,0.332
+948,Starjoy Wellness and Travel Company Limited,3662.HK,-1.39,0.479
+949,"SENASIC Electronics Technology Co., Ltd.",6675.HK,-3.99,1.337
+950,AsiaInfo Technologies Limited,1675.HK,-2.03,0.644
+951,Keytop Parking Inc.,2272.HK,-1.9,0.583
+952,Ocumension Therapeutics,1477.HK,-1.68,0.503
+953,Digital China Holdings Limited,0861.HK,-1.51,0.448
+954,"Deepexi Technology Co., Ltd.",1384.HK,-5.02,1.44
+955,Hang Lung Properties Limited,0101.HK,-1.22,0.34
+956,China Weaving Materials Holdings Limited,3778.HK,-1.3,0.353
+957,Landrich Holding Limited,2132.HK,-2.64,0.722
+958,High Fashion International Limited,0608.HK,-0.97,0.249
+959,"Phancy Group Co., Ltd.",6682.HK,-2.71,0.681
+960,Tongcheng Travel Holdings Limited,0780.HK,-1.78,0.442
+961,ZJLD Group Inc,6979.HK,-2.03,0.49
+962,China Glass Holdings Limited,3300.HK,-3.2,0.697
+963,HUTCHMED (China) Limited,0013.HK,-1.98,0.425
+964,Huazhang Technology Holding Limited,1673.HK,-2.04,0.395
+965,AviChina Industry & Technology Company Limited,2357.HK,-1.58,0.293
+966,Jilin Province Chuncheng Heating Company Limited,1853.HK,-2.16,0.401
+967,Yadea Group Holdings Ltd.,1585.HK,-2.28,0.413
+968,Kowloon Development Company Limited,0034.HK,-1.87,0.33
+969,True Partner Capital Holding Limited,8657.HK,-3.51,0.576
+970,Galaxy Entertainment Group Limited,0027.HK,-2.09,0.339
+971,Wong's International Holdings Limited,0099.HK,-2.0,0.32
+972,China HK Power Smart Energy Group Limited,0931.HK,-3.32,0.528
+973,JiaChen Holding Group Limited,1937.HK,-4.57,0.714
+974,China Resources Gas Group Limited,1193.HK,-1.84,0.283
+975,"Viewtrix Technology Co., Ltd",3310.HK,-7.43,1.156
+976,Kwan On Holdings Limited,1559.HK,-5.43,0.809
+977,JLogo Holdings Limited,8527.HK,-6.36,0.888
+978,China CBM Group Company Limited,8270.HK,-4.75,0.642
+979,Pacific Online Limited,0543.HK,-2.82,0.364
+980,Sinco Pharmaceuticals Holdings Limited,6833.HK,-2.98,0.385
+981,"Beijing Digital Telecom Co., Ltd.",6188.HK,-10.49,1.385
+982,Forgame Holdings Limited,0484.HK,-2.52,0.317
+983,New World Department Store China Limited,0825.HK,-4.52,0.571
+984,DIT Group Limited,0726.HK,-10.03,1.295
+985,Beisen Holding Limited,9669.HK,-4.44,0.557
+986,Xinhua News Media Holdings Limited,0309.HK,-3.78,0.462
+987,"Metis TechBio Co., Ltd.",7666.HK,-9.01,1.096
+988,China Agri-Products Exchange Limited,0149.HK,-4.38,0.518
+989,Kam Hing International Holdings Limited,2307.HK,-4.24,0.497
+990,Haidilao International Holding Ltd.,6862.HK,-4.1,0.476
+991,Weimob Inc.,2013.HK,-7.93,0.911
+992,Chinlink International Holdings Limited,0997.HK,-4.28,0.483
+993,Sun Hing Printing Holdings Limited,1975.HK,-3.24,0.359
+994,Greenland Hong Kong Holdings Limited,0337.HK,-6.83,0.759
+995,"Qfin Holdings, Inc.",3660.HK,-4.45,0.483
+996,TenNor Therapeutics (Suzhou) Limited,6872.HK,-7.33,0.8
+997,CSC Holdings Limited,0235.HK,-4.17,0.444
+998,China Feihe Limited,6186.HK,-3.93,0.405
+999,"ZhongAn Online P & C Insurance Co., Ltd.",6060.HK,-6.41,0.657
+1000,Orange Tour Cultural Holding Limited,8627.HK,-4.7,0.476
+1001,Qilu Expressway Company Limited,1576.HK,-1.95,0.182
+1002,Reach New Holdings Limited,8471.HK,-13.12,1.291
+1003,Kuaishou Technology,1024.HK,-5.89,0.544
+1004,Coolpad Group Limited,2369.HK,-8.62,0.777
+1005,Jinxin Fertility Group Limited,1951.HK,-5.48,0.485
+1006,Tsingtao Brewery Company Limited,0168.HK,-4.24,0.364
+1007,ISP Holdings Limited,2340.HK,-5.31,0.454
+1008,"JD.com, Inc.",89618.HK,-4.7,0.4
+1009,Radiance Holdings (Group) Company Limited,9993.HK,-8.56,0.738
+1010,"Guangdong Syntrust GK Testing and Certification Tech Service Center Co., Ltd.",8629.HK,-3.34,0.271
+1011,Mainland Headwear Holdings Limited,1100.HK,-2.85,0.23
+1012,Tianli International Holdings Limited,1773.HK,-7.92,0.642
+1013,BOE Varitronix Limited,0710.HK,-5.08,0.399
+1014,"China High Speed Transmission Equipment Group Co., Ltd.",0658.HK,-7.54,0.599
+1015,"Jiangsu Hengrui Pharmaceuticals Co.,Ltd",1276.HK,-6.75,0.526
+1016,Be Friends Holding Limited,1450.HK,-6.2,0.479
+1017,"Unisound AI Technology Co., Ltd.",9678.HK,-16.91,1.368
+1018,Honma Golf Limited,6858.HK,-1.55,0.116
+1019,"Hainan Drinda New Energy Technology Co., Ltd.",2865.HK,-11.77,0.919
+1020,Kaisa Prosperity Holdings Limited,2168.HK,-7.32,0.523
+1021,Imperium Technology Group Limited,0776.HK,-21.04,1.6
+1022,Brii Biosciences Limited,2137.HK,-10.19,0.716
+1023,Solartech International Holdings Limited,1166.HK,-12.31,0.866
+1024,Ficus Technology Holdings Limited,8107.HK,-16.8,1.186
+1025,Zhenro Properties Group Limited,6158.HK,-14.92,1.037
+1026,"Zhongyuan Bank Co., Ltd.",1216.HK,-3.56,0.231
+1027,Pacific Textiles Holdings Limited,1382.HK,-5.05,0.328
+1028,Best Linking Group Holdings Limited,9882.HK,-8.47,0.559
+1029,Century City International Holdings Limited,0355.HK,-12.7,0.839
+1030,Shangri-La Asia Limited,0069.HK,-3.72,0.232
+1031,Janco Holdings Limited,8035.HK,-9.67,0.619
+1032,Angang Steel Company Limited,0347.HK,-7.28,0.453
+1033,Jiufang Digital Technology Holdings Limited,8238.HK,-14.66,0.927
+1034,Playmates Toys Limited,0869.HK,-5.11,0.308
+1035,Phoenix Media Investment (Holdings) Limited,2008.HK,-8.07,0.484
+1036,China Renaissance Holdings Limited,1911.HK,-9.8,0.592
+1037,LifeTech Scientific Corporation,1302.HK,-8.07,0.477
+1038,China Maple Leaf Educational Systems Limited,1317.HK,-9.68,0.57
+1039,China Tourism Group Duty Free Corporation Limited,1880.HK,-9.62,0.561
+1040,Zhong An Group Limited,0672.HK,-8.1,0.468
+1041,Unity Group Holdings International Limited,1539.HK,-8.62,0.49
+1042,Yun Lee Marine Group Holdings Limited,2682.HK,-6.04,0.339
+1043,"Beijing Energy International Holding Co., Ltd.",0686.HK,-11.2,0.635
+1044,Kato (Hong Kong) Holdings Limited,2189.HK,-2.94,0.159
+1045,Cheuk Nang (Holdings) Limited,0131.HK,-3.0,0.161
+1046,"Tat Hong Equipment Service Co., Ltd.",2153.HK,-7.05,0.383
+1047,Gushengtang Holdings Limited,2273.HK,-7.07,0.383
+1048,"Suzhou Ribo Life Science Co., Ltd.",6938.HK,-9.88,0.542
+1049,Yuexiu Services Group Limited,6626.HK,-5.68,0.304
+1050,Hong Kong Exchanges and Clearing Limited,80388.HK,-3.86,0.203
+1051,Café de Coral Holdings Limited,0341.HK,-5.62,0.292
+1052,Convenience Retail Asia Limited,0831.HK,-5.77,0.299
+1053,Chu Kong Shipping Enterprises (Group) Company Limited,0560.HK,-2.55,0.129
+1054,Hua Lien International (Holding) Company Limited,0969.HK,-10.09,0.528
+1055,SIIC Environment Holdings Ltd.,0807.HK,-4.15,0.205
+1056,Kaisun Holdings Limited,8203.HK,-12.53,0.646
+1057,Xtep International Holdings Limited,1368.HK,-8.04,0.404
+1058,Dexin Services Group Limited,2215.HK,-24.34,1.329
+1059,KPM Holding Limited,8027.HK,-10.22,0.517
+1060,Magnus Concordia Group Limited,1172.HK,-15.14,0.768
+1061,Hi Sun Technology (China) Limited,0818.HK,-8.67,0.424
+1062,Sands China Ltd.,1928.HK,-8.43,0.404
+1063,Finsoft Financial Investment Holdings Limited,8018.HK,-14.15,0.697
+1064,China Resources Building Materials Technology Holdings Limited,1313.HK,-9.92,0.475
+1065,World Houseware (Holdings) Limited,0713.HK,-7.46,0.342
+1066,ISP Global Limited,8487.HK,-13.21,0.614
+1067,Kelfred Holdings Limited,1134.HK,-12.78,0.588
+1068,Dmall Inc.,2586.HK,-12.4,0.569
+1069,Hospital Corporation of China Limited,3869.HK,-11.64,0.517
+1070,Suzhou Basecare Medical Corporation Limited,2170.HK,-12.1,0.529
+1071,Sinopharm Group Co. Ltd.,1099.HK,-5.57,0.236
+1072,Sunshine Oilsands Ltd.,2012.HK,-16.17,0.717
+1073,DPC Dash Ltd,1405.HK,-10.99,0.475
+1074,China Ludao Technology Company Limited,2023.HK,-6.95,0.294
+1075,E-Commodities Holdings Limited,1733.HK,-8.25,0.347
+1076,BaWang International (Group) Holding Limited,1338.HK,-8.94,0.375
+1077,Hong Kong Economic Times Holdings Limited,0423.HK,-4.15,0.168
+1078,Acotec Scientific Holdings Limited,6669.HK,-11.92,0.493
+1079,"China Datang Corporation Renewable Power Co., Limited",1798.HK,-8.1,0.325
+1080,IRC Limited,1029.HK,-11.85,0.474
+1081,"Beijing Capital Jiaye Property Services Co., Limited",2210.HK,-7.97,0.312
+1082,Human Health Holdings Limited,1419.HK,-7.62,0.296
+1083,"Financial Street Securities Co., Limited",1476.HK,-12.07,0.48
+1084,CPM Group Limited,1932.HK,-12.8,0.506
+1085,"Kindstar Globalgene Technology, Inc.",9960.HK,-7.21,0.276
+1086,New Ray Medicine International Holding Limited,6108.HK,-12.56,0.49
+1087,Melco International Development Limited,0200.HK,-12.46,0.483
+1088,New Century Group Hong Kong Limited,0234.HK,-10.21,0.39
+1089,Green Leader Holdings Group Limited,0061.HK,-10.7,0.408
+1090,PT International Development Corporation Limited,0372.HK,-20.9,0.838
+1091,"Guangzhou Automobile Group Co., Ltd.",2238.HK,-10.32,0.389
+1092,Redsun Services Group Limited,1971.HK,-9.55,0.356
+1093,Ming Yuan Cloud Group Holdings Limited,0909.HK,-15.72,0.599
+1094,Tianda Pharmaceuticals Limited,0455.HK,-11.58,0.43
+1095,Confidence Intelligence Holdings Limited,1967.HK,-12.29,0.456
+1096,Yuxing InfoTech Investment Holdings Limited,8005.HK,-12.61,0.468
+1097,Chinney Alliance Group Limited,0385.HK,-9.77,0.352
+1098,"Victory Giant Technology (HuiZhou) Co.,Ltd",2476.HK,-31.5,1.266
+1099,Greentown Management Holdings Company Limited,9979.HK,-13.2,0.474
+1100,"LEPU ScienTech Medical Technology (Shanghai) Co., Ltd.",2291.HK,-12.54,0.444
+1101,"Baiwang Co., Ltd.",6657.HK,-15.78,0.567
+1102,Shun Wo Group Holdings Limited,1591.HK,-10.73,0.375
+1103,NVC International Holdings Limited,2222.HK,-6.77,0.231
+1104,BetterLife Holding Limited,6909.HK,-17.85,0.644
+1105,Weibo Corporation,9898.HK,-11.7,0.405
+1106,Changyou International Group Limited,1039.HK,-17.56,0.622
+1107,Computer And Technologies Holdings Limited,0046.HK,-7.58,0.255
+1108,CSI Properties Limited,0497.HK,-7.36,0.244
+1109,World Super Holdings Limited,8612.HK,-19.04,0.665
+1110,Crazy Sports Group Limited,0082.HK,-11.63,0.39
+1111,Shandong Weigao Group Medical Polymer Company Limited,1066.HK,-12.25,0.411
+1112,Century Ginwa Retail Holdings Limited,0162.HK,-18.43,0.623
+1113,LVGEM (China) Real Estate Investment Company Limited,0095.HK,-25.11,0.878
+1114,Chinese Estates Holdings Limited,0127.HK,-8.3,0.264
+1115,Xinyi Energy Holdings Limited,3868.HK,-11.97,0.386
+1116,"China Bohai Bank Co., Ltd.",9668.HK,-7.43,0.233
+1117,E-House (China) Enterprise Holdings Limited,2048.HK,-27.48,0.961
+1118,Tai Sang Land Development Limited,0089.HK,-7.69,0.241
+1119,Concord New Energy Group Limited,0182.HK,-12.46,0.399
+1120,SSY Group Limited,2005.HK,-9.43,0.296
+1121,Top Form International Limited,0333.HK,-11.37,0.356
+1122,"Flat Glass Group Co., Ltd.",6865.HK,-16.23,0.52
+1123,"X.J. Electrics (Hu Bei) Group Co., Ltd",2619.HK,-20.78,0.681
+1124,Butong Group,6090.HK,-29.12,0.998
+1125,"Beijing Geekplus Technology Co., Ltd.",2590.HK,-23.24,0.767
+1126,"Muyuan Foods Group Co., Ltd.",2714.HK,-14.76,0.463
+1127,Redco Properties Group Limited,1622.HK,-30.77,1.049
+1128,"Bank of Guizhou Co., Ltd.",6199.HK,-8.4,0.252
+1129,"Uisee Technologies (Beijing) Co., Ltd.",1511.HK,-34.94,1.218
+1130,"Sichuan Baicha Baidao Industrial Co., Ltd.",2555.HK,-18.71,0.591
+1131,Gemdale Properties and Investment Corporation Limited,0535.HK,-20.72,0.655
+1132,Culturecom Holdings Limited,0343.HK,-19.38,0.607
+1133,Shun Ho Property Investments Limited,0219.HK,-8.27,0.244
+1134,Geely Automobile Holdings Limited,80175.HK,-17.54,0.541
+1135,Ziyuanyuan Holdings Group Limited,8223.HK,-29.35,0.967
+1136,FWD Group Holdings Limited,1828.HK,-10.81,0.318
+1137,"TYK Medicines, Inc",2410.HK,-26.21,0.837
+1138,Yanchang Petroleum International Limited,0346.HK,-14.62,0.437
+1139,China Ting Group Holdings Limited,3398.HK,-23.09,0.719
+1140,"Wuxi Lead Intelligent Equipment CO.,LTD.",0470.HK,-29.65,0.946
+1141,Oriental Payment Group Holdings Limited,8613.HK,-23.79,0.732
+1142,Shenzhen Investment Limited,0604.HK,-12.14,0.35
+1143,China Rongzhong Financial Holdings Company Limited,3963.HK,-20.66,0.622
+1144,Samsonite Group S.A.,1910.HK,-13.35,0.386
+1145,"Shanghai Forest Cabin Cosmetics Group Co., Ltd.",2657.HK,-26.62,0.825
+1146,Pioneer Global Group Limited,0224.HK,-8.05,0.225
+1147,Domaine Power Holdings Limited,0442.HK,-16.53,0.481
+1148,China Risun Group Limited,1907.HK,-11.05,0.309
+1149,Zhongzhi Pharmaceutical Holdings Limited,3737.HK,-12.02,0.333
+1150,China Traditional Chinese Medicine Holdings Co. Limited,0570.HK,-17.49,0.497
+1151,Kingmaker Footwear Holdings Limited,1170.HK,-11.8,0.323
+1152,Shanghai Industrial Urban Development Group Limited,0563.HK,-9.66,0.261
+1153,"LongBio Pharma (Suzhou) Co., Ltd.",1779.HK,-45.77,1.527
+1154,Yuzhou Group Holdings Company Limited,1628.HK,-34.8,1.064
+1155,Embry Holdings Limited,1388.HK,-12.95,0.348
+1156,iDreamSky Technology Holdings Limited,1119.HK,-28.64,0.839
+1157,Minsheng Education Group Company Limited,1569.HK,-15.8,0.429
+1158,Shimao Group Holdings Limited,0813.HK,-33.56,1.005
+1159,SuperRobotics Holdings Limited,8176.HK,-32.73,0.968
+1160,360 Ludashi Holdings Limited,3601.HK,-12.03,0.315
+1161,China Information Technology Development Limited,8178.HK,-32.39,0.945
+1162,"Hebei Haiwei Electronic New Material Technology Co., Ltd",9609.HK,-23.39,0.646
+1163,CSOP Coinbase Daily (2x) Leveraged Product USD,7711.HK,-40.25,1.227
+1164,Linmon Media Limited,9857.HK,-22.06,0.6
+1165,Energy International Investments Holdings Limited,0353.HK,-19.15,0.507
+1166,"Yunnan Water Investment Co., Limited",6839.HK,-18.03,0.473
+1167,DevGreat Group Limited,0755.HK,-25.71,0.704
+1168,Guangdong Land Holdings Limited,0124.HK,-21.18,0.565
+1169,"China Vanke Co., Ltd.",2202.HK,-23.96,0.637
+1170,Tenfu (Cayman) Holdings Company Limited,6868.HK,-10.59,0.261
+1171,Neway Group Holdings Limited,0055.HK,-12.72,0.317
+1172,Richly Field China Development Limited,0313.HK,-20.44,0.529
+1173,Wang On Properties Limited,1243.HK,-10.64,0.261
+1174,Bayzed Health Group Inc,2609.HK,-26.42,0.704
+1175,Veeko International Holdings Limited,1173.HK,-16.25,0.408
+1176,"Beijing SinoHytec Co., Ltd.",2402.HK,-20.15,0.51
+1177,Synagistics Limited,2562.HK,-45.85,1.368
+1178,Hua Xia Water Group Limited,8401.HK,-24.49,0.631
+1179,Foshan Haitian Flavouring and Food Company Ltd.,3288.HK,-10.99,0.263
+1180,Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited,0874.HK,-9.0,0.212
+1181,"Sany Heavy Industry Co.,Ltd",6031.HK,-13.71,0.33
+1182,China Infrastructure & Logistics Group Ltd.,1719.HK,-24.17,0.616
+1183,Hephaestus Holdings Limited,8173.HK,-28.46,0.731
+1184,eBroker Group Limited,8036.HK,-17.9,0.429
+1185,Zhong Jia Guo Xin Holdings Company Limited,0899.HK,-29.6,0.756
+1186,China Yongda Automobiles Services Holdings Limited,3669.HK,-22.15,0.541
+1187,South China Holdings Company Limited,0413.HK,-13.68,0.316
+1188,"Crealights Technology Co., Ltd.",1191.HK,-72.2,2.61
+1189,Capinfo Company Limited,1075.HK,-14.39,0.329
+1190,Zhou Hei Ya International Holdings Company Limited,1458.HK,-16.46,0.38
+1191,Miricor Enterprises Holdings Limited,1827.HK,-11.66,0.261
+1192,"Dahon Tech (Shenzhen) Co., Ltd.",2543.HK,-21.05,0.494
+1193,Sisram Medical Ltd,1696.HK,-20.47,0.468
+1194,BrainAurora Medical Technology Limited,6681.HK,-32.63,0.796
+1195,"Jiangsu Recbio Technology Co., Ltd.",2179.HK,-18.97,0.424
+1196,Shenguan Holdings (Group) Limited,0829.HK,-9.47,0.197
+1197,Top Spring International Holdings Limited,3688.HK,-20.64,0.452
+1198,"Dongguan Rural Commercial Bank Co., Ltd.",9889.HK,-13.92,0.294
+1199,Quam Plus International Financial Limited,0952.HK,-11.3,0.234
+1200,CiDi Inc.,3881.HK,-23.6,0.522
+1201,China Resources Medical Holdings Company Limited,1515.HK,-14.82,0.31
+1202,CIFI Holdings (Group) Co. Ltd.,0884.HK,-34.48,0.807
+1203,VCREDIT Holdings Limited,2003.HK,-19.94,0.427
+1204,Tungtex (Holdings) Company Limited,0518.HK,-11.42,0.233
+1205,Maoye International Holdings Limited,0848.HK,-11.68,0.237
+1206,Solargiga Energy Holdings Limited,0757.HK,-23.17,0.501
+1207,China Oil And Gas Group Limited,0603.HK,-14.67,0.303
+1208,Shenzhou International Group Holdings Limited,2313.HK,-15.6,0.322
+1209,Goldpac Group Limited,3315.HK,-14.78,0.303
+1210,"Lianlian DigiTech Co., Ltd.",2598.HK,-24.13,0.518
+1211,"Fujing Holdings Co., Limited",2497.HK,-23.37,0.499
+1212,Nsing Technologies Inc.,2701.HK,-35.5,0.815
+1213,JD Health International Inc.,86618.HK,-22.63,0.476
+1214,Cornerstone Technologies Holdings Limited,8391.HK,-20.84,0.433
+1215,E Fund (HK) Solactive Global Gold Miner Select Index ETF,82824.HK,-29.74,0.644
+1216,China Huirong Financial Holdings Limited,1290.HK,-12.38,0.243
+1217,Brockman Mining Limited,0159.HK,-23.03,0.477
+1218,"Beijing Urban Construction Design & Development Group Co., Limited",1599.HK,-10.82,0.208
+1219,"Guangzhou R&F Properties Co., Ltd.",2777.HK,-34.19,0.744
+1220,Strawbear Entertainment Group,2125.HK,-17.26,0.339
+1221,Zero Fintech Group Limited,0093.HK,-14.69,0.285
+1222,Qeeka Home (Cayman) Inc.,1739.HK,-21.75,0.438
+1223,WeRide Inc.,0800.HK,-23.87,0.486
+1224,"Jujiang Construction Group Co., Ltd.",1459.HK,-19.45,0.386
+1225,Fangzhou Inc.,6086.HK,-38.61,0.859
+1226,Venus Medtech (Hangzhou) Inc.,2500.HK,-27.15,0.561
+1227,Pacific Millennium Packaging Group Corporation,1820.HK,-18.05,0.351
+1228,Yeahka Limited,9923.HK,-24.9,0.5
+1229,Yik Wo International Holdings Limited,8659.HK,-30.62,0.635
+1230,China Shuifa Singyes Energy Holdings Limited,0750.HK,-16.94,0.324
+1231,IRICO Group New Energy Company Limited,0438.HK,-21.37,0.419
+1232,"Bank of Jiujiang Co., Ltd.",6190.HK,-17.07,0.323
+1233,Palinda Group Holdings Limited,8179.HK,-34.4,0.718
+1234,China New Higher Education Group Limited,2001.HK,-26.46,0.526
+1235,"Guangdong Tianyu Semiconductor Co., Ltd.",2658.HK,-22.62,0.439
+1236,Hesai Group,2525.HK,-31.27,0.638
+1237,Sino-Life Group Limited,8296.HK,-34.7,0.711
+1238,"Aux Electric Co., Ltd.",2580.HK,-20.5,0.382
+1239,HKR International Limited,0480.HK,-13.16,0.235
+1240,China Mobile Limited,80941.HK,-9.99,0.175
+1241,Haichang Ocean Park Holdings Ltd.,2255.HK,-30.35,0.587
+1242,Mansion International Holdings Limited,8456.HK,-31.23,0.603
+1243,New Times Corporation Limited,0166.HK,-22.9,0.421
+1244,Agile Group Holdings Limited,3383.HK,-33.4,0.65
+1245,China Education Group Holdings Limited,0839.HK,-24.06,0.441
+1246,Shin Hwa World Limited,0582.HK,-35.19,0.689
+1247,Perfect Medical Health Management Limited,1830.HK,-18.26,0.323
+1248,WLS Holdings Limited,8021.HK,-37.21,0.736
+1249,Zall Smart Commerce Group Ltd.,2098.HK,-30.23,0.567
+1250,"Shenzhen Ldrobot Co., Ltd",1236.HK,-18.03,0.315
+1251,ANTA Sports Products Limited,82020.HK,-14.79,0.252
+1252,Huiyuan Cowins Technology Group Limited,1116.HK,-27.6,0.499
+1253,Great Wall Motor Company Limited,82333.HK,-30.01,0.543
+1254,Kafelaku Coffee Holding Limited,1869.HK,-30.33,0.548
+1255,Beijing UBOX Online Technology Corp.,2429.HK,-38.74,0.737
+1256,Xinyi Electric Storage Holdings Limited,8328.HK,-32.12,0.58
+1257,EuroEyes International Eye Clinic Limited,1846.HK,-16.21,0.262
+1258,DL Holdings Group Limited,1709.HK,-27.32,0.465
+1259,China Energy Development Holdings Limited,0228.HK,-29.2,0.499
+1260,Harbour Centre Development Limited,0051.HK,-12.75,0.199
+1261,Shandong Chenming Paper Holdings Limited,1812.HK,-28.44,0.472
+1262,Zhongshi Minan Holdings Limited,8283.HK,-53.76,1.06
+1263,"Huitongda Network Co., Ltd.",9878.HK,-28.92,0.477
+1264,KWG Living Group Holdings Limited,3913.HK,-29.7,0.492
+1265,D&G Technology Holding Company Limited,1301.HK,-26.24,0.425
+1266,Gudou Holdings Limited,8308.HK,-33.37,0.563
+1267,Fulum Group Holdings Limited,1443.HK,-31.06,0.492
+1268,Pando Bitcoin ETF,2818.HK,-28.19,0.438
+1269,Great Harvest Maeta Holdings Limited,3683.HK,-32.9,0.522
+1270,Polyfair Holdings Limited,8532.HK,-40.49,0.675
+1271,Tencent Holdings Limited,80700.HK,-18.27,0.263
+1272,Sino Harbour Holdings Group Limited,1663.HK,-26.48,0.394
+1273,Allan International Holdings Limited,0684.HK,-17.76,0.25
+1274,HKE Holdings Limited,1726.HK,-20.49,0.293
+1275,Oriental Media Group Limited,0018.HK,-17.6,0.247
+1276,Zhenro Services Group Limited,6958.HK,-25.37,0.372
+1277,"Shanghai Bao Pharmaceuticals Co., Ltd.",2659.HK,-66.75,1.345
+1278,Central China New Life Limited,9983.HK,-33.96,0.521
+1279,Asia Orient Holdings Limited,0214.HK,-19.13,0.268
+1280,"Sipai Health Technology Co., Ltd.",0314.HK,-32.67,0.494
+1281,Road King Infrastructure Limited,1098.HK,-28.13,0.414
+1282,Qiniu Limited,2567.HK,-38.0,0.594
+1283,Emperor International Holdings Limited,0163.HK,-27.98,0.409
+1284,Pony AI Inc.,2026.HK,-43.65,0.705
+1285,"Circuit Fabology Microelectronics Equipment Co., Ltd.",9630.HK,-77.01,1.732
+1286,"Breton Technology Co., Ltd.",1333.HK,-42.0,0.662
+1287,"Shanghai Longcheer Technology Co., Ltd.",9611.HK,-28.25,0.407
+1288,CMGE Technology Group Limited,0302.HK,-37.84,0.578
+1289,Meituan,83690.HK,-30.95,0.446
+1290,Times China Holdings Limited,1233.HK,-47.89,0.763
+1291,Lvji Technology Holdings Inc.,1745.HK,-46.18,0.721
+1292,Hebei Construction Group Corporation Limited,1727.HK,-27.63,0.379
+1293,Far East Consortium International Limited,0035.HK,-19.95,0.261
+1294,Voicecomm International Limited,2495.HK,-44.17,0.672
+1295,Quantgroup Holding Limited,2685.HK,-66.75,1.24
+1296,Huazhong In-Vehicle Holdings Company Limited,6830.HK,-39.57,0.577
+1297,"Chery Automobile Co., Ltd.",9973.HK,-16.8,0.212
+1298,Edding Genor Group Holdings Limited,6998.HK,-40.72,0.585
+1299,Regal Hotels International Holdings Limited,0078.HK,-34.97,0.482
+1300,China Yurun Food Group Limited,1068.HK,-26.98,0.353
+1301,Medtide Inc.,3880.HK,-21.75,0.275
+1302,"Shiyue Daotian Group Co., Ltd.",9676.HK,-36.35,0.502
+1303,Town Ray Holdings Limited,1692.HK,-17.06,0.21
+1304,Crocodile Garments Limited,0122.HK,-20.44,0.255
+1305,Winox Holdings Limited,6838.HK,-29.82,0.391
+1306,"Guoxia Technology Co., Ltd.",2655.HK,-59.36,0.953
+1307,Sino-Ocean Group Holding Limited,3377.HK,-44.35,0.623
+1308,"Taizhou Water Group Co., Ltd.",1542.HK,-30.09,0.382
+1309,"Shanghai Seer Intelligent Technology Co., Ltd.",6106.HK,-77.92,1.52
+1310,Paliburg Holdings Limited,0617.HK,-36.22,0.466
+1311,Yau Lee Holdings Limited,0406.HK,-23.34,0.274
+1312,SG Micro Corp,3661.HK,-67.79,1.108
+1313,Vietnam Manufacturing and Export Processing (Holdings) Limited,0422.HK,-27.0,0.318
+1314,HashKey Holdings Limited,3887.HK,-61.3,0.929
+1315,"CF PharmTech, Inc.",2652.HK,-48.95,0.653
+1316,China Resources Beverage (Holdings) Company Limited,2460.HK,-25.94,0.295
+1317,Tycoon Group Holdings Limited,3390.HK,-45.31,0.582
+1318,SOHO China Limited,0410.HK,-27.14,0.309
+1319,TOM Group Limited,2383.HK,-16.23,0.174
+1320,"Hon Kwok Land Investment Company, Limited",0160.HK,-22.15,0.243
+1321,Emperor Entertainment Hotel Limited,0296.HK,-22.59,0.245
+1322,National Electronics Holdings Limited,0213.HK,-21.37,0.228
+1323,CSOP HSCEI Covered Call Active ETF Class A HKD,2802.HK,-14.05,0.143
+1324,"Jiangsu Guofu Hydrogen Energy Equipment Co., Ltd.",2582.HK,-60.91,0.86
+1325,"Minieye Technology Co., Ltd",2431.HK,-52.93,0.688
+1326,China State Construction Development Holdings Limited,0830.HK,-25.58,0.275
+1327,"Shanghai Zhida Technology Development Co., Ltd.",2650.HK,-68.84,1.039
+1328,"Folangsi Co., Ltd.",2499.HK,-25.54,0.269
+1329,FEG Holdings Corporation Limited,1413.HK,-41.43,0.483
+1330,Excellence Commercial Property & Facilities Management Group Limited,6989.HK,-29.2,0.313
+1331,"Shenzhen Senior Technology Material Co., Ltd.",6067.HK,-64.35,0.903
+1332,"Newtrend Group Holding Co., Ltd.",2573.HK,-46.82,0.555
+1333,Grand Ming Group Holdings Limited,1271.HK,-49.58,0.601
+1334,Powerlong Real Estate Holdings Limited,1238.HK,-37.14,0.409
+1335,Sun Hing Vision Group Holdings Limited,0125.HK,-23.64,0.24
+1336,Frontier Services Group Limited,0500.HK,-31.21,0.326
+1337,Sunfonda Group Holdings Limited,1771.HK,-37.39,0.404
+1338,"Anhui Jinyan Kaolin New Materials Co., Ltd.",2693.HK,-35.82,0.378
+1339,Fairwood Holdings Limited,0052.HK,-19.54,0.186
+1340,EEKA Fashion Holdings Limited,3709.HK,-24.72,0.241
+1341,Tao Heung Holdings Limited,0573.HK,-26.58,0.26
+1342,Hebei Yichen Industrial Group Corporation Limited,1596.HK,-50.17,0.567
+1343,Yuan Heng Gas Holdings Limited,0332.HK,-45.06,0.484
+1344,"Sino-Synergy Hydrogen Energy Technology (Jiaxing) Co., Ltd.",9663.HK,-47.27,0.51
+1345,Xiaomi Corporation,81810.HK,-43.54,0.455
+1346,"Sunshine Lake Pharma Co., Ltd.",6887.HK,-24.7,0.228
+1347,Fenbi Ltd.,2469.HK,-52.5,0.587
+1348,Saint Bella Group Limited,2508.HK,-43.4,0.444
+1349,"AuGroup (SHENZHEN) Cross-Border Business Co., Ltd.",2519.HK,-40.74,0.409
+1350,"Shuangdeng Group Co., Ltd.",6960.HK,-55.42,0.621
+1351,Kuaishou Technology,81024.HK,-48.95,0.519
+1352,United Strength Power Holdings Limited,2337.HK,-35.16,0.327
+1353,Tang Palace (China) Holdings Limited,1181.HK,-36.87,0.345
+1354,Huanxi Media Group Limited,1003.HK,-35.59,0.33
+1355,"Guangdong Huayan Robotics Co., Ltd.",1021.HK,-66.46,0.795
+1356,C-MER Medical Holdings Limited,3309.HK,-36.22,0.334
+1357,Modern Innovative Digital Technology Company Limited,2322.HK,-51.16,0.517
+1358,ZG Group,6676.HK,-69.67,0.84
+1359,JY Grandmark Holdings Limited,2231.HK,-70.72,0.858
+1360,Asia Standard International Group Limited,0129.HK,-26.59,0.22
+1361,"APT Electronics Co., Ltd.",2551.HK,-33.97,0.292
+1362,ZONQING Environmental Limited,1855.HK,-63.14,0.681
+1363,Citychamp Watch & Jewellery Group Limited,0256.HK,-51.76,0.501
+1364,Macau Legend Development Limited,1680.HK,-55.91,0.549
+1365,MIXUE Group,2097.HK,-36.03,0.303
+1366,Herbs Generation Group Holdings Limited,2593.HK,-41.36,0.36
+1367,LH Group Limited,1978.HK,-35.45,0.295
+1368,Zhongyu Energy Holdings Limited,3633.HK,-21.07,0.16
+1369,Minerva Group Holding Limited,0397.HK,-32.34,0.258
+1370,Yunkang Group Limited,2325.HK,-57.68,0.551
+1371,"Nuobikan Artificial Intelligence Technology (Chengdu) Co., Ltd.",2635.HK,-74.37,0.855
+1372,Golden Solar New Energy Technology Holdings Limited,1121.HK,-56.93,0.54
+1373,"VOYAH Automotive Technology Co., Ltd.",7489.HK,-71.88,0.786
+1374,Palasino Holdings Limited,2536.HK,-48.93,0.423
+1375,BenQ BM Holding Cayman Corp.,2581.HK,-42.4,0.341
+1376,Shanghai REFIRE Group Limited,2570.HK,-68.86,0.696
+1377,CNT Group Limited,0701.HK,-32.27,0.238
+1378,"Mabwell (Shanghai) Bioscience Co., Ltd.",2493.HK,-30.66,0.217
+1379,"Shenzhen Zhaowei Machinery & Electronics Co., Ltd.",2692.HK,-53.2,0.419
+1380,"Yunnan Jinxun Resources Co., Ltd.",3636.HK,-73.25,0.698
+1381,"China Titans Energy Technology Group Co., Limited",2188.HK,-35.74,0.23
+1382,VISEN Pharmaceuticals,2561.HK,-47.64,0.323
+1383,"Sigenergy Technology Co., Ltd",6656.HK,-74.0,0.65
+1384,"Eastroc Beverage (Group) Co., Ltd.",9980.HK,-62.73,0.481
+1385,"Zhejiang Laifual Drive Co., Ltd.",3952.HK,-62.97,0.483
+1386,"Shanghai Sunmi Technology Co., Ltd.",6810.HK,-47.92,0.318
+1387,JST Group Corporation Limited,6687.HK,-60.31,0.434
+1388,"Zhou Liu Fu Jewellery Co., Ltd.",6168.HK,-61.29,0.414
+1389,"Shenzhen Edge Medical Co., Ltd.",2675.HK,-61.65,0.378
+1390,PuraPharm Corporation Limited,1498.HK,-37.93,0.191
+1391,"Shaanxi Micot Pharmaceutical Technology Co., Ltd.",2335.HK,-75.58,0.505
+1392,"Baige Online Digital Technology Co., Ltd.",2672.HK,-74.56,0.439
+1393,"Hongxing Coldchain (Hunan) Co., Ltd.",1641.HK,-72.94,0.389
+1394,MetaLight Inc.,2605.HK,-73.05,0.383
+1395,"Seres Group Co.,Ltd",9927.HK,-73.51,0.365
+1396,"ShenZhen Woer Heat-Shrinkable Material Co.,Ltd.",9981.HK,-77.49,0.272
+1397,"Liuliumei Co., Ltd.",6658.HK,-71.62,0.045
+1398,"Befar Group Co., Ltd",6745.HK,27.48,
+1399,"Beijing Tong Ren Tang Healthcare Investment Co., Ltd.",2667.HK,-60.25,
+1400,"Rigol Technologies Co., Ltd.",0537.HK,15.15,
+1401,Momenta Global Limited,6880.HK,-20.57,
+1402,"BASiC Semiconductor Co., Ltd.",9971.HK,-73.24,
+1403,Nexchip Semiconductor Corporation,2249.HK,71.91,
+1404,"Zhongji Innolight Co., Ltd.",3308.HK,1.17,

@@ -1,0 +1,132 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Triodos Fair Share Inc,TFSF.AS,5.83,0.018,0.031,Yes
+2,ASR Nederland N.V.,ASRNL.AS,36.54,0.124,0.571,Yes
+3,NN Group N.V.,NN.AS,42.36,0.154,0.593,Yes
+4,Kendrion N.V.,KENDR.AS,65.29,0.242,0.001,No
+5,Hydratec Industries NV,HYDRA.AS,52.64,0.207,0.27,Yes
+6,ABN AMRO Bank N.V.,ABN.AS,73.76,0.277,0.46,Yes
+7,Van Lanschot Kempen NV,VLK.AS,45.37,0.19,0.356,Yes
+8,SBM Offshore N.V.,SBMO.AS,81.18,0.313,0.014,Yes
+9,ING Groep N.V.,INGA.AS,53.76,0.234,1.212,Yes
+10,IncomeShares S&P500 Options ETP,SPYY.AS,19.81,0.1,0.47,Yes
+11,NEPI Rockcastle N.V.,NRP.AS,25.4,0.133,0.825,Yes
+12,Aalberts N.V.,AALB.AS,78.77,0.35,1.95,Yes
+13,CM.com N.V.,CMCOM.AS,72.88,0.332,0.73,No
+14,Morefield Group N.V.,MORE.AS,28.1,0.151,0.484,Yes
+15,InPost S.A.,INPST.AS,60.6,0.314,1.258,Yes
+16,Koninklijke BAM Groep nv,BAMNB.AS,61.48,0.32,0.853,Yes
+17,Basic-Fit N.V.,BFIT.AS,34.89,0.198,0.364,Yes
+18,ASML Holding N.V.,ASML.AS,104.19,0.485,2.557,Yes
+19,Koninklijke Vopak N.V.,VPK.AS,33.39,0.194,0.277,Yes
+20,The Magnum Ice Cream Company N.V.,MICC.AS,53.37,0.291,0.726,Yes
+21,AEX-Index,^AEX,19.84,0.124,1.0,Yes
+22,Aperam S.A.,APAM.AS,114.34,0.552,2.201,Yes
+23,TKH Group N.V.,TWEKA.AS,56.16,0.323,0.891,Yes
+24,Corbion N.V.,CRBN.AS,35.99,0.222,0.292,Yes
+25,IncomeShares Amazon (AMZN) Options ETP,AMZY.AS,53.56,0.327,0.061,No
+26,Fastned B.V.,FAST.AS,96.82,0.543,0.747,Yes
+27,Shell plc,SHELL.AS,43.45,0.292,1.127,No
+28,Pantarai ADAPT ETP,ADPT.AS,14.83,0.113,0.462,Yes
+29,HAL Trust,HAL.AS,25.86,0.194,0.356,Yes
+30,IncomeShares NVIDIA NVDA Options ETP,NVDY.AS,26.56,0.202,0.204,Yes
+31,Bnp Paribas -  BNP Paribas ESG Netherlands Index Fund,BNPNL.AS,22.45,0.177,1.307,Yes
+32,GS Europe Sust Small Cap Fund NL P,GSED.AS,19.21,0.155,0.963,Yes
+33,Koninklijke Heijmans N.V.,HEIJM.AS,79.04,0.525,1.898,Yes
+34,ASM International NV,ASM.AS,92.6,0.61,3.589,Yes
+35,ForFarmers N.V.,FFARM.AS,43.52,0.338,0.748,Yes
+36,IncomeShares Apple (AAPL) Options ETP,AAPY.AS,21.55,0.187,0.318,No
+37,BE Semiconductor Industries N.V.,BESI.AS,94.32,0.654,3.011,Yes
+38,Aegon Ltd.,AGN.AS,24.03,0.211,0.537,Yes
+39,IncomeShares Nasdaq 100 Options ETP,QQQY.AS,20.24,0.199,0.017,Yes
+40,IncomeShares AMD Options ETP,AMDY.AS,97.1,0.754,1.084,Yes
+41,Havas N.V.,HAVAS.AS,30.01,0.291,1.266,Yes
+42,BNP Paribas III ESG Glb Prop Secs Ix Cl,BGPSF.AS,13.7,0.15,0.825,Yes
+43,Coca-Cola Europacific Partners PLC,CCEP.AS,32.27,0.333,1.352,Yes
+44,Heineken Holding N.V.,HEIO.AS,27.97,0.296,1.231,Yes
+45,Eurocastle Investment Limited,ECT.AS,84.66,0.757,1.155,Yes
+46,Kempen Global Property Fund N.V. N,KGPFN.AS,12.81,0.148,0.866,Yes
+47,Kempen Capital Management - Kempen Sustainable Global High Dividend Fund N.V.,KSGHD.AS,14.92,0.173,0.91,Yes
+48,Flow Traders Ltd.,FLOW.AS,18.69,0.218,0.221,No
+49,"B.V. Delftsch Aardewerkfabriek ""De Porceleyne Fles Anno 1653""",PORF.AS,27.0,0.321,0.374,No
+50,Amundi Physical Gold ETC C,GOLD.AS,21.1,0.284,0.75,Yes
+51,New Sources Energy N.V.,NSE.AS,35.0,0.455,0.655,No
+52,Acomo N.V.,ACOMO.AS,11.31,0.161,0.03,Yes
+53,IncomeShares Coinbase (COIN) Options ETP,COIY.AS,39.02,0.507,0.731,Yes
+54,Cabka N.V.,CABKA.AS,21.76,0.313,0.785,No
+55,IMCD N.V.,IMCD.AS,24.21,0.358,0.07,Yes
+56,Unilever PLC,UNA.AS,19.14,0.294,1.805,Yes
+57,Randstad N.V.,RAND.AS,37.11,0.558,0.945,Yes
+58,IncomeShares Silver+ Yield ETP,SLVY.AS,28.59,0.458,0.083,No
+59,AMG Critical Materials N.V.,AMG.AS,29.05,0.486,0.518,Yes
+60,Heineken N.V.,HEIA.AS,15.38,0.271,1.19,Yes
+61,Eurocommercial Properties N.V.,ECMPA.AS,11.68,0.214,0.678,Yes
+62,LS ARK NextGen Internet Tracker ETP Securities,1ARKW.AS,12.68,0.249,0.151,No
+63,New Amsterdam Invest N.V.,NAI.AS,2.21,0.047,0.017,No
+64,IncomeShares Microsoft (MSFT) Options ETP,MSFY.AS,16.96,0.357,0.272,No
+65,Accsys Technologies PLC,AXS.AS,11.64,0.28,0.308,Yes
+66,Leverage Shares 2x Microsoft ETP Securities A,2MSF.AS,35.0,0.77,0.699,Yes
+67,Koninklijke KPN N.V.,KPN.AS,7.73,0.199,0.088,Yes
+68,Arcadis NV,ARCAD.AS,20.85,0.521,1.742,Yes
+69,Wereldhave N.V.,WHA.AS,6.9,0.228,0.601,Yes
+70,OCI N.V.,OCI.AS,6.87,0.261,0.933,Yes
+71,CVC Capital Partners plc,CVC.AS,9.01,0.352,0.886,Yes
+72,Fugro N.V.,FUR.AS,11.29,0.521,1.307,Yes
+73,Nedap N.V.,NEDAP.AS,5.29,0.27,1.298,Yes
+74,Sligro Food Group N.V.,SLIGR.AS,7.68,0.4,0.235,Yes
+75,Leverage Shares Plc - LS ARK Innovation Tracker ETP,1ARKK.AS,6.92,0.362,1.119,Yes
+76,Leverage Shares 3x NVIDIA ETP Securities,3NVD.AS,16.24,0.856,1.501,Yes
+77,Leverage Shares 3x BP ETP Securities,3BP.AS,10.89,1.171,7.733,No
+78,Reinet Investments S.C.A.,REINA.AS,1.6,0.199,0.32,Yes
+79,Ferrari Group PLC,FERGR.AS,2.38,0.322,0.818,Yes
+80,IncomeShares Palantir (PLTR) Options ETP,PLTY.AS,1.08,0.659,2.568,No
+81,Brunel International N.V.,BRNL.AS,0.36,0.247,0.153,Yes
+82,Leverage Shares -3x Short Memory (DRAM) ETP,DRMS.AS,-1.69,2.044,,
+83,21Shares Bittensor ETP,ATAO.AS,-1.95,1.014,6.601,No
+84,Alumexx N.V.,ALX.AS,-1.06,0.166,0.449,Yes
+85,IncomeShares Alphabet (GOOG) Options ETP,GOOY.AS,-2.85,0.361,1.184,Yes
+86,WisdomTree Physical Stellar Lumens,XLMW.AS,-3.78,0.463,0.522,No
+87,AFC Ajax NV,AJAX.AS,-2.12,0.188,0.462,Yes
+88,Koninklijke Ahold Delhaize N.V.,AD.AS,-4.34,0.34,0.305,Yes
+89,Value8 N.V.,VALUE.AS,-1.15,0.082,0.312,Yes
+90,Pharming Group N.V.,PHARM.AS,-8.66,0.583,0.888,No
+91,WisdomTree Physical CoinDesk 20 ETC,WCRP.AS,-9.32,0.614,0.895,No
+92,Leverage Shares 3x Tesla ETP Securities,3TSL.AS,-40.94,1.512,1.225,Yes
+93,WisdomTree Physical Lido Staked Ether,LIST.AS,-9.06,0.274,0.227,No
+94,Volta Finance Limited,VTA.AS,-4.73,0.132,0.603,Yes
+95,Azerion Group N.V.,AZRN.AS,-18.99,0.567,2.386,Yes
+96,PostNL N.V.,PNL.AS,-9.05,0.242,0.091,No
+97,iShares Bitcoin ETP,BTCN.AS,-21.46,0.568,1.26,No
+98,Adyen N.V.,ADYEN.AS,-17.91,0.441,0.912,Yes
+99,TomTom N.V.,TOM2.AS,-18.07,0.411,1.361,Yes
+100,IncomeShares 20+ Year Treasury (TLT) Options ETP,TLTY.AS,-5.52,0.112,0.054,No
+101,Leverage Shares -2x Short Tesla ETP Securities,2STS.AS,-52.46,1.386,4.193,No
+102,Exor N.V.,EXO.AS,-10.61,0.207,0.69,Yes
+103,Leverage Shares -1x Tesla ETP Securities,STSL.AS,-26.87,0.542,2.028,No
+104,Leverage Shares 3x Alibaba ETP ,3BAB.AS,-61.1,1.507,3.979,Yes
+105,Signify N.V.,LIGHT.AS,-21.94,0.387,0.199,Yes
+106,Almunda Professionals N.V.,AMUND.AS,-14.13,0.23,0.008,No
+107,MKB Nedsense N.V.,NEDSE.AS,-39.42,0.746,1.727,Yes
+108,CSG N.V.,CSG.AS,-46.79,0.747,0.49,Yes
+109,Ebusco Holding N.V.,EBUS.AS,-33.81,0.466,2.22,Yes
+110,Lakefront Biotherapeutics NV,LKFT.AS,-15.69,0.188,0.386,Yes
+111,IncomeShares Alibaba (BABA) Options ETP,BABY.AS,-32.08,0.42,0.205,Yes
+112,RELX PLC,REN.AS,-20.98,0.256,0.205,Yes
+113,CTP N.V.,CTPNV.AS,-22.4,0.273,1.622,Yes
+114,NSI N.V.,NSI.AS,-13.23,0.134,0.49,Yes
+115,Leverage Shares -1x Short Goldman Sachs ETP Securities,GSSS.AS,-59.61,0.734,2.216,No
+116,Leverage Shares 3x Long FAANG+ ETP Securities,FAN3.AS,-38.69,0.39,1.177,Yes
+117,Vivoryon Therapeutics N.V.,VVY.AS,-28.1,0.258,0.399,Yes
+118,Wolters Kluwer N.V.,WKL.AS,-36.73,0.342,0.195,Yes
+119,IncomeShares META Options ETP,METY.AS,-31.32,0.27,0.771,Yes
+120,1Valour Hedera Physical Staking $ Acc,HBAR.AS,-67.32,0.774,2.0,No
+121,Universal Music Group N.V.,UMG.AS,-38.73,0.31,0.756,Yes
+122,Leverage Shares -3x Short Taiwan Semiconductor (TSM) ETP Securities,STSM.AS,-83.67,0.931,6.164,No
+123,Tetragon Financial Group Limited,TFG.AS,-26.15,0.164,0.044,Yes
+124,Leverage Shares -1x Short PayPal ETP Securities,SPYP.AS,-13.32,0.068,0.121,No
+125,Prosus N.V.,PRX.AS,-37.21,0.197,0.8,Yes
+126,MotorK plc,MTRK.AS,-51.0,0.282,1.319,Yes
+127,IncomeShares Semiconductors Leaders ETP,SEMY.AS,40.47,,,
+128,IncomeShares Texas Instruments (TXN) Options ETP,TXNY.AS,-42.69,,,
+129,IncomeShares ARM Options ETP,YARM.AS,-13.48,,,
+130,IncomeShares 60/30/10 Multi-Asset Balanced ETP,MLTY.AS,13.54,,,
+131,IncomeShares Artificial Intelligence Leaders ETP,ARIY.AS,57.5,,,

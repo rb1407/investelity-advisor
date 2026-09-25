@@ -1,0 +1,134 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Nordea Bank Abp,NDA-FI.HE,42.23,0.126,0.579,Yes
+2,OMX Helsinki 25,^OMXH25,32.84,0.159,1.0,Yes
+3,Alexandria Group Oyj,ALEX.HE,57.0,0.279,0.452,No
+4,Wulff-Yhtiöt Oyj,WUF1V.HE,80.72,0.37,0.292,Yes
+5,GRK Infra Oyj,GRK.HE,86.41,0.4,0.085,No
+6,Evli Oyj,EVLI.HE,39.95,0.214,0.185,Yes
+7,Orion Oyj,ORNAV.HE,29.3,0.183,0.617,No
+8,Kesko Oyj,KESKOA.HE,30.11,0.191,0.45,Yes
+9,Aktia Pankki Oyj,AKTIA.HE,36.57,0.231,0.373,Yes
+10,Orion Oyj,ORNBV.HE,29.05,0.19,0.651,No
+11,Atria Oyj,ATRAV.HE,31.53,0.205,0.352,Yes
+12,Keskisuomalainen Oyj,KSL.HE,38.12,0.243,0.175,Yes
+13,Kesko Oyj,KESKOB.HE,36.3,0.234,0.66,Yes
+14,Fondia Oyj,FONDIA.HE,24.89,0.167,0.601,Yes
+15,Boreo Oyj,BOREO.HE,48.68,0.311,0.273,Yes
+16,Vaisala Oyj,VAIAS.HE,38.02,0.254,0.67,Yes
+17,Outokumpu Oyj,OUT1V.HE,72.39,0.443,2.046,Yes
+18,Fortum Oyj,FORTUM.HE,41.34,0.283,0.495,Yes
+19,LapWall Oyj,LAPWALL.HE,21.13,0.157,0.028,Yes
+20,AS Tallink Grupp,TALLINK.HE,16.28,0.124,0.595,Yes
+21,Telefonaktiebolaget LM Ericsson (publ),ERIBR.HE,66.61,0.43,2.083,Yes
+22,Consti Oyj,CONSTI.HE,19.69,0.149,0.119,Yes
+23,Finnair Oyj,FIA1S.HE,91.62,0.554,0.927,Yes
+24,Tecnotree Oyj,TEM1V.HE,48.82,0.342,0.352,Yes
+25,Harvia Oyj,HARVIA.HE,41.65,0.305,0.478,Yes
+26,Hiab Oyj,HIAB.HE,45.02,0.329,1.007,Yes
+27,Raute Oyj,RAUTE.HE,11.64,0.123,0.143,Yes
+28,Fiskars Oyj Abp,FSKRS.HE,23.31,0.246,1.339,Yes
+29,Olvi Oyj,OLVAS.HE,11.43,0.13,0.262,No
+30,Kesla Oyj,KELAS.HE,69.31,0.653,0.932,No
+31,Tulikivi Corporation,TULAV.HE,23.66,0.272,0.421,Yes
+32,Scanfil Oyj,SCANFL.HE,20.71,0.242,0.796,Yes
+33,Kalmar Oyj,KALMAR.HE,24.53,0.289,1.475,Yes
+34,Eagle Filters Group Oyj,EAGLE.HE,56.15,0.614,1.749,Yes
+35,Loihde Oyj,LOIHDE.HE,19.0,0.24,0.698,Yes
+36,Raisio plc,RAIKV.HE,9.92,0.134,0.267,Yes
+37,Witted Megacorp Oyj,WITTED.HE,17.05,0.234,0.668,Yes
+38,F-Secure Oyj,FSECURE.HE,28.89,0.389,0.561,Yes
+39,Puuilo Oyj,PUUILO.HE,32.58,0.435,1.354,No
+40,Raisio plc,RAIVV.HE,7.1,0.105,0.251,Yes
+41,YIT Oyj,YIT.HE,17.53,0.269,0.049,No
+42,Huhtamäki Oyj,HUH1V.HE,15.39,0.249,0.366,Yes
+43,UPM-Kymmene Oyj,UPM.HE,13.01,0.213,0.623,Yes
+44,Enento Group Oyj,ENENTO.HE,16.3,0.272,0.932,Yes
+45,Springvest Oyj,SPRING.HE,39.65,0.609,0.155,Yes
+46,Ilkka Oyj,ILKKA.HE,10.36,0.186,0.65,Yes
+47,Wärtsilä Oyj Abp,WRT1V.HE,19.08,0.33,1.609,Yes
+48,Taaleri Oyj,TAALA.HE,7.88,0.144,0.398,Yes
+49,Foamit Oyj,FOAMIT.HE,7.91,0.148,0.064,No
+50,Endomines Finland Oyj,PAMPALO.HE,26.12,0.486,1.376,Yes
+51,Orthex Oyj,ORTHEX.HE,4.6,0.112,0.018,Yes
+52,Robit Oyj,ROBIT.HE,17.16,0.425,0.555,Yes
+53,Viafin Service Oyj,VIAFIN.HE,6.56,0.172,0.615,Yes
+54,Trainers' House Oyj,TRH1V.HE,14.77,0.402,0.96,No
+55,Sampo Oyj,SAMPO.HE,4.64,0.133,0.061,No
+56,Valmet Oyj,VALMT.HE,10.05,0.345,0.165,Yes
+57,Titanium Oyj,TITAN.HE,5.57,0.199,0.314,Yes
+58,Nanoform Finland Oyj,NANOFH.HE,42.93,1.374,1.857,Yes
+59,CapMan Oyj,CAPMAN.HE,2.19,0.118,0.182,Yes
+60,Honkarakenne Oyj,HONBS.HE,3.72,0.249,0.431,Yes
+61,Alma Media Oyj,ALMA.HE,2.95,0.269,1.061,Yes
+62,Qt Group Oyj,QTCOM.HE,5.62,0.892,0.443,Yes
+63,Inderes Oyj,INDERES.HE,0.65,0.163,0.141,Yes
+64,Herantis Pharma Oyj,HRTIS.HE,1.04,0.538,2.103,Yes
+65,Norrhydro Group Oyj,NORRH.HE,0.04,0.28,0.935,Yes
+66,Ovaro Kiinteistösijoitus Oyj,OVARO.HE,-0.55,0.174,0.392,Yes
+67,Relais Group Oyj,RELAIS.HE,-1.34,0.26,1.002,Yes
+68,Betolar Oyj,BETOLAR.HE,-6.67,0.569,2.026,Yes
+69,Biohit Oyj,BIOBV.HE,-5.17,0.41,0.354,Yes
+70,Investors House Oyj,INVEST.HE,-3.08,0.227,0.649,Yes
+71,Koskisen Oyj,KOSKI.HE,-1.84,0.132,0.263,No
+72,Sitowise Group Oyj,SITOWS.HE,-4.71,0.317,0.367,Yes
+73,Lassila & Tikanoja Plc,LASTIK.HE,-2.62,0.13,0.361,Yes
+74,Pallas Air Oyj,PALLAS.HE,-12.34,0.615,0.547,Yes
+75,Kemira Oyj,KEMIRA.HE,-3.64,0.146,0.359,Yes
+76,Solar Foods Oyj,SFOODS.HE,-7.05,0.251,0.45,Yes
+77,Vincit Oyj,VINCIT.HE,-11.59,0.406,0.341,Yes
+78,KONE Oyj,KNEBV.HE,-5.4,0.173,0.598,Yes
+79,Framery Group Oyj,FRAMERY.HE,-17.1,0.547,1.431,Yes
+80,Ponsse Oyj,PON1V.HE,-7.32,0.207,0.533,Yes
+81,Alisa Pankki Oyj,ALISA.HE,-13.09,0.371,0.448,Yes
+82,Eezy Oyj,EEZY.HE,-39.24,1.133,2.271,Yes
+83,NoHo Partners Oyj,NOHO.HE,-8.32,0.2,0.44,Yes
+84,Gofore Oyj,GOFORE.HE,-13.25,0.294,0.167,No
+85,Asuntosalkku Oyj,ASUNTO.HE,-4.35,0.092,0.073,No
+86,Viking Line Abp,VIK1V.HE,-5.88,0.113,0.388,Yes
+87,Kamux Oyj,KAMUX.HE,-17.23,0.31,0.564,No
+88,Detection Technology Oyj,DETEC.HE,-13.56,0.235,1.164,Yes
+89,Duell Oyj,DUELL.HE,-36.25,0.707,1.295,No
+90,Elisa Oyj,ELISA.HE,-15.44,0.258,0.393,Yes
+91,Kempower Oyj,KEMPOWR.HE,-22.36,0.378,1.051,Yes
+92,Modulight Oyj,MODU.HE,-14.96,0.239,0.733,Yes
+93,Nexstim Plc,NXTMH.HE,-22.91,0.351,0.126,Yes
+94,Etteplan Oyj,ETTE.HE,-13.88,0.198,0.194,No
+95,Elecster Oyj,ELEAV.HE,-8.74,0.11,0.338,No
+96,Siili Solutions Oyj,SIILI.HE,-28.71,0.379,0.721,No
+97,Revenio Group Oyj,REG1V.HE,-32.06,0.425,0.138,No
+98,Metsä Board Oyj,METSA.HE,-17.83,0.205,0.257,No
+99,Lindex Group Oyj,LINDEX.HE,-20.09,0.229,0.001,Yes
+100,Panostaja Oyj,PNA1V.HE,-25.93,0.29,0.455,Yes
+101,Lamor Corporation Oyj,LAMOR.HE,-26.14,0.281,0.361,No
+102,Teleste Oyj,TLT1V.HE,-16.64,0.168,0.008,No
+103,EcoUp Oyj,ECOUP.HE,-35.71,0.396,1.073,Yes
+104,Suominen Oyj,SUY1V.HE,-53.92,0.683,1.63,Yes
+105,Marimekko Oyj,MEKKO.HE,-20.27,0.204,0.205,Yes
+106,Lumo Kodit Oyj,LUMO.HE,-24.13,0.243,0.596,Yes
+107,Solteq Oyj,SOLTEQ.HE,-46.26,0.538,0.561,No
+108,Apetit Oyj,APETIT.HE,-8.06,0.074,0.087,No
+109,Solwers Oyj,SOLWERS.HE,-29.61,0.299,1.152,Yes
+110,Fodelia Oyj,FODELIA.HE,-19.9,0.178,0.434,No
+111,Lemonsoft Oyj,LEMON.HE,-29.0,0.266,0.38,Yes
+112,Optomed Oyj,OPTOMED.HE,-50.54,0.526,0.165,No
+113,Reaktor Group Plc,REAKTOR.HE,-30.78,0.274,,
+114,Oriola Oyj,ORIOLA.HE,-18.31,0.151,0.437,Yes
+115,Terveystalo Oyj,TTALO.HE,-20.5,0.171,0.262,No
+116,Tekova Oy,TEKOVA.HE,-23.79,0.186,0.057,No
+117,Savox Communications Oyj,SAVOX.HE,-43.9,0.385,,
+118,Aallon Group Oyj,AALLON.HE,-16.38,0.119,0.121,Yes
+119,Faron Pharmaceuticals Oy,FARON.HE,-69.03,0.734,0.031,No
+120,Admicom Oyj,ADMCM.HE,-42.24,0.35,1.204,Yes
+121,Aiforia Technologies Oyj,AIFORIA.HE,-59.45,0.489,0.35,Yes
+122,Musti Group Oyj,MUSTI.HE,-25.72,0.16,0.299,No
+123,LeadDesk Oyj,LEADD.HE,-52.49,0.381,0.422,Yes
+124,Martela Oyj,MARAS.HE,-50.08,0.353,0.618,Yes
+125,Talenom Oyj,TNOM.HE,-61.02,0.46,0.245,Yes
+126,Administer Oyj,ADMIN.HE,-13.74,0.062,0.082,Yes
+127,Pihlajalinna Oyj,PIHLIS.HE,-30.67,0.149,0.236,No
+128,Nightingale Health Oyj,HEALTH.HE,-61.44,0.362,0.509,No
+129,Easor Oyj,EASOR.HE,-37.13,0.156,0.836,Yes
+130,eQ Oyj,EQV1V.HE,-20.91,0.079,0.288,No
+131,Summa Defence Oyj,SUMMA.HE,-89.46,0.613,0.257,Yes
+132,KPY osk,KPYOSK.HE,-53.53,0.009,,
+133,IQM Quantum Computers Oyj,IQMX.HE,46.72,,,

@@ -1,0 +1,282 @@
+Rank,Name,Ticker,Return (%),Risk
+1,"Krka, d. d.",KRK.WA,37.14,0.159
+2,UniCredit S.p.A.,UCG.WA,59.02,0.237
+3,Bank Polska Kasa Opieki S.A.,PEO.WA,57.09,0.246
+4,"Banco Santander, S.A.",SAN.WA,55.48,0.254
+5,Elektrotim S.A.,ELT.WA,89.08,0.372
+6,Torpol S.A.,TOR.WA,74.37,0.327
+7,Bank Millennium S.A.,MIL.WA,59.9,0.282
+8,BNP Paribas Bank Polska S.A.,BNP.WA,50.08,0.247
+9,Vestas Wind Systems A/S,VEST.WA,87.36,0.387
+10,Newag S.A.,NWG.WA,83.5,0.379
+11,ING Bank Slaski S.A.,ING.WA,52.56,0.269
+12,Dadelo S.A.,DAD.WA,85.76,0.4
+13,Develia S.A.,DVL.WA,52.45,0.273
+14,Powszechny Zaklad Ubezpieczen SA,PZU.WA,31.61,0.177
+15,Quercus TFI S.A.,QRS.WA,58.66,0.303
+16,Asseco Poland S.A.,ACP.WA,67.2,0.342
+17,NTT System S.A.,NTT.WA,54.72,0.296
+18,Mennica Polska S.A.,MNC.WA,52.21,0.285
+19,mBank S.A.,MBK.WA,59.63,0.32
+20,Bank Handlowy w Warszawie S.A.,BHW.WA,28.61,0.172
+21,Allianz SE,ALV.WA,31.93,0.204
+22,ENEA S.A.,ENA.WA,48.69,0.297
+23,Oponeo.pl S.A.,OPN.WA,49.14,0.3
+24,cyber_Folks S.A.,CBF.WA,42.1,0.264
+25,Archicom S.A.,ARH.WA,41.38,0.262
+26,Grupa Kety S.A.,KTY.WA,35.96,0.233
+27,Lubawa S.A.,LBW.WA,87.77,0.488
+28,Action S.A.,ACT.WA,39.98,0.258
+29,Apator S.A.,APT.WA,34.09,0.232
+30,"CEZ, a. s.",CEZ.WA,57.33,0.362
+31,Energa SA,ENG.WA,40.1,0.268
+32,Asseco Business Solutions S.A.,ABS.WA,39.35,0.271
+33,KGHM Polska Miedz S.A.,KGH.WA,61.62,0.408
+34,Energoaparatura SA,ENP.WA,30.33,0.223
+35,Voxel S.A.,VOX.WA,44.71,0.315
+36,Polskie Towarzystwo Wspierania Przedsiebiorczosci S.A.,PTW.WA,54.04,0.377
+37,Trakcja S.A.,TRK.WA,53.17,0.383
+38,Feerum S.A.,FEE.WA,52.34,0.38
+39,Decora S.A.,DCR.WA,40.43,0.315
+40,Zaklad Budowy Maszyn ZREMB - Chojnice S.A.,ZRE.WA,56.37,0.42
+41,Echo Investment S.A.,ECH.WA,19.35,0.169
+42,Dom Development S.A.,DOM.WA,27.09,0.233
+43,Kernel Holding S.A.,KER.WA,55.26,0.446
+44,Dekpol S.A.,DEK.WA,38.84,0.339
+45,NVIDIA Corporation,NVDA.WA,44.18,0.391
+46,VRG S.A.,VRG.WA,21.48,0.207
+47,Alphabet Inc.,GOGL.WA,42.38,0.38
+48,TAURON Polska Energia S.A.,TPE.WA,45.04,0.406
+49,Visa Inc.,VISA.WA,17.91,0.18
+50,Siemens Aktiengesellschaft,SIE.WA,33.79,0.323
+51,Xplus S.A.,XPL.WA,54.42,0.489
+52,Asseco South Eastern Europe S.A.,ASE.WA,28.93,0.286
+53,Mostostal Zabrze S.A.,MSZ.WA,24.82,0.251
+54,Gielda Praw Majatkowych Vindexus Spolka Akcyjna,VIN.WA,29.16,0.296
+55,Tarczynski S.A.,TAR.WA,56.99,0.529
+56,Yanosik S.A.,YAN.WA,30.6,0.312
+57,IMC S.A.,IMC.WA,61.91,0.573
+58,Budimex SA,BDX.WA,29.97,0.312
+59,ZUE S.A.,ZUE.WA,35.89,0.37
+60,Mirbud S.A.,MRB.WA,33.53,0.352
+61,TOYA S.A.,TOA.WA,23.64,0.262
+62,CD Projekt Red S.A.,CDR.WA,31.19,0.337
+63,Skarbiec Holding S.A.,SKH.WA,31.25,0.349
+64,FERRO S.A.,FRO.WA,19.87,0.235
+65,CPI FIM SA,OPG.WA,26.44,0.306
+66,LPP SA,LPP.WA,27.45,0.317
+67,Seco/Warwick S.A.,SWG.WA,18.93,0.228
+68,MCI Capital Alternatywna Spólka Inwestycyjna S.A.,MCI.WA,20.89,0.252
+69,Altus S.A.,ALI.WA,48.06,0.529
+70,Izostal S.A.,IZS.WA,14.46,0.181
+71,Modivo S.A.,MDV.WA,49.16,0.542
+72,DataWalk S.A.,DAT.WA,70.8,0.735
+73,RWE Aktiengesellschaft,RWE.WA,20.67,0.259
+74,Herkules S.A.,HRS.WA,35.92,0.429
+75,Seko S.A.,SEK.WA,20.68,0.264
+76,Marvipol Development S.A.,MVP.WA,21.71,0.281
+77,NanoGroup S.A.,NNG.WA,72.12,0.807
+78,Ten Square Games S.A.,TEN.WA,22.86,0.305
+79,UNIBEP S.A.,UNI.WA,21.18,0.288
+80,Murapol S.A.,MUR.WA,14.78,0.211
+81,BEST S.A.,BST.WA,25.91,0.36
+82,Zespól Elektrocieplowni Wroclawskich KOGENERACJA S.A.,KGN.WA,35.96,0.483
+83,Orzel Bialy S.A.,OBL.WA,12.2,0.183
+84,3R Games S.A.,3RG.WA,32.75,0.462
+85,DGA Spólka Akcyjna,DGA.WA,82.1,1.012
+86,"Amazon.com, Inc.",AMZN.WA,22.31,0.336
+87,Grupa Kapitalowa IMMOBILE S.A.,GKI.WA,30.16,0.441
+88,PGE Polska Grupa Energetyczna S.A.,PGE.WA,20.08,0.32
+89,Votum S.A.,VOT.WA,20.48,0.329
+90,SAP SE,SAP.WA,17.72,0.292
+91,MLK Foods Public Company LTD,MLK.WA,86.18,1.139
+92,Palantir Technologies Inc.,PLTR.WA,43.7,0.662
+93,KSG Agro S.A.,KSG.WA,49.44,0.758
+94,Sonel S.A.,SON.WA,13.54,0.237
+95,Polimex-Mostostal S.A.,PXM.WA,36.9,0.596
+96,Auto Partner SA,APR.WA,17.5,0.312
+97,Agroton Public Limited,AGT.WA,25.66,0.449
+98,"Zaklady Urzadzen Kotlowych ""Staporków"" S.A.",ZUK.WA,24.15,0.431
+99,Astarta Holding PLC,AST.WA,17.43,0.326
+100,Imperio Alternatywna Spolka Inwestycyjna S.A.,IMP.WA,17.88,0.336
+101,Stalexport Autostrady S.A.,STX.WA,14.59,0.29
+102,"Tesla, Inc.",TSLA.WA,30.95,0.581
+103,Talex S.A.,TLX.WA,11.05,0.227
+104,Krakchemia S.A.,KCH.WA,69.11,1.209
+105,NEUCA S.A.,NEU.WA,10.7,0.231
+106,Celon Pharma S.A.,CLN.WA,23.84,0.496
+107,Cyfrowy Polsat S.A.,CPS.WA,17.79,0.387
+108,Sanok Rubber Company Spólka Akcyjna,SNK.WA,11.04,0.249
+109,ESOTIQ & Henderson S.A.,EAH.WA,12.05,0.282
+110,Introl S.A.,INL.WA,8.88,0.212
+111,Adiuvo Investments S.A.,ADV.WA,88.95,1.629
+112,Atal S.A.,1AT.WA,6.25,0.158
+113,"Meta Platforms, Inc.",META.WA,11.97,0.297
+114,Betacom S.A.,BCM.WA,11.38,0.289
+115,Bowim S.A.,BOW.WA,17.02,0.428
+116,Przedsiebiorstwo Produkcyjno - Handlowe KOMPAP S.A.,KMP.WA,11.98,0.312
+117,Microsoft Corporation,MSFT.WA,12.14,0.319
+118,Agora S.A.,AGO.WA,9.07,0.243
+119,Wawel S.A.,WWL.WA,6.37,0.182
+120,"Netflix, Inc.",NFLX.WA,15.02,0.43
+121,Fabryki Sprzetu i Narzedzi Górniczych Grupa Kapitalowa FASING S.A.,FSG.WA,6.61,0.2
+122,Rawlplug S.A.,RWL.WA,6.03,0.184
+123,Krynica Vitamin S.A.,KVT.WA,8.09,0.249
+124,Komputronik S.A.,KOM.WA,10.77,0.331
+125,City Service SE,CTS.WA,9.31,0.318
+126,KRUK Spólka Akcyjna,KRU.WA,4.7,0.165
+127,Artifex Mundi S.A.,ART.WA,12.04,0.413
+128,Zalando SE,ZAL.WA,12.23,0.423
+129,Investment Friends SE,IFR.WA,25.08,0.84
+130,MFO S.A.,MFO.WA,8.3,0.298
+131,GreenX Metals Limited,GRX.WA,7.43,0.315
+132,Sanwil Holding Spólka Akcyjna,SNW.WA,6.31,0.272
+133,Ultimate Games S.A.,ULG.WA,8.0,0.349
+134,Bayer Aktiengesellschaft,BAY.WA,8.27,0.396
+135,BBI Development S.A.,BBD.WA,6.02,0.304
+136,Spyrosoft Spólka Akcyjna,SPR.WA,6.76,0.353
+137,4MASS Spólka Akcyjna,4MS.WA,6.82,0.365
+138,Dino Polska S.A.,DNP.WA,5.8,0.328
+139,PBS Finanse S.A.,PBF.WA,14.12,0.774
+140,Aplisens S.A.,APN.WA,2.57,0.153
+141,Lokum Deweloper S.A.,LKD.WA,3.9,0.233
+142,Stalprodukt S.A.,STP.WA,3.24,0.213
+143,REINO Capital S.A.,RNC.WA,5.4,0.357
+144,Berkshire Hathaway Inc.,BRKB.WA,2.28,0.156
+145,Alta S.A.,AAT.WA,3.71,0.265
+146,Lentex S.A.,LTX.WA,1.98,0.172
+147,Wise Energy S.A.,FMG.WA,6.7,0.576
+148,Bumech S.A.,BMC.WA,8.97,0.778
+149,LC Spólka Akcyjna,APL.WA,3.71,0.341
+150,Grupa Azoty S.A.,ATT.WA,3.6,0.345
+151,Bloober Team SA,BLO.WA,2.55,0.26
+152,CDRL S.A.,CDL.WA,3.18,0.349
+153,"Take-Two Interactive Software, Inc.",TTWO.WA,3.41,0.41
+154,OPTeam Spólka Akcyjna,OPM.WA,4.61,0.554
+155,BIOTON S.A.,BIO.WA,1.82,0.235
+156,AS Silvano Fashion Group,SFG.WA,1.54,0.212
+157,Creepy Jar S.A.,CRJ.WA,3.2,0.474
+158,Eurotel S.A.,ETL.WA,2.7,0.411
+159,Onde S.A.,OND.WA,1.17,0.301
+160,PZ Cormay S.A.,CRM.WA,1.66,0.431
+161,Lubelski Wegiel Bogdanka S.A.,LWB.WA,1.73,0.517
+162,Fabrity S.A.,FAB.WA,0.54,0.18
+163,Mangata Holding S.A.,MGT.WA,0.92,0.314
+164,Ifirma SA,IFI.WA,0.86,0.355
+165,Korporacja Gospodarcza efekt S.A.,EFK.WA,0.59,0.265
+166,KCI Spolka Akcyjna,KCI.WA,0.37,0.214
+167,Mex Polska S.A.,MEX.WA,0.36,0.244
+168,VIGO Photonics S.A.,VGO.WA,0.28,0.309
+169,KGL SA,KGL.WA,0.05,0.236
+170,QNA Technology S.A.,QNA.WA,-1.7,0.542
+171,Captor Therapeutics Spolka Akcyjna,CTX.WA,-2.16,0.503
+172,One More Level S.A.,OML.WA,-2.49,0.524
+173,Protektor S.A.,PRT.WA,-3.73,0.728
+174,Cognor Holding S.A.,COG.WA,-1.96,0.333
+175,yarrl S.A.,YRL.WA,-2.19,0.342
+176,MultiQure S.A.,MQR.WA,-8.43,1.231
+177,Triton Development S.A.,TRI.WA,-2.01,0.278
+178,Libet S.A.,LBT.WA,-2.51,0.343
+179,IMS S.A.,IMS.WA,-2.89,0.351
+180,Digitree Group S.A.,DTR.WA,-2.89,0.347
+181,Caspar Asset Management S.A.,CSR.WA,-3.41,0.382
+182,INC S.A.,INC.WA,-4.91,0.505
+183,Comperia.pl S.A.,CPL.WA,-4.54,0.455
+184,"Huuuge, Inc.",HUG.WA,-2.32,0.221
+185,Clean&Carbon Energy S.A.,CCE.WA,-5.46,0.509
+186,"Jerónimo Martins, SGPS, S.A.",JMT.WA,-3.66,0.292
+187,NPL Nova S.A.,PRI.WA,-2.15,0.166
+188,PCC Rokita SA,PCR.WA,-2.94,0.211
+189,Elkop Estonia SE,EKP.WA,-4.21,0.299
+190,"Robinhood Markets, Inc.",HOOD.WA,-8.32,0.593
+191,The Procter & Gamble Company,PCGL.WA,-2.39,0.162
+192,adidas AG,ADS.WA,-3.79,0.257
+193,CPD S.A.,CPD.WA,-16.32,1.023
+194,Amica S.A.,AMC.WA,-4.57,0.26
+195,JR Holding ASI S.A.,JRH.WA,-8.5,0.483
+196,Reinhold Europe AB (publ),RHD.WA,-10.03,0.521
+197,Cavatina Holding Spólka Akcyjna,CAV.WA,-5.7,0.282
+198,Unfold.vc ASI S.A.,UNF.WA,-5.07,0.227
+199,Compremum S.A.,CPR.WA,-8.36,0.38
+200,Erbud S.A.,ERB.WA,-7.54,0.339
+201,Remak-Energomontaz S.A.,RMK.WA,-6.06,0.263
+202,Urteste S.A.,URT.WA,-13.45,0.597
+203,PMPG Polskie Media SA,PGM.WA,-10.48,0.452
+204,Pharmena S.A.,PHR.WA,-10.5,0.412
+205,Harper Hygienics S.A.,HRP.WA,-8.77,0.341
+206,Prochem S.A.,PRM.WA,-6.56,0.245
+207,Skyline Investment S.A.,SKL.WA,-5.37,0.195
+208,DB Energy S.A.,DBE.WA,-16.56,0.606
+209,Rheinmetall AG,RHM.WA,-15.77,0.561
+210,Maxcom S.A.,MXC.WA,-9.13,0.291
+211,Polenergia S.A.,PEP.WA,-7.3,0.228
+212,Fabryki Mebli FORTE S.A.,FTE.WA,-9.91,0.308
+213,Nexity Global S.A.,NXG.WA,-19.41,0.634
+214,Volkswagen AG,VOW.WA,-8.93,0.245
+215,Rex Concepts S.A.,REX.WA,-8.77,0.235
+216,BioMaxima S.A.,BMX.WA,-13.67,0.359
+217,ULMA Construccion Polska S.A.,ULM.WA,-5.98,0.149
+218,M.W. Trade SA,MWT.WA,-20.09,0.536
+219,OT Logistics S.A.,OTS.WA,-17.39,0.457
+220,SimFabric S.A.,SIM.WA,-19.52,0.515
+221,Answear.com S.A.,ANR.WA,-10.39,0.252
+222,Bayerische Motoren Werke Aktiengesellschaft,BMW.WA,-11.86,0.281
+223,Molecure S.A.,MOC.WA,-21.09,0.518
+224,Mercedes-Benz Group AG,MBG.WA,-10.55,0.244
+225,Delko S.A.,DEL.WA,-9.18,0.206
+226,All in! Games S.A.,ALG.WA,-18.26,0.428
+227,Gaming Factory S.A.,GIF.WA,-19.0,0.438
+228,Zamet S.A.,ZMT.WA,-8.93,0.193
+229,AC Spólka Akcyjna,ACG.WA,-9.29,0.195
+230,Starhedge S.A.,SHG.WA,-16.88,0.362
+231,Wirtualna Polska Holding S.A.,WPL.WA,-11.66,0.238
+232,"Tatry mountain resorts, a.s.",TMR.WA,-14.2,0.287
+233,Synthaverse S.A.,SVE.WA,-13.5,0.267
+234,Wittchen S.A.,WTN.WA,-14.03,0.268
+235,Mabion S.A.,MAB.WA,-18.28,0.351
+236,Tesgas S.A.,TSG.WA,-14.67,0.273
+237,Muza S.A.,MZA.WA,-14.63,0.265
+238,Arctic Paper S.A.,ATC.WA,-18.07,0.331
+239,PCC Exol S.A.,PCX.WA,-10.24,0.179
+240,Intersport Polska S.A.,IPO.WA,-26.28,0.493
+241,CFI Holding S.A.,CFI.WA,-13.03,0.225
+242,Porsche Automobil Holding SE,PSHE.WA,-13.82,0.233
+243,Selvita S.A.,SLV.WA,-20.77,0.359
+244,Sfinks Polska S.A.,SFS.WA,-20.4,0.345
+245,Zaklady Azotowe Pulawy S.A.,ZAP.WA,-11.19,0.175
+246,Poltreg S.A.,PTG.WA,-21.99,0.363
+247,Eurocash S.A.,EUR.WA,-21.49,0.348
+248,Ambra S.A.,AMB.WA,-10.53,0.16
+249,Arlen S.A.,ARL.WA,-21.51,0.346
+250,Grupa Azoty Zaklady Chemiczne Police S.A.,PCE.WA,-14.96,0.231
+251,Magna Polonia S.A.,06N.WA,-14.26,0.217
+252,Lena Lighting S.A.,LEN.WA,-10.77,0.153
+253,Genomtec S.A.,GMT.WA,-26.89,0.413
+254,onesano S.A.,ONO.WA,-19.53,0.286
+255,NFI Octava S.A.,08N.WA,-12.28,0.171
+256,Ryvu Therapeutics S.A.,RVU.WA,-29.09,0.442
+257,Pekabex S.A.,PBX.WA,-22.42,0.309
+258,Globe Trade Centre S.A.,GTC.WA,-20.77,0.283
+259,Miraculum S.A.,MIR.WA,-21.0,0.285
+260,BoomBit S.A.,BBT.WA,-19.23,0.24
+261,Sunex S.A.,SNX.WA,-33.44,0.452
+262,XTPL S.A.,XTP.WA,-24.75,0.305
+263,Novaturas AB,NTU.WA,-30.84,0.377
+264,Warimpex Finanz- und Beteiligungs AG,WXF.WA,-18.92,0.204
+265,11 bit studios S.A.,11B.WA,-37.08,0.442
+266,PCF Group Spólka Akcyjna,PCF.WA,-45.45,0.573
+267,"NIKE, Inc.",NIKE.WA,-31.79,0.356
+268,ML System S.A.,MLS.WA,-35.17,0.402
+269,Polwax S.A.,PWX.WA,-22.96,0.242
+270,Novavis Group S.A.,NVG.WA,-31.58,0.333
+271,Pepees S.A.,PPS.WA,-13.75,0.123
+272,Koszalinskie Przedsiebiorstwo Przemyslu Drzewnego Spólka Akcyjna,KPD.WA,-28.46,0.274
+273,Przedsiebiorstwo Hydrauliki Silowej HYDROTOR S.A.,HDR.WA,-34.22,0.294
+274,AmRest Holdings SE,EAT.WA,-24.06,0.192
+275,Movie Games S.A.,MOV.WA,-38.26,0.334
+276,Photon Energy N.V.,PEN.WA,-46.95,0.387
+277,The Coca-Cola Company,COLA.WA,-5.27,
+278,InPost S.A.,INPT.WA,7.43,
+279,Intel Corporation,INTL.WA,-17.52,
+280,McDonald's Corporation,MCDL.WA,-39.2,
+281,Robyg S.A.,ROB.WA,29.65,

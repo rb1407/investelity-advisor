@@ -1,0 +1,2370 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Betashares Australian Cash Plus Active ETF,MMKT.AX,4.37,0.002,0.006,Yes
+2,Macquarie Bank Limited,MBLPD.AX,8.43,0.011,0.041,Yes
+3,WCM Global Growth Limited,WQG.XA,86.65,0.102,2.51,Yes
+4,Joyce Corporation Ltd,JYC.XA,38.39,0.053,0.045,Yes
+5,Betashares Australian Credit Income Active ETF,HBRD.AX,4.55,0.007,0.052,Yes
+6,National Australia Bank Limited,NABPH.AX,5.48,0.01,0.089,Yes
+7,Commonwealth Bank of Australia,CBAPI.AX,5.02,0.01,0.015,Yes
+8,Saunders International Limited,SND.XA,68.74,0.134,1.686,Yes
+9,Magellan Global Opportunities Fund - Active ETF,OPPT.AX,20.63,0.051,0.627,Yes
+10,Westpac Banking Corporation,WBCPJ.AX,3.98,0.011,0.062,Yes
+11,Macquarie Bank Limited,MBLPC.AX,10.16,0.029,0.309,No
+12,Insurance Australia Group Limited,IAGPF.AX,10.04,0.029,0.048,Yes
+13,Bendigo and Adelaide Bank Limited,BENPH.AX,5.52,0.016,0.097,No
+14,FAR Limited,FAR.XA,23.76,0.067,0.758,No
+15,Ramsay Health Care Limited,RHCPA.AX,4.39,0.014,0.143,Yes
+16,ANZ Group Holdings Limited,AN3PI.AX,4.91,0.016,0.045,Yes
+17,Suncorp Group Ltd,SUNPJ.AX,5.78,0.019,0.001,No
+18,Latitude Group Holdings Limited,LFSPA.AX,9.98,0.032,0.007,Yes
+19,Macquarie Group Limited,MQGPE.AX,5.41,0.018,0.029,Yes
+20,APA Group,APA.XA,33.24,0.11,0.417,No
+21,Joyce Corporation Ltd,JYC.AX,33.35,0.113,0.05,No
+22,APA Group,APA.AX,33.92,0.115,0.437,No
+23,Suncorp Group Limited,SUNPI.AX,5.3,0.02,0.011,No
+24,L1 Long Short Fund Limited,LSF.AX,58.14,0.193,1.146,Yes
+25,National Australia Bank Limited,NABPI.AX,5.93,0.024,0.133,Yes
+26,Bank of Queensland Limited,BOQPF.AX,4.69,0.02,0.01,Yes
+27,Gowing Bros. Limited,GOW.XA,24.07,0.094,0.194,No
+28,ANZ Group Holdings Limited,AN3PK.AX,6.25,0.026,0.026,Yes
+29,Commonwealth Bank of Australia,CBAPJ.AX,3.76,0.016,0.014,Yes
+30,Woolworths Group Limited,WOW.AX,61.95,0.217,0.295,Yes
+31,L1 Long Short Fund Limited,LSF.XA,57.25,0.204,1.167,Yes
+32,Insurance Australia Group Limited,IAGPE.AX,6.55,0.028,0.0,Yes
+33,Rio Tinto Group,RIO.AX,57.39,0.207,0.754,Yes
+34,Macquarie Income Opportunities Active ETF,MQIO.AX,3.47,0.015,0.114,Yes
+35,Woolworths Group Limited,WOW.XA,60.14,0.217,0.313,Yes
+36,Rio Tinto Group,RIO.XA,56.55,0.208,0.722,Yes
+37,FAR Limited,FAR.AX,71.8,0.255,1.478,No
+38,ECP Emerging Growth Limited,ECP.XA,94.15,0.315,,
+39,Westpac Banking Corporation,WBCPM.AX,5.64,0.026,0.13,Yes
+40,Rand Mining Limited,RND.XA,70.46,0.258,,
+41,Commonwealth Bank of Australia,CBAPL.AX,5.9,0.027,0.065,Yes
+42,Macquarie Group Limited,MQGPF.AX,5.81,0.027,0.108,Yes
+43,Macquarie Group Ltd,MQGPG.AX,6.68,0.032,0.186,Yes
+44,VanEck Bentham Global Capital Securities Active ETF (Managed Fund),GCAP.AX,6.47,0.031,0.238,Yes
+45,EDU Holdings Limited,EDU.XA,117.5,0.407,0.779,Yes
+46,Berkeley Energia Limited,BKY.XA,55.08,0.227,6.958,Yes
+47,Mitchell Services Limited,MSV.AX,130.86,0.443,2.892,Yes
+48,Cadence Opportunities Fund Limited,CDO.AX,29.29,0.133,0.762,Yes
+49,AIC Mines Limited,A1M.AX,146.51,0.486,3.366,Yes
+50,Connected Minerals Limited,CML.XA,93.17,0.352,5.692,Yes
+51,Regal Partners Global Investments Limited,RG1.AX,49.53,0.213,0.403,Yes
+52,Westpac Banking Corporation,WBCPL.AX,4.94,0.025,0.052,Yes
+53,AIC Mines Limited,A1M.XA,147.65,0.494,3.42,Yes
+54,EDU Holdings Limited,EDU.AX,116.31,0.418,0.702,Yes
+55,ANZ Group Holdings Limited,AN3PJ.AX,5.14,0.027,0.088,Yes
+56,Southern Cross Electrical Engineering Limited,SXE.XA,147.22,0.507,1.969,Yes
+57,BHP Group Limited,BHP.XA,70.66,0.3,2.151,Yes
+58,DPM Metals Inc.,DPM.AX,122.9,0.457,2.106,Yes
+59,Southern Cross Electrical Engineering Limited,SXE.AX,140.39,0.503,1.864,Yes
+60,Barrow Hanley Global Share Active ETF,GLOB.AX,13.21,0.069,0.411,Yes
+61,BHP Group Limited,BHP.AX,72.42,0.31,2.211,Yes
+62,Mitchell Services Limited,MSV.XA,125.98,0.469,3.242,Yes
+63,DPM Metals Inc.,DPM.XA,124.66,0.467,1.959,Yes
+64,Vysarn Limited,VYS.XA,128.35,0.478,3.216,Yes
+65,Pacific Lime and Cement Limited,PLA.XA,67.95,0.297,0.405,Yes
+66,Skinkandy Limited,SK1.AX,79.12,0.336,3.001,Yes
+67,Vysarn Limited,VYS.AX,124.71,0.472,3.242,Yes
+68,Cuscal Limited,CCL.AX,55.11,0.252,0.97,Yes
+69,Gryphon Capital Income Trust,GCI.AX,8.44,0.046,0.255,Yes
+70,National Australia Bank Limited,NABPJ.AX,5.2,0.029,0.045,Yes
+71,National Australia Bank Limited,NABPK.AX,5.43,0.031,0.129,Yes
+72,Cuscal Limited,CCL.XA,55.4,0.26,1.004,Yes
+73,Sims Limited,SGM.XA,109.87,0.446,1.888,Yes
+74,South32 Limited,S32.XA,121.5,0.481,1.308,Yes
+75,South32 Limited,S32.AX,123.04,0.488,1.369,Yes
+76,Ramsay Health Care Limited,RHC.AX,79.63,0.355,1.048,Yes
+77,Pacific Lime and Cement Limited,PLA.AX,76.31,0.344,0.411,Yes
+78,"Imricor Medical Systems, Inc.",IMR.XA,86.1,0.378,1.774,Yes
+79,Sims Limited,SGM.AX,111.2,0.459,2.032,Yes
+80,Ramsay Health Care Limited,RHC.XA,78.54,0.355,0.99,Yes
+81,Revolution Private Credit Income Trust,REV.AX,5.73,0.033,0.177,Yes
+82,Pengana Global Private Credit Trust,PCX.AX,8.19,0.048,0.131,Yes
+83,Diablo Resources Limited,DBO.XA,105.88,0.45,2.278,No
+84,Schroder Real Return Active ETF,GROW.AX,8.41,0.049,0.32,Yes
+85,Dimensional Global Core Equity Hedged Active ETF,DFGH.AX,22.7,0.125,0.881,Yes
+86,Westpac Banking Corp,WBCPK.AX,4.36,0.026,0.004,No
+87,Bell Financial Group Limited,BFG.XA,37.44,0.201,2.222,Yes
+88,Lindian Resources Limited,LIN.XA,111.34,0.483,5.334,No
+89,Adrad Holdings Limited,AHL.AX,94.31,0.433,0.174,No
+90,Commonwealth Bank of Australia,CBAPK.AX,5.51,0.034,0.066,No
+91,Commonwealth Bank of Australia,CBAPM.AX,5.03,0.031,0.015,Yes
+92,Strata Minerals Limited,SMX.XA,129.29,0.549,1.943,Yes
+93,Ashley Services Group Limited,ASH.AX,112.38,0.499,2.498,Yes
+94,MyState Limited,MYS.AX,19.69,0.116,0.628,Yes
+95,Gryphon Capital Income Trust,GCI.XA,8.48,0.053,0.187,Yes
+96,Motio Limited,MXO.XA,54.87,0.29,0.758,Yes
+97,Vmoto Limited,VMT.XA,76.37,0.378,1.258,No
+98,Paterson Resources Ltd,PSL.XA,124.52,0.55,0.83,No
+99,Horizon Gold Limited,HRN.AX,106.2,0.497,1.43,Yes
+100,New Hope Corporation Limited,NHC.XA,71.15,0.367,1.486,No
+101,Reece Limited,REH.XA,65.47,0.345,1.375,Yes
+102,Washington H. Soul Pattinson and Company Limited,SOL.XA,19.7,0.121,0.342,No
+103,Advanced Braking Technology Limited,ABV.XA,69.95,0.364,0.037,No
+104,MyState Limited,MYS.XA,19.96,0.123,0.674,Yes
+105,Dynamic Metals Limited,DYM.AX,126.47,0.568,1.778,Yes
+106,Reece Limited,REH.AX,65.05,0.345,1.382,Yes
+107,Bank of Queensland Limited,BOQPG.AX,4.62,0.031,0.017,No
+108,Revolution Private Credit Income Trust,REV.XA,4.7,0.031,0.056,Yes
+109,New Hope Corporation Limited,NHC.AX,72.8,0.382,1.616,No
+110,Mineral Resources Limited,MIN.XA,76.75,0.399,1.646,Yes
+111,Vanguard Global Minimum Volatility Active ETF,VMIN.AX,13.62,0.088,0.731,Yes
+112,Washington H. Soul Pattinson and Company Limited,SOL.AX,19.31,0.122,0.357,No
+113,Sandfire Resources Limited,SFR.XA,80.11,0.416,2.371,Yes
+114,GR Engineering Services Limited,GNG.AX,105.55,0.513,2.62,Yes
+115,PDI Gold Limited,PDI.AX,143.91,0.641,2.988,Yes
+116,Euroz Hartleys Group Limited,EZL.AX,65.67,0.358,2.086,Yes
+117,Franklin Australian Absolute Return Bd A ETF,FRAR.AX,3.57,0.024,0.141,Yes
+118,SHAPE Australia Corporation Limited,SHA.XA,67.57,0.367,0.14,Yes
+119,Sandfire Resources Limited,SFR.AX,81.71,0.427,2.415,Yes
+120,Heartland Group Holdings Limited,HGH.AX,26.48,0.166,0.666,Yes
+121,NRW Holdings Limited,NWH.XA,91.8,0.469,2.197,Yes
+122,GR Engineering Services Limited,GNG.XA,100.64,0.506,2.538,Yes
+123,SHAPE Australia Corporation Limited,SHA.AX,65.74,0.365,0.363,Yes
+124,Mineral Resources Limited,MIN.AX,76.04,0.409,1.715,Yes
+125,NRW Holdings Limited,NWH.AX,90.66,0.474,2.24,Yes
+126,Dominion Income Trust 1,DN1.AX,6.63,0.046,0.183,Yes
+127,Comms Group Limited,CCG.AX,49.42,0.293,1.05,Yes
+128,Dalrymple Bay Infrastructure Limited,DBI.AX,29.95,0.191,0.509,Yes
+129,Regal Partners Global Investments Limited,RG1.XA,16.62,0.112,0.777,No
+130,BluGlass Limited,BLG.XA,85.53,0.459,2.724,No
+131,Recharge Metals Limited,REC.XA,150.19,0.691,1.939,Yes
+132,McMillan Shakespeare Limited,MMS.XA,35.8,0.226,0.628,Yes
+133,McMillan Shakespeare Limited,MMS.AX,34.82,0.22,0.629,Yes
+134,Kantra Copper Ltd,KAN.AX,137.77,0.655,3.429,Yes
+135,Asara Resources Limited,AS1.AX,124.52,0.61,3.552,Yes
+136,Famien Resources Limited,FMN.XA,153.33,0.71,1.444,Yes
+137,BMC Minerals Limited,BMC.XA,109.27,0.562,2.424,Yes
+138,Dalrymple Bay Infrastructure Limited,DBI.XA,28.56,0.188,0.507,Yes
+139,Rent.com.au Limited,RNT.AX,73.72,0.421,0.301,No
+140,Kantra Copper Ltd,KAN.XA,138.74,0.674,3.585,Yes
+141,Skinkandy Limited,SK1.XA,57.61,0.347,3.157,Yes
+142,Meteoric Resources Limited,MEI.XA,148.46,0.708,3.216,Yes
+143,Ryder Capital Limited,RYD.AX,44.17,0.279,1.403,Yes
+144,Rent.com.au Limited,RNT.XA,67.1,0.395,0.525,No
+145,Nanuk New World Fund (Managed Fund),NNUK.AX,24.93,0.169,0.725,Yes
+146,Euroz Hartleys Group Limited,EZL.XA,62.71,0.377,1.802,Yes
+147,Ardea Real Outcome Bond Complex ETF,XARO.AX,4.64,0.035,0.234,Yes
+148,Connected Minerals Limited,CML.AX,130.67,0.661,3.117,Yes
+149,Vmoto Limited,VMT.AX,105.95,0.569,0.198,Yes
+150,Rumble Resources Limited,RTR.AX,131.19,0.665,3.141,Yes
+151,JPMorgan Global Research Enhanced Index Equity (Hedged) Active ETF,JRHG.AX,20.53,0.145,0.959,Yes
+152,Harris Technology Group Limited,HT8.AX,155.62,0.758,3.864,Yes
+153,Orezone Gold Corporation,ORE.AX,118.17,0.63,2.295,Yes
+154,BlueScope Steel Limited,BSL.XA,57.9,0.364,0.913,Yes
+155,MFF Capital Investments Limited,MFF.AX,17.85,0.13,0.698,Yes
+156,Horizon Gold Limited,HRN.XA,94.23,0.537,1.595,No
+157,Dyno Nobel Limited,DNL.XA,33.05,0.228,0.336,Yes
+158,Savana US Small Caps Active ETF,SVNP.AX,18.47,0.135,0.349,Yes
+159,James Hardie Industries plc,JHX.XA,66.78,0.414,2.758,Yes
+160,Tribeca Global Natural Resources Limited,TGF.AX,75.15,0.46,2.155,Yes
+161,James Hardie Industries plc,JHX.AX,65.71,0.414,2.733,Yes
+162,Dyno Nobel Limited,DNL.AX,32.72,0.23,0.331,Yes
+163,BlueScope Steel Limited,BSL.AX,58.09,0.375,1.068,Yes
+164,IGO Limited,IGO.XA,103.93,0.593,0.205,Yes
+165,IGO Limited,IGO.AX,103.77,0.597,0.264,Yes
+166,Victory Metals Limited,VTM.XA,73.25,0.458,0.231,Yes
+167,Woodside Energy Group Ltd,WDS.XA,59.53,0.389,1.588,No
+168,Bendigo and Adelaide Bank Limited,BENPI.AX,3.93,0.032,0.161,Yes
+169,Betashares Geared Short Australian Government Bond Complex ETF,BBAB.AX,16.69,0.128,0.514,No
+170,Parkway Corporate Limited,PWN.XA,121.4,0.679,4.262,Yes
+171,Woodside Energy Group Ltd,WDS.AX,59.34,0.394,1.581,No
+172,Bass Oil Limited,BAS.AX,132.71,0.726,1.976,No
+173,WT Financial Group Limited,WTL.XA,17.08,0.132,0.505,Yes
+174,Judo Capital Holdings Limited,JDOPA.AX,5.63,0.046,0.173,Yes
+175,CTI Logistics Limited,CLX.AX,83.43,0.519,1.459,Yes
+176,Ma Credit Income Trust,MA1.AX,3.9,0.032,0.058,Yes
+177,CTI Logistics Limited,CLX.XA,83.93,0.524,1.531,Yes
+178,PM Capital Global Opportunities Fund Limited,PGF.XA,26.5,0.199,1.459,Yes
+179,Aurizon Holdings Limited,AZJ.XA,25.61,0.194,0.356,Yes
+180,Aurizon Holdings Limited,AZJ.AX,26.05,0.197,0.457,Yes
+181,Rumble Resources Limited,RTR.XA,118.53,0.686,3.291,Yes
+182,Civmec Limited,CVL.XA,46.42,0.329,1.863,Yes
+183,Bega Cheese Limited,BGA.XA,23.36,0.18,0.136,Yes
+184,Stonehorse Energy Limited,SHE.AX,134.14,0.75,5.06,No
+185,PWR Holdings Limited,PWH.AX,68.0,0.451,2.403,Yes
+186,Civmec Limited,CVL.AX,46.96,0.334,1.865,Yes
+187,Dimensional Global Core Equity Trust (Unhedged Class) - Active ETF,DGCE.AX,11.28,0.092,0.375,Yes
+188,Vault Minerals Limited,VAU.XA,90.21,0.567,3.134,Yes
+189,Hot Chili Limited,HCH.XA,139.34,0.779,2.49,Yes
+190,Symal Group Limited,SYL.AX,94.79,0.59,0.931,Yes
+191,PWR Holdings Limited,PWH.XA,67.03,0.452,2.358,Yes
+192,Morningstar International Shares Active ETF (Managed Fund),MSTR.AX,17.57,0.14,0.977,Yes
+193,Anteris Technologies Global Corp.,AVR.AX,136.1,0.773,2.462,Yes
+194,Vault Minerals Limited,VAU.AX,88.17,0.564,3.045,Yes
+195,Hot Chili Limited,HCH.AX,147.29,0.82,2.604,Yes
+196,GWR Group Limited,GWR.XA,114.4,0.688,7.552,Yes
+197,Tetratherix Limited,TTX.AX,120.66,0.717,0.894,Yes
+198,Domino's Pizza Enterprises Limited,DMP.AX,85.77,0.558,1.302,Yes
+199,Wagners Holding Company Limited,WGN.XA,72.78,0.492,0.711,Yes
+200,Michael Hill International Limited,MHJ.XA,46.21,0.341,1.548,Yes
+201,Symal Group Limited,SYL.XA,94.69,0.606,0.943,Yes
+202,Vanguard All-World ex-US Shares Index ETF,VEU.AX,15.67,0.13,0.841,Yes
+203,Power Minerals Limited,PNN.XA,137.96,0.795,5.938,Yes
+204,Wagners Holding Company Limited,WGN.AX,73.54,0.5,0.749,Yes
+205,abrdn Sustainable Asian Opportunities Fund Active ETF (Managed Fund) Class E,ASAO.AX,41.3,0.311,1.064,Yes
+206,Alkane Resources Ltd,ALK.AX,105.03,0.657,2.727,Yes
+207,Domino's Pizza Enterprises Limited,DMP.XA,86.3,0.567,1.356,Yes
+208,One Click Group Limited,1CG.XA,59.76,0.425,0.005,No
+209,"Imricor Medical Systems, Inc.",IMR.AX,50.91,0.373,1.62,Yes
+210,Bega Cheese Limited,BGA.AX,23.33,0.19,0.076,Yes
+211,Smartgroup Corporation Ltd,SIQ.XA,52.4,0.384,0.267,Yes
+212,PM Capital Global Opportunities Fund Limited,PGF.AX,24.6,0.199,1.334,Yes
+213,Regal Investment Fund,RF1.AX,14.54,0.123,0.192,Yes
+214,Betashares Strong Australian Dollar Complex ETF,AUDS.AX,27.65,0.222,1.359,Yes
+215,Smartgroup Corporation Ltd,SIQ.AX,52.47,0.387,0.309,Yes
+216,Alkane Resources Ltd,ALK.XA,99.25,0.641,2.578,Yes
+217,Codan Limited,CDA.AX,94.93,0.627,2.333,Yes
+218,Codan Limited,CDA.XA,95.76,0.632,2.325,Yes
+219,Mamba Exploration Limited,M24.XA,148.03,0.864,8.781,Yes
+220,Viva Energy Group Limited,VEA.AX,106.75,0.687,4.064,No
+221,Korvest Ltd,KOV.AX,42.9,0.333,1.458,Yes
+222,Viva Energy Group Limited,VEA.XA,102.52,0.668,4.053,No
+223,Greatland Resources Limited,GGP.XA,95.0,0.632,2.338,Yes
+224,Greatland Resources Limited,GGP.AX,94.89,0.631,2.365,Yes
+225,Nutritional Growth Solutions Ltd.,NGS.AX,31.17,0.253,0.113,Yes
+226,JPMorgan Equity Premium Income (Hedged) Complex ETF,JHPI.AX,8.34,0.074,0.607,Yes
+227,L1 Global Long Short Fund Limited,GLS.AX,47.68,0.371,2.433,Yes
+228,Cogstate Limited,CGS.XA,59.71,0.449,1.076,Yes
+229,DGR Global Limited,DGR.AX,121.38,0.773,2.059,No
+230,Cogstate Limited,CGS.AX,60.02,0.453,1.04,Yes
+231,Monadelphous Group Limited,MND.AX,39.39,0.32,1.055,Yes
+232,NAOS Emerging Opportunities Co Ltd,NCCGA.AX,7.16,0.066,0.403,Yes
+233,Omega Oil & Gas Limited,OMA.XA,92.24,0.646,2.346,No
+234,Cyprium Metals Limited,CYM.XA,97.51,0.68,3.313,Yes
+235,Mayfield Group Holdings Limited,MYG.AX,116.04,0.774,1.575,Yes
+236,JPMorgan Nasdaq Equity Premium Income (Hedged) Complex ETF,JPHQ.AX,16.17,0.147,0.68,Yes
+237,Sunshine Metals Limited,SHN.XA,141.71,0.899,5.787,Yes
+238,Santos Limited,STO.AX,33.12,0.285,1.2,No
+239,Santos Limited,STO.XA,33.34,0.287,1.225,No
+240,Global X Ultra Long Nasdaq 100 Complex ETF,LNAS.AX,82.13,0.606,2.565,Yes
+241,L1 Gold Fund Limited,LGF.AX,83.1,0.611,12.47,Yes
+242,Monadelphous Group Limited,MND.XA,39.09,0.33,1.039,Yes
+243,Omega Oil & Gas Limited,OMA.AX,87.36,0.637,1.997,No
+244,Carnavale Resources Limited,CAV.AX,142.54,0.909,4.103,Yes
+245,Sunshine Metals Limited,SHN.AX,145.53,0.922,6.08,Yes
+246,GWR Group Limited,GWR.AX,73.84,0.561,1.365,Yes
+247,High Peak Royalties Limited,HPR.AX,87.6,0.642,4.197,No
+248,JPMorgan Climate Change Solutions Active ETF,T3MP.AX,15.5,0.144,0.738,Yes
+249,Nufarm Limited,NUF.XA,53.66,0.438,0.41,No
+250,RocketDNA Ltd.,RKT.AX,81.95,0.615,2.187,Yes
+251,FFI Holdings Limited,FFI.AX,23.81,0.216,0.003,Yes
+252,Nufarm Limited,NUF.AX,55.18,0.45,0.366,No
+253,Cygnus Metals Limited,CY5.AX,141.4,0.921,4.84,Yes
+254,Newmont Corporation,NEM.XA,53.16,0.438,1.339,Yes
+255,Newmont Corporation,NEM.AX,53.47,0.44,1.375,Yes
+256,IPD Group Limited,IPG.XA,57.05,0.468,2.138,Yes
+257,Stellar Resources Limited,SRZ.AX,73.72,0.579,4.025,Yes
+258,StepChange Holdings Limited,STH.XA,70.6,0.561,,
+259,BluGlass Limited,BLG.AX,63.51,0.516,2.023,No
+260,EMC Gold Corporation,EM3.XA,31.7,0.288,1.705,No
+261,Vaughan Nelson Global Equity SMID Fund (Quoted Managed Fund),VNGS.AX,11.99,0.119,0.706,Yes
+262,Macquarie Group Limited,MQG.XA,23.09,0.219,1.178,Yes
+263,Southern Cross Gold Consolidated Ltd.,SX2.XA,89.43,0.685,3.404,Yes
+264,Flagship Investments Limited,FSI.XA,19.98,0.192,,
+265,Westgold Resources Limited,WGX.XA,68.52,0.558,2.039,Yes
+266,Munro Climate Change Leaders Fund Active ETF,MCCL.AX,33.62,0.308,0.419,Yes
+267,Cygnus Metals Limited,CY5.XA,123.29,0.874,4.663,Yes
+268,West African Resources Limited,WAF.XA,64.92,0.539,1.288,Yes
+269,Vanguard International Equity Index Funds - Vanguard FTSE All-World ex-US ETF,VEU.XA,13.16,0.131,0.839,Yes
+270,Westgold Resources Limited,WGX.AX,67.33,0.555,2.016,Yes
+271,Southern Cross Gold Consolidated Ltd.,SX2.AX,88.47,0.687,3.502,Yes
+272,GenusPlus Group Ltd,GNP.XA,58.99,0.499,1.402,Yes
+273,GenusPlus Group Ltd,GNP.AX,59.38,0.504,1.46,Yes
+274,IPD Group Limited,IPG.AX,55.2,0.476,2.171,Yes
+275,G50 Corp Limited,G50.AX,121.15,0.875,3.882,Yes
+276,Senetas Corporation Limited,SEN.XA,65.71,0.55,2.163,Yes
+277,Emerald Resources NL,EMR.XA,61.36,0.521,2.182,Yes
+278,Prescient Therapeutics Limited,PTX.XA,146.95,1.003,0.689,Yes
+279,Zuleika Gold Limited,ZAG.AX,100.33,0.765,0.491,Yes
+280,Emerald Resources NL,EMR.AX,60.95,0.521,2.163,Yes
+281,Stanmore Resources Limited,SMR.XA,53.25,0.469,0.517,No
+282,Alcoa Corporation,AAI.XA,64.7,0.55,0.644,No
+283,Epsilon Healthcare Limited,EPN.XA,47.56,0.427,0.982,No
+284,Bellevue Gold Limited,BGL.XA,62.68,0.537,1.644,Yes
+285,Regis Resources Limited,RRL.AX,66.93,0.566,2.874,Yes
+286,Prescient Therapeutics Limited,PTX.AX,144.68,1.005,0.872,Yes
+287,MetalsGrove Mining Limited,MGA.AX,90.22,0.716,3.225,Yes
+288,Ansell Limited,ANN.AX,43.86,0.4,1.068,Yes
+289,BlinkLab Limited,BB1.XA,71.17,0.596,0.92,Yes
+290,Bellevue Gold Limited,BGL.AX,62.43,0.537,1.607,Yes
+291,Perseus Mining Limited,PRU.XA,45.8,0.416,0.95,Yes
+292,Pengana International Equities Limited,PIA.XA,15.51,0.157,0.019,No
+293,Coast Entertainment Holdings Limited,CEH.XA,37.3,0.349,1.651,Yes
+294,Regis Resources Limited,RRL.XA,66.97,0.57,2.85,Yes
+295,Liberty Metals Ltd,LIB.AX,144.0,1.008,3.367,Yes
+296,BlinkLab Limited,BB1.AX,70.96,0.598,0.759,Yes
+297,Resolution Capital Global Property Securities - Active ETF,RCAP.AX,16.62,0.169,1.104,Yes
+298,Flagship Minerals Limited,FLG.AX,81.86,0.669,2.876,Yes
+299,Macquarie Group Limited,MQG.AX,22.23,0.221,1.195,Yes
+300,BSP Financial Group Limited,BFL.AX,14.05,0.145,0.715,Yes
+301,Perseus Mining Limited,PRU.AX,47.51,0.434,1.044,Yes
+302,Dalaroo Metals Ltd,DAL.AX,137.15,0.986,4.834,Yes
+303,Carnavale Resources Limited,CAV.XA,136.37,0.984,4.481,Yes
+304,Alcoa Corporation,AAI.AX,63.04,0.551,0.685,No
+305,Kingsgate Consolidated Limited,KCN.XA,112.23,0.859,4.11,Yes
+306,Coast Entertainment Holdings Limited,CEH.AX,37.28,0.356,1.681,Yes
+307,Western Yilgarn NL,WYX.XA,38.54,0.367,2.01,Yes
+308,Alchemy Resources Limited,ALY.XA,34.79,0.337,1.334,Yes
+309,MaxiPARTS Limited,MXI.XA,39.33,0.375,0.819,Yes
+310,Kingsgate Consolidated Limited,KCN.AX,108.44,0.846,4.109,Yes
+311,ActivEX Limited,AIV.AX,45.93,0.43,2.146,Yes
+312,Meteoric Resources Limited,MEI.AX,84.62,0.705,3.763,Yes
+313,Bell Financial Group Limited,BFG.AX,31.48,0.31,2.263,Yes
+314,ImExHS Limited,IME.AX,45.75,0.43,0.943,Yes
+315,DevEx Resources Limited,DEV.XA,87.3,0.724,2.595,Yes
+316,WIA Gold Limited,WIA.XA,65.07,0.576,3.027,Yes
+317,Fisher & Paykel Healthcare Corporation Limited,FPH.AX,16.77,0.175,1.07,Yes
+318,Genesis Minerals Limited,GMD.XA,64.36,0.572,1.759,Yes
+319,Magellan Infrastructure Fund (Currency Hedged) - Active ETF,MICH.AX,11.99,0.128,0.768,Yes
+320,Stanmore Resources Limited,SMR.AX,53.07,0.49,0.463,No
+321,Resonance Health Limited,RHT.XA,69.9,0.614,4.341,Yes
+322,LCL Resources Limited,LCL.XA,103.27,0.829,6.175,Yes
+323,Genesis Minerals Limited,GMD.AX,63.27,0.568,1.802,Yes
+324,Leeuwin Metals Ltd,LM1.XA,57.98,0.529,2.318,Yes
+325,Betashares Geared US Equities Currency Hedged Complex ETF,GGUS.AX,40.32,0.39,2.066,Yes
+326,Cadence Capital Limited,CDM.AX,20.14,0.21,1.053,Yes
+327,DevEx Resources Limited,DEV.AX,77.71,0.671,2.706,Yes
+328,PlaySide Studios Limited,PLY.XA,51.11,0.479,2.532,Yes
+329,BPM Minerals Limited,BPM.AX,94.7,0.781,2.374,Yes
+330,Betashares Geared Short US Treasury Bond Currency Hedged Complex ETF,BBFD.AX,13.2,0.142,0.765,No
+331,Adrad Holdings Limited,AHL.XA,49.51,0.468,0.319,Yes
+332,BPM Minerals Limited,BPM.XA,104.25,0.842,2.757,Yes
+333,Perpetual Resources Limited,PEC.XA,88.56,0.746,3.972,Yes
+334,Lithium Plus Minerals Ltd,LPM.AX,60.78,0.561,0.162,Yes
+335,Whitehaven Coal Limited,WHC.XA,46.29,0.448,1.63,No
+336,Titan Minerals Limited,TTM.AX,69.73,0.628,0.956,Yes
+337,Titan Minerals Limited,TTM.XA,69.85,0.63,0.906,Yes
+338,49 Metals Limited,49M.XA,132.28,1.017,45.777,No
+339,Sagalio Energy Limited,SAN.AX,95.37,0.803,1.975,No
+340,Whitehaven Coal Limited,WHC.AX,45.24,0.442,1.603,No
+341,Articore Group Limited,ATG.AX,67.96,0.621,2.024,Yes
+342,BKI Investment Company Limited,BKI.AX,9.95,0.112,0.871,Yes
+343,Regal Asian Investments Limited,RG8.AX,27.12,0.285,1.706,Yes
+344,Strategic Energy Resources Limited,SER.AX,118.02,0.952,2.66,Yes
+345,Beacon Minerals Limited,BCN.AX,100.87,0.85,1.893,Yes
+346,Little Green Pharma Ltd,LGP.XA,80.44,0.717,,
+347,Stellar Resources Limited,SRZ.XA,63.1,0.593,3.741,Yes
+348,FireFly Metals Ltd,FFM.AX,56.41,0.547,2.055,Yes
+349,Paladin Energy Ltd,PDN.XA,75.15,0.689,2.839,Yes
+350,Articore Group Limited,ATG.XA,64.04,0.609,1.752,Yes
+351,Paladin Energy Ltd,PDN.AX,72.33,0.672,2.924,Yes
+352,PhosCo Ltd,PHO.XA,102.23,0.876,4.465,No
+353,L1 Global Long Short Fund Limited,GLS.XA,42.84,0.437,2.769,Yes
+354,Clover Corporation Limited,CLV.XA,39.72,0.41,2.617,No
+355,Atlantic Lithium Limited,A11.AX,64.78,0.618,2.316,Yes
+356,Mount Hope Mining Limited,MHM.AX,107.73,0.914,3.153,Yes
+357,Firetrail S3 Global Opportunities Fund - Active ETF,S3GO.AX,13.75,0.157,0.757,Yes
+358,WIA Gold Limited,WIA.AX,62.34,0.602,3.32,Yes
+359,AdAlta Limited,1AD.AX,154.49,1.189,0.6,Yes
+360,Platinum Asia Fund (Quoted Managed Hedge Fund),PAXX.AX,15.77,0.181,1.182,Yes
+361,MinRex Resources Limited,MRR.XA,124.06,1.026,3.933,Yes
+362,Killi Resources Limited,KLI.XA,154.5,1.194,8.781,Yes
+363,QBE Insurance Group Limited,QBE.XA,17.45,0.199,0.331,Yes
+364,Fidelity Global Emerging Markets ETF,FEMX.AX,16.21,0.186,1.206,Yes
+365,MinRex Resources Limited,MRR.AX,121.59,1.016,3.792,Yes
+366,Centaurus Metals Limited,CTM.XA,60.87,0.599,2.325,Yes
+367,FSA Group Limited,FSA.AX,24.57,0.274,0.093,Yes
+368,NuEnergy Gas Limited,NGY.AX,94.7,0.849,0.231,Yes
+369,Identitii Limited,ID8.XA,96.73,0.865,9.313,Yes
+370,Betashares Managed Risk Global Shares Complex ETF,WRLD.AX,8.73,0.104,0.366,Yes
+371,Zoono Group Limited,ZNO.AX,93.07,0.841,2.8,No
+372,Transurban Group,TCL.AX,10.13,0.121,0.194,Yes
+373,AusQuest Limited,AQD.AX,59.33,0.598,0.048,No
+374,Lindsay Australia Limited,LAU.XA,27.64,0.31,1.395,Yes
+375,Gateway Mining Limited,GML.AX,116.59,1.008,3.344,Yes
+376,JPMorgan Global Research Enhanced Index Equity Active ETF,JREG.AX,9.51,0.116,0.315,Yes
+377,Avira Resources Limited,AVW.XA,66.65,0.664,5.655,Yes
+378,QBE Insurance Group Limited,QBE.AX,17.36,0.205,0.379,Yes
+379,Pioneer Credit Limited,PNC.AX,34.0,0.381,1.616,Yes
+380,Clime Capital Limited,CAM.AX,6.63,0.083,0.535,Yes
+381,Centaurus Metals Limited,CTM.AX,61.46,0.63,2.417,Yes
+382,Xenora Minerals Limited,XRA.AX,89.27,0.845,3.841,Yes
+383,Resolute Mining Limited,RSG.XA,67.81,0.684,0.522,Yes
+384,Clover Corporation Limited,CLV.AX,41.98,0.461,3.089,No
+385,Asset Vision Co Limited,ASV.XA,58.35,0.608,5.194,No
+386,The Star Entertainment Group Limited,SGR.AX,112.87,1.019,0.889,Yes
+387,Ora Banda Mining Limited,OBM.AX,51.32,0.551,1.027,Yes
+388,Ora Banda Mining Limited,OBM.XA,50.04,0.542,1.036,Yes
+389,Dimensional Australia Core Equity Trust - Active ETF,DACE.AX,8.18,0.104,0.906,Yes
+390,Ausgold Limited,AUC.AX,92.85,0.89,2.55,Yes
+391,Latitude 66 Limited,LAT.XA,148.47,1.25,5.85,Yes
+392,Atlantic Lithium Limited,A11.XA,64.51,0.673,2.617,Yes
+393,Vita Life Sciences Limited,VLS.AX,24.13,0.289,0.713,Yes
+394,Resolute Mining Limited,RSG.AX,64.86,0.679,0.462,Yes
+395,MAAS Group Holdings Limited,MGH.AX,29.61,0.349,0.653,Yes
+396,Alligator Energy Limited,AGE.XA,133.18,1.174,3.151,Yes
+397,MAAS Group Holdings Limited,MGH.XA,29.82,0.354,0.628,Yes
+398,Challenger Limited,CGF.AX,16.43,0.205,0.783,Yes
+399,Ausgold Limited,AUC.XA,87.93,0.879,2.612,Yes
+400,Develop Global Limited,DVP.XA,58.36,0.638,2.94,Yes
+401,Australian Mines Limited,AUZ.AX,113.75,1.069,3.284,Yes
+402,Challenger Limited,CGF.XA,16.32,0.207,0.786,Yes
+403,Develop Global Limited,DVP.AX,58.26,0.639,3.019,Yes
+404,Saunders International Limited,SND.AX,27.03,0.331,0.676,No
+405,Lindsay Australia Limited,LAU.AX,27.46,0.336,1.347,Yes
+406,NAOS Ex-50 Opportunities Company Ltd,NACGA.AX,3.08,0.042,0.104,Yes
+407,KGL Resources Limited,KGL.AX,78.68,0.818,2.374,Yes
+408,Nickel Industries Limited,NIC.XA,30.43,0.37,1.748,Yes
+409,Liontown Limited,LTR.XA,82.79,0.853,0.714,No
+410,Cyprium Metals Limited,CYM.AX,55.43,0.62,3.137,Yes
+411,Alligator Energy Limited,AGE.AX,129.13,1.194,2.98,Yes
+412,Nickel Industries Limited,NIC.AX,30.46,0.376,1.782,Yes
+413,Liontown Limited,LTR.AX,80.76,0.849,0.579,No
+414,Morella Corporation Limited,1MC.XA,137.98,1.258,3.08,Yes
+415,Buxton Resources Limited,BUX.AX,47.16,0.551,1.923,Yes
+416,Transurban Group,TCL.XA,9.37,0.126,0.146,Yes
+417,Nanollose Limited,NC6.AX,79.42,0.841,2.777,Yes
+418,Perennial Income Generator Fund,EIGA.AX,7.74,0.105,0.895,Yes
+419,KGL Resources Limited,KGL.XA,87.65,0.91,2.695,Yes
+420,Oceania Healthcare Limited,OCA.AX,27.09,0.341,0.011,Yes
+421,Capricorn Metals Ltd,CMM.XA,42.99,0.512,2.022,Yes
+422,Myeco Group Ltd,MCO.AX,128.6,1.209,3.298,Yes
+423,Integrated Research Limited,IRI.XA,30.9,0.385,4.231,No
+424,Zeus Resources Limited,ZEU.XA,30.95,0.387,12.095,Yes
+425,Capricorn Metals Ltd,CMM.AX,44.03,0.527,1.981,Yes
+426,WAM Active Limited,WAA.AX,21.57,0.28,1.397,Yes
+427,Reach Resources Limited,RR1.XA,116.17,1.133,5.777,Yes
+428,Forrestania Resources Limited,FRS.AX,109.21,1.084,2.855,Yes
+429,NZME Limited,NZM.XA,12.69,0.172,0.344,Yes
+430,Argo Global Listed Infrastructure Limited,ALI.AX,8.26,0.115,0.394,Yes
+431,Memphasys Limited,MEM.AX,100.23,1.039,2.396,Yes
+432,Pacific Edge Limited,PEB.AX,59.61,0.695,2.701,Yes
+433,SPDR ETFs Australia - State Stree SPDR S&P 500 ETF,SPY.AX,9.3,0.13,0.287,Yes
+434,Australian Clinical Labs Limited,ACL.XA,28.27,0.367,0.495,No
+435,Arcadia Minerals Limited,AM7.AX,105.43,1.083,1.48,Yes
+436,Capstone Copper Corp.,CSC.AX,47.58,0.579,3.008,Yes
+437,Nordic Resources Limited,NNL.AX,67.84,0.775,4.743,Yes
+438,Vanguard Morningstar US Total Market Shares Index ETF,VTS.AX,9.12,0.128,0.268,Yes
+439,Genesis Energy Limited,GNE.XA,12.2,0.17,0.665,Yes
+440,Austin Metals Limited,AYT.XA,55.9,0.667,2.444,No
+441,WA Gold Limited,WAU.AX,89.59,0.97,4.616,Yes
+442,Tribune Resources Limited,TBR.XA,24.3,0.324,1.944,Yes
+443,US1 Critical Minerals Limited,USC.XA,79.72,0.889,32.403,Yes
+444,Morella Corporation Limited,1MC.AX,102.46,1.075,2.694,Yes
+445,West African Resources Limited,WAF.AX,39.09,0.498,1.379,Yes
+446,SportsHero Limited,SHO.AX,115.8,1.182,3.823,Yes
+447,WA Gold Limited,WAU.XA,85.6,0.947,3.77,Yes
+448,Paterson Resources Ltd,PSL.AX,31.32,0.415,1.181,No
+449,Australian Clinical Labs Limited,ACL.AX,27.11,0.366,0.39,No
+450,Beforepay Group Limited,B4P.XA,52.23,0.646,1.765,No
+451,Oceana Metals Limited,OCN.XA,70.07,0.822,20.851,No
+452,Asara Resources Limited,AS1.XA,71.85,0.839,4.107,Yes
+453,Brisbane Broncos Limited,BBL.AX,41.39,0.533,0.767,No
+454,Argosy Minerals Limited,AGY.AX,99.9,1.085,0.665,Yes
+455,Macquarie Walter Scott Global Equity Active ETF,MQWS.AX,15.06,0.215,0.513,Yes
+456,XPON Technologies Group Limited,XPN.XA,104.18,1.12,1.284,Yes
+457,Computershare Limited,CPU.AX,17.79,0.251,0.859,Yes
+458,Regener8 Resources NL,R8R.AX,44.64,0.571,2.684,No
+459,Richmond Vanadium Technology Limited,RVT.XA,101.9,1.105,1.185,Yes
+460,Katana Capital Limited,KAT.AX,6.22,0.093,0.309,Yes
+461,Computershare Limited,CPU.XA,17.56,0.25,0.871,Yes
+462,TPG Telecom Limited,TPG.XA,14.83,0.214,0.028,Yes
+463,Patrys Limited,PAB.XA,137.38,1.389,4.17,Yes
+464,Argosy Minerals Limited,AGY.XA,108.7,1.184,0.699,Yes
+465,Ardea Resources Limited,ARL.XA,52.11,0.669,7.147,Yes
+466,Appen Limited,APX.XA,149.5,1.494,4.302,Yes
+467,Milford Australian Absolute Growth Complex ETF,MFOA.AX,3.88,0.06,0.469,Yes
+468,Algorae Pharmaceuticals Limited,1AI.AX,89.74,1.037,3.0,No
+469,Janus Henderson Sustainable Credit Active ETF,GOOD.AX,2.28,0.036,0.116,Yes
+470,Future Generation Global Limited,FGG.AX,12.02,0.18,1.119,Yes
+471,Atomos Limited,AMS.AX,130.63,1.365,3.163,Yes
+472,Capral Limited,CAA.AX,13.14,0.196,0.767,Yes
+473,ALS Limited,ALQ.XA,20.39,0.297,1.687,Yes
+474,Vita Life Sciences Limited,VLS.XA,26.0,0.371,4.751,Yes
+475,Carnegie Clean Energy Limited,CCE.XA,113.52,1.252,1.451,Yes
+476,L1 Group Limited,L1G.XA,34.33,0.478,2.404,Yes
+477,Boresight Ltd,BST.AX,116.71,1.279,,
+478,The Koala Company Limited,KOA.AX,54.85,0.713,7.589,No
+479,Ballard Mining Limited,BM1.XA,49.49,0.661,2.056,Yes
+480,Trek Metals Limited,TKM.AX,133.19,1.418,2.836,Yes
+481,Unico Silver Limited,USL.XA,58.97,0.764,3.706,Yes
+482,L1 Group Limited,L1G.AX,34.93,0.491,2.515,Yes
+483,Skin Elements Limited,SKN.AX,128.3,1.383,5.191,Yes
+484,ALS Limited,ALQ.AX,20.1,0.299,1.726,Yes
+485,iTech Minerals Ltd,ITM.XA,93.37,1.108,3.5,Yes
+486,Nordic Resources Limited,NNL.XA,58.72,0.774,4.65,Yes
+487,Deterra Royalties Limited,DRR.AX,11.4,0.178,0.761,Yes
+488,LaserBond Limited,LBL.XA,28.67,0.42,0.813,Yes
+489,Vanguard US Total Market Shares Index ETF,VTS.XA,8.09,0.129,0.282,Yes
+490,Deterra Royalties Limited,DRR.XA,11.79,0.185,0.839,Yes
+491,Trek Metals Limited,TKM.XA,135.18,1.465,3.37,Yes
+492,SKY Network Television Limited,SKT.AX,13.24,0.207,0.107,Yes
+493,Clime Capital Limited,CAM.XA,5.4,0.087,0.313,Yes
+494,Unico Silver Limited,USL.AX,57.85,0.772,3.725,Yes
+495,Fin Resources Limited,FIN.AX,112.6,1.294,2.611,Yes
+496,Constellation Resources Limited,CR1.AX,72.2,0.926,3.069,Yes
+497,Lincoln Minerals Limited,LML.XA,116.4,1.334,3.045,Yes
+498,Switzer Dividend Growth Fund-Active ETF,SWTZ.AX,5.04,0.082,0.656,Yes
+499,Rox Resources Limited,RXL.AX,50.17,0.693,2.654,Yes
+500,Pacific Current Group Limited,PAC.AX,10.5,0.169,0.39,Yes
+501,Ballymore Resources Limited,BMR.XA,95.92,1.173,3.244,Yes
+502,Prospect Resources Limited,PSC.AX,67.8,0.899,3.191,Yes
+503,Loftus Peak Global Disruption Fund (Managed Fund),LPGD.AX,18.9,0.297,0.347,Yes
+504,Future Generation Australia Limited,FGX.XA,7.63,0.126,1.081,Yes
+505,Ballard Mining Limited,BM1.AX,44.96,0.647,2.195,Yes
+506,Solvar Limited,SVR.AX,15.56,0.25,0.826,Yes
+507,Tanami Gold NL,TAM.AX,42.55,0.618,1.627,Yes
+508,oOh!media Limited,OML.XA,25.08,0.391,0.985,Yes
+509,Flagship Minerals Limited,FLG.XA,49.61,0.712,2.684,Yes
+510,oOh!media Limited,OML.AX,25.33,0.397,1.068,Yes
+511,Sparc Technologies Limited,SPN.AX,50.27,0.725,1.224,Yes
+512,Rox Resources Limited,RXL.XA,47.3,0.69,2.721,Yes
+513,Audeara Limited,AUA.AX,85.94,1.117,1.543,Yes
+514,Lincoln Minerals Limited,LML.AX,84.86,1.109,2.158,Yes
+515,Fletcher Building Limited,FBU.AX,19.81,0.321,1.256,Yes
+516,Sparc Technologies Limited,SPN.XA,52.47,0.757,1.105,Yes
+517,Airlie Australian Share Fund ETF,AASF.AX,6.59,0.113,0.894,Yes
+518,Energy World Corporation Ltd,EWC.AX,53.48,0.773,0.44,Yes
+519,Challenger Limited,CGFPD.AX,2.32,0.041,0.106,Yes
+520,Mount Hope Mining Limited,MHM.XA,79.49,1.067,3.618,Yes
+521,Select Harvests Limited,SHV.XA,19.36,0.317,0.201,No
+522,Pacific Current Group Limited,PAC.XA,14.2,0.238,1.379,Yes
+523,AF Legal Group Limited,AFL.AX,26.34,0.422,0.289,Yes
+524,Auckland International Airport Limited,AIA.XA,10.62,0.181,1.488,Yes
+525,Equus Energy Limited,EQU.AX,25.83,0.415,0.43,Yes
+526,Scorpion Minerals Limited,SCN.AX,60.48,0.868,1.723,Yes
+527,Solvar Limited,SVR.XA,14.7,0.249,0.766,Yes
+528,Future Generation Australia Limited,FGX.AX,7.22,0.127,1.085,Yes
+529,Select Harvests Limited,SHV.AX,19.22,0.324,0.28,No
+530,Fletcher Building Limited,FBU.XA,19.34,0.326,1.307,Yes
+531,Ordell Minerals Limited,ORD.AX,63.58,0.923,3.648,Yes
+532,Energy World Corporation Ltd,EWC.XA,51.76,0.781,0.57,Yes
+533,WAM Strategic Value Limited,WAR.AX,9.53,0.168,1.081,Yes
+534,Prospect Resources Limited,PSC.XA,62.63,0.925,3.395,Yes
+535,Straker Limited,STG.XA,30.37,0.502,3.392,Yes
+536,ikeGPS Group Limited,IKE.AX,35.87,0.581,0.51,Yes
+537,Metal Bank Limited,MBK.XA,56.06,0.852,2.589,No
+538,Manhattan Gold Corporation Limited,MHC.AX,32.56,0.536,2.895,Yes
+539,FMR Resources Limited,FMR.AX,69.42,1.019,5.463,Yes
+540,Discovery Alaska Limited,DAF.AX,76.16,1.097,1.549,Yes
+541,Fluence Corporation Limited,FLC.XA,85.82,1.204,0.256,No
+542,Asset Vision Co Limited,ASV.AX,27.28,0.462,1.454,Yes
+543,Aquirian Limited,AQN.AX,13.57,0.243,0.023,Yes
+544,Rubix Resources Limited,RB6.AX,48.6,0.765,1.76,Yes
+545,Helia Group Limited,HLI.XA,14.62,0.261,0.09,No
+546,Regal Investment Fund,RF1.XA,6.77,0.125,0.156,Yes
+547,American West Metals Limited,AW1.XA,54.02,0.843,1.726,Yes
+548,Recharge Metals Limited,REC.AX,50.94,0.804,3.068,Yes
+549,Infratil Limited,IFT.XA,18.79,0.334,0.007,No
+550,Castle Minerals Limited,CDT.AX,63.24,0.964,2.693,Yes
+551,Orion Minerals Limited,ORN.AX,54.14,0.851,3.561,Yes
+552,TerraCom Limited,TER.AX,49.23,0.787,3.888,No
+553,InVert Graphite Ltd,IVG.AX,55.64,0.872,3.15,Yes
+554,Reach Resources Limited,RR1.AX,75.4,1.115,5.786,Yes
+555,Helia Group Limited,HLI.AX,14.61,0.267,0.236,No
+556,Atomos Limited,AMS.XA,81.33,1.189,2.896,Yes
+557,Cokal Limited,CKA.AX,49.98,0.804,0.071,Yes
+558,Metrics Master Income Trust,MXT.AX,4.84,0.093,0.543,Yes
+559,PMET Resources Inc.,PMT.XA,48.31,0.784,0.0,No
+560,Betashares Nasdaq 100 Yield Maximiser Complex ETF,QMAX.AX,8.2,0.155,0.12,Yes
+561,Horizon Oil Limited,HZN.AX,17.22,0.313,0.849,No
+562,Coda Minerals Limited,COD.XA,61.13,0.957,3.388,Yes
+563,Bannerman Energy Ltd,BMN.XA,47.33,0.776,3.39,Yes
+564,Parkway Corporate Limited,PWN.AX,24.67,0.441,1.277,Yes
+565,GreenTech Metals Limited,GRE.AX,56.16,0.901,4.178,Yes
+566,Ark Mines Limited,AHK.AX,102.97,1.452,0.913,Yes
+567,Waterco Limited,WAT.AX,11.9,0.225,0.914,No
+568,Amcor plc,AMC.AX,15.96,0.299,1.381,Yes
+569,Bridge SaaS Limited,BGE.AX,75.76,1.158,0.416,No
+570,Infratil Limited,IFT.AX,18.14,0.337,0.042,Yes
+571,Maronan Metals Limited,MMA.XA,56.03,0.91,4.158,Yes
+572,Titanium Sands Limited,TSL.AX,39.99,0.686,0.492,Yes
+573,Electro Optic Systems Holdings Limited,EOS.AX,101.94,1.46,2.715,Yes
+574,RTG Mining Inc.,RTG.AX,32.97,0.583,2.297,Yes
+575,Optiscan Imaging Limited,OIL.XA,30.16,0.539,1.085,No
+576,Bannerman Energy Ltd,BMN.AX,44.23,0.754,3.493,Yes
+577,Pengana Private Equity Trust,PE1.XA,18.43,0.347,0.179,Yes
+578,Thor Energy Plc,THR.XA,40.38,0.702,1.346,Yes
+579,Auckland International Airport Limited,AIA.AX,9.43,0.185,1.519,Yes
+580,Brazilian Rare Earths Limited,BRE.AX,59.73,0.98,3.838,Yes
+581,NAOS Ex-50 Opportunities Company Limited,NAC.AX,14.63,0.282,0.195,Yes
+582,Alara Resources Limited,AUQ.AX,34.3,0.615,0.583,Yes
+583,Electro Optic Systems Holdings Limited,EOS.XA,98.13,1.45,2.674,Yes
+584,Wiseway Group Limited,WWG.AX,44.31,0.768,3.596,Yes
+585,GreenTech Metals Limited,GRE.XA,56.63,0.942,4.207,Yes
+586,Emperor Energy Limited,EMP.XA,42.05,0.735,2.629,Yes
+587,JPMorgan Nasdaq Equity Premium Income Complex ETF,JPEQ.AX,6.35,0.127,0.011,No
+588,PMET Resources Inc.,PMT.AX,44.76,0.783,0.034,No
+589,Genesis Resources Limited,GES.AX,94.17,1.425,4.831,Yes
+590,Elixir Energy Limited,EXR.XA,61.76,1.026,3.081,No
+591,Maronan Metals Limited,MMA.AX,55.18,0.939,4.004,Yes
+592,Alterity Therapeutics Limited,ATH.AX,26.46,0.499,0.807,No
+593,American West Metals Limited,AW1.AX,51.28,0.887,2.1,Yes
+594,True North Copper Limited,TNC.XA,71.8,1.181,0.239,No
+595,Future Generation Global Limited,FGG.XA,8.31,0.171,1.076,Yes
+596,Motio Limited,MXO.AX,15.05,0.302,0.973,Yes
+597,Redstone Resources Limited,RDS.XA,84.53,1.346,3.344,Yes
+598,NZME Limited,NZM.AX,9.36,0.193,0.643,Yes
+599,NICO Resources Limited,NC1.AX,89.07,1.405,5.768,Yes
+600,Emperor Energy Limited,EMP.AX,40.2,0.739,2.734,Yes
+601,TerraCom Limited,TER.XA,41.6,0.77,4.208,No
+602,Elixir Energy Limited,EXR.AX,59.46,1.041,3.479,No
+603,La Trobe Private Credit Fund,LF1.XA,4.26,0.091,0.314,Yes
+604,Amcor plc,AMC.XA,14.25,0.296,1.413,Yes
+605,European Metals Holdings Limited,EMH.AX,37.54,0.713,0.85,No
+606,Breville Group Limited,BRG.AX,14.22,0.297,1.601,Yes
+607,Intelicare Holdings Limited,ICR.XA,48.13,0.89,1.126,Yes
+608,Kogan.com Ltd,KGN.AX,17.22,0.359,1.605,Yes
+609,Kogan.com Ltd,KGN.XA,17.35,0.363,1.669,Yes
+610,Ma Credit Income Trust,MA1.XA,1.56,0.035,0.07,Yes
+611,Pancontinental Energy NL,PCL.XA,33.77,0.665,4.08,No
+612,Li-S Energy Limited,LIS.AX,21.17,0.437,0.959,Yes
+613,Acusensus Limited,ACE.XA,50.69,0.943,1.616,Yes
+614,Voltaic Strategic Resources Limited,VSR.AX,63.88,1.142,1.325,Yes
+615,Guzman y Gomez Limited,GYG.AX,20.25,0.424,2.085,Yes
+616,Xenitra Limited,XEN.AX,86.59,1.466,0.574,Yes
+617,Orica Limited,ORI.AX,12.76,0.277,1.182,Yes
+618,4DS Memory Limited,4DS.XA,36.18,0.722,2.312,Yes
+619,Orica Limited,ORI.XA,12.6,0.277,1.17,Yes
+620,Megaport Limited,MP1.AX,52.1,0.992,1.356,Yes
+621,360 Capital REIT,TOT.AX,5.56,0.127,0.779,Yes
+622,Bellavista Resources Limited,BVR.AX,44.44,0.872,3.301,Yes
+623,Vicinity Centres,VCX.XA,5.28,0.121,0.565,Yes
+624,Aurora Labs Limited,A3D.XA,34.82,0.709,2.671,Yes
+625,Guzman y Gomez Limited,GYG.XA,19.43,0.419,2.018,Yes
+626,Iluka Resources Limited,ILU.XA,22.76,0.485,1.321,Yes
+627,Brightstar Resources Limited,BTR.AX,56.4,1.07,3.396,Yes
+628,Canadian Phosphate Limited,CP8.XA,63.51,1.179,0.217,Yes
+629,Breville Group Limited,BRG.XA,13.33,0.296,1.551,Yes
+630,Michael Hill International Limited,MHJ.AX,17.1,0.374,2.143,Yes
+631,Gale Pacific Limited,GAP.AX,17.0,0.373,0.376,No
+632,Megaport Limited,MP1.XA,51.56,1.006,1.39,Yes
+633,Betashares Australian Top 20 Equities Yield Maximiser Complex ETF,YMAX.AX,4.15,0.097,0.794,Yes
+634,Noble Helium Limited,NHE.AX,80.38,1.443,8.175,No
+635,TMK Energy Limited,TMK.XA,37.6,0.775,2.031,No
+636,Perpetual ESG Australian Share Active ETF,GIVE.AX,4.49,0.106,0.428,Yes
+637,Betashares Managed Risk Australian Shares Complex ETF,AUST.AX,3.59,0.085,0.759,Yes
+638,Culpeo Minerals Limited,CPO.AX,36.09,0.751,4.631,Yes
+639,PPK Group Limited,PPK.AX,24.93,0.541,1.794,Yes
+640,LARK Distilling Co. Ltd.,LRK.AX,15.75,0.355,0.254,Yes
+641,Globe International Limited,GLB.AX,17.45,0.391,1.787,Yes
+642,Noxopharm Limited,NOX.XA,22.86,0.502,9.191,No
+643,WAM Leaders Limited,WLE.XA,5.15,0.122,0.875,Yes
+644,Kingfisher Mining Limited,KFM.AX,26.36,0.575,1.263,Yes
+645,Juno Minerals Limited,JNO.AX,35.64,0.753,3.043,Yes
+646,Advanced Braking Technology Limited,ABV.AX,18.84,0.426,0.993,Yes
+647,Acusensus Limited,ACE.AX,43.58,0.901,1.668,Yes
+648,True North Copper Limited,TNC.AX,56.4,1.121,0.193,No
+649,Macquarie Dynamic Bond Active ETF,MQDB.AX,1.27,0.031,0.195,Yes
+650,Noble Helium Limited,NHE.XA,74.41,1.402,7.793,No
+651,Karoon Energy Ltd,KAR.XA,24.75,0.552,2.423,No
+652,Supply Network Limited,SNL.AX,9.79,0.232,1.195,Yes
+653,Aurora Labs Limited,A3D.AX,33.32,0.732,2.343,Yes
+654,IODM Limited,IOD.AX,48.82,1.023,4.14,Yes
+655,Lachlan Star Limited,LSA.XA,57.77,1.176,5.245,Yes
+656,Djerriwarrh Investments Limited,DJW.AX,3.71,0.093,0.476,Yes
+657,Swift TV Ltd,STV.XA,30.18,0.677,5.923,Yes
+658,Karoon Energy Ltd,KAR.AX,24.47,0.562,2.523,No
+659,Oneview Healthcare PLC,ONE.XA,44.43,0.951,0.315,No
+660,X2M Connect Limited,X2M.AX,141.02,2.333,1.065,Yes
+661,Metrics Master Income Trust,MXT.XA,3.68,0.093,0.459,Yes
+662,Australian Rare Earths Limited,AR3.AX,51.44,1.08,0.965,Yes
+663,Tribeca Global Natural Resources Limited,TGF.XA,17.52,0.421,1.766,Yes
+664,Australian Rare Earths Limited,AR3.XA,49.92,1.069,0.364,Yes
+665,Solis Minerals Ltd.,SLM.XA,94.19,1.773,4.802,Yes
+666,Strata Minerals Limited,SMX.AX,24.55,0.576,0.979,Yes
+667,Equatorial Resources Limited,EQX.XA,37.22,0.835,2.801,Yes
+668,Coles Group Limited,COL.AX,7.35,0.186,0.923,No
+669,Betmakers Technology Group Ltd,BET.AX,20.14,0.484,1.65,Yes
+670,8common Limited,8CO.AX,50.36,1.091,0.973,Yes
+671,Kalamazoo Resources Limited,KZR.AX,33.86,0.777,2.734,Yes
+672,NICO Resources Limited,NC1.XA,71.36,1.451,5.758,Yes
+673,Betmakers Technology Group Ltd,BET.XA,20.34,0.495,1.788,Yes
+674,Botala Energy Limited,BTE.AX,24.09,0.579,0.82,No
+675,BetaShares Australian Small Companies Select ETF,SMLL.AX,7.01,0.181,1.036,Yes
+676,Cannindah Resources Limited,CAE.XA,54.51,1.181,4.123,Yes
+677,QEM Limited,QEM.AX,116.78,2.134,6.858,Yes
+678,Tamawood Limited,TWD.AX,5.18,0.136,0.522,Yes
+679,Salter Brothers Emerging Companies Limited,SB2.AX,14.64,0.369,1.246,Yes
+680,HMC Capital Limited,HMC.XA,23.21,0.567,0.445,No
+681,NAOS Emerging Opportunities Company Limited,NCC.XA,12.2,0.312,8.349,Yes
+682,Australian Oil Company Limited,AOK.XA,28.97,0.694,23.557,No
+683,Telix Pharmaceuticals Limited,TLX.AX,26.7,0.645,3.313,No
+684,LARK Distilling Co. Ltd.,LRK.XA,12.7,0.325,0.195,Yes
+685,H3 Energy Limited,H3E.AX,45.53,1.038,2.644,No
+686,HMC Capital Limited,HMC.AX,23.03,0.571,0.481,No
+687,Coles Group Limited,COL.XA,6.94,0.184,0.9,No
+688,Australian Oil Company Limited,AOK.AX,38.11,0.897,3.313,No
+689,Telix Pharmaceuticals Limited,TLX.XA,25.19,0.623,3.084,No
+690,Barton Gold Holdings Limited,BGD.XA,30.22,0.74,2.518,Yes
+691,Rubicon Water Limited,RWL.XA,45.51,1.056,3.732,Yes
+692,Victory Metals Limited,VTM.AX,16.01,0.414,0.321,Yes
+693,Culpeo Minerals Limited,CPO.XA,32.05,0.781,5.28,Yes
+694,Delta Lithium Limited,DLI.XA,20.04,0.514,1.163,Yes
+695,Aguia Resources Limited,AGR.XA,48.12,1.117,7.725,No
+696,Delta Lithium Limited,DLI.AX,20.11,0.517,1.058,Yes
+697,Cannindah Resources Limited,CAE.AX,42.71,1.01,2.796,Yes
+698,Vicinity Centres,VCX.AX,4.98,0.137,0.678,Yes
+699,Djerriwarrh Investments Limited,DJW.XA,3.34,0.092,0.49,Yes
+700,Adavale Resources Limited,ADD.AX,23.31,0.595,2.111,Yes
+701,Service Stream Limited,SSM.AX,11.28,0.305,0.206,Yes
+702,HeraMED Limited,HMD.XA,25.72,0.659,4.057,No
+703,Hastings Technology Metals Limited,HAS.AX,57.49,1.326,1.368,Yes
+704,Breakthrough Minerals Limited,BTM.AX,30.93,0.781,4.371,Yes
+705,Boresight Ltd,BST.XA,46.08,1.11,,
+706,XPON Technologies Group Limited,XPN.AX,38.31,0.95,1.079,Yes
+707,Perpetual Limited,PPT.XA,10.19,0.283,1.497,Yes
+708,Antilles Gold Limited,AAU.XA,41.41,1.028,3.619,Yes
+709,Kina Securities Limited,KSL.AX,3.66,0.107,0.188,No
+710,Xpedra Resources Limited,XPD.AX,22.44,0.606,2.8,Yes
+711,VHM Limited,VHM.XA,67.5,1.566,2.315,Yes
+712,BWP Trust,BWP.XA,4.91,0.143,0.404,Yes
+713,Service Stream Limited,SSM.XA,10.99,0.313,0.249,Yes
+714,BWP Trust,BWP.AX,4.9,0.144,0.5,Yes
+715,AuMEGA Metals Ltd,AAM.AX,15.55,0.436,1.68,Yes
+716,Supply Network Limited,SNL.XA,8.26,0.239,1.135,Yes
+717,Phoslock Environmental Technologies Limited,PET.AX,53.37,1.307,2.623,Yes
+718,Hastings Technology Metals Limited,HAS.XA,50.82,1.256,1.362,Yes
+719,Aeris Resources Limited,AIS.XA,17.48,0.49,1.789,Yes
+720,Pure Foods Tasmania Limited,PFT.AX,21.95,0.605,0.722,Yes
+721,NexGen Energy Ltd.,NXG.XA,16.39,0.462,1.629,Yes
+722,Liberty Metals Ltd,LIB.XA,36.69,0.961,5.547,No
+723,Perpetual Resources Limited,PEC.AX,25.2,0.694,3.545,Yes
+724,Famien Resources Limited,FMN.AX,23.93,0.665,1.422,Yes
+725,Terragen Holdings Limited,TGH.AX,18.03,0.514,0.357,No
+726,360 Capital REIT,TOT.XA,4.98,0.151,0.906,Yes
+727,Perpetual Limited,PPT.AX,9.73,0.288,1.45,Yes
+728,Gateway Mining Limited,GML.XA,31.92,0.869,2.988,Yes
+729,Intelligent Investor Australian Equity Growth Fund (Managed Fund),IIGF.AX,3.75,0.115,0.557,Yes
+730,Alara Resources Limited,AUQ.XA,23.88,0.672,4.747,Yes
+731,Heavy Rare Earths Limited,HRE.XA,13.88,0.406,2.98,No
+732,IDT Australia Limited,IDT.XA,20.61,0.589,5.807,Yes
+733,Many Peaks Minerals Limited,MPK.AX,26.21,0.733,3.255,Yes
+734,Intelicare Holdings Limited,ICR.AX,28.25,0.785,0.629,No
+735,Intelligent Monitoring Group Limited,IMB.AX,15.52,0.455,1.272,Yes
+736,Lac Gold Limited,LAC.XA,29.74,0.825,4.355,Yes
+737,NexGen Energy Ltd.,NXG.AX,15.16,0.451,1.587,Yes
+738,Whitefield Income Limited,WHI.XA,4.59,0.143,0.692,Yes
+739,Imdex Limited,IMD.AX,7.78,0.241,1.196,Yes
+740,Lunnon Metals Limited,LM8.AX,17.85,0.531,2.345,Yes
+741,Imdex Limited,IMD.XA,7.72,0.239,1.154,Yes
+742,VHM Limited,VHM.AX,58.13,1.502,2.207,Yes
+743,LaserBond Limited,LBL.AX,10.24,0.315,0.406,Yes
+744,Lunnon Metals Limited,LM8.XA,16.65,0.501,2.684,Yes
+745,Kalamazoo Resources Limited,KZR.XA,25.77,0.751,2.494,Yes
+746,Camplify Holdings Limited,CHL.AX,34.6,0.986,3.623,Yes
+747,S&P/ASX 200,^AXJO,3.38,0.109,1.0,Yes
+748,Brightstar Resources Limited,BTR.XA,39.4,1.114,4.347,Yes
+749,Intelligent Monitoring Group Limited,IMB.XA,15.03,0.468,1.343,Yes
+750,Astron Corporation Limited,ATR.XA,25.47,0.764,0.438,No
+751,Astron Corporation Limited,ATR.AX,25.18,0.756,0.734,No
+752,29Metals Limited,29M.XA,31.04,0.913,1.51,Yes
+753,29Metals Limited,29M.AX,30.78,0.908,1.36,Yes
+754,NGE Capital Limited,NGE.AX,6.32,0.206,0.183,Yes
+755,Energy Technologies Limited,EGY.AX,13.99,0.444,1.437,No
+756,Aeris Resources Limited,AIS.AX,15.67,0.494,1.763,Yes
+757,Many Peaks Minerals Limited,MPK.XA,24.11,0.737,3.255,Yes
+758,Pioneer Credit Limited,PNC.XA,9.89,0.324,1.563,Yes
+759,PolarX Limited,PXX.XA,21.78,0.684,2.494,Yes
+760,iTech Minerals Ltd,ITM.AX,25.61,0.803,2.763,Yes
+761,Hawk Resources Limited,HWK.XA,22.93,0.726,1.524,Yes
+762,OFX Group Limited,OFX.XA,23.79,0.757,3.438,Yes
+763,OFX Group Limited,OFX.AX,23.81,0.76,3.353,Yes
+764,Altamin Limited,AZI.XA,17.45,0.573,,
+765,Ballymore Resources Limited,BMR.AX,27.22,0.86,1.94,Yes
+766,Heavy Rare Earths Limited,HRE.AX,23.48,0.757,2.083,Yes
+767,Flight Centre Travel Group Limited,FLT.XA,11.72,0.397,0.609,Yes
+768,Tamawood Limited,TWD.XA,5.14,0.179,2.107,Yes
+769,Wam Alternative Assets Limited,WMA.AX,1.97,0.07,0.134,Yes
+770,Iron Bear Resources Ltd,IBR.XA,19.58,0.647,2.75,No
+771,Australian Vanadium Limited,AVL.XA,20.93,0.695,3.457,Yes
+772,Flight Centre Travel Group Limited,FLT.AX,11.75,0.407,0.621,Yes
+773,Kina Securities Limited,KSL.XA,2.92,0.105,0.026,No
+774,Maggie Beer Holdings Limited,MBH.AX,22.07,0.739,1.187,No
+775,Alternative Investment Trust,AIQ.AX,2.67,0.097,0.588,Yes
+776,Aureka Limited,AKA.AX,18.2,0.622,2.224,Yes
+777,"Light & Wonder, Inc.",LNW.AX,16.24,0.564,0.851,No
+778,Tesoro Gold Ltd,TSO.AX,15.2,0.531,0.058,No
+779,"Light & Wonder, Inc.",LNW.XA,15.87,0.566,0.918,No
+780,Helix Resources Limited,HLX.AX,57.29,1.774,8.513,Yes
+781,Reliance Worldwide Corporation Limited,RWC.AX,10.96,0.402,0.178,Yes
+782,Antilles Gold Limited,AAU.AX,26.32,0.924,3.42,Yes
+783,xReality Group Limited,XRG.AX,13.49,0.51,1.711,Yes
+784,Perpetual Equity Investment Company Limited,PIC.AX,2.24,0.089,0.367,Yes
+785,NextEd Group Limited,NXD.XA,31.57,1.127,11.366,No
+786,ikeGPS Group Limited,IKE.XA,19.1,0.723,0.63,No
+787,Close the Loop Ltd,CLG.XA,26.76,0.99,1.704,No
+788,Great Southern Mining Limited,GSN.XA,15.88,0.614,1.368,Yes
+789,Oneview Healthcare PLC,ONE.AX,25.36,0.945,0.367,Yes
+790,Far East Gold Limited,FEG.AX,14.27,0.559,0.106,No
+791,Oakajee Corporation Limited,OKJ.AX,22.7,0.866,0.028,No
+792,Reliance Worldwide Corporation Limited,RWC.XA,9.77,0.4,0.139,Yes
+793,Somerset Minerals Limited,SMM.AX,28.08,1.07,5.633,Yes
+794,Critica Limited,CRI.AX,18.12,0.72,1.99,Yes
+795,Cleo Diagnostics Ltd,COV.XA,19.18,0.761,2.296,No
+796,Duratec Limited,DUR.XA,10.27,0.426,1.331,No
+797,Argenica Therapeutics Limited,AGN.XA,26.77,1.042,3.772,Yes
+798,Osteopore Limited,OSX.XA,49.63,1.786,2.063,Yes
+799,Gullewa Limited,GUL.AX,8.91,0.375,1.287,Yes
+800,Northern Star Resources Limited,NST.AX,10.8,0.452,2.808,Yes
+801,Cue Energy Resources Limited,CUE.AX,8.45,0.359,0.608,No
+802,Fleetwood Limited,FWD.XA,13.66,0.57,2.256,Yes
+803,Nagambie Resources Limited,NAG.XA,22.63,0.911,5.185,Yes
+804,Critica Limited,CRI.XA,17.11,0.706,1.875,Yes
+805,AuMEGA Metals Ltd,AAM.XA,11.94,0.505,1.595,Yes
+806,Northern Star Resources Limited,NST.XA,10.44,0.446,2.747,Yes
+807,Gold Mountain Limited,GMN.AX,32.43,1.272,6.736,Yes
+808,Cleo Diagnostics Ltd,COV.AX,18.31,0.761,2.523,No
+809,Cue Energy Resources Limited,CUE.XA,8.0,0.347,0.7,No
+810,Duratec Limited,DUR.AX,9.69,0.418,1.3,No
+811,AGL Energy Limited,AGL.XA,4.55,0.204,0.275,Yes
+812,Fleetwood Limited,FWD.AX,13.06,0.567,2.218,Yes
+813,Omnia Metals Group Ltd,OM1.AX,21.94,0.921,3.014,Yes
+814,Noxopharm Limited,NOX.AX,10.97,0.484,1.15,Yes
+815,Avenira Limited,AEV.AX,11.61,0.513,1.474,Yes
+816,AGL Energy Limited,AGL.AX,4.43,0.204,0.267,Yes
+817,Great Bear Exploration Ltd,GBL.XA,40.22,1.61,,
+818,Astral Resources NL,AAR.AX,20.66,0.894,3.871,Yes
+819,Neuren Pharmaceuticals Limited,NEU.AX,10.23,0.463,0.5,Yes
+820,Shaver Shop Group Limited,SSG.XA,4.46,0.208,1.367,Yes
+821,Shaver Shop Group Limited,SSG.AX,4.46,0.208,1.462,Yes
+822,Ramelius Resources Limited,RMS.XA,10.34,0.471,1.544,Yes
+823,West Cobar Metals Limited,WC1.AX,16.8,0.758,3.441,Yes
+824,Simonds Group Limited,SIO.AX,9.98,0.466,1.95,No
+825,TALi Digital Limited,TD1.AX,16.1,0.734,1.994,Yes
+826,Ryder Capital Limited,RYD.XA,7.28,0.346,1.323,Yes
+827,Ramelius Resources Limited,RMS.AX,10.06,0.479,1.553,Yes
+828,Neuren Pharmaceuticals Limited,NEU.XA,9.43,0.452,0.573,Yes
+829,Bellavista Resources Limited,BVR.XA,17.88,0.832,3.313,Yes
+830,Iltani Resources Limited,ILT.AX,11.48,0.56,3.035,Yes
+831,Coda Minerals Limited,COD.AX,18.94,0.901,3.092,Yes
+832,Dusk Group Limited,DSK.AX,6.28,0.326,1.493,Yes
+833,Tanami Gold NL,TAM.XA,13.34,0.674,2.525,Yes
+834,Dusk Group Limited,DSK.XA,5.94,0.314,1.459,Yes
+835,Horseshoe Metals Limited,HOR.AX,18.06,0.908,3.123,Yes
+836,Finder Energy Holdings Limited,FDR.XA,18.21,0.921,2.794,Yes
+837,PLC Resources Limited,PLC.AX,15.99,0.821,3.235,Yes
+838,Finder Energy Holdings Limited,FDR.AX,17.64,0.901,2.615,Yes
+839,Nexsen Limited,NXN.XA,12.37,0.651,0.315,Yes
+840,Argenica Therapeutics Limited,AGN.AX,20.4,1.044,3.434,Yes
+841,GemLife Communities Group,GLF.AX,4.61,0.253,1.553,Yes
+842,Pengana International Equities Limited,PIA.AX,2.55,0.141,0.339,Yes
+843,Auric Mining Limited,AWJ.XA,8.96,0.483,0.474,No
+844,Structural Monitoring Systems Plc,SMN.XA,6.27,0.347,1.372,Yes
+845,Powerhouse Ventures Limited,PVL.XA,13.03,0.703,,
+846,Astral Resources NL,AAR.XA,16.49,0.883,3.781,Yes
+847,Steadfast Group Limited,SDF.AX,6.66,0.377,0.017,No
+848,Steadfast Group Limited,SDF.XA,6.91,0.393,0.053,No
+849,"Block, Inc.",XYZ.AX,5.35,0.31,1.647,Yes
+850,Cokal Limited,CKA.XA,13.71,0.773,0.485,No
+851,Breakthrough Minerals Limited,BTM.XA,19.74,1.087,3.562,Yes
+852,WebBeds Group Limited,WEB.AX,8.62,0.497,0.467,Yes
+853,Entropy Neurodynamics Limited,ENP.AX,9.01,0.52,2.904,Yes
+854,Korvest Ltd,KOV.XA,4.41,0.26,1.444,Yes
+855,"Block, Inc.",XYZ.XA,5.27,0.31,1.682,Yes
+856,Pepper Money Limited,PPM.XA,8.13,0.478,2.497,Yes
+857,Tarrina Resources Limited,TR8.AX,11.21,0.661,3.244,Yes
+858,Auric Mining Limited,AWJ.AX,7.65,0.46,0.759,No
+859,Pepper Money Limited,PPM.AX,8.07,0.493,2.594,Yes
+860,Wide Open Agriculture Limited,WOA.XA,17.67,1.05,1.88,Yes
+861,Telstra Group Limited,TLS.AX,1.85,0.118,0.064,No
+862,Great Southern Mining Limited,GSN.AX,10.38,0.637,1.621,Yes
+863,Castile Resources Limited,CST.XA,9.95,0.612,2.303,Yes
+864,Noronex Limited,NRX.XA,12.27,0.754,3.55,Yes
+865,Archer Materials Limited,AXE.AX,17.71,1.075,0.916,Yes
+866,Element 25 Limited,E25.XA,6.77,0.432,1.541,Yes
+867,WebBeds Group Limited,WEB.XA,7.68,0.491,0.482,Yes
+868,Avenira Limited,AEV.XA,5.87,0.38,1.098,Yes
+869,Wam Income Maximiser Limited,WMX.AX,1.78,0.118,0.54,Yes
+870,Wisr Limited,WZR.XA,16.03,1.014,4.005,Yes
+871,Cadence Capital Limited,CDM.XA,2.77,0.187,1.039,Yes
+872,Coronado Global Resources Inc.,CRN.XA,13.55,0.88,1.188,No
+873,Redcastle Resources Limited,RC1.AX,15.71,1.015,1.843,Yes
+874,Australian Bond Exchange Holdings Limited,ABE.AX,19.71,1.267,4.059,Yes
+875,Solaris Australian Equity Income Plus Ltd,SET.AX,0.62,0.044,1.199,Yes
+876,Archer Materials Limited,AXE.XA,16.45,1.076,1.191,Yes
+877,Terramin Australia Limited,TZN.XA,12.94,0.881,2.821,No
+878,Rand Mining Limited,RND.AX,4.94,0.349,2.42,Yes
+879,Telstra Group Limited,TLS.XA,1.63,0.118,0.069,No
+880,Raiden Resources Limited,RDN.XA,10.89,0.765,1.301,Yes
+881,G11 Resources Limited,G11.AX,8.4,0.607,0.298,Yes
+882,Powerhouse Ventures Limited,PVL.AX,6.38,0.471,2.512,Yes
+883,Metal Hawk Limited,MHK.AX,15.46,1.113,0.557,Yes
+884,Black Bear Minerals Limited,BKB.XA,13.09,0.956,4.242,Yes
+885,Antares Metals Limited,AM5.XA,6.87,0.517,,
+886,Wam Alternative Assets Limited,WMA.XA,0.78,0.061,0.175,Yes
+887,One Click Group Limited,1CG.AX,3.47,0.275,0.777,No
+888,Desert Minerals Limited,DSM.XA,6.03,0.488,3.01,Yes
+889,Barton Gold Holdings Limited,BGD.AX,8.87,0.714,2.494,Yes
+890,Pentanet Limited,5GG.AX,12.45,0.991,2.254,Yes
+891,Geopacific Resources Limited,GPR.AX,8.56,0.701,0.94,Yes
+892,Fortuna Metals Limited,FUN.AX,11.65,0.948,2.307,Yes
+893,MotorCycle Holdings Limited,MTO.AX,5.76,0.484,1.908,Yes
+894,SSH Group Limited,SSH.AX,6.16,0.523,3.167,Yes
+895,Magontec Limited,MGL.AX,5.4,0.474,1.9,Yes
+896,Pursuit Minerals Limited,PUR.AX,9.51,0.83,2.503,Yes
+897,Lynas Rare Earths Limited,LYC.AX,5.71,0.507,0.956,Yes
+898,Polymetals Resources Ltd,POL.AX,8.6,0.755,2.244,Yes
+899,WAM Strategic Value Limited,WAR.XA,1.74,0.159,0.919,Yes
+900,GemLife Communities Group,GLF.XA,2.64,0.241,1.513,Yes
+901,Mesoblast Limited,MSB.AX,2.93,0.273,0.298,No
+902,SkyCity Entertainment Group Limited,SKC.XA,4.84,0.447,0.629,Yes
+903,Magellan Financial Group Limited,MFG.XA,3.69,0.345,1.398,No
+904,Blackstone Minerals Limited,BSX.XA,11.9,1.077,3.864,Yes
+905,"6K Additive, Inc.",6KA.AX,5.52,0.534,1.422,Yes
+906,Tolu Minerals Limited,TOK.AX,4.06,0.398,1.678,No
+907,Recce Pharmaceuticals Ltd,RCE.AX,6.04,0.587,0.875,Yes
+908,Pioneer Minerals Limited,PMM.AX,7.47,0.725,1.699,Yes
+909,Australian Foundation Investment Company Limited,AFI.AX,1.37,0.138,0.665,Yes
+910,Coronado Global Resources Inc.,CRN.AX,8.45,0.834,1.013,No
+911,Insurance Australia Group Limited,IAG.XA,1.95,0.205,1.124,No
+912,Mayfield Group Holdings Limited,MYG.XA,6.57,0.68,2.769,Yes
+913,Gold Hydrogen Limited,GHY.XA,6.98,0.726,1.005,No
+914,Magnum Mining and Exploration Limited,MGU.AX,8.54,0.909,2.532,Yes
+915,VBX Limited,VBX.XA,10.66,1.184,3.473,Yes
+916,Polymetals Resources Ltd,POL.XA,6.64,0.752,2.286,Yes
+917,BCAL Diagnostics Limited,BDX.AX,4.51,0.528,1.808,Yes
+918,Apostle Dundas Global Equity Fund - Class D Units Active ETF (Managed Fund),ADEF.AX,1.15,0.137,0.463,Yes
+919,Mesoblast Limited,MSB.XA,2.22,0.264,0.297,No
+920,Javelin Minerals Limited,JAV.AX,10.21,1.181,2.381,Yes
+921,Magellan Financial Group Limited,MFG.AX,2.87,0.347,1.411,No
+922,Iltani Resources Limited,ILT.XA,4.41,0.535,3.029,Yes
+923,Lynas Rare Earths Limited,LYC.XA,4.0,0.492,0.859,Yes
+924,Black Bear Minerals Limited,BKB.AX,7.69,0.934,4.423,Yes
+925,Element 25 Limited,E25.AX,3.09,0.387,1.135,Yes
+926,Medallion Metals Limited,MM8.AX,3.42,0.428,2.537,Yes
+927,Orange Minerals NL,OMX.AX,7.89,0.998,3.388,Yes
+928,Alcidion Group Limited,ALC.AX,2.41,0.316,0.182,No
+929,Medallion Metals Limited,MM8.XA,3.26,0.43,2.271,Yes
+930,Antipa Minerals Limited,AZY.XA,4.07,0.547,1.248,Yes
+931,SkyCity Entertainment Group Limited,SKC.AX,3.3,0.454,0.622,Yes
+932,Castile Resources Limited,CST.AX,3.63,0.523,1.709,Yes
+933,Macro Metals Limited,M4M.AX,4.87,0.702,1.855,Yes
+934,Evergold Minerals Limited,EG1.AX,6.46,0.935,1.163,Yes
+935,Great Divide Mining Ltd,GDM.AX,3.59,0.538,1.698,Yes
+936,MotorCycle Holdings Limited,MTO.XA,3.24,0.487,1.883,Yes
+937,West Wits Mining Limited,WWI.AX,4.3,0.664,2.189,Yes
+938,Raiz Invest Limited,RZI.XA,3.0,0.474,0.946,Yes
+939,Winchester Energy Limited,WEL.AX,9.48,1.463,1.573,Yes
+940,Ardea Resources Limited,ARL.AX,4.06,0.66,3.498,Yes
+941,Antipa Minerals Limited,AZY.AX,3.35,0.549,1.328,Yes
+942,Wide Open Agriculture Limited,WOA.AX,6.23,1.028,1.88,Yes
+943,Falcon Metals Limited,FAL.XA,5.53,0.925,4.067,Yes
+944,Nexsen Limited,NXN.AX,3.48,0.588,0.773,Yes
+945,Falcon Metals Limited,FAL.AX,5.47,0.943,4.317,Yes
+946,Stavely Minerals Limited,SVY.AX,4.22,0.747,0.485,No
+947,Aeris Environmental Ltd,AEI.AX,3.27,0.613,0.828,No
+948,Mayfield Childcare Limited,MFD.XA,9.05,1.668,,
+949,Connexion Mobility Ltd,CXZ.XA,1.09,0.209,,
+950,Nexus Minerals Limited,NXM.AX,3.92,0.757,3.153,Yes
+951,Universal Store Holdings Limited,UNI.XA,1.83,0.376,1.867,Yes
+952,Laramide Resources Ltd.,LAM.AX,2.77,0.567,1.912,Yes
+953,Vista Group International Limited,VGL.AX,3.12,0.647,1.065,Yes
+954,Centrepoint Alliance Limited,CAF.AX,1.57,0.328,0.552,Yes
+955,Gold Hydrogen Limited,GHY.AX,3.36,0.707,0.778,No
+956,PARKD Limited,PKD.AX,3.12,0.673,1.144,Yes
+957,Javelin Minerals Limited,JAV.XA,4.91,1.069,3.784,Yes
+958,Integrated Research Limited,IRI.AX,1.81,0.414,0.283,Yes
+959,Platinum International Fund (Quoted Managed Hedge Fund),PIXX.AX,0.65,0.153,0.266,Yes
+960,Wisr Limited,WZR.AX,3.48,0.824,3.38,Yes
+961,Universal Store Holdings Limited,UNI.AX,1.52,0.371,1.91,Yes
+962,Truscott Mining Corporation Limited,TRM.AX,2.87,0.713,0.885,Yes
+963,Fortescue Ltd,FMG.XA,1.12,0.281,0.152,No
+964,Mercury NZ Limited,MCY.AX,0.56,0.144,0.307,Yes
+965,Compumedics Limited,CMP.AX,1.87,0.479,0.621,Yes
+966,Peet Limited,PPC.XA,0.78,0.205,0.942,Yes
+967,Aguia Resources Limited,AGR.AX,4.02,1.053,7.225,No
+968,Nexus Minerals Limited,NXM.XA,2.64,0.722,3.297,Yes
+969,Australian Vanadium Limited,AVL.AX,2.51,0.716,4.148,Yes
+970,Cobram Estate Olives Limited,CBO.XA,1.8,0.54,1.032,No
+971,Mandrake Resources Limited,MAN.XA,0.69,0.21,0.503,Yes
+972,Nagambie Resources Limited,NAG.AX,3.33,1.002,2.916,Yes
+973,Cobram Estate Olives Limited,CBO.AX,1.76,0.539,1.047,No
+974,Mindax Limited,MDX.AX,2.99,0.915,2.165,Yes
+975,Axel REE Limited,AXL.AX,2.22,0.685,3.316,Yes
+976,Close the Loop Ltd,CLG.AX,2.86,0.88,2.313,No
+977,Fortescue Ltd,FMG.AX,0.87,0.279,0.079,No
+978,CSL Limited,CSL.AX,1.87,0.616,0.382,No
+979,CSL Limited,CSL.XA,1.74,0.618,0.429,No
+980,Broken Hill Mines Limited,BHM.XA,1.74,0.64,3.812,Yes
+981,OMG Group Limited,OMG.AX,1.62,0.606,0.327,Yes
+982,Red Metal Limited,RDM.XA,1.42,0.538,1.193,Yes
+983,Regal Asian Investments Limited,RG8.XA,0.45,0.172,0.883,Yes
+984,Red Metal Limited,RDM.AX,1.34,0.536,1.428,Yes
+985,TMK Energy Limited,TMK.AX,1.67,0.689,1.804,No
+986,West Wits Mining Limited,WWI.XA,1.46,0.627,2.123,Yes
+987,Kkr Credit Income Fund,KKC.XA,0.28,0.141,0.263,Yes
+988,Broken Hill Mines Limited,BHM.AX,1.08,0.641,3.719,Yes
+989,Silex Systems Limited,SLX.XA,1.38,0.829,2.089,Yes
+990,Charter Hall Retail REIT,CQR.AX,0.19,0.116,0.552,Yes
+991,Pinnacle Investment Management Group Limited,PNI.AX,0.38,0.265,0.692,Yes
+992,HeraMED Limited,HMD.AX,0.58,0.536,3.623,No
+993,Love Group Global Ltd,LVE.AX,0.42,0.391,1.112,No
+994,Tabcorp Holdings Limited,TAH.AX,0.46,0.528,2.235,Yes
+995,Peregrine Gold Limited,PGD.AX,0.81,1.259,4.737,Yes
+996,Gorilla Gold Mines Ltd,GG8.AX,0.3,0.596,2.909,Yes
+997,MLG Oz Limited,MLG.AX,0.17,0.368,2.381,Yes
+998,Suncorp Group Limited,SUN.XA,0.1,0.262,0.885,No
+999,Golden Globe Resources Ltd,GGR.AX,0.34,0.915,2.454,Yes
+1000,Catalina Resources Ltd,CTN.AX,0.46,1.422,1.387,Yes
+1001,Charter Hall Retail REIT,CQR.XA,0.03,0.125,0.508,Yes
+1002,Suncorp Group Limited,SUN.AX,0.04,0.262,0.848,No
+1003,Spacetalk Limited,SPA.XA,0.06,1.18,2.265,Yes
+1004,Cedar Woods Properties Limited,CWP.AX,0.01,0.363,2.122,Yes
+1005,Regal Partners Limited,RPL.AX,0.0,0.306,1.037,Yes
+1006,Terrain Minerals Limited,TMX.XA,-0.0,0.906,4.674,Yes
+1007,Kkr Credit Income Fund,KKC.AX,-0.0,0.139,0.237,Yes
+1008,Recce Pharmaceuticals Ltd,RCE.XA,-0.02,0.559,0.578,Yes
+1009,K&S Corporation Limited,KSC.AX,-0.02,0.115,0.247,Yes
+1010,NAOS Small Cap Opportunities Company Limited,NSC.AX,-0.12,0.329,1.706,Yes
+1011,Tabcorp Holdings Limited,TAH.XA,-0.21,0.54,2.282,Yes
+1012,Cedar Woods Properties Limited,CWP.XA,-0.18,0.353,2.114,Yes
+1013,Unith Ltd,UNT.AX,-0.46,0.806,1.125,Yes
+1014,Vista Group International Limited,VGL.XA,-0.41,0.717,1.609,Yes
+1015,360 Capital Mortgage REIT,TCF.AX,-0.06,0.086,0.192,Yes
+1016,StepChange Holdings Limited,STH.AX,-0.54,0.59,4.056,Yes
+1017,Orion Equities Limited,OEQ.AX,-0.24,0.249,0.964,No
+1018,Unith Ltd,UNT.XA,-0.89,0.864,0.802,Yes
+1019,Alliance Nickel Limited,AXN.AX,-0.8,0.751,2.276,Yes
+1020,Complii FinTech Solutions Ltd,CF1.AX,-1.25,0.94,0.243,Yes
+1021,Renascor Resources Limited,RNU.XA,-0.66,0.478,1.829,Yes
+1022,Compumedics Limited,CMP.XA,-0.68,0.463,0.225,No
+1023,VanEck Geared Australian Equal Weight Fund (Hedge Fund),GMVW.AX,-0.26,0.168,1.252,Yes
+1024,Peet Limited,PPC.AX,-0.33,0.192,0.965,Yes
+1025,Retail Food Group Limited,RFG.AX,-1.18,0.659,0.365,No
+1026,Lumos Diagnostics Holdings Limited,LDX.AX,-1.73,0.866,1.69,Yes
+1027,Pancontinental Energy NL,PCL.AX,-1.47,0.735,4.025,No
+1028,Gorilla Gold Mines Ltd,GG8.XA,-1.19,0.573,2.813,Yes
+1029,MLG Oz Limited,MLG.XA,-0.76,0.359,2.123,Yes
+1030,Helloworld Travel Limited,HLO.XA,-0.68,0.307,1.634,Yes
+1031,Retail Food Group Limited,RFG.XA,-1.52,0.654,0.357,No
+1032,Helloworld Travel Limited,HLO.AX,-0.76,0.318,1.651,Yes
+1033,Renascor Resources Limited,RNU.AX,-1.27,0.506,2.016,Yes
+1034,Peregrine Gold Limited,PGD.XA,-3.26,1.247,4.37,Yes
+1035,Zimplats Holdings Limited,ZIM.XA,-1.57,0.557,1.917,Yes
+1036,Finbar Group Limited,FRI.XA,-0.78,0.264,0.575,Yes
+1037,Zimplats Holdings Limited,ZIM.AX,-1.66,0.548,1.848,Yes
+1038,Silex Systems Limited,SLX.AX,-2.45,0.784,2.133,Yes
+1039,Region Group,RGN.XA,-0.37,0.111,0.082,Yes
+1040,OpenLearning Limited,OLL.AX,-3.65,1.09,0.805,No
+1041,IVE Group Limited,IGL.XA,-0.67,0.191,0.745,Yes
+1042,TechGen Metals Ltd,TG1.AX,-3.13,0.9,4.095,Yes
+1043,Resimac Group Limited,RMC.AX,-1.43,0.399,2.375,Yes
+1044,WOTSO,WOT.AX,-1.31,0.355,0.071,Yes
+1045,Austin Metals Limited,AYT.AX,-2.23,0.563,1.99,Yes
+1046,OncoSil Medical Limited,OSL.AX,-4.3,0.959,2.693,Yes
+1047,Resimac Group Limited,RMC.XA,-1.81,0.385,2.272,Yes
+1048,Way 2 Vat Ltd,W2V.AX,-3.32,0.707,2.187,Yes
+1049,Beforepay Group Limited,B4P.AX,-2.82,0.581,0.013,No
+1050,Regal Partners Limited,RPL.XA,-1.53,0.312,1.11,Yes
+1051,Locality Planning Energy Holdings Limited,LPE.AX,-2.58,0.522,1.834,Yes
+1052,Omnia Metals Group Ltd,OM1.XA,-4.63,0.874,3.398,Yes
+1053,Fortuna Metals Limited,FUN.XA,-4.93,0.922,2.919,Yes
+1054,NuEnergy Gas Limited,NGY.XA,-3.48,0.613,2.899,No
+1055,Energy Transition Minerals Ltd,ETM.AX,-5.1,0.869,0.468,Yes
+1056,Torque Metals Limited,TOR.AX,-4.72,0.769,2.518,No
+1057,Golden Deeps Limited,GED.XA,-4.72,0.727,54.392,Yes
+1058,Waratah Minerals Limited,WTM.XA,-3.75,0.571,0.352,Yes
+1059,Smart Parking Limited,SPZ.XA,-3.52,0.535,0.784,Yes
+1060,US Masters Residential Property Fund,URF.AX,-0.84,0.124,0.434,Yes
+1061,Torque Metals Limited,TOR.XA,-5.23,0.762,2.585,No
+1062,Blue Energy Limited,BLU.AX,-6.73,0.986,2.625,Yes
+1063,Neometals Ltd,NMT.AX,-6.64,0.962,2.266,Yes
+1064,Clara Resources Australia Ltd,C7A.AX,-5.32,0.757,2.863,No
+1065,New Zealand King Salmon Investments Limited,NZK.AX,-1.31,0.181,0.135,No
+1066,Excite Technology Services Limited,EXT.AX,-3.82,0.534,1.11,Yes
+1067,Somerset Minerals Limited,SMM.XA,-8.69,1.198,5.494,Yes
+1068,Dexus Convenience Retail REIT,DXC.AX,-0.97,0.122,0.446,Yes
+1069,Odyssey Gold Limited,ODY.AX,-4.03,0.516,0.083,Yes
+1070,Sports Entertainment Group Limited,SEG.AX,-3.0,0.378,1.269,Yes
+1071,Black Cat Syndicate Limited,BC8.AX,-5.29,0.67,3.831,Yes
+1072,Centrepoint Alliance Limited,CAF.XA,-3.26,0.407,0.801,Yes
+1073,Pinnacle Investment Management Group Limited,PNI.XA,-2.12,0.26,0.578,Yes
+1074,Camplify Holdings Limited,CHL.XA,-8.35,1.035,3.324,Yes
+1075,Amara Minerals Limited,AM3.AX,-9.42,1.158,3.582,Yes
+1076,Black Cat Syndicate Limited,BC8.XA,-5.59,0.671,3.798,Yes
+1077,The a2 Milk Company Limited,A2M.XA,-5.2,0.614,0.28,No
+1078,IVE Group Limited,IGL.AX,-1.58,0.182,0.676,Yes
+1079,Smart Parking Limited,SPZ.AX,-4.49,0.522,0.825,Yes
+1080,Battery Age Minerals Ltd,BM8.AX,-9.63,1.145,4.178,Yes
+1081,Cavalier Resources Ltd,CVR.XA,-3.06,0.344,0.302,Yes
+1082,Ariana Resources plc,AA2.AX,-2.88,0.32,1.221,Yes
+1083,Experience Co Limited,EXP.XA,-4.85,0.543,0.728,Yes
+1084,Alexium International Group Limited,AJX.AX,-4.45,0.488,1.166,Yes
+1085,Waratah Minerals Limited,WTM.AX,-5.4,0.595,0.441,Yes
+1086,Australian Foundation Investment Company Limited,AFI.XA,-0.94,0.1,0.608,Yes
+1087,Credit Corp Group Limited,CCP.XA,-2.62,0.28,0.627,Yes
+1088,International Graphite Limited,IG6.XA,-6.8,0.738,0.709,Yes
+1089,Neometals Ltd,NMT.XA,-11.01,1.217,1.81,Yes
+1090,Talga Group Ltd,TLG.XA,-8.06,0.861,2.486,Yes
+1091,Claremont Global Fund (hedged) (Managed Fund),CGHE.AX,-1.75,0.177,0.281,Yes
+1092,Dexus Convenience Retail REIT,DXC.XA,-1.28,0.128,0.349,Yes
+1093,Equus Energy Limited,EQU.XA,-4.21,0.428,0.73,No
+1094,The a2 Milk Company Limited,A2M.AX,-6.23,0.624,0.212,No
+1095,Credit Corp Group Limited,CCP.AX,-2.78,0.274,0.647,Yes
+1096,Pacific Resources Limited,PXR.AX,-8.72,0.88,3.746,Yes
+1097,FirstWave Cloud Technology Limited,FCT.AX,-10.9,1.092,1.209,No
+1098,Lumos Diagnostics Holdings Limited,LDX.XA,-8.73,0.857,1.582,Yes
+1099,Blue Star Helium Limited,BNL.XA,-9.97,0.984,7.013,No
+1100,Krakatoa Resources Limited,KTA.AX,-10.55,1.018,3.46,Yes
+1101,Patrys Limited,PAB.AX,-9.4,0.879,4.243,Yes
+1102,Energy One Limited,EOL.AX,-4.08,0.368,1.909,Yes
+1103,RTG Mining Inc.,RTG.XA,-7.49,0.686,2.724,Yes
+1104,Arika Resources Limited,ARI.AX,-7.04,0.644,3.715,Yes
+1105,SciDev Limited,SDV.XA,-11.96,1.107,2.309,No
+1106,Iron Bear Resources Ltd,IBR.AX,-6.89,0.614,0.446,No
+1107,Decidr AI Industries Ltd,DAI.AX,-16.8,1.535,3.865,Yes
+1108,Decidr AI Industries Ltd,DAI.XA,-17.01,1.553,3.808,Yes
+1109,Arika Resources Limited,ARI.XA,-7.98,0.679,3.924,Yes
+1110,Pantera Minerals Limited,PFE.XA,-6.12,0.514,1.877,Yes
+1111,QX Resources Limited,QXR.AX,-7.44,0.617,0.7,No
+1112,Infragreen Group Limited,IFN.XA,-9.14,0.753,0.792,Yes
+1113,MOVE Logistics Group Limited,MOV.AX,-7.87,0.641,0.545,No
+1114,Intelligent Investor Select Value Share Fd ETF,IISV.AX,-1.61,0.126,0.621,Yes
+1115,Glennon Small Companies Ltd,GC1.XA,-4.32,0.336,,
+1116,Bank of Queensland Limited,BOQ.AX,-1.66,0.127,0.839,Yes
+1117,Green360 Technologies LImited,GT3.AX,-6.85,0.529,3.444,Yes
+1118,JCurve Solutions Limited,JCS.AX,-8.95,0.698,0.105,Yes
+1119,Golden Horse Minerals Limited,GHM.XA,-7.15,0.552,2.546,Yes
+1120,Golden Dragon Mining Ltd,GDR.XA,-7.38,0.561,0.382,Yes
+1121,Far East Gold Limited,FEG.XA,-8.55,0.653,0.96,Yes
+1122,AdAlta Limited,1AD.XA,-9.31,0.702,0.204,Yes
+1123,Cullen Resources Limited,CUL.AX,-6.51,0.474,1.428,Yes
+1124,Heavy Minerals Limited,HVY.AX,-9.33,0.688,0.396,Yes
+1125,Comet Ridge Limited,COI.AX,-7.95,0.578,0.54,Yes
+1126,Sabre Resources Limited,SBR.XA,-8.32,0.601,0.794,No
+1127,Flynn Gold Limited,FG1.AX,-7.34,0.519,2.825,Yes
+1128,SciDev Limited,SDV.AX,-15.62,1.145,2.287,No
+1129,Zeotech Limited,ZEO.AX,-6.39,0.446,1.617,Yes
+1130,Terra Critical Minerals Limited,T92.XA,-13.69,0.991,0.09,Yes
+1131,ReadyTech Holdings Limited,RDY.AX,-9.61,0.681,0.675,No
+1132,LE Minerals Limited,LEL.AX,-6.61,0.455,0.754,Yes
+1133,Energy One Limited,EOL.XA,-5.14,0.351,1.793,Yes
+1134,International Graphite Limited,IG6.AX,-10.33,0.722,1.072,Yes
+1135,GTN Limited,GTN.AX,-6.67,0.457,0.179,No
+1136,Bank of Queensland Limited,BOQ.XA,-1.89,0.123,0.79,Yes
+1137,Cleanaway Waste Management Limited,CWY.AX,-3.28,0.213,0.675,Yes
+1138,Comet Ridge Limited,COI.XA,-8.59,0.573,0.343,Yes
+1139,Betashares Australian Equities Strong Bear Complex ETF,BBOZ.AX,-3.89,0.252,2.287,No
+1140,Talga Group Ltd,TLG.AX,-12.23,0.824,2.6,Yes
+1141,L1 Capital International ETF,L1IF.AX,-2.19,0.14,0.291,Yes
+1142,AUB Group Limited,AUB.XA,-5.23,0.339,0.412,No
+1143,Haranga Resources Limited,HAR.AX,-10.93,0.727,2.173,Yes
+1144,Cyclopharm Limited,CYC.AX,-11.41,0.75,1.272,No
+1145,Lion Energy Limited,LIO.AX,-13.22,0.875,1.475,Yes
+1146,Buru Energy Limited,BRU.XA,-10.46,0.676,0.521,No
+1147,BTC Health Limited,BTC.AX,-3.29,0.205,1.18,Yes
+1148,ReadyTech Holdings Limited,RDY.XA,-10.45,0.664,0.738,No
+1149,RAS Technology Holdings Limited,RTH.XA,-8.82,0.55,1.737,Yes
+1150,Blackstone Minerals Limited,BSX.AX,-15.38,0.972,3.724,Yes
+1151,Noronex Limited,NRX.AX,-10.42,0.641,3.647,Yes
+1152,Freehill Mining Limited,FHS.AX,-24.11,1.592,7.045,Yes
+1153,HiTech Group Australia Limited,HIT.AX,-9.24,0.564,1.625,Yes
+1154,Staude Capital Global Value Fund Limited,GVF.XA,-1.56,0.091,0.361,No
+1155,Finbar Group Limited,FRI.AX,-4.49,0.265,0.637,Yes
+1156,Pureprofile Ltd,PPL.XA,-7.5,0.448,0.459,Yes
+1157,Raiz Invest Limited,RZI.AX,-7.38,0.44,1.38,Yes
+1158,Ariana Resources plc,AA2.XA,-7.37,0.437,1.88,Yes
+1159,Ausmon Resources Limited,AOA.AX,-19.76,1.249,0.77,Yes
+1160,Krakatoa Resources Limited,KTA.XA,-13.43,0.817,1.263,Yes
+1161,Argent Minerals Limited,ARD.AX,-12.3,0.743,1.372,Yes
+1162,Amaero Inc.,3DA.AX,-11.11,0.666,0.673,No
+1163,Golden Dragon Mining Ltd,GDR.AX,-6.1,0.356,1.221,Yes
+1164,Catalyst Metals Limited,CYL.XA,-8.38,0.494,2.241,Yes
+1165,Golden Horse Minerals Limited,GHM.AX,-9.0,0.531,2.489,Yes
+1166,GQG Partners Inc.,GQG.XA,-6.24,0.362,0.053,Yes
+1167,Hyperion Global Growth Companies Fund-Active ETF,HYGG.AX,-5.93,0.341,0.364,Yes
+1168,Santa Fe Minerals Limited,SFM.AX,-5.29,0.3,0.224,Yes
+1169,Golden Deeps Limited,GED.AX,-8.66,0.497,1.972,Yes
+1170,Amaero Inc.,3DA.XA,-11.82,0.688,0.752,No
+1171,Catalyst Metals Limited,CYL.AX,-8.67,0.496,2.37,Yes
+1172,Sonic Healthcare Limited,SHL.XA,-4.24,0.234,0.756,Yes
+1173,Freightways Group Limited,FRW.AX,-4.01,0.221,1.454,Yes
+1174,Knosys Limited,KNO.AX,-9.65,0.539,1.136,No
+1175,AUB Group Limited,AUB.AX,-5.98,0.327,0.384,No
+1176,Western Yilgarn NL,WYX.AX,-8.91,0.492,2.196,Yes
+1177,Surefire Resources NL,SRN.AX,-16.28,0.923,2.628,Yes
+1178,Silver Mines Limited,SVL.XA,-11.3,0.617,2.284,Yes
+1179,Buru Energy Limited,BRU.AX,-11.83,0.643,0.566,Yes
+1180,Swoop Holdings Limited,SWP.AX,-14.21,0.778,1.498,Yes
+1181,Silver Mines Limited,SVL.AX,-11.1,0.596,1.753,Yes
+1182,Multistack International Limited,MSI.AX,-12.01,0.636,0.63,No
+1183,Heavy Minerals Limited,HVY.XA,-12.13,0.636,0.157,Yes
+1184,Emeco Holdings Limited,EHL.AX,-6.79,0.343,0.396,Yes
+1185,GQG Partners Inc.,GQG.AX,-7.07,0.357,0.016,Yes
+1186,Origin Energy Limited,ORG.XA,-3.59,0.178,0.147,No
+1187,Aroa Biosurgery Limited,ARX.AX,-8.43,0.427,1.562,Yes
+1188,Advance Metals Limited,AVM.XA,-16.76,0.883,3.911,Yes
+1189,Emeco Holdings Limited,EHL.XA,-6.75,0.337,0.477,Yes
+1190,Frontier Digital Ventures Limited,FDV.XA,-14.06,0.714,2.915,No
+1191,Sonic Healthcare Limited,SHL.AX,-4.94,0.239,0.766,Yes
+1192,Qualitas Limited,QAL.XA,-7.97,0.391,1.608,Yes
+1193,Green Technology Metals Limited,GT1.XA,-22.18,1.169,12.754,No
+1194,Australia United Mining Limited,AYM.AX,-15.19,0.765,1.806,Yes
+1195,Coppermoly Limited,COY.AX,-24.72,1.311,2.771,Yes
+1196,Albion Resources Limited,ALB.AX,-13.15,0.653,0.997,Yes
+1197,Lifestyle Communities Limited,LIC.AX,-6.19,0.294,0.168,No
+1198,Cleanaway Waste Management Limited,CWY.XA,-4.28,0.201,0.679,Yes
+1199,Industrial Minerals Ltd,IND.AX,-16.05,0.8,4.449,Yes
+1200,Platina Resources Limited,PGM.AX,-14.49,0.715,2.903,Yes
+1201,Burley Minerals Ltd,BUR.AX,-15.0,0.725,0.861,Yes
+1202,Cazaly Resources Limited,CAZ.AX,-14.14,0.68,2.564,Yes
+1203,Schaffer Corporation Limited,SFC.AX,-2.32,0.105,0.537,Yes
+1204,"6K Additive, Inc.",6KA.XA,-12.91,0.615,1.701,Yes
+1205,Aspire Mining Limited,AKM.AX,-10.95,0.512,2.31,Yes
+1206,Aurum Resources Limited,AUE.AX,-11.4,0.532,2.037,Yes
+1207,Origin Energy Limited,ORG.AX,-3.82,0.17,0.145,No
+1208,Koba Resources Limited,KOB.AX,-15.99,0.754,2.775,Yes
+1209,Macro Metals Limited,M4M.XA,-15.73,0.74,0.8,Yes
+1210,Amara Minerals Limited,AM3.XA,-21.67,1.053,2.349,Yes
+1211,Aurum Resources Limited,AUE.XA,-11.65,0.532,1.802,Yes
+1212,Ionic Rare Earths Limited,IXR.AX,-12.72,0.581,2.354,Yes
+1213,Shine Justice Ltd,SHJ.AX,-5.17,0.226,0.059,Yes
+1214,Aspire Mining Limited,AKM.XA,-9.37,0.417,1.533,Yes
+1215,Zeotech Limited,ZEO.XA,-9.86,0.439,1.618,Yes
+1216,Kali Metals Limited,KM1.AX,-18.75,0.864,0.52,No
+1217,Advance Metals Limited,AVM.AX,-18.41,0.837,3.851,Yes
+1218,ActivePort Group Ltd,ATV.AX,-26.23,1.243,0.853,Yes
+1219,Lion Selection Group Limited,LSX.AX,-5.91,0.251,1.311,Yes
+1220,Alvo Minerals Limited,ALV.XA,-25.88,1.223,1.456,Yes
+1221,Aristocrat Leisure Limited,ALL.AX,-7.87,0.337,0.441,Yes
+1222,Qualitas Limited,QAL.AX,-8.59,0.369,1.521,Yes
+1223,Aoris International Fund Class B Managed Fund,BAOR.AX,-3.25,0.136,0.282,Yes
+1224,Doctor Care Anywhere Group PLC,DOC.AX,-12.62,0.549,3.345,Yes
+1225,BSP Financial Group Limited,BFL.XA,-3.95,0.164,0.74,Yes
+1226,Global Gold Mining Limited,GGM.AX,-15.03,0.661,2.858,No
+1227,Blue Star Helium Limited,BNL.AX,-19.27,0.856,5.844,No
+1228,Macquarie Technology Group Limited,MAQ.AX,-7.54,0.313,0.898,Yes
+1229,PPK Group Limited,PPK.XA,-11.99,0.509,0.994,Yes
+1230,Maritana Minerals Limited,MRT.XA,-15.73,0.676,0.032,Yes
+1231,Lifestyle Communities Limited,LIC.XA,-6.99,0.287,0.143,No
+1232,Kelsian Group Limited,KLS.XA,-7.79,0.32,1.66,Yes
+1233,Aristocrat Leisure Limited,ALL.XA,-8.17,0.334,0.392,Yes
+1234,Spacetalk Limited,SPA.AX,-19.15,0.826,1.196,Yes
+1235,Superloop Limited,SLC.XA,-10.09,0.414,0.136,Yes
+1236,Gowing Bros. Limited,GOW.AX,-3.36,0.132,0.084,Yes
+1237,Pantera Minerals Limited,PFE.AX,-14.55,0.602,2.659,Yes
+1238,Frontier Digital Ventures Limited,FDV.AX,-16.15,0.67,2.543,No
+1239,Cash Converters International Limited,CCV.AX,-7.03,0.277,1.451,Yes
+1240,Scalare Partners Holdings Limited,SCP.AX,-17.38,0.713,4.231,No
+1241,Maritana Minerals Limited,MRT.AX,-17.21,0.703,0.005,Yes
+1242,Superloop Limited,SLC.AX,-10.42,0.41,0.158,Yes
+1243,Tasman Resources Ltd,TAS.XA,-20.96,0.869,3.262,Yes
+1244,Vita Resources NL,VTA.AX,-25.38,1.079,2.217,No
+1245,Hazer Group Limited,HZR.XA,-13.17,0.52,1.424,Yes
+1246,Invictus Energy Limited,IVZ.XA,-25.54,1.075,1.474,Yes
+1247,Argent Minerals Limited,ARD.XA,-18.29,0.732,1.497,Yes
+1248,Kelsian Group Limited,KLS.AX,-8.52,0.324,1.519,Yes
+1249,ActivePort Group Ltd,ATV.XA,-29.74,1.268,1.073,Yes
+1250,DeSoto Resources Limited,DES.AX,-10.27,0.393,0.895,Yes
+1251,Microba Life Sciences Limited,MAP.XA,-19.76,0.792,2.05,Yes
+1252,Biome Australia Limited,BIO.XA,-13.53,0.52,1.835,Yes
+1253,Montaka Global Long Only Equities ETF (Managed Fund),MOGL.AX,-6.18,0.227,0.751,Yes
+1254,Far Northern Resources Limited,FNR.AX,-14.48,0.555,1.106,Yes
+1255,49 Metals Limited,49M.AX,-22.99,0.92,4.606,Yes
+1256,Macquarie Technology Group Limited,MAQ.XA,-7.94,0.293,0.967,Yes
+1257,Blue Energy Limited,BLU.XA,-28.54,1.177,3.003,Yes
+1258,Elevate Uranium Ltd,EL8.XA,-20.73,0.816,2.917,Yes
+1259,Endeavour Group Limited,EDV.AX,-8.15,0.3,1.404,Yes
+1260,Zicom Group Limited,ZGL.AX,-11.56,0.432,1.259,Yes
+1261,Paradigm Biopharmaceuticals Limited,PAR.XA,-17.35,0.667,0.526,No
+1262,FINEOS Corporation Holdings plc,FCL.AX,-14.06,0.529,1.333,Yes
+1263,ADX Energy Ltd,ADX.XA,-15.73,0.597,1.553,Yes
+1264,Vitasora Health Limited,VHL.AX,-20.67,0.802,2.025,Yes
+1265,Challenger Gold Limited,CEL.XA,-15.63,0.588,2.724,Yes
+1266,FINEOS Corporation Holdings plc,FCL.XA,-14.29,0.531,1.425,Yes
+1267,Zip Co Limited,ZIP.XA,-23.95,0.924,1.286,Yes
+1268,Endeavour Group Limited,EDV.XA,-8.47,0.301,1.355,Yes
+1269,Zip Co Limited,ZIP.AX,-24.12,0.926,1.355,Yes
+1270,Nuchev Limited,NUC.AX,-19.92,0.74,2.14,Yes
+1271,Charter Hall Group,CHC.AX,-9.61,0.338,0.766,Yes
+1272,Charter Hall Group,CHC.XA,-9.68,0.34,0.745,Yes
+1273,Antares Metals Limited,AM5.AX,-15.65,0.565,1.961,Yes
+1274,Stavely Minerals Limited,SVY.XA,-13.37,0.475,1.661,No
+1275,Range International Limited,RAN.AX,-25.23,0.948,6.493,Yes
+1276,Accelerate Resources Limited,AX8.AX,-15.3,0.543,3.071,Yes
+1277,Intelligent Investor Ethical Share ETF,INES.AX,-4.97,0.165,0.311,Yes
+1278,Alcidion Group Limited,ALC.XA,-8.99,0.304,0.242,No
+1279,Novo Resources Corp.,NVO.AX,-21.69,0.782,2.668,Yes
+1280,Ridley Corporation Limited,RIC.AX,-8.06,0.268,1.396,Yes
+1281,Volt Group Limited,VPR.AX,-13.21,0.446,1.074,No
+1282,Neurotech International Limited,NTI.AX,-12.22,0.411,0.54,No
+1283,Aroa Biosurgery Limited,ARX.XA,-11.16,0.368,1.298,Yes
+1284,Riedel Resources Limited,RIE.AX,-21.8,0.759,4.248,Yes
+1285,Codeifai Limited,CDE.XA,-30.39,1.108,3.804,Yes
+1286,Ridley Corporation Limited,RIC.XA,-7.78,0.25,1.191,Yes
+1287,Buxton Resources Limited,BUX.XA,-14.44,0.477,0.464,Yes
+1288,Bio-Gene Technology Limited,BGT.AX,-24.56,0.852,0.946,Yes
+1289,Hearts and Minds Investments Limited,HM1.XA,-4.72,0.147,0.513,Yes
+1290,Magnum Mining and Exploration Limited,MGU.XA,-23.21,0.795,6.75,Yes
+1291,Immutep Limited,IMM.XA,-30.99,1.107,7.243,Yes
+1292,Cash Converters International Limited,CCV.XA,-7.69,0.241,1.199,Yes
+1293,Berkeley Energia Limited,BKY.AX,-10.32,0.327,2.084,Yes
+1294,Biome Australia Limited,BIO.AX,-15.71,0.512,1.802,Yes
+1295,Piche Resources Limited,PR2.AX,-35.56,1.301,5.322,Yes
+1296,NEXTDC Limited,NXT.XA,-12.87,0.412,2.465,Yes
+1297,Infini Resources Limited,I88.AX,-28.16,0.982,1.015,Yes
+1298,Paradigm Biopharmaceuticals Limited,PAR.AX,-20.19,0.672,0.803,No
+1299,Big River Industries Limited,BRI.AX,-6.08,0.187,1.053,Yes
+1300,nib holdings limited,NHF.AX,-5.66,0.173,0.026,No
+1301,Sigma Healthcare Limited,SIG.AX,-7.36,0.225,0.73,Yes
+1302,American Tungsten and Antimony Ltd,AT4.AX,-31.32,1.092,6.045,Yes
+1303,Hazer Group Limited,HZR.AX,-15.81,0.504,1.044,Yes
+1304,Elevate Uranium Ltd,EL8.AX,-24.36,0.809,2.205,Yes
+1305,Sigma Healthcare Limited,SIG.XA,-7.0,0.212,0.677,Yes
+1306,Golden Mile Resources Limited,G88.XA,-21.46,0.694,3.024,Yes
+1307,nib holdings limited,NHF.XA,-5.61,0.167,0.112,No
+1308,Platina Resources Limited,PGM.XA,-21.1,0.664,1.302,Yes
+1309,Percheron Therapeutics Limited,PER.AX,-29.91,0.989,1.033,Yes
+1310,Liberty Financial Group Limited,LFG.AX,-7.97,0.234,0.242,Yes
+1311,EMVision Medical Devices Ltd,EMV.AX,-8.99,0.264,0.989,Yes
+1312,Credit Clear Limited,CCR.AX,-22.8,0.719,0.059,Yes
+1313,Peoplein Limited,PPE.XA,-12.35,0.368,0.017,No
+1314,Li-S Energy Limited,LIS.XA,-14.79,0.445,0.585,Yes
+1315,Pureprofile Ltd,PPL.AX,-16.52,0.499,0.826,Yes
+1316,Australian Silica Quartz Group Ltd.,ASQ.AX,-20.15,0.62,2.87,No
+1317,Wam Income Maximiser Limited,WMX.XA,-3.11,0.088,0.042,Yes
+1318,Liberty Financial Group Limited,LFG.XA,-9.03,0.261,0.145,Yes
+1319,Proteomics International Laboratories Ltd,PIQ.XA,-32.79,1.078,0.329,Yes
+1320,American Tungsten and Antimony Ltd,AT4.XA,-32.58,1.067,5.602,Yes
+1321,Boss Energy Limited,BOE.XA,-20.29,0.618,1.351,Yes
+1322,MB Gold Limited,MBG.AX,-23.88,0.741,2.988,Yes
+1323,Virgin Australia Holdings Limited,VGN.AX,-16.73,0.499,1.962,Yes
+1324,Structural Monitoring Systems Plc,SMN.AX,-12.96,0.376,1.471,Yes
+1325,Metal Powder Works Limited,MPW.AX,-29.93,0.949,5.748,Yes
+1326,Virgin Australia Holdings Limited,VGN.XA,-16.72,0.492,2.005,Yes
+1327,Elixinol Wellness Limited,EXL.XA,-20.25,0.606,2.599,Yes
+1328,Basin Energy Limited,BSN.AX,-28.88,0.906,0.411,No
+1329,West Coast Silver Limited,WCE.AX,-21.89,0.659,1.602,Yes
+1330,Westar Resources Limited,WSR.AX,-17.83,0.524,1.891,Yes
+1331,IML Concentrated Australian Share Fund (Quoted Managed Fund),IMLC.AX,-3.77,0.103,0.393,Yes
+1332,ACDC Metals Limited,ADC.AX,-19.33,0.567,0.28,Yes
+1333,Kalgoorlie Gold Mining Limited,KAL.XA,-26.82,0.813,0.368,No
+1334,Immutep Limited,IMM.AX,-34.41,1.094,7.215,Yes
+1335,Euro Manganese Inc.,EMN.AX,-24.9,0.746,1.918,Yes
+1336,Perpetual Equity Investment Company Limited,PIC.XA,-3.41,0.091,0.41,Yes
+1337,Invictus Energy Limited,IVZ.AX,-32.55,1.011,1.206,Yes
+1338,Solara Minerals Ltd,SLA.AX,-24.17,0.71,1.082,Yes
+1339,Green Technology Metals Limited,GT1.AX,-32.68,1.007,2.983,No
+1340,Sovereign Metals Limited,SVM.XA,-18.64,0.526,3.48,Yes
+1341,RMA Global Limited,RMY.XA,-37.88,1.193,5.856,Yes
+1342,Pro Medicus Limited,PME.XA,-26.98,0.788,0.491,No
+1343,Pro Medicus Limited,PME.AX,-27.36,0.798,0.544,No
+1344,Encounter Resources Limited,ENR.XA,-22.0,0.622,2.903,Yes
+1345,Sovereign Metals Limited,SVM.AX,-19.39,0.535,3.575,Yes
+1346,Boss Energy Limited,BOE.AX,-21.69,0.606,1.303,Yes
+1347,Euro Manganese Inc.,EMN.XA,-31.59,0.935,2.995,Yes
+1348,IDT Australia Limited,IDT.AX,-15.5,0.418,1.582,Yes
+1349,Peoplein Limited,PPE.AX,-12.44,0.327,0.057,Yes
+1350,Native Mineral Resources Holdings Limited,NMR.XA,-30.19,0.877,5.928,Yes
+1351,Redstone Resources Limited,RDS.AX,-18.37,0.498,2.06,Yes
+1352,hipages Group Holdings Limited,HPG.XA,-19.69,0.536,1.391,Yes
+1353,Bisalloy Steel Group Limited,BIS.XA,-11.79,0.307,0.197,Yes
+1354,RareX Limited,REE.XA,-32.11,0.935,2.017,Yes
+1355,Prime Financial Group Limited,PFG.AX,-6.64,0.168,1.217,Yes
+1356,Proteomics International Laboratories Ltd,PIQ.AX,-35.08,1.038,0.562,Yes
+1357,Talisman Mining Limited,TLM.XA,-24.49,0.677,3.706,Yes
+1358,Ionic Rare Earths Limited,IXR.XA,-19.81,0.532,2.515,Yes
+1359,Cycliq Group Limited,CYQ.AX,-27.66,0.776,1.708,Yes
+1360,Acrow Limited,ACF.AX,-9.53,0.242,1.145,Yes
+1361,Credit Clear Limited,CCR.XA,-24.93,0.686,0.076,No
+1362,Desert Metals Limited,DM1.AX,-24.63,0.673,2.785,Yes
+1363,Verity Resources Limited,VRL.AX,-25.1,0.686,2.527,Yes
+1364,Western Ridge Resources Limited,WRX.AX,-24.75,0.675,0.904,Yes
+1365,CZR Resources Ltd,CZR.AX,-20.45,0.541,0.269,Yes
+1366,Terra Critical Minerals Limited,T92.AX,-29.39,0.819,0.973,Yes
+1367,Brambles Limited,BXB.XA,-15.17,0.389,1.002,Yes
+1368,Wrkr Ltd,WRK.XA,-22.66,0.603,1.984,Yes
+1369,Perenti Limited,PRN.XA,-13.18,0.333,0.314,Yes
+1370,Wrkr Ltd,WRK.AX,-22.89,0.607,1.733,Yes
+1371,Metal Powder Works Limited,MPW.XA,-32.43,0.909,4.847,Yes
+1372,Brambles Limited,BXB.AX,-15.32,0.389,1.072,Yes
+1373,Alphinity Global Equity - Active ETF (Managed Fund),XALG.AX,-5.71,0.138,0.401,Yes
+1374,Betashares Geared Long US Treasury Bond Currency Hedged Complex ETF,GGFD.AX,-6.67,0.162,0.76,Yes
+1375,Betr Entertainment Limited,BBT.XA,-17.79,0.455,2.657,Yes
+1376,hipages Group Holdings Limited,HPG.AX,-20.18,0.523,1.265,Yes
+1377,Talius Group Limited,TAL.AX,-23.59,0.623,1.902,Yes
+1378,Spheria Emerging Companies Limited,SEC.AX,-6.83,0.165,0.966,Yes
+1379,The GPT Group,GPT.AX,-7.63,0.184,0.691,Yes
+1380,Wellnex Life Limited,WNX.AX,-38.82,1.116,2.656,Yes
+1381,Elders Limited,ELD.AX,-12.18,0.299,0.026,No
+1382,Encounter Resources Limited,ENR.AX,-23.7,0.615,2.918,Yes
+1383,Straker Limited,STG.AX,-16.98,0.423,2.008,Yes
+1384,Cromwell Property Group,CMW.AX,-10.45,0.251,0.955,Yes
+1385,Hearts and Minds Investments Limited,HM1.AX,-5.82,0.137,0.308,Yes
+1386,Infini Resources Limited,I88.XA,-33.55,0.915,0.934,Yes
+1387,Osmond Resources Limited,OSM.AX,-24.98,0.643,1.62,Yes
+1388,Perenti Limited,PRN.AX,-13.83,0.334,0.322,Yes
+1389,Equatorial Resources Limited,EQX.AX,-22.93,0.582,1.555,Yes
+1390,Northern Minerals Limited,NTU.AX,-21.69,0.547,2.422,Yes
+1391,Dateline Resources Limited,DTR.XA,-42.2,1.209,3.954,Yes
+1392,Bisalloy Steel Group Limited,BIS.AX,-13.05,0.313,0.26,Yes
+1393,EMVision Medical Devices Ltd,EMV.XA,-11.54,0.274,1.044,Yes
+1394,Kalgoorlie Gold Mining Limited,KAL.AX,-30.47,0.803,0.996,No
+1395,Black Rock Mining Limited,BKT.XA,-19.6,0.484,2.352,Yes
+1396,Resource Base Limited,RBX.AX,-28.15,0.726,1.037,Yes
+1397,NewPeak Metals Limited,NPM.XA,-41.7,1.173,3.005,Yes
+1398,Wesfarmers Limited,WES.AX,-11.01,0.258,0.645,Yes
+1399,Peninsula Energy Limited,PEN.XA,-31.46,0.822,0.919,Yes
+1400,Elders Limited,ELD.XA,-12.67,0.296,0.02,Yes
+1401,The GPT Group,GPT.XA,-7.68,0.173,0.626,Yes
+1402,Xref Limited,XF1.AX,-39.4,1.061,1.669,Yes
+1403,Treasury Wine Estates Limited,TWE.AX,-17.73,0.418,1.486,Yes
+1404,BNK Banking Corporation Limited,BBC.AX,-8.02,0.179,0.94,Yes
+1405,Spheria Emerging Companies Limited,SEC.XA,-7.48,0.166,1.061,Yes
+1406,Galileo Mining Ltd,GAL.AX,-31.89,0.801,3.842,Yes
+1407,Servcorp Limited,SRV.AX,-10.87,0.241,1.146,Yes
+1408,Cavalier Resources Ltd,CVR.AX,-21.08,0.493,0.911,Yes
+1409,Acrow Limited,ACF.XA,-10.46,0.231,1.108,Yes
+1410,Tribune Resources Limited,TBR.AX,-14.32,0.322,0.952,Yes
+1411,Servcorp Limited,SRV.XA,-10.36,0.229,1.031,Yes
+1412,Australian Gold and Copper Limited,AGC.XA,-25.34,0.605,2.155,Yes
+1413,Treasury Wine Estates Limited,TWE.XA,-18.15,0.412,1.462,Yes
+1414,Accelerate Resources Limited,AX8.XA,-24.29,0.57,1.599,Yes
+1415,Clarity Pharmaceuticals Ltd,CU6.XA,-26.63,0.633,2.35,Yes
+1416,Vinva Global Alpha Fund - Active ETF,V1AC.AX,-5.62,0.118,0.442,Yes
+1417,Turnstone Resources Ltd,TSR.AX,-37.68,0.949,4.375,Yes
+1418,MRG Metals Ltd,MRQ.XA,-39.99,1.021,,
+1419,EQT Holdings Limited,EQT.AX,-14.63,0.319,0.315,No
+1420,Viva Leisure Limited,VVA.AX,-13.08,0.283,0.717,Yes
+1421,AUCyber Limited,CYB.AX,-32.54,0.786,0.695,Yes
+1422,Chariot Resources Ltd,CC9.AX,-37.04,0.92,1.797,Yes
+1423,Conrad Asia Energy Ltd.,CRD.AX,-15.46,0.337,0.959,Yes
+1424,Pharmx Technologies Limited,PHX.AX,-22.29,0.502,0.002,Yes
+1425,SenSen Networks Limited,SNS.AX,-35.58,0.864,1.423,Yes
+1426,Harmoney Corp Limited,HMY.AX,-14.07,0.301,1.393,Yes
+1427,NewPeak Metals Limited,NPM.AX,-29.2,0.681,2.665,Yes
+1428,Clarity Pharmaceuticals Ltd,CU6.AX,-27.1,0.621,2.392,Yes
+1429,Montaka Global Extension Fund (Quoted Managed Hedge Fund),MKAX.AX,-16.03,0.341,0.622,Yes
+1430,Prairie Lithium Limited,PL9.AX,-12.69,0.266,0.103,No
+1431,First Graphene Limited,FGR.XA,-27.76,0.631,2.226,Yes
+1432,Black Rock Mining Limited,BKT.AX,-23.22,0.513,2.013,Yes
+1433,EQT Holdings Limited,EQT.XA,-15.34,0.324,0.401,No
+1434,Clever Culture Systems Limited,CC5.XA,-16.75,0.356,1.501,No
+1435,Condor Energy Limited,CND.AX,-23.96,0.527,0.441,Yes
+1436,Freelancer Limited,FLN.AX,-29.7,0.676,1.364,Yes
+1437,Valiant Gold Limited,VAL.XA,-27.22,0.607,4.485,Yes
+1438,RareX Limited,REE.AX,-37.87,0.901,1.488,Yes
+1439,GWA Group Limited,GWA.XA,-11.75,0.239,0.798,Yes
+1440,Koba Resources Limited,KOB.XA,-35.44,0.825,2.253,Yes
+1441,Eastern Resources Limited,EFE.XA,-26.62,0.585,5.778,Yes
+1442,GWA Group Limited,GWA.AX,-12.1,0.245,0.798,Yes
+1443,Infragreen Group Limited,IFN.AX,-31.59,0.713,1.235,Yes
+1444,Cassius Mining Limited,CMD.AX,-33.74,0.77,2.104,No
+1445,Cromwell Property Group,CMW.XA,-12.14,0.245,0.899,Yes
+1446,FBR Limited,FBR.AX,-32.16,0.723,1.832,Yes
+1447,Metal Bank Limited,MBK.AX,-29.92,0.662,1.295,Yes
+1448,Janison Education Group Limited,JAN.AX,-32.02,0.715,2.983,Yes
+1449,AVA Risk Group Limited,AVA.AX,-30.65,0.677,0.535,Yes
+1450,La Trobe Private Credit Fund,LF1.AX,-4.07,0.078,0.292,Yes
+1451,Peninsula Energy Limited,PEN.AX,-34.25,0.767,0.622,Yes
+1452,Megado Minerals Limited,MEG.AX,-33.58,0.745,4.506,Yes
+1453,Challenger Gold Limited,CEL.AX,-24.99,0.524,2.142,Yes
+1454,3P Learning Limited,3PL.AX,-28.34,0.606,3.204,Yes
+1455,Betr Entertainment Limited,BBT.AX,-20.71,0.423,2.3,Yes
+1456,Beach Energy Limited,BPT.AX,-18.52,0.372,1.765,No
+1457,Horseshoe Metals Limited,HOR.XA,-36.96,0.828,2.816,Yes
+1458,dorsaVi Ltd,DVL.AX,-34.58,0.762,0.909,Yes
+1459,Future Metals NL,FME.XA,-27.83,0.588,0.599,Yes
+1460,AML3D Limited,AL3.AX,-33.81,0.74,3.333,No
+1461,CZR Resources Ltd,CZR.XA,-25.03,0.519,0.134,Yes
+1462,Mandrake Resources Limited,MAN.AX,-12.47,0.237,0.944,Yes
+1463,IperionX Limited,IPX.AX,-41.94,0.95,4.881,Yes
+1464,MEC Resources Limited,MMR.AX,-34.87,0.751,1.004,Yes
+1465,PolyNovo Limited,PNV.XA,-24.09,0.48,0.389,Yes
+1466,Pure One Corporation Limited,P1E.XA,-22.15,0.437,2.308,Yes
+1467,Vulcan Steel Limited,VSL.AX,-17.18,0.329,2.316,Yes
+1468,Shine Justice Ltd,SHJ.XA,-11.15,0.207,0.206,No
+1469,Beach Energy Limited,BPT.XA,-19.15,0.37,1.737,No
+1470,Strategic Elements Ltd,SOR.AX,-22.63,0.442,1.687,Yes
+1471,MaxiPARTS Limited,MXI.AX,-17.23,0.326,0.153,No
+1472,Manhattan Gold Corporation Limited,MHC.XA,-22.95,0.449,2.514,Yes
+1473,Energy Action Limited,EAX.AX,-19.76,0.379,0.635,No
+1474,IperionX Limited,IPX.XA,-42.26,0.929,4.878,Yes
+1475,City Chic Collective Limited,CCX.AX,-33.69,0.698,1.027,Yes
+1476,Amplitude Energy Limited,AEL.XA,-27.38,0.544,2.452,Yes
+1477,Cluey Ltd,CLU.AX,-61.63,1.572,1.075,Yes
+1478,Super Retail Group Limited,SUL.AX,-14.05,0.256,1.186,Yes
+1479,PolyNovo Limited,PNV.AX,-24.22,0.467,0.228,Yes
+1480,Middle Island Resources Limited,MDI.XA,-47.36,1.064,5.422,Yes
+1481,AJ Lucas Group Limited,AJL.AX,-28.99,0.572,3.885,No
+1482,Amplitude Energy Limited,AEL.AX,-27.9,0.545,2.338,Yes
+1483,Spark New Zealand Limited,SPK.XA,-10.14,0.18,0.842,Yes
+1484,Nelson Resources Limited,NES.AX,-37.76,0.782,2.706,Yes
+1485,PlaySide Studios Limited,PLY.AX,-31.95,0.63,2.245,Yes
+1486,Western Mines Group Ltd,WMG.XA,-32.21,0.635,2.273,Yes
+1487,Valiant Gold Limited,VAL.AX,-29.0,0.56,7.979,Yes
+1488,Core Energy Minerals Ltd,CR3.AX,-33.23,0.657,1.92,Yes
+1489,Orora Limited,ORA.AX,-21.72,0.4,0.285,Yes
+1490,Underwood Capital Limited,UWC.AX,-16.17,0.287,1.219,Yes
+1491,DroneShield Limited,DRO.XA,-44.56,0.942,1.243,Yes
+1492,Waypoint REIT,WPR.AX,-8.27,0.141,0.655,Yes
+1493,Eagle Mountain Mining Limited,EM2.AX,-28.98,0.549,0.407,Yes
+1494,White Cliff Minerals Limited,WCN.AX,-19.83,0.356,1.978,Yes
+1495,RLF AgTech Ltd,RLF.XA,-27.77,0.518,2.466,No
+1496,Dart Mining NL,DTM.AX,-47.15,1.002,0.007,No
+1497,Meridian Energy Limited,MEZ.XA,-7.14,0.119,0.138,Yes
+1498,DroneShield Limited,DRO.AX,-45.5,0.945,1.29,Yes
+1499,Axel REE Limited,AXL.XA,-25.95,0.471,,
+1500,Bentley Capital Limited,BEL.AX,-38.76,0.76,3.034,Yes
+1501,Meeka Metals Limited,MEK.XA,-35.61,0.682,0.801,Yes
+1502,XRF Scientific Limited,XRF.XA,-16.9,0.289,0.41,Yes
+1503,REA Group Limited,REA.AX,-19.58,0.339,0.748,Yes
+1504,Kingsland Minerals Ltd,KNG.AX,-47.23,0.974,1.192,Yes
+1505,Global X Ultra Short Nasdaq100 Complex ETF,SNAS.AX,-29.11,0.529,2.24,No
+1506,Empire Resources Limited,ERL.XA,-54.02,1.174,4.078,Yes
+1507,Integral Diagnostics Limited,IDX.XA,-12.93,0.214,0.208,No
+1508,Aurora Energy Metals Limited,1AE.AX,-41.25,0.808,1.456,Yes
+1509,Australian Gold and Copper Limited,AGC.AX,-28.74,0.519,2.293,Yes
+1510,Champion Iron Limited,CIA.XA,-19.68,0.337,0.9,No
+1511,HUB24 Limited,HUB.XA,-21.33,0.369,1.687,Yes
+1512,Haranga Resources Limited,HAR.XA,-37.68,0.718,1.754,Yes
+1513,Diablo Resources Limited,DBO.AX,-38.2,0.73,2.368,Yes
+1514,Super Retail Group Limited,SUL.XA,-15.28,0.255,1.198,Yes
+1515,Cambium Bio Limited,CMB.AX,-23.34,0.406,1.589,Yes
+1516,Orora Limited,ORA.XA,-22.28,0.386,0.29,Yes
+1517,Osmond Resources Limited,OSM.XA,-39.12,0.751,1.484,Yes
+1518,The Lottery Corporation Limited,TLC.XA,-11.02,0.179,0.378,Yes
+1519,Integral Diagnostics Limited,IDX.AX,-12.76,0.209,0.075,No
+1520,Inghams Group Limited,ING.AX,-16.56,0.277,0.472,No
+1521,Meeka Metals Limited,MEK.AX,-35.64,0.666,0.673,Yes
+1522,Janison Education Group Limited,JAN.XA,-36.96,0.694,3.231,Yes
+1523,Beetaloo Energy Australia Limited,BTL.XA,-23.48,0.405,1.93,No
+1524,Vital Metals Limited,VML.XA,-26.99,0.475,1.113,Yes
+1525,HUB24 Limited,HUB.AX,-21.6,0.368,1.717,Yes
+1526,Patronus Resources Limited,PTN.XA,-31.15,0.56,1.927,Yes
+1527,Spark New Zealand Limited,SPK.AX,-11.11,0.178,0.856,Yes
+1528,Biotron Limited,BIT.XA,-45.26,0.884,3.617,Yes
+1529,Santana Minerals Limited,SMI.XA,-29.43,0.515,1.338,Yes
+1530,Venari Minerals NL,VMS.AX,-46.01,0.9,2.45,Yes
+1531,Garda Property Group,GDF.XA,-7.27,0.113,0.292,Yes
+1532,Nodestream Ltd,NS1.XA,-46.8,0.918,2.042,Yes
+1533,Beetaloo Energy Australia Limited,BTL.AX,-23.42,0.393,2.026,No
+1534,Star Combo Pharma Limited,S66.AX,-31.31,0.548,1.091,No
+1535,Mammoth Minerals Limited,M79.AX,-53.68,1.1,3.757,Yes
+1536,XRF Scientific Limited,XRF.AX,-18.09,0.292,0.406,Yes
+1537,Bailador Technology Investments Limited,BTI.AX,-12.94,0.203,1.15,Yes
+1538,Mt Malcolm Mines NL,M2M.AX,-48.21,0.941,2.162,Yes
+1539,Condor Energy Limited,CND.XA,-19.35,0.313,0.143,Yes
+1540,REA Group Limited,REA.XA,-20.38,0.331,0.722,Yes
+1541,RBR Group Limited,RBR.AX,-39.9,0.731,2.631,Yes
+1542,Australian Unity Limited,AYUPA.AX,-15.39,0.243,0.807,Yes
+1543,DEXUS,DXS.AX,-13.97,0.218,1.195,Yes
+1544,Champion Iron Limited,CIA.AX,-20.75,0.334,0.887,No
+1545,Aureka Limited,AKA.XA,-24.95,0.409,1.443,Yes
+1546,Nodestream Ltd,NS1.AX,-47.59,0.907,2.337,Yes
+1547,The Lottery Corporation Limited,TLC.AX,-12.11,0.185,0.369,Yes
+1548,Rokeby Resources Limited,RKB.AX,-40.21,0.722,0.542,Yes
+1549,Western Gold Resources Limited,WGR.XA,-32.56,0.554,2.251,Yes
+1550,Meridian Energy Limited,MEZ.AX,-7.1,0.105,0.222,No
+1551,Pure One Corporation Limited,P1E.AX,-35.56,0.615,2.202,Yes
+1552,Gratifii Limited,GTI.AX,-54.19,1.076,2.397,Yes
+1553,Garda Property Group,GDF.AX,-8.28,0.123,0.192,Yes
+1554,NTAW Holdings Limited,NTD.XA,-12.06,0.181,,
+1555,Minbos Resources Limited,MNB.AX,-53.45,1.047,7.522,No
+1556,Provaris Energy Ltd,PV1.XA,-47.94,0.897,4.411,Yes
+1557,PTR Minerals Ltd,PTR.XA,-50.0,0.95,5.377,Yes
+1558,Accent Group Limited,AX1.AX,-35.31,0.603,3.949,Yes
+1559,GrainCorp Limited,GNC.AX,-24.16,0.385,0.815,No
+1560,Inghams Group Limited,ING.XA,-17.7,0.272,0.365,No
+1561,Yojee Limited,YOJ.XA,-39.57,0.693,1.54,Yes
+1562,Santana Minerals Limited,SMI.AX,-30.68,0.507,1.375,Yes
+1563,SQX Resources Limited,SQX.XA,-49.91,0.938,6.388,Yes
+1564,Middle Island Resources Limited,MDI.AX,-50.29,0.945,4.821,Yes
+1565,Alpha HPA Limited,A4N.AX,-28.23,0.455,1.054,Yes
+1566,Waypoint REIT,WPR.XA,-9.37,0.136,0.58,Yes
+1567,Firebrick Pharma Limited,FRE.AX,-38.59,0.661,1.518,No
+1568,GrainCorp Limited,GNC.XA,-24.1,0.377,0.802,No
+1569,Loomis Sayles Global Equity Quoted Managed Fund,LSGE.AX,-11.96,0.175,0.511,Yes
+1570,Thorney Opportunities Ltd,TOP.AX,-13.17,0.193,1.453,Yes
+1571,COG Financial Services Limited,COG.XA,-24.07,0.372,0.831,Yes
+1572,Genetic Signatures Limited,GSS.AX,-50.59,0.934,0.201,No
+1573,Eastern Resources Limited,EFE.AX,-22.13,0.336,1.969,Yes
+1574,Codeifai Limited,CDE.AX,-54.74,1.038,3.396,Yes
+1575,DEXUS,DXS.XA,-13.88,0.201,1.146,Yes
+1576,Ricegrowers Limited,SGLLV.AX,-21.57,0.325,1.172,No
+1577,ReNerve Limited,RNV.AX,-32.58,0.523,1.603,Yes
+1578,Healius Limited,HLS.XA,-35.74,0.585,0.023,Yes
+1579,Healius Limited,HLS.AX,-35.79,0.584,0.011,No
+1580,Elixinol Wellness Limited,EXL.AX,-35.48,0.577,2.363,Yes
+1581,Accent Group Limited,AX1.XA,-35.87,0.583,3.74,Yes
+1582,Blaze Minerals Limited,BLZ.XA,-57.84,1.102,0.685,No
+1583,PTR Minerals Ltd,PTR.AX,-47.63,0.831,4.641,Yes
+1584,Atomo Diagnostics Limited,AT1.AX,-33.85,0.536,1.116,Yes
+1585,Glennon Small Companies Ltd,GC1.AX,-15.49,0.221,0.729,Yes
+1586,Betashares Strong US Dollar Complex ETF,YANK.AX,-15.96,0.228,1.359,No
+1587,ReadCloud Limited,RCL.AX,-28.85,0.441,1.252,Yes
+1588,North Stawell Minerals Limited,NSM.AX,-28.93,0.442,1.42,Yes
+1589,Way 2 Vat Ltd,W2V.XA,-34.96,0.554,0.154,No
+1590,Siren Gold Limited,SNG.AX,-40.28,0.659,1.416,Yes
+1591,COG Financial Services Limited,COG.AX,-24.88,0.369,0.699,Yes
+1592,Quantum Graphite Limited,QGL.XA,-26.4,0.395,0.056,Yes
+1593,Holista Colltech Limited,HCT.AX,-40.43,0.661,0.066,Yes
+1594,Austin Engineering Limited,ANG.AX,-36.95,0.587,1.968,Yes
+1595,RemSense Technologies Limited,REM.AX,-35.14,0.549,0.563,No
+1596,Titomic Limited,TTT.AX,-32.71,0.503,0.558,No
+1597,Thorney Technologies Ltd,TEK.AX,-18.29,0.258,0.857,Yes
+1598,Cynata Therapeutics Limited,CYP.AX,-59.69,1.125,1.047,Yes
+1599,Dome Gold Mines Ltd,DME.AX,-57.27,1.055,0.539,Yes
+1600,HiTech Group Australia Limited,HIT.XA,-11.45,0.155,0.204,No
+1601,Emyria Limited,EMD.XA,-22.12,0.317,0.484,Yes
+1602,Ricegrowers Limited,SGLLV.XA,-22.09,0.317,1.103,No
+1603,Aldoro Resources Limited,ARN.XA,-37.16,0.583,0.228,Yes
+1604,Identitii Limited,ID8.AX,-48.43,0.821,2.21,Yes
+1605,Patronus Resources Limited,PTN.AX,-33.42,0.507,1.986,Yes
+1606,West Cobar Metals Limited,WC1.XA,-49.32,0.835,1.949,Yes
+1607,Metcash Limited,MTS.XA,-17.31,0.238,0.837,Yes
+1608,Avira Resources Limited,AVW.AX,-38.26,0.597,4.545,Yes
+1609,Quantum Graphite Limited,QGL.AX,-28.93,0.425,0.148,Yes
+1610,Dimerix Limited,DXB.AX,-38.36,0.595,2.604,Yes
+1611,Basin Energy Limited,BSN.XA,-46.9,0.773,0.154,No
+1612,Bailador Technology Investments Limited,BTI.XA,-15.59,0.211,1.114,Yes
+1613,HITIQ Limited,HIQ.XA,-62.82,1.185,13.797,No
+1614,Talisman Mining Limited,TLM.AX,-41.9,0.663,3.554,Yes
+1615,West Coast Silver Limited,WCE.XA,-40.71,0.638,1.35,Yes
+1616,SOCO Corporation Ltd,SOC.AX,-28.1,0.405,0.972,Yes
+1617,Alfabs Australia Limited,AAL.AX,-37.04,0.563,0.052,Yes
+1618,Triton Minerals Limited,TON.AX,-46.16,0.747,1.283,Yes
+1619,Claremont Global Fund (Managed Fund),CGUN.AX,-9.26,0.119,0.047,Yes
+1620,Judo Capital Holdings Limited,JDO.XA,-35.34,0.526,2.185,Yes
+1621,Cochlear Limited,COH.XA,-41.61,0.647,0.32,No
+1622,Pointerra Limited,3DP.XA,-35.0,0.52,3.016,Yes
+1623,Metcash Limited,MTS.AX,-17.53,0.234,0.842,Yes
+1624,Aura Energy Limited,AEE.AX,-47.1,0.758,1.431,Yes
+1625,Carma Limited,CMA.AX,-45.23,0.717,1.13,Yes
+1626,Frontier Energy Limited,FHE.AX,-27.35,0.385,0.226,No
+1627,Betashares Geared Long Australian Government Bond Complex ETF,GGAB.AX,-10.42,0.133,0.598,Yes
+1628,New Frontier Minerals Limited,NFM.XA,-55.49,0.952,2.454,Yes
+1629,Hyterra Ltd,HYT.XA,-24.44,0.336,0.243,Yes
+1630,ResMed Inc.,RMD.XA,-17.36,0.229,0.786,Yes
+1631,Merino & Co. Limited,MNC.AX,-34.67,0.506,0.224,Yes
+1632,SQX Resources Limited,SQX.AX,-50.39,0.823,0.465,Yes
+1633,Coventry Group Ltd,CYG.AX,-30.87,0.438,1.358,Yes
+1634,Austin Engineering Limited,ANG.XA,-38.27,0.57,2.079,Yes
+1635,GTN Limited,GTN.XA,-31.39,0.446,1.752,No
+1636,Judo Capital Holdings Limited,JDO.AX,-35.51,0.518,2.097,Yes
+1637,DeSoto Resources Limited,DES.XA,-29.92,0.421,0.74,Yes
+1638,Austco Healthcare Limited,AHC.AX,-26.94,0.372,0.035,No
+1639,Vulcan Steel Limited,VSL.XA,-20.61,0.274,1.869,Yes
+1640,Frontier Energy Limited,FHE.XA,-27.43,0.379,0.133,No
+1641,Group One Capital Limited,G1C.AX,-45.62,0.711,2.1,Yes
+1642,Mithril Silver and Gold Limited,MTH.AX,-49.42,0.792,0.687,Yes
+1643,SGH Limited,SGH.XA,-19.19,0.252,0.896,Yes
+1644,Atlas Pearls Limited,ATP.XA,-35.97,0.521,0.229,No
+1645,RAS Technology Holdings Limited,RTH.AX,-32.57,0.461,0.757,Yes
+1646,Desane Group Holdings Limited,DGH.AX,-16.63,0.214,0.701,Yes
+1647,Dimerix Limited,DXB.XA,-39.55,0.583,2.414,Yes
+1648,Titomic Limited,TTT.XA,-38.23,0.559,0.751,No
+1649,ClearVue Technologies Limited,CPV.AX,-49.14,0.773,0.037,Yes
+1650,Tartana Minerals Limited,TAT.AX,-40.03,0.588,2.139,No
+1651,Acrux Limited,ACR.AX,-23.39,0.309,0.434,Yes
+1652,Cochlear Limited,COH.AX,-42.47,0.632,0.371,No
+1653,ClearVue Technologies Limited,CPV.XA,-49.61,0.779,0.295,No
+1654,ioneer Ltd,INR.AX,-30.11,0.412,0.58,Yes
+1655,Tinybeans Group Limited,TNY.AX,-32.54,0.449,1.438,Yes
+1656,SGH Limited,SGH.AX,-19.46,0.249,0.926,Yes
+1657,Mithril Silver and Gold Limited,MTH.XA,-49.8,0.777,0.685,Yes
+1658,Strickland Metals Limited,STK.AX,-41.7,0.611,1.466,Yes
+1659,Palisade Metals Ltd,PM1.AX,-60.86,1.045,1.278,Yes
+1660,Sarytogan Graphite Limited,SGA.AX,-31.43,0.43,0.64,Yes
+1661,ioneer Ltd,INR.XA,-29.38,0.396,0.23,Yes
+1662,Urbanise.com Limited,UBN.AX,-9.7,0.117,0.553,Yes
+1663,Cadoux Limited,CCM.AX,-38.57,0.549,0.957,No
+1664,Alpha HPA Limited,A4N.XA,-32.39,0.442,0.851,Yes
+1665,Hejaz Sukuk Active ETF Class A,SKUK.AX,-5.3,0.062,0.138,Yes
+1666,WAM Global Limited,WGB.AX,-10.97,0.133,0.814,Yes
+1667,Metrics Income Opportunities Trust,MOT.XA,-10.19,0.122,0.595,Yes
+1668,Prominence Energy Ltd,PRM.AX,-42.78,0.624,0.59,No
+1669,Lodestar Minerals Limited,LSR.AX,-57.9,0.954,3.173,No
+1670,Tolu Minerals Limited,TOK.XA,-25.89,0.337,9.682,Yes
+1671,Dexus Industria REIT,DXI.XA,-13.33,0.161,0.978,Yes
+1672,Big River Industries Limited,BRI.XA,-16.25,0.199,0.705,Yes
+1673,Eminence Minerals Limited,EMA.AX,-40.69,0.577,0.509,Yes
+1674,Pointerra Limited,3DP.AX,-36.01,0.492,3.057,Yes
+1675,Emyria Limited,EMD.AX,-23.76,0.301,0.418,Yes
+1676,Adavale Resources Limited,ADD.XA,-36.72,0.504,2.793,Yes
+1677,Brockman Mining Limited,BCK.AX,-37.51,0.516,0.481,Yes
+1678,SportsHero Limited,SHO.XA,-62.09,1.04,2.549,Yes
+1679,Galileo Mining Ltd,GAL.XA,-51.39,0.781,3.286,Yes
+1680,EVE Health Group Limited,EVE.AX,-47.13,0.687,0.521,Yes
+1681,Vertex Minerals Limited,VTX.AX,-52.3,0.794,1.173,Yes
+1682,Strickland Metals Limited,STK.XA,-42.66,0.601,1.239,Yes
+1683,Pantoro Gold Limited,PNR.AX,-46.8,0.679,3.575,Yes
+1684,Green & Gold Minerals Limited,GG1.AX,-38.43,0.525,3.301,Yes
+1685,Syrah Resources Limited,SYR.XA,-47.72,0.696,3.493,Yes
+1686,Koonenberry Gold Limited,KNB.AX,-35.92,0.48,0.851,Yes
+1687,Vertex Minerals Limited,VTX.XA,-52.44,0.792,1.311,Yes
+1688,Cazaly Resources Limited,CAZ.XA,-45.51,0.65,3.459,Yes
+1689,Lovisa Holdings Limited,LOV.XA,-27.21,0.343,0.732,Yes
+1690,Syrah Resources Limited,SYR.AX,-47.38,0.683,3.369,Yes
+1691,Racura Oncology Ltd,RAC.XA,-29.53,0.376,0.693,Yes
+1692,Entropy Neurodynamics Limited,ENP.XA,-26.64,0.334,6.719,Yes
+1693,New Frontier Minerals Limited,NFM.AX,-54.35,0.827,2.474,Yes
+1694,Mirvac Group,MGR.AX,-15.62,0.183,1.366,Yes
+1695,Income Asset Management Group Limited,IAM.AX,-43.55,0.607,2.203,Yes
+1696,Yojee Limited,YOJ.AX,-43.32,0.602,0.888,Yes
+1697,Askari Metals Limited,AS2.XA,-57.61,0.898,3.093,Yes
+1698,ResMed Inc.,RMD.AX,-18.58,0.221,0.751,Yes
+1699,Palisade Metals Ltd,PM1.XA,-66.74,1.139,2.256,Yes
+1700,Lovisa Holdings Limited,LOV.AX,-27.54,0.344,0.659,Yes
+1701,Gentrack Group Limited,GTK.AX,-47.6,0.679,0.457,Yes
+1702,Dexus Industria REIT,DXI.AX,-13.42,0.154,0.917,Yes
+1703,Infinity Metals Limited,INF.XA,-58.83,0.921,4.388,Yes
+1704,Racura Oncology Ltd,RAC.AX,-29.64,0.373,0.299,Yes
+1705,ARC Funds Limited,ARC.AX,-39.23,0.525,2.58,Yes
+1706,Beamtree Holdings Limited,BMT.AX,-46.39,0.654,0.92,No
+1707,Rapid Critical Metals Limited,RCM.AX,-51.11,0.747,2.283,Yes
+1708,Gentrack Group Limited,GTK.XA,-47.64,0.675,0.577,Yes
+1709,Summerset Group Holdings Limited,SNZ.AX,-23.45,0.283,0.214,Yes
+1710,ADX Energy Ltd,ADX.AX,-41.75,0.564,1.522,Yes
+1711,Infinity Metals Limited,INF.AX,-45.91,0.637,0.061,Yes
+1712,Austco Healthcare Limited,AHC.XA,-29.24,0.362,0.207,No
+1713,Worley Limited,WOR.XA,-23.99,0.287,0.404,No
+1714,Nine Entertainment Co. Holdings Limited,NEC.XA,-16.23,0.185,0.681,Yes
+1715,Siren Gold Limited,SNG.XA,-48.0,0.67,1.13,Yes
+1716,Jumbo Interactive Limited,JIN.AX,-28.98,0.354,1.709,Yes
+1717,Aussie Broadband Limited,ABB.AX,-24.04,0.285,1.078,Yes
+1718,NextEd Group Limited,NXD.AX,-49.03,0.686,0.168,Yes
+1719,Visionflex Group Limited,VFX.AX,-53.97,0.786,0.385,No
+1720,Terramin Australia Limited,TZN.AX,-45.75,0.622,0.419,No
+1721,Embark Early Education Limited,EVO.AX,-27.19,0.327,1.844,Yes
+1722,Aussie Broadband Limited,ABB.XA,-23.8,0.28,1.066,Yes
+1723,CONNEQT Health Limited,CQT.AX,-49.7,0.692,2.518,No
+1724,IODM Limited,IOD.XA,-59.39,0.9,3.746,Yes
+1725,Jindalee Lithium Limited,JLL.AX,-39.47,0.509,1.662,Yes
+1726,Jumbo Interactive Limited,JIN.XA,-29.0,0.349,1.766,Yes
+1727,5G Networks Limited,5GN.XA,-52.62,0.747,0.319,Yes
+1728,Charter Hall Long WALE REIT,CLW.AX,-16.34,0.183,0.799,Yes
+1729,WAM Microcap Limited,WMI.AX,-13.06,0.143,0.671,Yes
+1730,Provaris Energy Ltd,PV1.AX,-47.91,0.652,1.815,Yes
+1731,Beacon Lighting Group Limited,BLX.XA,-35.73,0.445,1.401,Yes
+1732,HITIQ Limited,HIQ.AX,-61.69,0.942,4.947,No
+1733,Sunstone Metals Limited,STM.XA,-47.2,0.634,0.468,No
+1734,Collins Foods Limited,CKF.AX,-21.8,0.248,0.443,Yes
+1735,ReNerve Limited,RNV.XA,-37.52,0.469,1.762,Yes
+1736,Kinetiko Energy Limited,KKO.AX,-40.05,0.509,0.131,No
+1737,Omni Bridgeway Limited,OBL.AX,-14.88,0.162,0.095,Yes
+1738,Nimy Resources Limited,NIM.AX,-31.97,0.384,1.169,Yes
+1739,Athena Resources Limited,AHN.AX,-49.87,0.678,2.026,Yes
+1740,Chalice Mining Limited,CHN.AX,-42.22,0.541,2.391,Yes
+1741,Collins Foods Limited,CKF.XA,-21.82,0.246,0.363,Yes
+1742,Worley Limited,WOR.AX,-24.72,0.283,0.353,No
+1743,CAR Group Limited,CAR.AX,-22.96,0.26,0.996,Yes
+1744,AMCIL Limited,AMH.AX,-11.17,0.118,0.27,Yes
+1745,Auravelle Metals Limited,AUV.XA,-53.59,0.747,0.231,Yes
+1746,Charter Hall Long WALE REIT,CLW.XA,-15.96,0.173,0.703,Yes
+1747,5G Networks Limited,5GN.AX,-53.45,0.738,0.459,Yes
+1748,Audinate Group Limited,AD8.XA,-44.69,0.575,0.424,Yes
+1749,Spenda Limited,SPX.XA,-54.35,0.752,3.552,Yes
+1750,Mirvac Group,MGR.XA,-16.19,0.173,1.241,Yes
+1751,Metals Australia Ltd,MLS.AX,-32.42,0.38,0.336,No
+1752,Rapid Critical Metals Limited,RCM.XA,-56.71,0.796,2.289,Yes
+1753,Briscoe Group Limited,BGP.AX,-29.58,0.34,1.687,No
+1754,Cann Group Limited,CAN.XA,-64.82,0.983,0.097,Yes
+1755,Growthpoint Properties Australia,GOZ.AX,-12.83,0.134,0.452,Yes
+1756,Nine Entertainment Co. Holdings Limited,NEC.AX,-16.66,0.177,0.61,Yes
+1757,Adherium Limited,ADR.AX,-58.68,0.834,0.187,No
+1758,Southern Cross Media Group Limited,SXL.AX,-31.11,0.359,1.024,Yes
+1759,EZZ Life Science Holdings Limited,EZZ.XA,-62.67,0.925,5.003,Yes
+1760,Lode Resources Ltd,LDR.AX,-48.91,0.638,1.156,Yes
+1761,Dateline Resources Limited,DTR.AX,-68.98,1.086,1.519,No
+1762,Southern Cross Media Group Limited,SXL.XA,-30.83,0.353,1.046,Yes
+1763,Superior Resources Limited,SPQ.XA,-51.26,0.678,0.681,Yes
+1764,Latitude Group Holdings Limited,LFS.AX,-14.28,0.149,0.55,No
+1765,Vanadium Resources Limited,VR8.AX,-55.93,0.768,4.117,Yes
+1766,Metrics Income Opportunities Trust,MOT.AX,-10.99,0.112,0.551,Yes
+1767,Whitefield Industrials Limited,WHF.AX,-8.56,0.086,0.486,Yes
+1768,Western Mines Group Ltd,WMG.AX,-40.04,0.484,2.068,Yes
+1769,RLF AgTech Ltd,RLF.AX,-48.71,0.627,2.656,No
+1770,Audinate Group Limited,AD8.AX,-45.23,0.564,0.381,Yes
+1771,Lithium Universe Limited,LU7.XA,-44.86,0.557,2.391,Yes
+1772,Pantoro Gold Limited,PNR.XA,-50.26,0.65,3.603,Yes
+1773,Nick Scali Limited,NCK.XA,-31.75,0.36,0.492,Yes
+1774,CD Private Equity Fund III,CD3.AX,-16.35,0.17,0.486,Yes
+1775,CAR Group Limited,CAR.XA,-23.4,0.252,0.946,Yes
+1776,Chalice Mining Limited,CHN.XA,-43.0,0.524,2.323,Yes
+1777,Beacon Lighting Group Limited,BLX.AX,-37.22,0.435,1.371,Yes
+1778,Embark Early Education Limited,EVO.XA,-27.95,0.307,1.816,Yes
+1779,Podium Minerals Limited,POD.XA,-52.07,0.676,2.827,Yes
+1780,Raiden Resources Limited,RDN.AX,-37.08,0.431,0.186,No
+1781,Nick Scali Limited,NCK.AX,-32.11,0.361,0.396,Yes
+1782,Experience Co Limited,EXP.AX,-36.62,0.423,0.343,Yes
+1783,Whitefield Industrials Limited,WHF.XA,-10.49,0.104,0.46,Yes
+1784,Legacy Iron Ore Limited,LCY.AX,-35.06,0.4,2.372,Yes
+1785,Growthpoint Properties Australia,GOZ.XA,-13.23,0.133,0.326,Yes
+1786,Netwealth Group Limited,NWL.AX,-25.38,0.272,1.753,Yes
+1787,Albright Metals Ltd,ABR.AX,-44.92,0.548,1.439,Yes
+1788,Sabre Resources Limited,SBR.AX,-42.07,0.5,0.083,Yes
+1789,Lakes Blue Energy NL,LKO.XA,-64.31,0.924,3.047,Yes
+1790,Fenix Resources Limited,FEX.XA,-39.38,0.459,2.558,Yes
+1791,Agrimin Limited,AMN.AX,-34.76,0.392,1.225,No
+1792,Sarama Resources Ltd,SRR.AX,-27.75,0.298,0.703,Yes
+1793,EZZ Life Science Holdings Limited,EZZ.AX,-63.57,0.9,4.826,Yes
+1794,Hawsons Iron Limited,HIO.XA,-32.18,0.354,0.595,Yes
+1795,Omni Bridgeway Limited,OBL.XA,-16.36,0.164,0.176,Yes
+1796,Bapcor Limited,BAP.XA,-67.33,0.987,0.835,Yes
+1797,Marimaca Copper Corp.,MC2.AX,-30.97,0.336,0.804,Yes
+1798,FMR Resources Limited,FMR.XA,-51.37,0.644,4.375,Yes
+1799,Octava Minerals Limited,OCT.XA,-62.28,0.858,8.565,Yes
+1800,Bounty Oil & Gas NL,BUY.AX,-68.22,1.001,2.361,Yes
+1801,AMA Group Limited,AMA.AX,-42.25,0.49,2.477,Yes
+1802,icetana Limited,ICE.XA,-50.49,0.624,,
+1803,Lakes Blue Energy NL,LKO.AX,-63.9,0.892,2.65,Yes
+1804,Magmatic Resources Limited,MAG.AX,-50.76,0.627,1.348,Yes
+1805,Prime Financial Group Limited,PFG.XA,-16.23,0.16,1.012,Yes
+1806,Mayfield Childcare Limited,MFD.AX,-58.05,0.761,1.59,Yes
+1807,Eclipse Metals Limited,EPM.XA,-45.53,0.537,0.953,No
+1808,MA Financial Group Limited,MAF.XA,-31.33,0.335,1.537,Yes
+1809,Netwealth Group Limited,NWL.XA,-25.62,0.263,1.694,Yes
+1810,Humm Group Limited,HUM.XA,-30.81,0.326,0.573,Yes
+1811,Bapcor Limited,BAP.AX,-67.69,0.969,0.93,Yes
+1812,Ophir Asset Management Pty Ltd - Ophir High Conviction Fund,OPH.AX,-19.27,0.191,0.486,Yes
+1813,Reckon Limited,RKN.AX,-24.02,0.244,0.591,Yes
+1814,Ophir Asset Management Pty Ltd - Ophir High Conviction Fund,OPH.XA,-19.63,0.194,0.471,Yes
+1815,MA Financial Group Limited,MAF.AX,-31.85,0.338,1.565,Yes
+1816,Livium Ltd,LIT.AX,-41.87,0.473,1.735,Yes
+1817,Vitura Health Limited,VIT.XA,-38.3,0.421,0.318,No
+1818,Red Sky Energy Limited,ROG.AX,-62.33,0.833,0.079,No
+1819,Hydrix Limited,HYD.AX,-72.94,1.093,3.745,Yes
+1820,Connexion Mobility Ltd,CXZ.AX,-15.75,0.15,0.198,No
+1821,FOS Capital Limited,FOS.AX,-50.79,0.607,1.629,Yes
+1822,Triton Minerals Limited,TON.XA,-61.34,0.804,0.691,Yes
+1823,Excite Technology Services Limited,EXT.XA,-37.65,0.407,0.179,No
+1824,Australian Agricultural Company Limited,AAC.XA,-9.65,0.088,0.096,Yes
+1825,Xamble Group Limited,XGL.AX,-43.54,0.487,0.337,Yes
+1826,Podium Minerals Limited,POD.AX,-53.58,0.646,2.906,Yes
+1827,Tyro Payments Limited,TYR.AX,-33.36,0.347,0.54,Yes
+1828,TZ Limited,TZL.AX,-30.94,0.316,0.607,No
+1829,Askari Metals Limited,AS2.AX,-53.13,0.636,2.071,Yes
+1830,Australian Vintage Ltd,AVG.AX,-42.66,0.47,1.117,Yes
+1831,Centuria Industrial REIT,CIP.AX,-13.33,0.123,0.784,Yes
+1832,3P Learning Limited,3PL.XA,-83.92,1.461,,
+1833,Future Metals NL,FME.AX,-55.95,0.681,2.001,Yes
+1834,Tyro Payments Limited,TYR.XA,-33.55,0.345,0.609,Yes
+1835,Myer Holdings Limited,MYR.AX,-51.33,0.6,0.029,No
+1836,Azzuro Resources PLC,AZ9.XA,-60.98,0.774,4.286,Yes
+1837,EPX Limited,EPX.XA,-53.72,0.636,4.224,Yes
+1838,Fenix Resources Limited,FEX.AX,-41.1,0.441,2.434,Yes
+1839,Cettire Limited,CTT.XA,-59.43,0.739,0.78,Yes
+1840,Iron Road Limited,IRD.AX,-69.13,0.951,0.826,Yes
+1841,Kingsrose Mining Limited,KRM.AX,-39.95,0.422,1.108,Yes
+1842,Magmatic Resources Limited,MAG.XA,-52.36,0.607,1.317,Yes
+1843,WA1 Resources Ltd,WA1.AX,-38.87,0.407,1.769,Yes
+1844,Southern Hemisphere Mining Limited,SUH.XA,-50.48,0.575,1.663,Yes
+1845,Invion Limited,IVX.XA,-72.89,1.04,31.459,Yes
+1846,WA1 Resources Ltd,WA1.XA,-38.76,0.402,1.735,Yes
+1847,Legacy Minerals Holdings Limited,LGM.AX,-52.39,0.601,3.183,Yes
+1848,Ingenia Communities Group,INA.XA,-30.43,0.298,0.933,Yes
+1849,Revolver Resources Holdings Ltd,RRR.XA,-46.94,0.515,3.492,No
+1850,Ai-Media Technologies Limited,AIM.XA,-61.05,0.755,1.402,Yes
+1851,Adore Beauty Group Limited,ABY.AX,-62.3,0.779,0.49,No
+1852,Australian Agricultural Company Limited,AAC.AX,-10.02,0.087,0.0,No
+1853,Carma Limited,CMA.XA,-66.44,0.863,15.417,No
+1854,Premier Investments Limited,PMV.AX,-34.75,0.346,0.072,Yes
+1855,Mt Malcolm Mines NL,M2M.XA,-65.96,0.851,3.265,Yes
+1856,SRJ Technologies Group Plc,SRJ.XA,-61.93,0.764,1.016,Yes
+1857,Premier Investments Limited,PMV.XA,-35.07,0.349,0.06,Yes
+1858,Battery Age Minerals Ltd,BM8.XA,-72.93,1.014,4.65,Yes
+1859,Sea Forest Limited,SEA.AX,-45.86,0.49,1.835,Yes
+1860,Centuria Industrial REIT,CIP.XA,-13.54,0.118,0.737,Yes
+1861,Impact Minerals Limited,IPT.AX,-45.49,0.48,1.387,Yes
+1862,WhiteHawk Limited,WHK.XA,-58.09,0.68,0.666,No
+1863,Centuria Capital Group,CNI.AX,-40.12,0.407,0.863,Yes
+1864,Western Gold Resources Limited,WGR.AX,-45.91,0.485,1.914,Yes
+1865,Nanoveu Limited,NVU.AX,-37.24,0.368,1.729,Yes
+1866,Duketon Mining Limited,DKM.AX,-36.92,0.364,0.446,No
+1867,Ingenia Communities Group,INA.AX,-30.76,0.291,0.938,Yes
+1868,Centuria Capital Group,CNI.XA,-40.22,0.404,0.758,Yes
+1869,MoneyMe Limited,MME.AX,-33.28,0.319,1.363,Yes
+1870,Ai-Media Technologies Limited,AIM.AX,-61.42,0.734,1.438,Yes
+1871,Impact Minerals Limited,IPT.XA,-44.2,0.456,1.443,Yes
+1872,Surefire Resources NL,SRN.XA,-62.19,0.747,0.311,No
+1873,Tuas Limited,TUA.XA,-59.56,0.694,0.016,No
+1874,Latitude Group Holdings Limited,LFS.XA,-14.94,0.128,0.496,No
+1875,WAM Global Limited,WGB.XA,-16.14,0.138,0.66,Yes
+1876,Tuas Limited,TUA.AX,-59.91,0.696,0.016,No
+1877,Vitasora Health Limited,VHL.XA,-55.05,0.61,1.667,Yes
+1878,Metals Australia Ltd,MLS.XA,-29.88,0.275,2.58,No
+1879,Dubber Corporation Limited,DUB.AX,-47.11,0.488,0.212,Yes
+1880,Spectur Limited,SP3.XA,-71.91,0.942,7.234,No
+1881,The Environmental Group Limited,EGL.XA,-27.89,0.251,1.338,Yes
+1882,SomnoMed Limited,SOM.XA,-31.01,0.284,0.768,Yes
+1883,NeuroScientific Biopharmaceuticals Limited,NSB.AX,-57.38,0.638,0.865,Yes
+1884,Lithium Universe Limited,LU7.AX,-53.63,0.575,3.138,Yes
+1885,ARN Media Limited,A1N.AX,-46.99,0.477,3.241,Yes
+1886,Amotiv Limited,AOV.XA,-24.06,0.21,0.757,Yes
+1887,Revolver Resources Holdings Ltd,RRR.AX,-38.61,0.368,0.519,Yes
+1888,Singular Health Group Ltd,SHG.AX,-30.74,0.278,0.587,Yes
+1889,Australian Critical Minerals Limited,ACM.AX,-57.01,0.626,2.205,Yes
+1890,Cettire Limited,CTT.AX,-61.3,0.701,0.544,Yes
+1891,ARN Media Limited,A1N.XA,-46.72,0.471,3.151,Yes
+1892,Myer Holdings Limited,MYR.XA,-52.09,0.548,0.203,No
+1893,Dart Mining NL,DTM.XA,-63.91,0.749,0.207,Yes
+1894,Metallium Limited,MTM.AX,-61.42,0.701,0.263,Yes
+1895,Pharmx Technologies Limited,PHX.XA,-42.26,0.409,1.283,No
+1896,BrainChip Holdings Ltd,BRN.AX,-34.39,0.315,1.019,Yes
+1897,AMA Group Limited,AMA.XA,-45.03,0.443,1.852,Yes
+1898,Clinuvel Pharmaceuticals Limited,CUV.XA,-31.76,0.285,0.911,No
+1899,Perennial Better Future Fund,IMPQ.AX,-15.13,0.123,0.733,Yes
+1900,Adore Beauty Group Limited,ABY.XA,-63.88,0.739,0.686,No
+1901,Amotiv Limited,AOV.AX,-24.67,0.212,0.798,Yes
+1902,Nexalis Therapeutics Limited,NX1.AX,-61.23,0.688,2.737,Yes
+1903,Arovella Therapeutics Limited,ALA.AX,-34.33,0.312,1.371,Yes
+1904,"Life360, Inc.",360.XA,-58.24,0.634,1.662,Yes
+1905,The Environmental Group Limited,EGL.AX,-58.12,0.63,1.385,Yes
+1906,KMD Brands Limited,KMD.AX,-56.31,0.6,0.951,Yes
+1907,Atlas Pearls Limited,ATP.AX,-47.19,0.465,0.021,Yes
+1908,Touch Ventures Limited,TVL.AX,-27.83,0.24,1.05,Yes
+1909,WestStar Industrial Limited,WSI.AX,-31.41,0.277,2.157,Yes
+1910,LDR Capital Property Fund,LED.AX,-32.56,0.289,0.186,No
+1911,MoneyMe Limited,MME.XA,-35.53,0.321,1.451,Yes
+1912,St George Mining Limited,SGQ.XA,-44.63,0.429,1.362,Yes
+1913,Autosports Group Limited,ASG.AX,-50.98,0.512,0.922,Yes
+1914,Micro-X Limited,MX1.AX,-62.2,0.691,1.666,Yes
+1915,Tlou Energy Limited,TOU.AX,-67.74,0.799,0.578,No
+1916,Octava Minerals Limited,OCT.AX,-64.31,0.73,4.241,Yes
+1917,TruScreen Group Limited,TRU.AX,-29.48,0.254,0.041,No
+1918,Artemis Resources Limited,ARV.AX,-53.14,0.542,0.965,Yes
+1919,Vulcan Energy Resources Limited,VUL.XA,-51.66,0.52,0.902,Yes
+1920,Autosports Group Limited,ASG.XA,-51.21,0.513,0.912,Yes
+1921,Tissue Repair Ltd,TRP.AX,-63.81,0.717,0.537,Yes
+1922,Clinuvel Pharmaceuticals Limited,CUV.AX,-31.93,0.278,0.914,No
+1923,Azzuro Resources PLC,AZ9.AX,-59.4,0.636,3.591,Yes
+1924,Anatara Lifesciences Ltd,ANR.AX,-42.43,0.394,1.33,Yes
+1925,FirstWave Cloud Technology Limited,FCT.XA,-63.95,0.714,0.448,No
+1926,Stockland,SGP.AX,-25.15,0.208,1.139,Yes
+1927,Legacy Minerals Holdings Limited,LGM.XA,-55.31,0.567,2.706,Yes
+1928,WAM Microcap Limited,WMI.XA,-17.02,0.135,0.784,Yes
+1929,Strike Resources Limited,SRK.XA,-49.91,0.488,4.715,Yes
+1930,Peak Processing Limited,PKP.XA,-29.05,0.246,2.917,No
+1931,SenSen Networks Limited,SNS.XA,-68.84,0.807,0.293,Yes
+1932,Stockland,SGP.XA,-25.32,0.21,1.123,Yes
+1933,Grange Resources Limited,GRR.XA,-39.76,0.36,1.161,Yes
+1934,Mammoth Minerals Limited,M79.XA,-84.97,1.267,3.916,Yes
+1935,Serko Limited,SKO.AX,-44.98,0.421,0.521,No
+1936,Grange Resources Limited,GRR.AX,-40.42,0.364,1.115,Yes
+1937,"Life360, Inc.",360.AX,-58.68,0.611,1.716,Yes
+1938,Lendlease Group,LLC.XA,-42.39,0.386,1.327,Yes
+1939,GCM Corporation Limited,GCM.AX,-63.22,0.687,3.705,Yes
+1940,icetana Limited,ICE.AX,-48.48,0.461,1.719,No
+1941,CD Private Equity Fund I,CD1.AX,-33.85,0.29,0.463,Yes
+1942,Microequities Asset Management Group Limited,MAM.AX,-31.74,0.268,0.52,Yes
+1943,Harmoney Corp Limited,HMY.XA,-28.77,0.237,1.172,Yes
+1944,Sandon Capital Investments Limited,SNC.XA,-18.78,0.146,0.389,Yes
+1945,Teaminvest Private Group Limited,TIP.AX,-29.27,0.241,1.081,Yes
+1946,Legacy Iron Ore Limited,LCY.XA,-28.68,0.236,1.833,Yes
+1947,Minerals Exploration Limited,MEX.AX,-62.88,0.672,1.202,Yes
+1948,Cynata Therapeutics Limited,CYP.XA,-88.65,1.405,2.543,No
+1949,Metallium Limited,MTM.XA,-62.35,0.662,0.392,Yes
+1950,Lendlease Group,LLC.AX,-42.7,0.382,1.304,Yes
+1951,Black Horse Mining Limited,BHL.AX,-58.12,0.589,2.097,Yes
+1952,CONNEQT Health Limited,CQT.XA,-63.47,0.676,5.615,No
+1953,Lotus Resources Limited,LOT.XA,-76.55,0.953,3.075,Yes
+1954,HighCom Limited,HCL.XA,-53.71,0.52,0.039,Yes
+1955,Micro-X Limited,MX1.XA,-63.23,0.665,1.247,Yes
+1956,Vantage Metals Limited,VAN.AX,-52.98,0.506,0.115,No
+1957,Zimi Limited,ZMM.AX,-65.25,0.699,1.73,Yes
+1958,Enova Mining Limited,ENV.AX,-63.69,0.671,1.226,No
+1959,Ryman Healthcare Limited,RYM.AX,-32.81,0.269,0.583,Yes
+1960,Conrad Asia Energy Ltd.,CRD.XA,-36.29,0.302,0.128,Yes
+1961,American Uranium Limited,AMU.AX,-64.21,0.671,1.199,Yes
+1962,Sandon Capital Investments Limited,SNC.AX,-20.43,0.153,0.455,Yes
+1963,Galilee Energy Limited,GLL.AX,-56.89,0.55,1.866,No
+1964,Earlypay Limited,EPY.AX,-34.84,0.285,0.409,No
+1965,Lode Resources Ltd,LDR.XA,-54.94,0.522,1.295,Yes
+1966,Mirrabooka Investments Limited,MIR.XA,-19.53,0.145,0.589,Yes
+1967,Veris Limited,VRS.AX,-36.34,0.297,1.183,Yes
+1968,Rimfire Pacific Mining Limited,RIM.AX,-39.86,0.334,0.862,Yes
+1969,Iress Limited,IRE.XA,-32.55,0.257,0.189,No
+1970,ECP Emerging Growth Limited,ECP.AX,-37.77,0.309,0.282,Yes
+1971,Vital Metals Limited,VML.AX,-51.34,0.461,1.879,Yes
+1972,The Calmer Co International Limited,CCO.AX,-65.77,0.672,0.753,Yes
+1973,Ariadne Australia Limited,ARA.XA,-17.67,0.125,,
+1974,Plenti Group Limited,PLT.XA,-45.07,0.379,1.018,Yes
+1975,NobleOak Life Limited,NOL.AX,-20.38,0.146,0.812,Yes
+1976,Little Green Pharma Ltd,LGP.AX,-48.78,0.421,0.443,Yes
+1977,Iress Limited,IRE.AX,-33.2,0.256,0.228,No
+1978,Austal Limited,ASB.XA,-45.34,0.381,0.45,No
+1979,Nanosonics Limited,NAN.AX,-34.84,0.272,1.454,No
+1980,SPC Global Holdings Ltd,SPG.AX,-74.84,0.842,0.751,Yes
+1981,Grand Gulf Energy Limited,GGE.XA,-71.76,0.775,0.923,No
+1982,Bhagwan Marine Limited,BWN.XA,-44.35,0.368,1.617,Yes
+1983,Peak Processing Limited,PKP.AX,-34.39,0.266,0.275,No
+1984,Minerals Exploration Limited,MEX.XA,-68.59,0.707,1.593,Yes
+1985,Fiducian Group Ltd,FID.XA,-29.52,0.221,0.72,Yes
+1986,WiseTech Global Limited,WTC.AX,-53.31,0.471,0.924,Yes
+1987,Fiducian Group Ltd,FID.AX,-28.67,0.213,0.605,Yes
+1988,SiteMinder Limited,SDR.AX,-56.09,0.508,0.403,Yes
+1989,Tartana Minerals Limited,TAT.XA,-33.84,0.259,5.488,Yes
+1990,Nanosonics Limited,NAN.XA,-34.3,0.263,1.607,No
+1991,Mont Royal Resources Limited,MRZ.AX,-68.77,0.706,1.034,Yes
+1992,Mirrabooka Investments Limited,MIR.AX,-20.25,0.143,0.529,Yes
+1993,LGI Limited,LGI.AX,-39.66,0.315,0.121,Yes
+1994,SRJ Technologies Group Plc,SRJ.AX,-63.49,0.615,0.984,Yes
+1995,Yari Resources Ltd,YAR.AX,-53.27,0.467,0.008,No
+1996,BrainChip Holdings Ltd,BRN.XA,-32.91,0.249,0.25,No
+1997,RPM Automotive Group Limited,RPM.XA,-66.99,0.67,1.331,No
+1998,Evergold Minerals Limited,EG1.XA,-52.83,0.46,1.037,No
+1999,Doctor Care Anywhere Group PLC,DOC.XA,-53.67,0.471,2.484,Yes
+2000,Austal Limited,ASB.AX,-45.66,0.375,0.449,No
+2001,Lotus Resources Limited,LOT.AX,-84.02,1.072,1.995,Yes
+2002,Kinatico Ltd,KYP.AX,-55.46,0.492,1.053,Yes
+2003,Albion Resources Limited,ALB.XA,-34.0,0.256,2.897,Yes
+2004,Bhagwan Marine Limited,BWN.AX,-44.87,0.364,1.589,Yes
+2005,Foresta Group Holding Limited,FGH.AX,-65.7,0.641,1.106,No
+2006,HighCom Limited,HCL.AX,-55.75,0.492,0.053,Yes
+2007,Superior Resources Limited,SPQ.AX,-59.84,0.548,0.797,No
+2008,Kingston Resources Limited,KSN.AX,-68.91,0.694,1.767,Yes
+2009,COSOL Limited,COS.AX,-63.63,0.604,1.937,Yes
+2010,City Chic Collective Limited,CCX.XA,-69.72,0.707,1.237,Yes
+2011,Alfabs Australia Limited,AAL.XA,-67.87,0.672,0.953,No
+2012,Novatti Group Limited,NOV.XA,-27.89,0.2,0.935,No
+2013,Plenti Group Limited,PLT.AX,-44.89,0.359,1.006,Yes
+2014,Nanoveu Limited,NVU.XA,-41.87,0.327,1.849,Yes
+2015,WiseTech Global Limited,WTC.XA,-53.93,0.462,0.823,Yes
+2016,Baby Bunting Group Limited,BBN.AX,-57.72,0.511,1.396,Yes
+2017,Yandal Resources Limited,YRL.AX,-44.94,0.357,1.013,Yes
+2018,Eclipse Metals Limited,EPM.AX,-49.04,0.401,0.341,No
+2019,SiteMinder Limited,SDR.XA,-56.58,0.493,0.34,Yes
+2020,Australian Critical Minerals Limited,ACM.XA,-70.21,0.704,3.233,Yes
+2021,Andromeda Metals Limited,ADN.AX,-56.67,0.492,2.342,Yes
+2022,Australian Dairy Nutritionals Limited,AHF.XA,-51.36,0.426,1.277,No
+2023,Baby Bunting Group Limited,BBN.XA,-57.9,0.504,1.442,Yes
+2024,Yari Resources Ltd,YAR.XA,-49.64,0.402,0.546,No
+2025,Paragon Care Limited,PGC.AX,-49.84,0.405,0.556,No
+2026,JB Hi-Fi Limited,JBH.AX,-39.81,0.3,1.057,Yes
+2027,OMG Group Limited,OMG.XA,-42.58,0.327,1.184,Yes
+2028,Synlait Milk Limited,SM1.AX,-50.39,0.41,1.635,No
+2029,Kingston Resources Limited,KSN.XA,-69.72,0.684,1.804,Yes
+2030,AVA Risk Group Limited,AVA.XA,-62.69,0.569,0.665,No
+2031,JB Hi-Fi Limited,JBH.XA,-39.52,0.295,1.048,Yes
+2032,Aurora Energy Metals Limited,1AE.XA,-77.99,0.85,1.559,Yes
+2033,Bubs Australia Limited,BUB.XA,-40.76,0.306,1.441,Yes
+2034,Australian Finance Group Limited,AFG.AX,-39.1,0.289,0.517,No
+2035,Albright Metals Ltd,ABR.XA,-60.36,0.53,1.192,No
+2036,KTEK Aerosystems Ltd,KTK.AX,-76.78,0.817,26.657,No
+2037,Eagle Mountain Mining Limited,EM2.XA,-65.44,0.603,1.885,No
+2038,Adherium Limited,ADR.XA,-95.14,1.581,,
+2039,Kuniko Limited,KNI.AX,-58.22,0.497,0.834,Yes
+2040,Yandal Resources Limited,YRL.XA,-47.19,0.367,0.868,Yes
+2041,Helios Energy Limited,HE8.AX,-76.37,0.801,0.221,Yes
+2042,Sunstone Metals Limited,STM.AX,-67.9,0.637,1.964,Yes
+2043,Orthocell Limited,OCC.AX,-45.68,0.347,1.628,Yes
+2044,Global Health Limited,GLH.AX,-38.39,0.276,0.777,Yes
+2045,Australian Finance Group Limited,AFG.XA,-38.82,0.278,0.5,No
+2046,Nido Education Limited,NDO.AX,-56.35,0.463,0.021,No
+2047,Bubs Australia Limited,BUB.AX,-41.26,0.3,1.024,Yes
+2048,GCM Corporation Limited,GCM.XA,-66.16,0.592,2.349,Yes
+2049,Xero Limited,XRO.AX,-47.34,0.353,0.753,Yes
+2050,Marvel Gold Limited,MVL.XA,-63.88,0.551,2.003,No
+2051,Memphasys Limited,MEM.XA,-64.1,0.554,3.945,Yes
+2052,Sequoia Financial Group Limited,SEQ.AX,-66.66,0.592,1.511,Yes
+2053,High-Tech Metals Limited,HTM.XA,-43.08,0.311,0.788,Yes
+2054,TalonX Resources Limited,TXR.XA,-67.73,0.609,1.526,Yes
+2055,Spenda Limited,SPX.AX,-92.2,1.292,1.669,Yes
+2056,Sarama Resources Ltd,SRR.XA,-43.81,0.316,0.76,No
+2057,Dubber Corporation Limited,DUB.XA,-57.16,0.458,0.369,Yes
+2058,H2G Limited,H2G.XA,-70.33,0.646,7.562,No
+2059,Australian Dairy Nutritionals Limited,AHF.AX,-53.01,0.409,1.479,No
+2060,RAM Essential Services Property Fund,REP.XA,-31.41,0.207,0.94,Yes
+2061,KTEK Aerosystems Ltd,KTK.XA,-76.89,0.768,24.934,No
+2062,RAM Essential Services Property Fund,REP.AX,-30.91,0.201,0.634,Yes
+2063,dorsaVi Ltd,DVL.XA,-69.03,0.617,0.935,No
+2064,Xero Limited,XRO.XA,-47.6,0.347,0.775,Yes
+2065,Charter Hall Social Infrastructure REIT,CQE.XA,-27.61,0.175,0.688,Yes
+2066,Daly Resources Ltd,DLY.AX,-63.57,0.531,,
+2067,Jindalee Lithium Limited,JLL.XA,-54.57,0.418,1.005,Yes
+2068,Vantage Metals Limited,VAN.XA,-61.69,0.504,0.159,No
+2069,"Saluda Medical, Inc.",SLD.AX,-75.34,0.72,0.647,Yes
+2070,CurveBeam AI Limited,CVB.XA,-79.18,0.801,2.757,Yes
+2071,ENLITIC CDIDEFSET [ENLDB],ENLDB.AX,-81.03,0.844,1.494,No
+2072,"Enlitic, Inc.",ENL.AX,-81.03,0.844,1.494,No
+2073,Air New Zealand Limited,AIZ.XA,-38.71,0.26,1.587,Yes
+2074,Gibb River Diamonds Limited,GIB.AX,-45.95,0.324,1.041,No
+2075,Bulletin Resources Limited,BNR.AX,-48.32,0.346,1.772,Yes
+2076,Atturra Limited,ATA.AX,-48.58,0.348,1.156,No
+2077,Iceni Gold Limited,ICL.AX,-63.57,0.52,0.999,Yes
+2078,Dreadnought Resources Limited,DRE.XA,-61.69,0.494,2.796,Yes
+2079,Artemis Resources Limited,ARV.XA,-65.43,0.544,0.05,No
+2080,Orthocell Limited,OCC.XA,-48.93,0.35,1.736,Yes
+2081,EVE Health Group Limited,EVE.XA,-49.43,0.355,1.498,No
+2082,Nido Education Limited,NDO.XA,-51.58,0.376,0.339,Yes
+2083,Paragon Care Limited,PGC.XA,-50.5,0.365,0.851,No
+2084,AXP Energy Limited,AXP.AX,-78.17,0.756,1.497,No
+2085,Magnetite Mines Limited,MGT.AX,-67.3,0.564,1.644,Yes
+2086,Airtasker Limited,ART.AX,-47.15,0.328,0.051,Yes
+2087,Andromeda Metals Limited,ADN.XA,-59.02,0.454,1.719,Yes
+2088,Iceni Gold Limited,ICL.XA,-70.97,0.619,17.696,No
+2089,Panther Metals Ltd,PNT.AX,-40.66,0.269,0.384,No
+2090,Marquee Resources Limited,MQR.AX,-62.43,0.495,0.928,Yes
+2091,BPH Energy Limited,BPH.XA,-75.64,0.701,0.219,No
+2092,ImpediMed Limited,IPD.XA,-74.93,0.686,4.706,No
+2093,EBOS Group Limited,EBO.AX,-30.39,0.187,0.032,Yes
+2094,EBOS Group Limited,EBO.XA,-29.42,0.18,0.076,Yes
+2095,Dreadnought Resources Limited,DRE.AX,-61.79,0.484,2.659,Yes
+2096,Antimony Resources Limited,EVR.XA,-68.62,0.579,1.153,Yes
+2097,Delorean Corporation Limited,DEL.AX,-45.73,0.31,0.129,Yes
+2098,AMCIL Limited,AMH.XA,-22.1,0.129,0.079,Yes
+2099,Veris Limited,VRS.XA,-29.47,0.179,0.756,No
+2100,Kinatico Ltd,KYP.XA,-56.95,0.423,0.748,Yes
+2101,Savannah Goldfields Limited,SVG.AX,-60.69,0.466,1.612,Yes
+2102,Percheron Therapeutics Limited,PER.XA,-71.46,0.617,0.265,No
+2103,Strike Resources Limited,SRK.AX,-57.35,0.424,2.295,Yes
+2104,Hawsons Iron Limited,HIO.AX,-54.3,0.391,1.039,No
+2105,Temas Resources Corp.,TIO.AX,-63.45,0.497,0.33,No
+2106,Air New Zealand Limited,AIZ.AX,-39.12,0.25,1.353,Yes
+2107,Vintage Energy Limited,VEN.AX,-68.18,0.56,0.41,No
+2108,Magnetite Mines Limited,MGT.XA,-67.22,0.545,1.687,Yes
+2109,McLaren Minerals Limited,MML.XA,-63.05,0.488,3.473,Yes
+2110,Cosmo Metals Limited,CMO.AX,-72.4,0.622,2.305,Yes
+2111,Novatti Group Limited,NOV.AX,-56.48,0.408,0.476,Yes
+2112,Airtasker Limited,ART.XA,-49.61,0.338,0.036,Yes
+2113,Tyranna Resources Limited,TYX.AX,-49.96,0.339,0.048,Yes
+2114,PEXA Group Limited,PXA.XA,-53.14,0.368,0.615,No
+2115,McPherson's Limited,MCP.AX,-49.38,0.331,0.374,Yes
+2116,Singular Health Group Ltd,SHG.XA,-33.81,0.203,0.216,Yes
+2117,Tyranna Resources Limited,TYX.XA,-56.3,0.4,2.979,Yes
+2118,SEEK Limited,SEK.XA,-48.22,0.319,0.698,Yes
+2119,SEEK Limited,SEK.AX,-47.93,0.316,0.693,Yes
+2120,Complii FinTech Solutions Ltd,CF1.XA,-45.48,0.294,2.666,No
+2121,Neurizon Therapeutics Limited,NUZ.AX,-54.96,0.384,1.814,Yes
+2122,Savannah Goldfields Limited,SVG.XA,-61.1,0.45,0.943,Yes
+2123,Charter Hall Social Infrastructure REIT,CQE.AX,-28.0,0.161,0.579,Yes
+2124,Agrimin Limited,AMN.XA,-59.83,0.434,6.342,Yes
+2125,Clime Investment Management Limited,CIW.AX,-29.06,0.166,0.738,Yes
+2126,Clever Culture Systems Limited,CC5.AX,-56.29,0.391,0.785,Yes
+2127,Argent BioPharma Limited,RGT.AX,-63.5,0.472,2.028,Yes
+2128,CurveBeam AI Limited,CVB.AX,-79.67,0.728,2.237,Yes
+2129,Australian Vintage Ltd,AVG.XA,-63.9,0.476,0.083,Yes
+2130,Hydrix Limited,HYD.XA,-90.49,1.041,2.622,Yes
+2131,PEXA Group Limited,PXA.AX,-53.27,0.359,0.6,No
+2132,Red Mountain Mining Limited,RMX.XA,-66.05,0.502,1.938,Yes
+2133,Tissue Repair Ltd,TRP.XA,-81.28,0.758,0.122,No
+2134,SomnoMed Limited,SOM.AX,-55.87,0.382,0.444,Yes
+2135,Invion Limited,IVX.AX,-63.99,0.472,0.966,Yes
+2136,Neurizon Therapeutics Limited,NUZ.XA,-56.75,0.389,1.485,Yes
+2137,NAOS Small Cap Opportunities Company Limited,NSC.XA,-23.93,0.13,1.042,Yes
+2138,Atomo Diagnostics Limited,AT1.XA,-63.11,0.458,1.626,Yes
+2139,DGL Group Limited,DGL.AX,-48.82,0.312,0.743,No
+2140,Jameson Resources Limited,JAL.AX,-60.78,0.431,0.537,Yes
+2141,Indiana Resources Limited,IDA.AX,-56.64,0.384,1.793,Yes
+2142,Spectur Limited,SP3.AX,-67.74,0.51,0.146,No
+2143,Sarytogan Graphite Limited,SGA.XA,-55.08,0.366,,
+2144,Kelly Partners Group Holdings Limited,KPG.AX,-54.95,0.364,1.533,Yes
+2145,NOVONIX Limited,NVX.AX,-73.92,0.598,1.641,Yes
+2146,Generation Development Group Limited,GDG.XA,-54.51,0.357,0.291,Yes
+2147,NOVONIX Limited,NVX.XA,-74.15,0.598,2.017,Yes
+2148,NGX Limited,NGX.AX,-49.85,0.313,1.082,Yes
+2149,Generation Development Group Limited,GDG.AX,-54.54,0.356,0.289,Yes
+2150,American Uranium Limited,AMU.XA,-75.6,0.619,0.963,Yes
+2151,Hansen Technologies Limited,HSN.AX,-41.29,0.242,0.296,Yes
+2152,McPherson's Limited,MCP.XA,-65.22,0.468,26.416,No
+2153,Webjet Group Limited,WJL.AX,-55.68,0.362,1.35,No
+2154,Hansen Technologies Limited,HSN.XA,-41.31,0.24,0.397,Yes
+2155,Livium Ltd,LIT.XA,-57.82,0.383,1.451,Yes
+2156,Imagion Biosystems Limited,IBX.AX,-75.76,0.615,0.302,Yes
+2157,Canyon Resources Limited,CAY.AX,-77.22,0.638,1.36,Yes
+2158,NobleOak Life Limited,NOL.XA,-24.07,0.124,0.639,Yes
+2159,Marimaca Copper Corp.,MC2.XA,-74.21,0.586,,
+2160,Harvey Norman Holdings Limited,HVN.XA,-39.48,0.224,0.672,Yes
+2161,Chariot Resources Ltd,CC9.XA,-75.15,0.6,1.372,Yes
+2162,Abacus Group,ABG.AX,-24.68,0.128,0.139,Yes
+2163,Imugene Limited,IMU.AX,-75.67,0.605,1.993,Yes
+2164,VRX Silica Limited,VRX.AX,-66.16,0.47,1.538,Yes
+2165,Harvey Norman Holdings Limited,HVN.AX,-40.24,0.228,0.662,Yes
+2166,Kelly Partners Group Holdings Limited,KPG.XA,-55.65,0.355,1.557,Yes
+2167,Genetic Signatures Limited,GSS.XA,-79.47,0.666,0.167,No
+2168,Strategic Elements Ltd,SOR.XA,-54.85,0.345,1.437,Yes
+2169,WhiteHawk Limited,WHK.AX,-69.76,0.51,1.153,Yes
+2170,WIN Metals Ltd,WIN.XA,-67.77,0.482,0.56,Yes
+2171,State Gas Limited,GAS.AX,-60.04,0.394,1.934,No
+2172,CleanSpace Holdings Limited,CSX.AX,-45.04,0.26,1.193,Yes
+2173,archTIS Limited,AR9.AX,-68.98,0.493,0.932,Yes
+2174,Castle Minerals Limited,CDT.XA,-65.74,0.453,1.719,Yes
+2175,Imagion Biosystems Limited,IBX.XA,-76.13,0.595,0.304,Yes
+2176,Epiminder Limited,EPI.AX,-76.64,0.6,2.592,Yes
+2177,Webjet Group Limited,WJL.XA,-55.38,0.342,1.289,No
+2178,Bubalus Resources Limited,BUS.AX,-54.75,0.335,0.817,Yes
+2179,Bathurst Resources Limited,BRL.AX,-43.9,0.246,0.425,Yes
+2180,QEM Limited,QEM.XA,-81.64,0.688,0.213,No
+2181,Chimeric Therapeutics Limited,CHM.AX,-92.96,1.035,5.502,No
+2182,Canyon Resources Limited,CAY.XA,-77.99,0.617,1.024,Yes
+2183,Imugene Limited,IMU.XA,-75.84,0.579,1.744,Yes
+2184,Centuria Office REIT,COF.AX,-22.06,0.107,0.133,Yes
+2185,Koonenberry Gold Limited,KNB.XA,-62.9,0.411,0.597,Yes
+2186,Anson Resources Limited,ASN.AX,-52.85,0.314,1.694,Yes
+2187,Vanadium Resources Limited,VR8.XA,-80.69,0.662,3.732,Yes
+2188,Advanced Engineered Materials Ltd,AEM.XA,-49.25,0.283,0.331,No
+2189,Global Masters Fund Limited,GFL.AX,-25.01,0.121,0.505,Yes
+2190,Cosmo Metals Limited,CMO.XA,-87.5,0.806,2.482,Yes
+2191,Propel Funeral Partners Limited,PFP.AX,-35.51,0.181,0.229,Yes
+2192,Orbminco Limited,OB1.AX,-44.74,0.243,0.811,Yes
+2193,CleanSpace Holdings Limited,CSX.XA,-27.6,0.133,1.132,Yes
+2194,Schoolblazer Limited,SBZ.XA,-23.84,0.112,0.325,Yes
+2195,Propel Funeral Partners Limited,PFP.XA,-35.8,0.181,0.207,Yes
+2196,IDP Education Limited,IEL.AX,-72.24,0.502,0.173,No
+2197,Infotrust Ltd,ITS.AX,-59.37,0.356,2.364,No
+2198,IDP Education Limited,IEL.XA,-72.18,0.496,0.077,No
+2199,Athena Resources Limited,AHN.XA,-88.78,0.816,,
+2200,QX Resources Limited,QXR.XA,-79.86,0.612,,
+2201,Iron Road Limited,IRD.XA,-82.78,0.668,,
+2202,Metgasco Limited,MEL.XA,-37.54,0.188,,
+2203,Santa Fe Minerals Limited,SFM.XA,-38.49,0.194,,
+2204,Murray Cod Australia Limited,MCA.AX,-83.54,0.682,2.456,No
+2205,Abacus Group,ABG.XA,-24.92,0.115,0.048,No
+2206,Ambertech Limited,AMO.AX,-65.71,0.416,2.39,No
+2207,ARB Corporation Limited,ARB.XA,-49.79,0.271,1.205,Yes
+2208,Centuria Office REIT,COF.XA,-22.79,0.103,0.131,Yes
+2209,Novo Resources Corp.,NVO.XA,-84.42,0.69,2.493,Yes
+2210,ARB Corporation Limited,ARB.AX,-50.02,0.265,1.23,Yes
+2211,Ovanti Limited,OVT.AX,-97.56,1.256,3.8,No
+2212,H3 Energy Limited,H3E.XA,-80.8,0.606,6.736,Yes
+2213,Flagship Investments Limited,FSI.AX,-38.73,0.188,1.136,Yes
+2214,Epiminder Limited,EPI.XA,-78.36,0.563,2.452,Yes
+2215,Beamtree Holdings Limited,BMT.XA,-62.86,0.371,3.58,No
+2216,Ovanti Limited,OVT.XA,-97.73,1.263,3.407,No
+2217,Swoop Holdings Limited,SWP.XA,-74.49,0.5,0.526,No
+2218,Kuniko Limited,KNI.XA,-71.73,0.462,0.347,Yes
+2219,Altitude Minerals Ltd,ATT.XA,-63.92,0.374,3.903,Yes
+2220,Altitude Minerals Ltd,ATT.AX,-78.3,0.543,2.559,Yes
+2221,Vitura Health Limited,VIT.AX,-63.77,0.367,0.122,No
+2222,Arovella Therapeutics Limited,ALA.XA,-40.17,0.189,0.965,Yes
+2223,NeuroScientific Biopharmaceuticals Limited,NSB.XA,-82.53,0.606,0.925,No
+2224,Advanced Engineered Materials Ltd,AEM.AX,-49.72,0.248,0.292,No
+2225,"Saluda Medical, Inc.",SLD.XA,-78.41,0.529,1.232,Yes
+2226,Trajan Group Holdings Limited,TRJ.AX,-73.65,0.463,1.747,Yes
+2227,D3 Energy Limited,D3E.XA,-40.49,0.186,3.202,Yes
+2228,Kaili Resources Limited,KLR.AX,-69.0,0.404,0.512,Yes
+2229,archTIS Limited,AR9.XA,-70.97,0.425,0.902,Yes
+2230,Murray Cod Australia Limited,MCA.XA,-83.41,0.601,7.071,No
+2231,Vinyl Group Ltd,VNL.AX,-58.56,0.305,0.182,No
+2232,Narryer Metals Limited,NYM.XA,-59.29,0.31,3.557,Yes
+2233,K2 Asset Management Holdings Ltd,KAM.AX,-47.29,0.221,0.541,Yes
+2234,Trajan Group Holdings Limited,TRJ.XA,-78.77,0.511,2.023,Yes
+2235,Resources & Energy Group Limited,REZ.XA,-71.97,0.424,1.049,Yes
+2236,ImpediMed Limited,IPD.AX,-85.25,0.618,1.079,No
+2237,Riedel Resources Limited,RIE.XA,-89.07,0.704,3.857,Yes
+2238,VRX Silica Limited,VRX.XA,-66.96,0.368,1.594,Yes
+2239,G8 Education Limited,GEM.AX,-83.02,0.556,0.293,Yes
+2240,Moab Minerals Limited,MOM.XA,-76.12,0.456,1.478,No
+2241,Bounty Oil & Gas NL,BUY.XA,-68.45,0.37,1.581,No
+2242,Temple & Webster Group Ltd,TPW.AX,-79.04,0.49,0.209,Yes
+2243,Peter Warren Automotive Holdings Limited,PWR.AX,-53.83,0.247,0.515,Yes
+2244,G8 Education Limited,GEM.XA,-83.85,0.558,0.426,Yes
+2245,Black Pearl Group Limited,BPG.AX,-75.28,0.434,0.515,Yes
+2246,Sequoia Financial Group Limited,SEQ.XA,-79.1,0.48,0.158,Yes
+2247,Botanix Pharmaceuticals Limited,BOT.AX,-86.67,0.605,0.198,No
+2248,Chimeric Therapeutics Limited,CHM.XA,-94.5,0.833,1.938,No
+2249,Temple & Webster Group Ltd,TPW.XA,-79.61,0.481,0.19,Yes
+2250,Ragnar Metals Limited,RAG.XA,-83.57,0.54,,
+2251,WIN Metals Ltd,WIN.AX,-68.91,0.356,0.389,Yes
+2252,Peter Warren Automotive Holdings Limited,PWR.XA,-53.8,0.238,0.348,Yes
+2253,Botanix Pharmaceuticals Limited,BOT.XA,-86.86,0.581,0.06,No
+2254,Red Mountain Mining Limited,RMX.AX,-72.29,0.372,0.986,Yes
+2255,Bulletin Resources Limited,BNR.XA,-71.41,0.358,4.157,No
+2256,Babylon Pump & Power Limited,BPP.AX,-68.41,0.33,1.733,No
+2257,Charger Metals NL,CHRCB.AX,-83.51,0.501,0.525,No
+2258,EML Payments Limited,EML.AX,-76.22,0.405,0.034,No
+2259,"EBR Systems, Inc.",EBR.AX,-76.5,0.405,0.461,Yes
+2260,EML Payments Limited,EML.XA,-76.69,0.407,0.016,No
+2261,COSOL Limited,COS.XA,-80.79,0.455,2.503,Yes
+2262,Altech Batteries Limited,ATC.AX,-94.85,0.767,0.529,Yes
+2263,Step One Clothing Limited,STP.AX,-76.59,0.397,0.206,Yes
+2264,Synlait Milk Limited,SM1.XA,-69.51,0.328,2.767,No
+2265,Mont Royal Resources Limited,MRZ.XA,-87.28,0.548,1.309,Yes
+2266,RPM Automotive Group Limited,RPM.AX,-80.4,0.436,0.439,Yes
+2267,Duxton Farms Limited,DBF.AX,-65.27,0.289,0.127,Yes
+2268,Indiana Resources Limited,IDA.XA,-71.57,0.325,1.449,Yes
+2269,The Koala Company Limited,KOA.XA,-56.83,0.219,6.498,No
+2270,Butn Limited,BTN.AX,-89.58,0.552,0.239,No
+2271,Altech Batteries Limited,ATC.XA,-95.77,0.744,0.322,Yes
+2272,Objective Corporation Limited,OCL.AX,-68.39,0.292,0.738,No
+2273,BlackWall Limited,BWF.AX,-67.26,0.28,0.637,Yes
+2274,"EBR Systems, Inc.",EBR.XA,-78.99,0.38,1.091,No
+2275,Objective Corporation Limited,OCL.XA,-68.99,0.286,0.622,No
+2276,Prominence Energy Ltd,PRM.XA,-96.54,0.742,2.009,Yes
+2277,Flynn Gold Limited,FG1.XA,-72.93,0.312,2.593,Yes
+2278,Enero Group Limited,EGG.XA,-68.95,0.28,0.812,Yes
+2279,Atturra Limited,ATA.XA,-68.91,0.278,0.801,No
+2280,Kore Potash plc,KP2.XA,-66.39,0.257,,
+2281,LDR Capital Property Fund,LED.XA,-42.83,0.134,4.348,No
+2282,Wellnex Life Limited,WNX.XA,-89.29,0.49,,
+2283,Adveritas Limited,AV1.AX,-59.86,0.206,0.265,No
+2284,Kinetiko Energy Limited,KKO.XA,-79.57,0.344,1.354,No
+2285,Enero Group Limited,EGG.AX,-67.41,0.242,0.745,Yes
+2286,Schoolblazer Limited,SBZ.AX,-37.48,0.104,0.219,No
+2287,Enova Mining Limited,ENV.XA,-91.65,0.501,1.452,Yes
+2288,Touch Ventures Limited,TVL.XA,-54.01,0.167,,
+2289,The Hydration Pharmaceuticals Company Limited,HPC.XA,-96.46,0.646,,
+2290,Step One Clothing Limited,STP.XA,-82.74,0.36,0.15,No
+2291,Reckon Limited,RKN.XA,-49.29,0.14,0.233,Yes
+2292,Bathurst Resources Limited,BRL.XA,-56.57,0.17,0.809,Yes
+2293,Lightning Minerals Ltd,L1M.XA,-93.77,0.517,3.102,Yes
+2294,Felix Group Holdings Ltd,FLX.AX,-83.31,0.34,1.662,Yes
+2295,Microequities Asset Management Group Limited,MAM.XA,-65.42,0.203,0.096,Yes
+2296,SKY Network Television Limited,SKT.XA,-24.02,0.053,0.224,No
+2297,Adveritas Limited,AV1.XA,-66.09,0.202,2.045,No
+2298,Duxton Farms Limited,DBF.XA,-72.71,0.239,0.11,Yes
+2299,Freelancer Limited,FLN.XA,-86.23,0.346,0.502,Yes
+2300,Bubalus Resources Limited,BUS.XA,-72.35,0.227,0.246,Yes
+2301,Pentanet Limited,5GG.XA,-78.97,0.269,0.931,Yes
+2302,Bio-Gene Technology Limited,BGT.XA,-95.57,0.472,7.17,Yes
+2303,Mercury NZ Limited,MCY.XA,-19.69,0.036,0.153,No
+2304,Barkly Rare Earths Limited,BAK.XA,-55.47,0.128,0.716,Yes
+2305,Kingsrose Mining Limited,KRM.XA,-71.04,0.185,0.32,No
+2306,Prophecy International Holdings Limited,PRO.AX,-76.04,0.211,0.19,No
+2307,Union Star Metals Ltd,USM.XA,-97.05,0.452,4.554,Yes
+2308,Megado Minerals Limited,MEG.XA,-60.9,0.127,2.64,Yes
+2309,Metal Hawk Limited,MHK.XA,-65.08,0.132,1.342,No
+2310,Firebrick Pharma Limited,FRE.XA,-95.54,0.329,,
+2311,Carlton Investments Ltd.,CIN.XA,-30.86,0.042,,
+2312,CGN Resources Limited,CGR.XA,-93.07,0.257,0.013,Yes
+2313,Ceryvyn Therapeutics Limited,CYV.XA,-88.09,0.184,,
+2314,Li-FT Power Ltd.,LFT.AX,-93.78,0.217,7.138,Yes
+2315,Green & Gold Minerals Limited,GG1.XA,-89.25,0.178,,
+2316,Li-FT Power Ltd.,LFT.XA,-93.65,0.212,6.975,Yes
+2317,Key Petroleum Limited,KEY.XA,-89.88,0.139,,
+2318,Volt Group Limited,VPR.XA,-61.46,0.058,,
+2319,Panther Metals Ltd,PNT.XA,-79.19,0.075,1.134,Yes
+2320,Reedy Lagoon Corporation Limited,RLC.XA,-91.2,0.082,,
+2321,Coppermoly Limited,COY.XA,-97.36,0.056,,
+2322,Mindax Limited,MDX.XA,-70.33,0.018,,
+2323,AXP Energy Limited,AXP.XA,-98.15,0.014,,
+2324,Thorney Technologies Ltd,TEK.XA,0.0,,,
+2325,Teaminvest Private Group Limited,TIP.XA,-42.14,,,
+2326,Titanium Sands Limited,TSL.XA,-71.76,,,
+2327,Urbanise.com Limited,UBN.XA,-60.57,,,
+2328,United Overseas Australia Ltd,UOS.XA,-23.95,,,
+2329,Venari Minerals NL,VMS.XA,-97.39,,,
+2330,Wiseway Group Limited,WWG.XA,100.54,,,
+2331,Xenora Minerals Limited,XRA.XA,-49.64,,,
+2332,Pioneer Minerals Limited,PMM.XA,-62.73,,,
+2333,Piche Resources Limited,PR2.XA,-61.73,,,
+2334,Raptor Metals Limited,RAP.XA,-78.15,,,
+2335,Resource Base Limited,RBX.XA,57.28,,,
+2336,Argent BioPharma Limited,RGT.XA,-96.17,,,
+2337,Ronin Resources Ltd,RON.XA,-59.82,,,
+2338,Sports Entertainment Group Limited,SEG.XA,-94.97,,,
+2339,Simonds Group Limited,SIO.XA,-32.53,,,
+2340,Myeco Group Ltd,MCO.XA,-99.23,,,
+2341,Macallum New Energy Limited,MNE.XA,-99.01,,,
+2342,Neu Horizon Uranium Limited,NHU.AX,-25.64,,,
+2343,Neu Horizon Uranium Limited,NHU.XA,-25.92,,,
+2344,Holista Colltech Limited,HCT.XA,-68.14,,,
+2345,InFocus Group Holdings Limited,IFG.XA,-97.81,,,
+2346,Industrial Minerals Ltd,IND.XA,-82.04,,,
+2347,Invex Therapeutics Ltd,IXC.XA,-42.78,,,
+2348,Jameson Resources Limited,JAL.XA,-69.01,,,
+2349,Kaoko Metals Limited,KAO.XA,-12.29,,,
+2350,Lion Energy Limited,LIO.XA,0.0,,,
+2351,Lux Copper Corp. Ltd,LUX.AX,71.85,,,
+2352,Lux Copper Corp. Ltd,LUX.XA,19.78,,,
+2353,Eastern Gas Corporation Limited,EGA.XA,-94.46,,,
+2354,Energy Metals Limited,EME.XA,-93.13,,,
+2355,Earlypay Limited,EPY.XA,60.1,,,
+2356,FFI Holdings Limited,FFI.XA,8.02,,,
+2357,State Gas Limited,GAS.XA,-35.36,,,
+2358,Gibb River Diamonds Limited,GIB.XA,-96.63,,,
+2359,Botala Energy Limited,BTE.XA,147.46,,,
+2360,BlackWall Limited,BWF.XA,-95.1,,,
+2361,Canterbury Resources Limited,CBY.XA,-90.69,,,
+2362,Constellation Resources Limited,CR1.XA,44.67,,,
+2363,Corporate Travel Management Limited,CTD.AX,0.0,0.0,0.0,No
+2364,AF Legal Group Limited,AFL.XA,0.0,,,
+2365,Ainsworth Game Technology Limited,AGI.XA,12.11,,,
+2366,Alurion Resources Limited,ALU.AX,-99.23,,,
+2367,Alurion Resources Limited,ALU.XA,-97.36,,,
+2368,"Aura Consolidated Group, Inc.",AXQ.AX,11.85,,,
+2369,"Aura Consolidated Group, Inc.",AXQ.XA,0.0,,,

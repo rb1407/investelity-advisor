@@ -1,0 +1,26 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,"Ciagest - Sic Imobiliaria Fechada, S.A.",MLCIA.LS,7.85,0.012,0.086,Yes
+2,"Banco Comercial Português, S.A.",BCP.LS,62.53,0.184,0.37,No
+3,"Sonae, SGPS, S.A.",SON.LS,63.48,0.187,0.856,Yes
+4,"NOS, S.G.P.S., S.A.",NOS.LS,48.53,0.235,0.946,Yes
+5,"Sporting Clube de Braga - Futebol, SAD",SCB.LS,82.29,0.367,0.162,No
+6,PSI 20,PSI20.LS,21.25,0.123,1.0,Yes
+7,"Galp Energia, SGPS, S.A.",GALP.LS,48.35,0.329,0.843,Yes
+8,"EDP Renewables, S.A.",EDPR.LS,27.69,0.205,1.242,Yes
+9,"Vista Alegre Atlantis, SGPS, S.A.",VAF.LS,6.5,0.053,0.163,Yes
+10,"Toyota Caetano Portugal, S.A.",SCT.LS,24.29,0.183,0.401,Yes
+11,"EDP, S.A.",EDP.LS,25.55,0.193,1.284,Yes
+12,"REN - Redes Energéticas Nacionais, SGPS, S.A.",RENE.LS,24.15,0.203,1.159,Yes
+13,"Farminveste, S.G.P.S., S.A.",MLFMV.LS,56.35,0.55,0.102,No
+14,"Semapa - Sociedade de Investimento e Gestão, SGPS, S.A.",SEM.LS,26.88,0.331,1.056,Yes
+15,"Ibersol, S.G.P.S., S.A.",IBS.LS,13.43,0.23,1.067,Yes
+16,"MERLIN Properties SOCIMI, S.A.",MRL.LS,15.48,0.318,1.686,Yes
+17,"Sporting Clube de Portugal - Futebol, SAD",SCP.LS,2.66,0.089,0.143,No
+18,"The Navigator Company, S.A.",NVG.LS,3.74,0.135,0.035,Yes
+19,"Corticeira Amorim, S.G.P.S., S.A.",COR.LS,4.01,0.154,0.386,Yes
+20,"CTT - Correios De Portugal, S.A.",CTT.LS,-4.32,0.263,0.987,Yes
+21,"Jerónimo Martins, SGPS, S.A.",JMT.LS,-8.48,0.241,1.643,Yes
+22,"Impresa - Sociedade Gestora de Participações Sociais, S.A.",IPR.LS,-15.1,0.374,0.591,Yes
+23,"Estoril Sol, SGPS, S.A.",ESON.LS,-23.04,0.423,1.597,Yes
+24,"Glintt Global, S.A.",GLINT.LS,-22.04,0.342,0.247,Yes
+25,"Ramada Investimentos e Industria, S.A.",RAM.LS,-4.14,0.058,0.282,Yes
