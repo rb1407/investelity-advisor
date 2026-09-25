@@ -3,6 +3,15 @@ import streamlit as st
 
 from core.app_common import disclaimer, page_setup, sample_data_banner
 from core.data_providers.universe import ASSET_BY_TICKER, esg_excluded_tickers
+from core.data_providers.investelity_universe import (
+    TOP_N,
+    asset_meta_for,
+    list_countries,
+    load_top_prices,
+    period_label,
+    top_assets,
+    universe_available,
+)
 from core.db import crud
 from core.db.session import get_session
 from core.market_data import load_prices
@@ -18,7 +27,22 @@ STRATEGY_LABELS = {
 consultant = page_setup("Portfolio Builder")
 st.title("Portfolio Builder")
 st.caption("Generate a MODEL recommendation — the target you'll compare actual holdings against on the Rebalancing page.")
-sample_data_banner()
+
+st.subheader("Universe")
+universe_options = ["Model ETFs"]
+if universe_available():
+    universe_options.append("Investelity Top Picks")
+universe_choice = st.radio(
+    "Build this recommendation from",
+    universe_options,
+    horizontal=True,
+    help=(
+        "**Model ETFs** — the curated 17-fund asset-allocation universe used elsewhere in this app. "
+        f"**Investelity Top Picks** — individual stocks/funds from the investelity pipeline's own "
+        f"Sharpe-ratio ranking, top {TOP_N} per country/bucket (kept small so the optimizer stays as "
+        "stable as it is on the ETF universe — see core/data_providers/investelity_universe.py)."
+    ),
+)
 
 db = get_session()
 try:
@@ -29,11 +53,50 @@ try:
 
     client = st.selectbox("Client", clients, format_func=lambda c: c.name)
 
-    prices, as_of = load_prices()
-
-    exclusions = set(client.excluded_tickers_list())
-    if client.esg_focus:
-        exclusions |= set(esg_excluded_tickers())
+    if universe_choice == "Investelity Top Picks":
+        col_period, col_country = st.columns(2)
+        with col_period:
+            inv_period = st.radio("Trailing period", ["3y", "1y"], horizontal=True, key="inv_period")
+        with col_country:
+            countries = list_countries(inv_period)
+            default_idx = next((i for i, (c, _) in enumerate(countries) if c == "us"), 0)
+            inv_code, inv_name = st.selectbox(
+                "Country / bucket", countries, index=default_idx, format_func=lambda p: p[1], key="inv_country",
+            )
+        prices = load_top_prices(inv_period, inv_code)
+        if prices.empty or prices.shape[1] < 2:
+            st.warning(
+                f"Not enough price history for {inv_name} ({inv_period}) to build a portfolio -- "
+                "pick another country or period."
+            )
+            st.stop()
+        as_of = (
+            f"Investelity pipeline — {period_label()}, top {prices.shape[1]} by Sharpe in "
+            f"{inv_name} ({inv_period} lookback)"
+        )
+        asset_meta = asset_meta_for(inv_period, inv_code)
+        # The ESG bucket in universe.py is a placeholder screen defined for the
+        # 17 model ETFs specifically (see its docstring) -- it doesn't apply to
+        # investelity's individual stocks, so only per-ticker exclusions carry
+        # over to this universe.
+        exclusions = set(client.excluded_tickers_list())
+        st.caption(f"Building from {prices.shape[1]} tickers in {inv_name} — {as_of}.")
+        st.warning(
+            "These tickers are investelity's own top performers **by trailing Sharpe ratio** over "
+            f"just the last {inv_period[0]} year{'s' if inv_period[0] != '1' else ''} of monthly prices. "
+            "Building a portfolio out of an already Sharpe-ranked shortlist means the return/Sharpe "
+            "numbers below will look unusually strong on paper — that's the ranking's selection bias "
+            "showing up, not a forecast of what these picks will do going forward. Treat this universe "
+            "as illustrative, and prefer the Model ETF universe for numbers you'd put in front of a client.",
+            icon="⚠️",
+        )
+    else:
+        sample_data_banner()
+        prices, as_of = load_prices()
+        asset_meta = ASSET_BY_TICKER
+        exclusions = set(client.excluded_tickers_list())
+        if client.esg_focus:
+            exclusions |= set(esg_excluded_tickers())
 
     with st.expander("Effective constraints for this client", expanded=False):
         st.write(f"**Risk tolerance:** {client.risk_tolerance.title()}")
@@ -92,18 +155,27 @@ try:
     )
     st.plotly_chart(fig, use_container_width=True)
 
+    # A real, diversified portfolio's Sharpe ratio essentially never holds
+    # above ~3-4 out of sample. Above that, the number is reflecting
+    # estimation noise (a short history) or, for the investelity universe,
+    # the fact that the tickers were themselves pre-selected by trailing
+    # Sharpe -- so it's flagged inline rather than presented at face value.
+    UNSTABLE_SHARPE = 5.0
+
     for r in results:
         st.markdown(f"### {r.strategy}")
         m1, m2, m3 = st.columns(3)
         m1.metric("Expected return", f"{r.expected_return:.1%}")
         m2.metric("Expected risk", f"{r.expected_risk:.1%}")
         m3.metric("Sharpe ratio", f"{r.sharpe_ratio:.2f}")
+        if r.sharpe_ratio > UNSTABLE_SHARPE:
+            m3.caption("⚠️ Unusually high — treat as an unstable estimate, not a forecast.")
 
         c1, c2 = st.columns([1, 1])
         with c1:
             table = r.as_table()
-            table["Asset class"] = table["Ticker"].map(lambda t: ASSET_BY_TICKER[t].asset_class)
-            table["Name"] = table["Ticker"].map(lambda t: ASSET_BY_TICKER[t].name)
+            table["Asset class"] = table["Ticker"].map(lambda t: asset_meta[t].asset_class)
+            table["Name"] = table["Ticker"].map(lambda t: asset_meta[t].name)
             table["Weight"] = table["Weight"].map(lambda w: f"{w:.1%}")
             st.dataframe(table[["Ticker", "Name", "Asset class", "Weight"]], use_container_width=True, hide_index=True)
         with c2:
@@ -115,7 +187,7 @@ try:
             label = st.text_input("Label for this recommendation", value=f"{r.strategy} — {client.name}", key=f"label_{r.strategy}")
             save = st.form_submit_button(f"Save this as {client.name}'s target")
         if save:
-            crud.save_portfolio(db, client.id, r, data_as_of=as_of, label=label, asset_meta=ASSET_BY_TICKER)
+            crud.save_portfolio(db, client.id, r, data_as_of=as_of, label=label, asset_meta=asset_meta)
             st.success("Saved — this becomes the target used on the Rebalancing page (most recent recommendation wins).")
 
 finally:

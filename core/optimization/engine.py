@@ -31,6 +31,36 @@ from scipy.optimize import linprog
 RISK_FREE_RATE = 0.02  # illustrative; make this configurable if it matters to you
 
 
+def _infer_frequency(index: pd.DatetimeIndex) -> int:
+    """Trading periods per year, inferred from the actual spacing between
+    price observations.
+
+    PyPortfolioOpt's mean_historical_return/CovarianceShrinkage default to
+    frequency=252 (daily trading days), which is correct for the ETF model
+    universe (yfinance daily closes) but silently wrong for any universe
+    priced at a coarser interval -- e.g. investelity's top-picks universe,
+    which is one row per MONTH. Left at 252, a real 5% monthly return gets
+    compounded as if it were a 5% *daily* return happening 252 times a year
+    (roughly (1.05)**252), which is exactly what was producing "Sharpe
+    ratio: 823,847"-style nonsense and empty efficient-frontier curves for
+    that universe. Inferring the frequency from the data itself means every
+    universe gets annualized correctly without every caller having to
+    remember to pass the right number.
+    """
+    if len(index) < 2:
+        return 252
+    median_days = float(np.median(np.diff(index.values).astype("timedelta64[D]").astype(float)))
+    if median_days <= 3:
+        return 252  # daily (weekends pull the average below 7)
+    if median_days <= 10:
+        return 52  # weekly
+    if median_days <= 45:
+        return 12  # monthly
+    if median_days <= 100:
+        return 4  # quarterly
+    return 1  # annual
+
+
 @dataclass
 class PortfolioResult:
     strategy: str
@@ -67,8 +97,9 @@ class PortfolioOptimizer:
         self.inputs = inputs
         prices = inputs.filtered_prices()
         self.tickers = list(prices.columns)
-        self.mu = expected_returns.mean_historical_return(prices)
-        self.S = risk_models.CovarianceShrinkage(prices).ledoit_wolf()
+        frequency = _infer_frequency(prices.index)
+        self.mu = expected_returns.mean_historical_return(prices, frequency=frequency)
+        self.S = risk_models.CovarianceShrinkage(prices, frequency=frequency).ledoit_wolf()
 
     def _clean(self, weights: dict[str, float]) -> dict[str, float]:
         return {t: round(float(w), 4) for t, w in weights.items() if w > 0.005}

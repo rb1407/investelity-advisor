@@ -7,7 +7,13 @@ from core.data_providers.universe import UNIVERSE
 from core.db import crud
 from core.db.session import get_session
 
-ASSET_CLASSES = sorted({a.asset_class for a in UNIVERSE}) + ["Unclassified"]
+# "Individual Equity" isn't one of the model ETFs' asset classes -- it's what
+# Portfolio Builder tags a position with when the target was built from
+# investelity's top-ranked stocks rather than the model ETF universe (see
+# core/data_providers/investelity_universe.py). It needs to be selectable
+# here too, or a client whose target uses that universe can never have a
+# matching Holdings entry for Rebalancing to compare against.
+ASSET_CLASSES = sorted({a.asset_class for a in UNIVERSE}) + ["Individual Equity", "Unclassified"]
 
 consultant = page_setup("Holdings")
 st.title("Holdings")
